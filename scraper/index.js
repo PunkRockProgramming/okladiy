@@ -24,6 +24,8 @@ import { scrape as scrapeNoiseTown }       from './scrapers/noisetown.js';
 import { scrape as scrapeVanguard }        from './scrapers/vanguard.js';
 import { scrape as scrapeMercuryLounge }   from './scrapers/mercurylounge.js';
 import { scrape as scrapeBeerCity }        from './scrapers/beercity.js';
+import { scrape as scrapeResonantHead }    from './scrapers/resonanthead.js';
+import { scrape as scrapeCriterion }       from './scrapers/criterion.js';
 
 const SCRAPERS = [
   // { name: 'noladiy', fn: scrapeNolaDIY },
@@ -36,6 +38,8 @@ const SCRAPERS = [
   { name: 'vanguard',       fn: scrapeVanguard },
   { name: 'mercurylounge',  fn: scrapeMercuryLounge },
   { name: 'beercity',       fn: scrapeBeerCity },
+  { name: 'resonanthead',   fn: scrapeResonantHead },
+  { name: 'criterion',      fn: scrapeCriterion },
 ];
 
 // ── Paths ─────────────────────────────────────────────────────────────────────

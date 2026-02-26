@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T20:42:00.694Z",
+  "lastUpdated": "2026-02-26T21:53:31.944Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -35,6 +35,30 @@
       "price": "$10–$28",
       "description": "Kitchen Dwellers, Cordovas",
       "eventUrl": "http://www.prekindle.com/event/42555-kitchen-dwellers-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Bad Bad Hats",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-02-26",
+      "time": null,
+      "price": "$20",
+      "description": "Bad Bad Hats, Margaux",
+      "eventUrl": "http://www.prekindle.com/event/65644-bad-bad-hats-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Excision",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-02-26",
+      "time": null,
+      "price": "$50–$175",
+      "description": "Excision, Ray Volpe, Dion Timmer, Sippy, Wiley",
+      "eventUrl": "http://www.prekindle.com/event/86953-excision-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -111,6 +135,18 @@
       "tags": []
     },
     {
+      "title": "Blue Tongue  /  Olivia Komahcheet  /  Bee Blue",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-02-27",
+      "time": null,
+      "price": "$12",
+      "description": "Blue Tongue, Olivia Komahcheet, Bee Blue",
+      "eventUrl": "http://www.prekindle.com/event/73848-blue-tongue-olivia-komahcheet-bee-blue-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "51 June",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -140,7 +176,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-02-28",
       "time": "8:00 PM",
-      "price": "$33.95",
+      "price": "$34",
       "description": "Last Dinosaurs, elmjack",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/last-dinosaurs-wellness-10yr-anniversary-tour-28-feb",
       "ageLimit": "ALL AGES",
@@ -167,6 +203,30 @@
       "price": "$15–$20",
       "description": "Wade Forster",
       "eventUrl": "http://www.prekindle.com/event/26911-wade-forster-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Old Blood Noise Endeavors Bands Showcase",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-02-28",
+      "time": null,
+      "price": "$10",
+      "description": "Brainwasher, Lust Online, Powdr, Bad Athlete, Holy Hells, Lazy Circles",
+      "eventUrl": "http://www.prekindle.com/event/67739-old-blood-noise-endeavors-band-showcase-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Los Angeles Azules: Cumbias Sin Fronteras US Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-02-28",
+      "time": null,
+      "price": "$50–$200",
+      "description": "Los Angeles Azules",
+      "eventUrl": "http://www.prekindle.com/event/43527-los-angeles-azules-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -231,6 +291,18 @@
       "tags": []
     },
     {
+      "title": "Descendents & Frank Turner & The Sleeping Souls",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-03-02",
+      "time": null,
+      "price": "$43–$130",
+      "description": "Descendents, Frank Turner & the Sleeping Souls, NOBRO",
+      "eventUrl": "http://www.prekindle.com/event/63145-descendents-and-frank-turner-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Jonah Kagen - Sunflowers & Leather Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -267,6 +339,18 @@
       "tags": []
     },
     {
+      "title": "Failure To Cope, Piehole, A Parting Gaze, Semester Abroad",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-04",
+      "time": null,
+      "price": "$12",
+      "description": "Failure To Cope, Piehole, A Parting Gaze, Semester Abroad",
+      "eventUrl": "http://www.prekindle.com/event/37541-failure-to-cope-piehole-a-parting-gaze-semester-abroad-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "All Them Witches - House of Mirrors Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -284,7 +368,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-03-05",
       "time": "7:00 PM",
-      "price": "$49.77",
+      "price": "$50",
       "description": "Dan Kelly, Cas Haley, Kevin Kinsella, Ike Kanakanui, John Matthew Landry",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/dan-kelly-the-anthem-tour-05-mar",
       "ageLimit": "ALL AGES",
@@ -299,6 +383,18 @@
       "price": "$8–$75",
       "description": "Clay Street Unit, Cris Jacobs",
       "eventUrl": "http://www.prekindle.com/event/79597-clay-street-unit-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "COTTAGE CHEMISTRY: A HEATED RIVALRY DANCE PARTY",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-05",
+      "time": null,
+      "price": "$15",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/15593-cottage-chemistry-a-heated-rivalry-dance-party-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -351,6 +447,18 @@
       "tags": []
     },
     {
+      "title": "Fanwave Artist Showcase",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-06",
+      "time": null,
+      "price": "$15",
+      "description": "Limp Wizurdz, Late Night Messages, Major Good, Visions of Afterlife",
+      "eventUrl": "http://www.prekindle.com/event/94323-fanwave-artist-showcase-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Snakehips: Always Forever Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -380,7 +488,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-03-07",
       "time": "8:00 PM",
-      "price": "$36.74",
+      "price": "$37",
       "description": "Tyler Farr, Blaine Bailey",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/tyler-farr-07-mar",
       "ageLimit": "ALL AGES",
@@ -411,6 +519,30 @@
       "tags": []
     },
     {
+      "title": "Singles Fest",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-07",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/98457-singles-fest-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Magenta Burn Album Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-07",
+      "time": null,
+      "price": "$7–$12",
+      "description": "Magenta Burn, Wet Muscles, Dule, ez4u2sey",
+      "eventUrl": "http://www.prekindle.com/event/25564-magenta-burn-album-release-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "A Killer's Confession",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -435,6 +567,18 @@
       "tags": []
     },
     {
+      "title": "Clover County",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-08",
+      "time": null,
+      "price": "$15",
+      "description": "Clover County, Ethansroom, Keyland",
+      "eventUrl": "http://www.prekindle.com/event/22832-clover-country-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Irae & Diatheke",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -444,6 +588,18 @@
       "description": "Irae & Diatheke\nwith Special Guests  Against the Dammed, Failure to Cope & Lamb Slaughter\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/iraediatheke/89thstreetokc/oklahomacity/32479/",
       "ageLimit": "All ages",
+      "tags": []
+    },
+    {
+      "title": "Taraneh",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-09",
+      "time": null,
+      "price": "$15",
+      "description": "Taraneh, China Blue, Double Violets",
+      "eventUrl": "http://www.prekindle.com/event/82746-taraneh-oklahoma-city",
+      "ageLimit": null,
       "tags": []
     },
     {
@@ -471,6 +627,18 @@
       "tags": []
     },
     {
+      "title": "Raynes",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-10",
+      "time": null,
+      "price": "$20",
+      "description": "Raynes, Brock Bushong & the Still Shakes",
+      "eventUrl": "http://www.prekindle.com/event/17458-raynes-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "JUMP – America's Van Halen Experience - VH1 Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -491,6 +659,18 @@
       "price": "$28–$88",
       "description": "KenTheMan",
       "eventUrl": "http://www.prekindle.com/event/33445-kentheman-kinda-famous-2our-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Marissa Nadler",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-11",
+      "time": null,
+      "price": "$22",
+      "description": "Marissa Nadler, Gracie and Rachel",
+      "eventUrl": "http://www.prekindle.com/event/67522-marissa-nadler-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -539,6 +719,18 @@
       "price": "$13–$123",
       "description": "Peter McPoland, Girl Tones",
       "eventUrl": "http://www.prekindle.com/event/76972-peter-mcpoland-big-lucky-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "NITE",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-12",
+      "time": null,
+      "price": "$15",
+      "description": "NITE, The Sweet Talkers, Pretoria, Mechanical Flesh",
+      "eventUrl": "http://www.prekindle.com/event/37436-nite-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -627,6 +819,18 @@
       "tags": []
     },
     {
+      "title": "Red Sun \"At Their Very Best\" Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-13",
+      "time": null,
+      "price": "$15",
+      "description": "Red Sun, Limp Wizurdz, Garden Ants, The Others Like Us, Losing Connection, Morris Village, Fighting Sleep, In My Defense",
+      "eventUrl": "http://www.prekindle.com/event/54914-red-sun-at-their-very-best-release-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Jeris Johnson",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -699,6 +903,30 @@
       "tags": []
     },
     {
+      "title": "SIDE QUESTS VOL 2 LIVE SHOWCASE",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-14",
+      "time": null,
+      "price": "$12",
+      "description": "Morris Villiage, Powdr, Foam, FEVEREST, Computer Girl",
+      "eventUrl": "http://www.prekindle.com/event/53211-side-quests-vol-2-live-showcase-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Zack Fox",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-03-14",
+      "time": null,
+      "price": "$15",
+      "description": "Zack Fox",
+      "eventUrl": "http://www.prekindle.com/event/27229-zack-fox-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Volumes",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -759,6 +987,30 @@
       "tags": []
     },
     {
+      "title": "Dear Maryanne  /  Arcadia Grey  /  Pretty Bitter",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-15",
+      "time": null,
+      "price": "$15",
+      "description": "Dear Maryanne, Arcadia Grey, Pretty Bitter, Speak, Memory",
+      "eventUrl": "http://www.prekindle.com/event/68876-dear-maryanne-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Hudson Freeman",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-16",
+      "time": null,
+      "price": "$18",
+      "description": "Hudson Freeman, Willa Mae",
+      "eventUrl": "http://www.prekindle.com/event/87766-hudson-freeman-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Stardust USA 2026: Obscura",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -783,6 +1035,30 @@
       "tags": []
     },
     {
+      "title": "Spoon Benders",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-17",
+      "time": null,
+      "price": "$15",
+      "description": "Spoon Benders, Emma Goldman Sachs, The Dull Drums",
+      "eventUrl": "http://www.prekindle.com/event/86944-spoon-benders-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "A.J. Croce Presents CROCE PLAYS CROCE",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-03-17",
+      "time": null,
+      "price": "$25–$100",
+      "description": "A.J Croce",
+      "eventUrl": "http://www.prekindle.com/event/49444-aj-croce-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Winyah - No Place I'd Rather Be Tour",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -803,6 +1079,18 @@
       "price": "$8–$75",
       "description": "Red Leather, The Romance",
       "eventUrl": "http://www.prekindle.com/event/41237-red-leather-tahoe-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Pretty Jane",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-18",
+      "time": null,
+      "price": "$12",
+      "description": "Pretty Jane",
+      "eventUrl": "http://www.prekindle.com/event/38545-pretty-jane-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -839,6 +1127,30 @@
       "price": "$15",
       "description": "Final Gasp",
       "eventUrl": "http://www.prekindle.com/event/31448-final-gasp-tulsa",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Elise Trouw presents: The Diary of Elon Lust Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-19",
+      "time": null,
+      "price": "$20–$80",
+      "description": "Elise Trouw, Kennedy Fine",
+      "eventUrl": "http://www.prekindle.com/event/45458-elise-trouw-presents-the-diary-of-elon-lust-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Ali Siddiq: In The Shadows",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-03-19",
+      "time": null,
+      "price": "$26–$125",
+      "description": "Ali Siddiq",
+      "eventUrl": "http://www.prekindle.com/event/49188-ali-siddiq-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -887,6 +1199,42 @@
       "price": "$10–$75",
       "description": "Vincent Neil Emerson, Kade Hoffman",
       "eventUrl": "http://www.prekindle.com/event/99898-vincent-neil-emerson-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Honor Choir Album Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-20",
+      "time": null,
+      "price": "$12",
+      "description": "Honor Choir, Bliss, Jaw Line, Khopesh, Foam",
+      "eventUrl": "http://www.prekindle.com/event/95576-honor-choir-album-release-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Gen X Takeover Comedy Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-03-20",
+      "time": null,
+      "price": "$40–$90",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/82934-gen-x-takeover-comedy-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Gen X Takeover Comedy Tour: MEET & GREET UPGRADE",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-03-20",
+      "time": null,
+      "price": "$105",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/66859-meet-and-greet-upgrade-gen-x-takeover-comedy-tour-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -963,6 +1311,30 @@
       "tags": []
     },
     {
+      "title": "Robert Lester Folsom",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-21",
+      "time": null,
+      "price": "$25",
+      "description": "Robert Lester Folsom, Rambler Kane",
+      "eventUrl": "http://www.prekindle.com/event/33777-robert-lester-folsom-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Bingo Loco XL",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-03-21",
+      "time": null,
+      "price": "$29–$35",
+      "description": "Bingo Loco",
+      "eventUrl": "http://www.prekindle.com/event/33668-bingo-loco-xl-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Joshua Quimby & Matt Pless",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -996,6 +1368,30 @@
       "description": "The Early November, hellogoodbye, The Dangerous Summer (acoustic)",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-early-november-hellogoodbye-20-years-young-22-mar",
       "ageLimit": "ALL AGES",
+      "tags": []
+    },
+    {
+      "title": "Ally Nicholas",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-22",
+      "time": null,
+      "price": "$15",
+      "description": "Ally Nicholas, Rubes, LETR",
+      "eventUrl": "http://www.prekindle.com/event/38366-ally-nicholas-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "The Missing Peace",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-23",
+      "time": null,
+      "price": "$12",
+      "description": "The Missing Peace, Moral",
+      "eventUrl": "http://www.prekindle.com/event/54748-the-missing-peace-oklahoma-city",
+      "ageLimit": null,
       "tags": []
     },
     {
@@ -1047,6 +1443,18 @@
       "tags": []
     },
     {
+      "title": "NICK HEXUM",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-24",
+      "time": null,
+      "price": "$38",
+      "description": "Nick Hexum, Water Tower",
+      "eventUrl": "http://www.prekindle.com/event/51619-nick-hexum-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "The Unlikely Candidates",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1056,6 +1464,18 @@
       "description": "The Unlikely Candidates, Snorkeler, Elektric Animals",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-unlikely-candidates-25-mar",
       "ageLimit": "ALL AGES",
+      "tags": []
+    },
+    {
+      "title": "The Phil Collins Story",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-03-25",
+      "time": null,
+      "price": "$11–$75",
+      "description": "The Phil Collins Story (Phil Collins Tribute)",
+      "eventUrl": "http://www.prekindle.com/event/34763-the-phil-collins-story-oklahoma-city",
+      "ageLimit": null,
       "tags": []
     },
     {
@@ -1103,6 +1523,18 @@
       "price": "$21–$113",
       "description": "Ryan Caraveo, Travis Thompson",
       "eventUrl": "http://www.prekindle.com/event/88753-ryan-caraveo-the-forever-foggy-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Stereosity",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-26",
+      "time": null,
+      "price": "$15",
+      "description": "Stereosity, Dear Cincinnati, Fighting Sleep",
+      "eventUrl": "http://www.prekindle.com/event/25634-stereosity-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -1167,6 +1599,30 @@
       "tags": []
     },
     {
+      "title": "TRVR? & Chandler Cooper",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-27",
+      "time": null,
+      "price": "$15",
+      "description": "TRVR?, Chandler Cooper",
+      "eventUrl": "http://www.prekindle.com/event/18967-trvr-and-chandler-cooper-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "WWE NXT LIVE",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-03-27",
+      "time": null,
+      "price": "$29–$160",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/44658-wwe-nxt-live-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Turnpike Tributedours (Tribute Band)",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1203,6 +1659,18 @@
       "tags": []
     },
     {
+      "title": "Pure Prairie League /  Atlanta Rhythm Section /  Orleans /  Firefall",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-03-28",
+      "time": null,
+      "price": "$30–$125",
+      "description": "Pure Praire League, Atlanta Rhythm Section, Orleans, Firefall",
+      "eventUrl": "http://www.prekindle.com/event/83873-pure-prairie-league-atlanta-rhythm-section-orleans-firefall-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "The Wood Brothers",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1211,6 +1679,30 @@
       "price": "$15–$59",
       "description": "The Wood Brothers",
       "eventUrl": "http://www.prekindle.com/event/54387-the-wood-brothers-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "BUGNOG, Ectospire, MyWitchMyBlood, Respair",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-29",
+      "time": null,
+      "price": "$10",
+      "description": "BUGNOG, Ectospire, MyWitchMyBlood, Respair",
+      "eventUrl": "http://www.prekindle.com/event/63983-bugnog-ectospire-mywitchmyblood-respair-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "SUNFO + Thanks! I Hate It",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-03-31",
+      "time": null,
+      "price": "$10",
+      "description": "Sunfo, Thanks! I Hate It, Fighting Sleep",
+      "eventUrl": "http://www.prekindle.com/event/87922-sunfo-and-thanks-i-hate-it-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -1263,6 +1755,30 @@
       "tags": []
     },
     {
+      "title": "Jordana",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-02",
+      "time": null,
+      "price": "$18",
+      "description": "Jordana, The Booyah! Kids",
+      "eventUrl": "http://www.prekindle.com/event/55492-jordana-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "FORTUNE FEIMSTER: TAKIN' CARE OF BISCUITS TOUR",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-02",
+      "time": null,
+      "price": "$25–$166",
+      "description": "Fortune Feimster",
+      "eventUrl": "http://www.prekindle.com/event/47288-fortune-feimster-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "BOLO",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1311,6 +1827,18 @@
       "tags": []
     },
     {
+      "title": "Nik Parr & The Selfless Lovers",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-03",
+      "time": null,
+      "price": "$20",
+      "description": "Nik Parr & the Selfless Lovers",
+      "eventUrl": "http://www.prekindle.com/event/61968-nik-parr-and-the-selfless-lovers-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Straight Tequila Night: '90s Country Tribute",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1347,6 +1875,18 @@
       "tags": []
     },
     {
+      "title": "ATLiens",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-04",
+      "time": null,
+      "price": "$35–$100",
+      "description": "ATLiens, PIERCE, Blvckjesus, Gem",
+      "eventUrl": "http://www.prekindle.com/event/26346-atliens-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "IV and The Strange Band + Clownvis Presley + King Sickabilly",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -1367,6 +1907,18 @@
       "price": "$11–$22",
       "description": "Zero 9:36, elijah, Downswing",
       "eventUrl": "http://www.prekindle.com/event/85381-zero-936-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "saturdays at your place",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-06",
+      "time": null,
+      "price": "$20",
+      "description": "saturdays at your place, Retirement Party, Kerosene Heights",
+      "eventUrl": "http://www.prekindle.com/event/94368-saturdays-at-your-place-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -1407,6 +1959,30 @@
       "tags": []
     },
     {
+      "title": "The Thing",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-08",
+      "time": null,
+      "price": "$15",
+      "description": "The Thing, Cherry Laurel, Sundrift",
+      "eventUrl": "http://www.prekindle.com/event/23153-the-thing-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Lily Seabird",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-09",
+      "time": null,
+      "price": "$18",
+      "description": "Lily Seabird, Keathley",
+      "eventUrl": "http://www.prekindle.com/event/18817-lily-seabird-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Straight Tequila Night ~ a Tribute to '90s Country (21+)",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1427,6 +2003,18 @@
       "price": "$30",
       "description": "Lissie",
       "eventUrl": "http://www.prekindle.com/event/85417-lissie-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "The Retrograde",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-10",
+      "time": null,
+      "price": "$15",
+      "description": "The Retrograde",
+      "eventUrl": "http://www.prekindle.com/event/67318-the-retrograde-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -1479,6 +2067,42 @@
       "tags": []
     },
     {
+      "title": "VIAL",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-11",
+      "time": null,
+      "price": "$17",
+      "description": "VIAL, Alex Vile, Social Cinema",
+      "eventUrl": "http://www.prekindle.com/event/23374-vial-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Eliza McLamb",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-12",
+      "time": null,
+      "price": "$22",
+      "description": "Eliza Mclamb, Tombstone Poetry, Skylily",
+      "eventUrl": "http://www.prekindle.com/event/76829-eliza-mclamb-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Premo Rice",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-13",
+      "time": null,
+      "price": "$30",
+      "description": "Premo Rice",
+      "eventUrl": "http://www.prekindle.com/event/75458-premo-rice-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "The Creekers",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -1487,6 +2111,18 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648500212665",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "HIRS  /  COMMITMENT",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-16",
+      "time": null,
+      "price": "$15",
+      "description": "Hirs Collective, Commitment, Reversal Cell",
+      "eventUrl": "http://www.prekindle.com/event/33332-hirs-commitment-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -1611,6 +2247,54 @@
       "tags": []
     },
     {
+      "title": "KPOP NIGHT",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-18",
+      "time": null,
+      "price": "$18",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/14186-kpop-night-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Doublecamp",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-19",
+      "time": null,
+      "price": "$18",
+      "description": "Doublecamp",
+      "eventUrl": "http://www.prekindle.com/event/76158-doublecamp-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Dallas Cowboys Cheerleader - MEET & GREET UPGRADE",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-19",
+      "time": null,
+      "price": "$150",
+      "description": "Dallas Cowboys Cheerleaders",
+      "eventUrl": "http://www.prekindle.com/event/12113-dallas-cowboys-cheerleader-meet-and-greet-upgrade-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Dallas Cowboys Cheerleaders LIVE!",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-19",
+      "time": null,
+      "price": "$30–$239",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/77679-dallas-cowboys-cheerleaders-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Jay Electronica, Neelam, Landon Wordswell, DJ Kitty Ca$h and DJ Kelly Green w /  Marcel P Black",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1619,6 +2303,18 @@
       "price": "$12–$100",
       "description": "Jay Electronica, Neelam, Landon Wordswell, DJ Kitty Ca$h, DJ Kelly Green, Marcel P Black",
       "eventUrl": "http://www.prekindle.com/event/94412-jay-electronica-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Dethklok & Amon Amarth: The Amonklok Conquest",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-20",
+      "time": null,
+      "price": "$60–$322",
+      "description": "Dethklok, Amon Amarth, Castle Rat",
+      "eventUrl": "http://www.prekindle.com/event/44479-dethklok-and-amon-amarth-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -1644,6 +2340,18 @@
       "description": "Marlon Funaki, harf.",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/marlon-funaki-21-apr",
       "ageLimit": "ALL AGES",
+      "tags": []
+    },
+    {
+      "title": "Hot Flash Heat Wave",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-21",
+      "time": null,
+      "price": "$20",
+      "description": "Hot Flash Heat Wave, Love Seats",
+      "eventUrl": "http://www.prekindle.com/event/11418-hot-flash-heat-wave-oklahoma-city",
+      "ageLimit": null,
       "tags": []
     },
     {
@@ -1719,6 +2427,18 @@
       "tags": []
     },
     {
+      "title": "AVATAR: DON'T GO IN THE FOREST 2026",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-23",
+      "time": null,
+      "price": "$35–$80",
+      "description": "Avatar, Fleshgod Apocalypse, Frozen Soul",
+      "eventUrl": "http://www.prekindle.com/event/66736-avatar-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "The Spooklights",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1727,6 +2447,30 @@
       "price": "$8–$15",
       "description": "The Spooklights",
       "eventUrl": "http://www.prekindle.com/event/16828-the-spooklights-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "DISCO, ALWAYS: A HARRY STYLES DANCE NIGHT",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-24",
+      "time": null,
+      "price": "$15",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/32672-disco-always-a-harry-styles-dance-night-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Casey Donahew",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-24",
+      "time": null,
+      "price": "$25–$100",
+      "description": "Casey Donahew",
+      "eventUrl": "http://www.prekindle.com/event/12421-casey-donahew-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -1755,6 +2499,18 @@
       "tags": []
     },
     {
+      "title": "Electronic Orchestra",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-25",
+      "time": null,
+      "price": "$42–$46",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/84828-electronic-orchestra-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Shovels & Rope",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1775,6 +2531,18 @@
       "price": "$13–$25",
       "description": "Arcy Drive",
       "eventUrl": "http://www.prekindle.com/event/29219-arcy-drive-the-pit-tour-spring-2026-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Ralph Barbosa: The Red 40 Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-26",
+      "time": null,
+      "price": "$25–$125",
+      "description": "Ralph Barbosa",
+      "eventUrl": "http://www.prekindle.com/event/39114-ralph-barbosa-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -1803,6 +2571,30 @@
       "tags": []
     },
     {
+      "title": "RITT MOMNEY",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-28",
+      "time": null,
+      "price": "$25",
+      "description": "Ritt Momney",
+      "eventUrl": "http://www.prekindle.com/event/96932-ritt-momney-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "BILMURI - KINDA HARD TOUR",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-28",
+      "time": null,
+      "price": "$50–$115",
+      "description": "Bilmuri, The Home Team, GANG!",
+      "eventUrl": "http://www.prekindle.com/event/62712-bilmuri-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "SEVENDUST ONE TOUR",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -1815,6 +2607,18 @@
       "tags": []
     },
     {
+      "title": "Thoughts on Bowling w /  Adjust The Sails, halftimeshow, MooseCreek Park",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-29",
+      "time": null,
+      "price": "$15",
+      "description": "Thoughts On Bowling, Adjust the Sails, HalftimeShow, MooseCreek Park",
+      "eventUrl": "http://www.prekindle.com/event/32698-thoughts-on-bowling-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "jigitz",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1823,6 +2627,18 @@
       "price": "$15–$30",
       "description": "jigitz",
       "eventUrl": "http://www.prekindle.com/event/96441-jigitz-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Sal Vulcano: Everything's Fine Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-30",
+      "time": null,
+      "price": "$26–$110",
+      "description": "Sal Vulcano",
+      "eventUrl": "http://www.prekindle.com/event/82449-sal-vulcano-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -1847,6 +2663,18 @@
       "price": "$25–$75",
       "description": "Bill Callahan, Jana Horn",
       "eventUrl": "http://www.prekindle.com/event/95929-bill-callahan-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Rickshaw Billie's Burger Patrol",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-01",
+      "time": null,
+      "price": "$18",
+      "description": "Rickshaw Billie's Burger Patrol, American Sharks, Pink Fuzz",
+      "eventUrl": "http://www.prekindle.com/event/29428-rickshaw-billies-burger-patrol-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -1887,6 +2715,18 @@
       "tags": []
     },
     {
+      "title": "Clarion",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-02",
+      "time": null,
+      "price": "$15",
+      "description": "Clarion, Bed, Fawn, Revealing",
+      "eventUrl": "http://www.prekindle.com/event/84319-clarion-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Toadies: The Charmer Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1907,6 +2747,18 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/40952666/death-angel-act-iiitour-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Black Marble",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-03",
+      "time": null,
+      "price": "$20",
+      "description": "Black Marble, Powdr, From Drexel",
+      "eventUrl": "http://www.prekindle.com/event/68291-black-marble-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -2067,6 +2919,18 @@
       "tags": []
     },
     {
+      "title": "Dance Gavin Dance with Special Guests Wolf & Bear and Novelists",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-05-12",
+      "time": null,
+      "price": "$48–$208",
+      "description": "Dance Gavin Dance, Wolf & Bear, Novelists",
+      "eventUrl": "http://www.prekindle.com/event/33993-dance-gavin-dance-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Ethan Regan - Spring Cleaning Tour",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -2151,6 +3015,18 @@
       "tags": []
     },
     {
+      "title": "My Sweetest Kill Album Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-16",
+      "time": null,
+      "price": "$12",
+      "description": "My Sweetest Kill, Respair, Commander Pilot",
+      "eventUrl": "http://www.prekindle.com/event/26957-my-sweetest-kill-album-release-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Dance With The Dead & Magic Sword",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2211,6 +3087,18 @@
       "tags": []
     },
     {
+      "title": "Mac DeMarco",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-05-19",
+      "time": null,
+      "price": "$55",
+      "description": "Mac DeMarco, Tex Crick",
+      "eventUrl": "http://www.prekindle.com/event/63851-mac-demarco-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "The Psychedelic Furs with Special Guests We Are Scientists",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2267,6 +3155,18 @@
       "price": "$19",
       "description": "Mac Saturn",
       "eventUrl": "http://www.prekindle.com/event/44836-mac-saturn-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "DAMAG3",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-23",
+      "time": null,
+      "price": "$15",
+      "description": "DAMAG3, Amber Ryann, Diet Riot",
+      "eventUrl": "http://www.prekindle.com/event/86911-damag3-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -2439,6 +3339,18 @@
       "tags": []
     },
     {
+      "title": "Vinyl Williams",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-14",
+      "time": null,
+      "price": "$15",
+      "description": "Vinyl Williams, Hott Mt, Jacob Hamilton",
+      "eventUrl": "http://www.prekindle.com/event/47151-vinyl-williams-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Cinderella’s Tom Keifer Band",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -2447,6 +3359,30 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/76236221/cinderellas-tom-keifer-band-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "High Fade",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-15",
+      "time": null,
+      "price": "$20",
+      "description": "High Fade",
+      "eventUrl": "http://www.prekindle.com/event/53779-high-fade-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Killers of Kill Tony",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-07-16",
+      "time": null,
+      "price": "$40–$90",
+      "description": "Ari Matti, Hans Kim, Martin Phillips, David Jolly",
+      "eventUrl": "http://www.prekindle.com/event/49663-the-killers-of-kill-tony-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
@@ -2487,6 +3423,18 @@
       "tags": []
     },
     {
+      "title": "Tig Notaro: Out of Nowhere",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-09-12",
+      "time": null,
+      "price": "$37–$90",
+      "description": "Tig Notaro",
+      "eventUrl": "http://www.prekindle.com/event/16277-tig-notaro-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
       "title": "Elefante",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -2507,6 +3455,18 @@
       "price": "$37–$52",
       "description": "Abra Cadabra",
       "eventUrl": "http://www.prekindle.com/event/31233-abba-cadabra-oklahoma-city",
+      "ageLimit": null,
+      "tags": []
+    },
+    {
+      "title": "Leonid & Friends",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-10-13",
+      "time": null,
+      "price": "$25–$100",
+      "description": "Leonid & Friends",
+      "eventUrl": "http://www.prekindle.com/event/98399-leonid-and-friends-oklahoma-city",
       "ageLimit": null,
       "tags": []
     },
