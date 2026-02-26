@@ -1,0 +1,45 @@
+name: Scrape & Deploy
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC (1:00 AM CT)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run scrapers
+        run: node scraper/index.js
+
+      - name: Commit shows.json if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/shows.json
+          if git diff --cached --quiet; then
+            echo "No changes to shows.json — skipping commit."
+          else
+            git commit -m "chore: update shows.json [$(date -u '+%Y-%m-%d')]"
+            git push
+          fi

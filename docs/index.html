@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>okladiy — OKC + Tulsa Shows</title>
+  <meta name="description" content="Upcoming indie and DIY shows in Oklahoma City and Tulsa, OK.">
+  <style>
+    /* ── Reset & Base ───────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:          #0f0f0f;
+      --surface:     #1a1a1a;
+      --surface2:    #242424;
+      --border:      #2e2e2e;
+      --text:        #e8e8e8;
+      --muted:       #888;
+      --accent:      #d4ff3e;
+      --accent-dim:  #8faa1a;
+      --danger:      #ff5f5f;
+      --radius:      6px;
+      --gap:         12px;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 15px;
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ─────────────────────────────────────────────────────────── */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+      padding: 10px 16px;
+    }
+
+    .header-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .site-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      color: var(--accent);
+      white-space: nowrap;
+    }
+
+    .controls {
+      display: flex;
+      gap: 8px;
+      flex: 1;
+      flex-wrap: wrap;
+      min-width: 0;
+    }
+
+    .search-input {
+      flex: 1;
+      min-width: 140px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text);
+      padding: 6px 10px;
+      font-size: 14px;
+      outline: none;
+    }
+    .search-input:focus { border-color: var(--accent-dim); }
+    .search-input::placeholder { color: var(--muted); }
+
+    select {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text);
+      padding: 6px 8px;
+      font-size: 14px;
+      cursor: pointer;
+      outline: none;
+    }
+    select:focus { border-color: var(--accent-dim); }
+
+    .toggle-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--muted);
+      padding: 6px 10px;
+      font-size: 13px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .toggle-btn.active {
+      color: var(--accent);
+      border-color: var(--accent-dim);
+    }
+
+    .last-updated {
+      font-size: 11px;
+      color: var(--muted);
+      white-space: nowrap;
+      margin-left: auto;
+    }
+
+    /* ── Month strip ────────────────────────────────────────────────────── */
+    .month-strip {
+      display: flex;
+      gap: 4px;
+      padding: 8px 16px 0;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .month-strip::-webkit-scrollbar { display: none; }
+
+    .month-chip {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      color: var(--muted);
+      padding: 3px 12px;
+      font-size: 12px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .month-chip:hover, .month-chip.active {
+      color: var(--accent);
+      border-color: var(--accent-dim);
+    }
+    .month-chip.today-chip {
+      color: var(--accent);
+      border-color: var(--accent-dim);
+    }
+    .month-chip.today-chip:hover {
+      background: var(--surface2);
+    }
+
+    /* ── Main content ───────────────────────────────────────────────────── */
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 12px 16px 80px;
+    }
+
+    /* ── Day group ──────────────────────────────────────────────────────── */
+    .day-group { margin-bottom: 28px; }
+
+    .day-header {
+      position: sticky;
+      top: 57px; /* height of site-header */
+      z-index: 50;
+      background: var(--bg);
+      padding: 6px 0 4px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 10px;
+    }
+
+    .day-label {
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .day-label .day-of-week { color: var(--text); }
+    .day-label .day-today   { color: var(--accent); }
+
+    /* ── Show card ──────────────────────────────────────────────────────── */
+    .show-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 12px 14px;
+      margin-bottom: 8px;
+      transition: border-color 0.15s;
+    }
+    .show-card:hover { border-color: #444; }
+
+    .card-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .show-title {
+      font-weight: 600;
+      font-size: 15px;
+      color: var(--text);
+      flex: 1;
+      min-width: 0;
+    }
+
+    .show-title a { color: var(--text); }
+    .show-title a:hover { color: var(--accent); text-decoration: none; }
+
+    .show-price {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--accent);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .show-price.free { color: #5fd45f; }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 14px;
+      margin-top: 5px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .meta-venue a { color: var(--muted); }
+    .meta-venue a:hover { color: var(--text); text-decoration: none; }
+
+    .meta-age {
+      color: var(--danger);
+      font-weight: 500;
+    }
+
+    .card-desc {
+      margin-top: 6px;
+      font-size: 13px;
+      color: #999;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* ── Empty / error states ───────────────────────────────────────────── */
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+
+    .error-banner {
+      background: #2a1010;
+      border: 1px solid #5a2020;
+      border-radius: var(--radius);
+      padding: 10px 14px;
+      margin: 12px 0;
+      font-size: 13px;
+      color: var(--danger);
+    }
+
+    /* ── Responsive ─────────────────────────────────────────────────────── */
+    @media (min-width: 600px) {
+      .day-header { top: 53px; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-row">
+    <span class="site-title">okladiy</span>
+    <div class="controls">
+      <input
+        class="search-input"
+        type="search"
+        id="searchInput"
+        placeholder="Search artists, venues…"
+        autocomplete="off"
+      >
+      <select id="cityFilter">
+        <option value="">OKC + Tulsa</option>
+        <option value="okc">Oklahoma City</option>
+        <option value="tulsa">Tulsa</option>
+      </select>
+      <select id="venueFilter">
+        <option value="">All venues</option>
+      </select>
+      <button class="toggle-btn active" id="upcomingToggle">Upcoming</button>
+    </div>
+    <span class="last-updated" id="lastUpdated"></span>
+  </div>
+</header>
+
+<nav class="month-strip" id="monthStrip" aria-label="Jump to month"></nav>
+
+<main id="main"></main>
+
+<script>
+// ── City → venue mapping ────────────────────────────────────────────────────
+const CITY_MAP = {
+  'Tower Theatre':       'okc',
+  'Diamond Ballroom':    'okc',
+  '89th Street OKC':     'okc',
+  'Beer City Music Hall':'okc',
+  'Opolis':              'okc',  // Norman
+  'Mercury Lounge':      'tulsa',
+  'The Whittier Bar':    'tulsa',
+  'Noise Town':          'tulsa',
+  'The Vanguard':        'tulsa',
+};
+
+// ── State ──────────────────────────────────────────────────────────────────
+let allShows = [];
+let showPast = false;
+let searchQuery = '';
+let cityFilter  = '';
+let venueFilter = '';
+
+const today = new Date();
+today.setHours(0, 0, 0, 0);
+const todayStr = formatDate(today);
+
+// ── Helpers ────────────────────────────────────────────────────────────────
+
+function formatDate(d) {
+  const y  = d.getFullYear();
+  const m  = String(d.getMonth() + 1).padStart(2, '0');
+  const dd = String(d.getDate()).padStart(2, '0');
+  return `${y}-${m}-${dd}`;
+}
+
+function parseISOLocal(str) {
+  // Parse "2026-03-14" as local date (avoid UTC offset shifting day)
+  const [y, m, d] = str.split('-').map(Number);
+  return new Date(y, m - 1, d);
+}
+
+function friendlyDate(isoStr) {
+  if (!isoStr) return 'Date TBD';
+  const d       = parseISOLocal(isoStr);
+  const weekday = d.toLocaleDateString('en-US', { weekday: 'long' });
+  const month   = d.toLocaleDateString('en-US', { month: 'long' });
+  const day     = d.getDate();
+  return `${weekday}, ${month} ${day}`;
+}
+
+function friendlyLastUpdated(isoStr) {
+  if (!isoStr) return '';
+  const d = new Date(isoStr);
+  return 'Updated ' + d.toLocaleDateString('en-US', {
+    month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit'
+  });
+}
+
+function escape(str) {
+  return String(str ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function monthKey(isoStr) {
+  return isoStr ? isoStr.slice(0, 7) : 'unknown'; // "2026-03"
+}
+
+function monthLabel(key) {
+  if (key === 'unknown') return 'TBD';
+  const [y, m] = key.split('-').map(Number);
+  const d = new Date(y, m - 1, 1);
+  return d.toLocaleDateString('en-US', { month: 'short', year: '2-digit' });
+}
+
+// ── Filter ─────────────────────────────────────────────────────────────────
+
+function filteredShows() {
+  const q = searchQuery.toLowerCase();
+  return allShows.filter(show => {
+    if (!showPast && show.date && show.date < todayStr) return false;
+    if (cityFilter && CITY_MAP[show.venue] !== cityFilter) return false;
+    if (venueFilter && show.venue !== venueFilter) return false;
+    if (q) {
+      const haystack = [show.title, show.venue, show.description]
+        .filter(Boolean).join(' ').toLowerCase();
+      if (!haystack.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+// ── Render ─────────────────────────────────────────────────────────────────
+
+function renderShows() {
+  const main  = document.getElementById('main');
+  const shows = filteredShows();
+
+  if (shows.length === 0) {
+    main.innerHTML = '<div class="empty-state">No shows found.</div>';
+    renderMonthStrip([]);
+    return;
+  }
+
+  // Group by date
+  const groups = new Map();
+  for (const show of shows) {
+    const key = show.date ?? 'TBD';
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(show);
+  }
+
+  const parts = [];
+  for (const [date, dayShows] of groups) {
+    const isToday = date === todayStr;
+    const label   = date === 'TBD' ? 'Date TBD' : friendlyDate(date);
+    const [weekdayPart, ...rest] = label.split(', ');
+    const restStr  = rest.join(', ');
+    const dayClass = isToday ? 'day-today' : 'day-of-week';
+
+    parts.push(`
+      <section class="day-group" data-month="${escape(monthKey(date))}" ${isToday ? 'id="today-anchor"' : ''}>
+        <div class="day-header">
+          <span class="day-label">
+            <span class="${dayClass}">${escape(weekdayPart)}</span>${restStr ? ', ' + escape(restStr) : ''}
+          </span>
+        </div>
+        ${dayShows.map(renderCard).join('')}
+      </section>
+    `);
+  }
+
+  main.innerHTML = parts.join('');
+  renderMonthStrip([...groups.keys()]);
+}
+
+function renderCard(show) {
+  const titleHtml = show.eventUrl
+    ? `<a href="${escape(show.eventUrl)}" target="_blank" rel="noopener">${escape(show.title)}</a>`
+    : escape(show.title);
+
+  const isFree  = (show.price ?? '').toLowerCase() === 'free';
+  const priceHtml = show.price
+    ? `<span class="show-price${isFree ? ' free' : ''}">${escape(show.price)}</span>`
+    : '';
+
+  const venueHtml = show.venueUrl
+    ? `<a href="${escape(show.venueUrl)}" target="_blank" rel="noopener">${escape(show.venue)}</a>`
+    : escape(show.venue);
+
+  const meta = [
+    show.venue    ? `<span class="meta-venue">${venueHtml}</span>` : '',
+    show.time     ? `<span>${escape(show.time)}</span>` : '',
+    show.ageLimit ? `<span class="meta-age">${escape(show.ageLimit)}</span>` : '',
+  ].filter(Boolean).join('');
+
+  const descHtml = show.description
+    ? `<div class="card-desc">${escape(show.description)}</div>`
+    : '';
+
+  return `
+    <article class="show-card">
+      <div class="card-top">
+        <div class="show-title">${titleHtml}</div>
+        ${priceHtml}
+      </div>
+      ${meta ? `<div class="card-meta">${meta}</div>` : ''}
+      ${descHtml}
+    </article>
+  `;
+}
+
+// ── Month strip ────────────────────────────────────────────────────────────
+
+function renderMonthStrip(dates) {
+  const strip = document.getElementById('monthStrip');
+  const keys  = [...new Set(
+    dates.filter(d => d !== 'TBD').map(monthKey).filter(k => k !== 'unknown')
+  )];
+
+  if (keys.length === 0) {
+    strip.innerHTML = '';
+    return;
+  }
+
+  // "Today" chip if today's date is in the visible set
+  const hasTodayGroup = dates.includes(todayStr);
+  const todayChip = hasTodayGroup
+    ? `<button class="month-chip today-chip" id="todayChip">Today</button>`
+    : '';
+
+  const monthChips = keys.length > 1
+    ? keys.map(k => `<button class="month-chip" data-month="${escape(k)}">${monthLabel(k)}</button>`).join('')
+    : '';
+
+  strip.innerHTML = todayChip + monthChips;
+
+  if (hasTodayGroup) {
+    document.getElementById('todayChip').addEventListener('click', () => {
+      const target = document.getElementById('today-anchor');
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  }
+
+  strip.querySelectorAll('.month-chip:not(.today-chip)').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const target = document.querySelector(`.day-group[data-month="${btn.dataset.month}"]`);
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        strip.querySelectorAll('.month-chip:not(.today-chip)').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+      }
+    });
+  });
+}
+
+// ── Venue filter population ────────────────────────────────────────────────
+
+function populateVenueFilter() {
+  const sel    = document.getElementById('venueFilter');
+  const venues = [...new Set(allShows.map(s => s.venue).filter(Boolean))].sort();
+  venues.forEach(v => {
+    const opt      = document.createElement('option');
+    opt.value      = v;
+    opt.textContent = v;
+    sel.appendChild(opt);
+  });
+}
+
+// ── Event wiring ───────────────────────────────────────────────────────────
+
+document.getElementById('searchInput').addEventListener('input', e => {
+  searchQuery = e.target.value;
+  renderShows();
+});
+
+document.getElementById('cityFilter').addEventListener('change', e => {
+  cityFilter  = e.target.value;
+  // Reset venue filter when city changes — the old selection may not apply
+  venueFilter = '';
+  document.getElementById('venueFilter').value = '';
+  renderShows();
+});
+
+document.getElementById('venueFilter').addEventListener('change', e => {
+  venueFilter = e.target.value;
+  renderShows();
+});
+
+document.getElementById('upcomingToggle').addEventListener('click', e => {
+  showPast = !showPast;
+  e.target.textContent = showPast ? 'All shows' : 'Upcoming';
+  e.target.classList.toggle('active', !showPast);
+  renderShows();
+});
+
+// ── Boot ───────────────────────────────────────────────────────────────────
+
+async function boot() {
+  const main = document.getElementById('main');
+  main.innerHTML = '<div class="empty-state">Loading shows…</div>';
+
+  try {
+    const res = await fetch('shows.json');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+
+    allShows = data.shows ?? [];
+
+    if (data.scraperErrors?.length) {
+      const names = data.scraperErrors.map(e => e.scraper).join(', ');
+      main.insertAdjacentHTML('afterbegin', `
+        <div class="error-banner">
+          Some scrapers failed last run: ${escape(names)}. Data may be incomplete.
+        </div>
+      `);
+    }
+
+    document.getElementById('lastUpdated').textContent =
+      friendlyLastUpdated(data.lastUpdated);
+
+    populateVenueFilter();
+    renderShows();
+  } catch (err) {
+    main.innerHTML = `
+      <div class="empty-state">
+        Could not load shows.json.<br>
+        <small style="color:#666">${escape(err.message)}</small><br><br>
+        <small>Run <code>npx serve docs</code> instead of opening the file directly.</small>
+      </div>
+    `;
+  }
+}
+
+boot();
+</script>
+</body>
+</html>

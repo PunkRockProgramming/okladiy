@@ -1,0 +1,16 @@
+{
+  "name": "okladiy",
+  "version": "1.0.0",
+  "description": "Local show aggregator for OKC and Tulsa venues",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper/index.js",
+    "serve": "npx serve docs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "date-fns": "^3.6.0",
+    "node-fetch": "^3.3.2",
+    "playwright": "^1.58.2"
+  }
+}
