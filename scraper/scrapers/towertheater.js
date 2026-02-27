@@ -79,6 +79,7 @@ export async function scrape() {
             eventUrl: event.url || PREKINDLE_URL,
             ageLimit: null,
             tags: [],
+            imageUrl: event.image || null,
           }),
         );
       } catch (_err) {

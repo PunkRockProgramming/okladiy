@@ -19,7 +19,7 @@
 import * as cheerio from 'cheerio';
 import { fetchHtml, parseDate, normalizeShow } from '../utils.js';
 
-const WIDGET_URL = 'https://www.prekindle.com/organizer-grid-widget-main/id/24898849004906244/?fp=false&thumbs=false&style=null';
+const WIDGET_URL = 'https://www.prekindle.com/organizer-grid-widget-main/id/24898849004906244/?fp=false&thumbs=true&style=null';
 const VENUE_NAME = 'Mercury Lounge';
 const VENUE_URL  = 'https://www.mercuryloungetulsa.com';
 
@@ -58,6 +58,9 @@ export async function scrape() {
       const href = $el.find('a.pk-title-link').attr('href') ?? '';
       const eventUrl = href || VENUE_URL;
 
+      // Thumbnail image from Prekindle widget card
+      const imageUrl = $el.find('.pk-image img').first().attr('src') || null;
+
       shows.push(
         normalizeShow({
           title,
@@ -70,6 +73,7 @@ export async function scrape() {
           eventUrl,
           ageLimit:    null,
           tags:        [],
+          imageUrl,
         }),
       );
     } catch (_err) {

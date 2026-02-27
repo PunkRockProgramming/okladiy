@@ -138,5 +138,6 @@ export function normalizeShow(partial) {
     eventUrl: partial.eventUrl || null,
     ageLimit: partial.ageLimit?.trim() || null,
     tags: Array.isArray(partial.tags) ? partial.tags : [],
+    imageUrl: partial.imageUrl || null,
   };
 }

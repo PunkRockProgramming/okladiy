@@ -63,6 +63,10 @@ export async function scrape() {
       // Start time from <time class="event-time-localized-start">
       const time = $el.find('.event-time-localized-start').first().text().trim() || null;
 
+      // Thumbnail image from Squarespace event thumbnail column
+      const rawImgSrc = $el.find('.eventlist-column-thumbnail img').first().attr('src') || null;
+      const imageUrl = rawImgSrc ? rawImgSrc.replace(/\?format=\w+$/, '?format=500w') : null;
+
       // Age limit — scan all meta items
       let ageLimit = null;
       $el.find('.eventlist-meta-item').each((_j, li) => {
@@ -84,6 +88,7 @@ export async function scrape() {
           eventUrl,
           ageLimit,
           tags: [],
+          imageUrl,
         }),
       );
     } catch (_err) {

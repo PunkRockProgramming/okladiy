@@ -102,6 +102,7 @@ export async function scrape() {
                 eventUrl,
                 ageLimit:    null,
                 tags:        [],
+                imageUrl:    event.image || null,
               }),
             );
           }

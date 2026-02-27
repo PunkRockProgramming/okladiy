@@ -11,6 +11,7 @@ import { writeFile, mkdir } from 'fs/promises';
 import { fileURLToPath } from 'url';
 import { join, dirname } from 'path';
 import { dedup } from './utils.js';
+import overrides from './image-overrides.json' with { type: 'json' };
 
 // ── Import scrapers ───────────────────────────────────────────────────────────
 // Add new scrapers here and to the SCRAPERS array below.
@@ -46,6 +47,17 @@ const SCRAPERS = [
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_PATH = join(__dirname, '..', 'docs', 'shows.json');
 
+// ── Image overrides ───────────────────────────────────────────────────────────
+
+function applyImageOverrides(shows) {
+  return shows.map(show => {
+    const key = [show.venue, show.date, show.title]
+      .map(s => (s ?? '').toLowerCase().trim()).join('||');
+    const url = overrides[key];
+    return url ? { ...show, imageUrl: url } : show;
+  });
+}
+
 // ── Main ──────────────────────────────────────────────────────────────────────
 async function main() {
   console.log(`Running ${SCRAPERS.length} scraper(s)…\n`);
@@ -71,7 +83,7 @@ async function main() {
   }
 
   // Dedup and sort by date ascending (nulls last)
-  const unique = dedup(allShows).sort((a, b) => {
+  const unique = applyImageOverrides(dedup(allShows)).sort((a, b) => {
     if (!a.date && !b.date) return 0;
     if (!a.date) return 1;
     if (!b.date) return -1;

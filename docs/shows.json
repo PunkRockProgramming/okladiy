@@ -1,19 +1,7 @@
 {
-  "lastUpdated": "2026-02-26T21:53:31.944Z",
+  "lastUpdated": "2026-02-27T02:27:25.349Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Mae Martin: The Possum",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-02-26",
-      "time": null,
-      "price": "$32–$52",
-      "description": "Mae Martin",
-      "eventUrl": "http://www.prekindle.com/event/68874-mae-martin-the-possum-oklahoma-city",
-      "ageLimit": null,
-      "tags": []
-    },
     {
       "title": "Adam Faucett",
       "venue": "Mercury Lounge",
@@ -24,7 +12,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648500852273",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648494868396_t"
     },
     {
       "title": "Kitchen Dwellers",
@@ -36,7 +25,8 @@
       "description": "Kitchen Dwellers, Cordovas",
       "eventUrl": "http://www.prekindle.com/event/42555-kitchen-dwellers-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648503286936"
     },
     {
       "title": "Bad Bad Hats",
@@ -48,7 +38,8 @@
       "description": "Bad Bad Hats, Margaux",
       "eventUrl": "http://www.prekindle.com/event/65644-bad-bad-hats-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648630163308"
     },
     {
       "title": "Excision",
@@ -60,7 +51,8 @@
       "description": "Excision, Ray Volpe, Dion Timmer, Sippy, Wiley",
       "eventUrl": "http://www.prekindle.com/event/86953-excision-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648619398562"
     },
     {
       "title": "The Queers",
@@ -72,7 +64,8 @@
       "description": "THE QUEERS \nwith Special Guests Costanzas, The Normandys, & Havana Affair\n\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/thequeers/89thstreetokc/oklahomacity/32121/",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_68d02209fac942a3b14e0d5f3d10da9d~mv2.jpg"
     },
     {
       "title": "BIEBER NIGHT",
@@ -84,7 +77,8 @@
       "description": "The Stan Society, Club 90’s",
       "eventUrl": "http://www.prekindle.com/event/33819-bieber-night-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648534281516"
     },
     {
       "title": "Heartwerk",
@@ -96,7 +90,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/35145-heartwerk-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483752916"
     },
     {
       "title": "⋆˙⟡ COTTAGE CHEMISTRY: A HEATED RIVALRY DANCE PARTY ⟡˙⋆ (18+)",
@@ -108,7 +103,8 @@
       "description": "What The Dance",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/cottage-chemistry-a-heated-rivalry-dance-party-18-27-feb",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697d1147be9bdf68dfb7fabe_CC_-_TULSA_-_BANNER.jpeg"
     },
     {
       "title": "Jacoozy: Still Afloat Tour with special guest Under High Street",
@@ -120,7 +116,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648582654050",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648582652766_t"
     },
     {
       "title": "Emo Night Brooklyn",
@@ -132,7 +129,8 @@
       "description": "Emo Night Brooklyn",
       "eventUrl": "http://www.prekindle.com/event/76497-emo-night-brooklyn-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648520245938"
     },
     {
       "title": "Blue Tongue  /  Olivia Komahcheet  /  Bee Blue",
@@ -144,7 +142,8 @@
       "description": "Blue Tongue, Olivia Komahcheet, Bee Blue",
       "eventUrl": "http://www.prekindle.com/event/73848-blue-tongue-olivia-komahcheet-bee-blue-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648502620659"
     },
     {
       "title": "51 June",
@@ -156,7 +155,8 @@
       "description": "51 June",
       "eventUrl": "http://www.prekindle.com/event/11621-51-june-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648568121950"
     },
     {
       "title": "Dead “Scum” Disco w /  DJ ROBBO & XYLO SESAME",
@@ -168,7 +168,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/66258-dead-scum-disco-with-dj-robbo-and-xylo-sesame-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483740961"
     },
     {
       "title": "Last Dinosaurs Wellness 10YR Anniversary Tour",
@@ -180,7 +181,8 @@
       "description": "Last Dinosaurs, elmjack",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/last-dinosaurs-wellness-10yr-anniversary-tour-28-feb",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d31885f7ee5dff4ffae41_Last_Dinosaurs_-_2025_Wellness_Press_Photo.jpeg"
     },
     {
       "title": "RR Williams + Justin Bloss + Seth Anderson",
@@ -192,7 +194,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648484645419",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648484639682_t"
     },
     {
       "title": "Wade Forster",
@@ -204,7 +207,8 @@
       "description": "Wade Forster",
       "eventUrl": "http://www.prekindle.com/event/26911-wade-forster-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648494889920"
     },
     {
       "title": "Old Blood Noise Endeavors Bands Showcase",
@@ -216,7 +220,8 @@
       "description": "Brainwasher, Lust Online, Powdr, Bad Athlete, Holy Hells, Lazy Circles",
       "eventUrl": "http://www.prekindle.com/event/67739-old-blood-noise-endeavors-band-showcase-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506909168"
     },
     {
       "title": "Los Angeles Azules: Cumbias Sin Fronteras US Tour",
@@ -228,7 +233,8 @@
       "description": "Los Angeles Azules",
       "eventUrl": "http://www.prekindle.com/event/43527-los-angeles-azules-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648654085064"
     },
     {
       "title": "Vitamin String Quartet - The Music of Billie Eilish, Bridgerton, and Beyond",
@@ -240,7 +246,8 @@
       "description": "Vitamin String Quartet",
       "eventUrl": "http://www.prekindle.com/event/94967-vitamin-string-quartet-the-music-of-billie-eilish-bridgerton-and-beyond-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648759999020"
     },
     {
       "title": "CANCELED – Black Label Society",
@@ -252,7 +259,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/46129613/canceled-black-label-society-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/black-label-society.jfif"
     },
     {
       "title": "Donny Benét",
@@ -264,7 +272,8 @@
       "description": "Donny Benét, Burl",
       "eventUrl": "http://www.prekindle.com/event/43942-donny-bent-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506565752"
     },
     {
       "title": "BRYCE CRAWFORD “I LOVE JESUS U.S. TOUR”",
@@ -276,7 +285,8 @@
       "description": "Bryce Crawford",
       "eventUrl": "http://www.prekindle.com/event/21591-bryce-crawford-i-love-jesus-us-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648709962947"
     },
     {
       "title": "Poetry for Thee Open Mic Poetry Swap",
@@ -288,7 +298,8 @@
       "description": "Open Mic Poetry Swap. Free to attend and participate. You can just listen to the poetry, you do not have to read!New Early Sign up Time 5:30pm Reading 6pm.",
       "eventUrl": "https://www.noisetowntulsa.com/events/5c7fyztylg5l8837h54l3takt3bze6",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1772127725847-7CAXQARX1QCNY1FKZPSE/March+Poetry+Flier.png"
     },
     {
       "title": "Descendents & Frank Turner & The Sleeping Souls",
@@ -300,7 +311,8 @@
       "description": "Descendents, Frank Turner & the Sleeping Souls, NOBRO",
       "eventUrl": "http://www.prekindle.com/event/63145-descendents-and-frank-turner-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648622567766"
     },
     {
       "title": "Jonah Kagen - Sunflowers & Leather Tour",
@@ -312,7 +324,8 @@
       "description": "Jonah Kagen, Anna Graves",
       "eventUrl": "http://www.prekindle.com/event/11622-jonah-kagen-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648564478931"
     },
     {
       "title": "Vicious Rumors",
@@ -324,7 +337,8 @@
       "description": "Vicious Rumors\nSpecial Guests  Chainsaw Review Club & Panik Roomz\nAll Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/viciousrumors/89thstreetokc/oklahomacity/32108/",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_d7448fe51d204bc587300127777174e5~mv2.jpg"
     },
     {
       "title": "Magic City Hippies - Winter Tour 2026",
@@ -336,7 +350,8 @@
       "description": "Magic City Hippies, Supertaste",
       "eventUrl": "http://www.prekindle.com/event/38181-magic-city-hippies-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648688848642"
     },
     {
       "title": "Failure To Cope, Piehole, A Parting Gaze, Semester Abroad",
@@ -348,7 +363,8 @@
       "description": "Failure To Cope, Piehole, A Parting Gaze, Semester Abroad",
       "eventUrl": "http://www.prekindle.com/event/37541-failure-to-cope-piehole-a-parting-gaze-semester-abroad-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648491817029"
     },
     {
       "title": "All Them Witches - House of Mirrors Tour",
@@ -360,7 +376,8 @@
       "description": "All Them Witches, King Buffalo",
       "eventUrl": "http://www.prekindle.com/event/29774-all-them-witches-house-of-mirrors-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648697730781"
     },
     {
       "title": "Dan Kelly - The Anthem Tour",
@@ -372,7 +389,8 @@
       "description": "Dan Kelly, Cas Haley, Kevin Kinsella, Ike Kanakanui, John Matthew Landry",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/dan-kelly-the-anthem-tour-05-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187a0ef7e423808169b_vanguard_cover_flyer_%25285%2529.jpeg"
     },
     {
       "title": "Clay Street Unit",
@@ -384,7 +402,8 @@
       "description": "Clay Street Unit, Cris Jacobs",
       "eventUrl": "http://www.prekindle.com/event/79597-clay-street-unit-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648602849199"
     },
     {
       "title": "COTTAGE CHEMISTRY: A HEATED RIVALRY DANCE PARTY",
@@ -396,7 +415,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/15593-cottage-chemistry-a-heated-rivalry-dance-party-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506410325"
     },
     {
       "title": "It's A 2000s Party: Oklahoma City",
@@ -408,7 +428,8 @@
       "description": "Slacker University",
       "eventUrl": "http://www.prekindle.com/event/46359-its-a-2000s-party-oklahoma-city-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648507814090"
     },
     {
       "title": "J Rod Wald",
@@ -420,7 +441,8 @@
       "description": "J Rod Wald, Parker Caskey, Boston James",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/j-rod-wald-06-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/699c8e9c3bae4ce1cb9aa211_IMG_6691.jpeg"
     },
     {
       "title": "Aaron Ball Band",
@@ -432,7 +454,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648493709552",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/24898849038183634_t"
     },
     {
       "title": "Nether Hour",
@@ -444,7 +467,8 @@
       "description": "Nether Hour",
       "eventUrl": "http://www.prekindle.com/event/67533-nether-hour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648549718228"
     },
     {
       "title": "Fanwave Artist Showcase",
@@ -456,7 +480,8 @@
       "description": "Limp Wizurdz, Late Night Messages, Major Good, Visions of Afterlife",
       "eventUrl": "http://www.prekindle.com/event/94323-fanwave-artist-showcase-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648500278273"
     },
     {
       "title": "Snakehips: Always Forever Tour",
@@ -468,7 +493,8 @@
       "description": "Snakehips, Disco Presents, Subsonix",
       "eventUrl": "http://www.prekindle.com/event/46133-snakehips-always-forever-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510048429"
     },
     {
       "title": "Live Music COVER SETS feat: Crimson Love, Morris Village, & The Mannequin Side Hug Project",
@@ -480,7 +506,8 @@
       "description": "Live music cover sets from Crimson Love, Morris Village, and The Mannequin Side Hug Project!Doors 7:30pm Music 8pmTickets $10",
       "eventUrl": "https://www.noisetowntulsa.com/events/live-music-cover-sets-feat-crimson-love-morris-village-the-mannequin-side-hug-project",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1771220110125-W8PKG3UMRJODNFG4MFST/Crimson+Love+Flyer.png"
     },
     {
       "title": "Tyler Farr (acoustic)",
@@ -492,7 +519,8 @@
       "description": "Tyler Farr, Blaine Bailey",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/tyler-farr-07-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3188a0ef7e42380816f3_TF_Woods_hori.jpeg"
     },
     {
       "title": "Travis Roberts",
@@ -504,7 +532,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648537716816",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648484638208_t"
     },
     {
       "title": "JMSN",
@@ -516,7 +545,8 @@
       "description": "JMSN, Samy Sharif",
       "eventUrl": "http://www.prekindle.com/event/39485-jmsn-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648482792237"
     },
     {
       "title": "Singles Fest",
@@ -528,7 +558,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/98457-singles-fest-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648491914497"
     },
     {
       "title": "Magenta Burn Album Release Show",
@@ -540,7 +571,8 @@
       "description": "Magenta Burn, Wet Muscles, Dule, ez4u2sey",
       "eventUrl": "http://www.prekindle.com/event/25564-magenta-burn-album-release-show-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506440399"
     },
     {
       "title": "A Killer's Confession",
@@ -552,7 +584,8 @@
       "description": "A Killer's Confession - Tour 2026\nw/ Saints of Solomon\nand special guests Shelter in Place & Pat Minotaur\n\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/akillersconfession/89thstreetokc/oklahomacity/32186/",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_86220ab8b4284d178cffced8e9d3fc7a~mv2.jpg"
     },
     {
       "title": "Big Something",
@@ -564,7 +597,8 @@
       "description": "Big Something, Michael Wilbur (of Moon Hooch)",
       "eventUrl": "http://www.prekindle.com/event/84856-big-something-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648498875890"
     },
     {
       "title": "Clover County",
@@ -576,7 +610,8 @@
       "description": "Clover County, Ethansroom, Keyland",
       "eventUrl": "http://www.prekindle.com/event/22832-clover-country-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648563102817"
     },
     {
       "title": "Irae & Diatheke",
@@ -588,7 +623,8 @@
       "description": "Irae & Diatheke\nwith Special Guests  Against the Dammed, Failure to Cope & Lamb Slaughter\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/iraediatheke/89thstreetokc/oklahomacity/32479/",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_04d5ba4c73e74e759b051b24d286d78b~mv2.png"
     },
     {
       "title": "Taraneh",
@@ -600,7 +636,8 @@
       "description": "Taraneh, China Blue, Double Violets",
       "eventUrl": "http://www.prekindle.com/event/82746-taraneh-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648502832044"
     },
     {
       "title": "Snailmate",
@@ -612,7 +649,8 @@
       "description": "Snailmate, Acid Queen, Pluto Rouge",
       "eventUrl": "http://www.prekindle.com/event/21689-snailmate-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510920049"
     },
     {
       "title": "Lucero - Celebrating 20 Years of Nobody's Darlings",
@@ -624,7 +662,8 @@
       "description": "Lucero, Otis Gibbs",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/lucero-celebrating-20-years-of-nobody-s-darlings-10-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3188d9216186e148fe04_lucero-38.jpeg"
     },
     {
       "title": "Raynes",
@@ -636,7 +675,8 @@
       "description": "Raynes, Brock Bushong & the Still Shakes",
       "eventUrl": "http://www.prekindle.com/event/17458-raynes-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648535689518"
     },
     {
       "title": "JUMP – America's Van Halen Experience - VH1 Tour",
@@ -648,7 +688,8 @@
       "description": "Jump - America’s Van Halen Experience",
       "eventUrl": "http://www.prekindle.com/event/96134-billing-jump-americas-van-halen-experience-vh1-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648518499478"
     },
     {
       "title": "KenTheMan - Kinda Famous 2our",
@@ -660,7 +701,8 @@
       "description": "KenTheMan",
       "eventUrl": "http://www.prekindle.com/event/33445-kentheman-kinda-famous-2our-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648539336015"
     },
     {
       "title": "Marissa Nadler",
@@ -672,7 +714,8 @@
       "description": "Marissa Nadler, Gracie and Rachel",
       "eventUrl": "http://www.prekindle.com/event/67522-marissa-nadler-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2853111880081924139"
     },
     {
       "title": "Exhumed",
@@ -684,7 +727,8 @@
       "description": "Exhumed Red Asphalt Tour \nwith Oxygen Destroyer, No/Mas, & Ectospire\n*All Tickets General Admission",
       "eventUrl": "https://www.etix.com/ticket/p/70316677/exhumed-oklahoma-city-89th-street",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_def0d5efba7f4a609bbdecad3587ce27~mv2.jpg"
     },
     {
       "title": "The Wonder Years",
@@ -696,7 +740,8 @@
       "description": "The Wonder Years, Knuckle Puck, Equipment",
       "eventUrl": "http://www.prekindle.com/event/39313-the-wonder-years-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648579118368"
     },
     {
       "title": "Void King",
@@ -708,7 +753,8 @@
       "description": "Void King, Surus, Esc Ctrl",
       "eventUrl": "http://www.prekindle.com/event/14582-void-king-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488759457"
     },
     {
       "title": "Peter McPoland: Big Lucky Tour",
@@ -720,7 +766,8 @@
       "description": "Peter McPoland, Girl Tones",
       "eventUrl": "http://www.prekindle.com/event/76972-peter-mcpoland-big-lucky-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489623417"
     },
     {
       "title": "NITE",
@@ -732,7 +779,8 @@
       "description": "NITE, The Sweet Talkers, Pretoria, Mechanical Flesh",
       "eventUrl": "http://www.prekindle.com/event/37436-nite-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648551690281"
     },
     {
       "title": "Neutral Snap",
@@ -744,7 +792,8 @@
       "description": "NEUTRAL SNAP\nwith special guests Suitable Miss, Saving Seles, and The Burn Notice \nGeneral Admission Standing / All Ages Welcome\n\n(*special guests are subject to change)",
       "eventUrl": "https://www.etix.com/ticket/p/32699414/neutral-snap-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_045200ae6387459cb8797852a2bcce71~mv2.jpg"
     },
     {
       "title": "Paddy's Rave",
@@ -756,7 +805,8 @@
       "description": "2000s Rave",
       "eventUrl": "http://www.prekindle.com/event/32321-paddys-rave-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505198387"
     },
     {
       "title": "THE DEVIL WEARS PRADA – FLOWERS TOUR",
@@ -768,7 +818,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/49201751/the-devil-wears-prada-flowers-tour-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/the-devil-wears-prada-flowers-tour.jfif"
     },
     {
       "title": "Kenny Feidler",
@@ -780,7 +831,8 @@
       "description": "Kenny Feidler, Brennan Scott Greene, Colten Jesse",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/kenny-feidler-13-mar",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695ea04f53327a0d79a6e88f_Portrait.jpeg"
     },
     {
       "title": "BJ Barham - Early Show",
@@ -792,7 +844,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648516339685",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648516338498_t"
     },
     {
       "title": "BJ Barham - Late Show",
@@ -804,7 +857,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648516331685",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648516330878_t"
     },
     {
       "title": "Jambi: A Tool Experience",
@@ -816,7 +870,8 @@
       "description": "Jambi (a Tool Experience)",
       "eventUrl": "http://www.prekindle.com/event/59639-jambi-a-tool-experience-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505393497"
     },
     {
       "title": "Red Sun \"At Their Very Best\" Release Show",
@@ -828,7 +883,8 @@
       "description": "Red Sun, Limp Wizurdz, Garden Ants, The Others Like Us, Losing Connection, Morris Village, Fighting Sleep, In My Defense",
       "eventUrl": "http://www.prekindle.com/event/54914-red-sun-at-their-very-best-release-show-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648564563975"
     },
     {
       "title": "Jeris Johnson",
@@ -840,7 +896,8 @@
       "description": "JERIS JOHNSON - TOUR IN THE USA\nPlus Special Guests  Butcher Babies, Eva Under Fire, LYLVC & Sacred Rose\nGeneral Admission Standing / All Ages Welcome\n\nTHIS IS A RESCHEDULED PERFORMANCE FROM 02/13/26\n*All Previously Purchased Tickets Honored",
       "eventUrl": "https://www.ticketstorm.com/event/jerisjohnsontourintheusa/89thstreetokc/oklahomacity/32209/",
       "ageLimit": "All Ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_297cbb44f417415c9b84a2e49fb3d4f2~mv2.jpg"
     },
     {
       "title": "Howling Giant | Insomniac | Dust Lord",
@@ -852,7 +909,8 @@
       "description": "Howling Giant, Insomniac, Dust Lord",
       "eventUrl": "http://www.prekindle.com/event/75671-howling-giant-insomniac-dust-lord-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648573882697"
     },
     {
       "title": "Live Music All Ages feat: Miller Avenue, Sixth Degree Burns, Lillium, and Slice of Life",
@@ -864,7 +922,8 @@
       "description": "Live music featuring performers that are all new to Noise Town! Featuring Miller Avenue, Sixth Degree Burns, Lillium, and Slice of Life.Doors 7:30pm Music 8pmTickets $10",
       "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-miller-avenue-sixth-degree-burns-lillium-and-slice-of-life",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1771219948825-99DVG5EFE8ZI6FJ2WIHH/Miller+Avenue+Flyer.png"
     },
     {
       "title": "My So Called Band",
@@ -876,7 +935,8 @@
       "description": "My So Called Band",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/my-so-called-band-14-mar",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f8c9f42958629fd0_MSCB_POST.jpeg"
     },
     {
       "title": "Amber Watson Single Release Party with special guest Keathley",
@@ -888,7 +948,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648487389986",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648487389088_t"
     },
     {
       "title": "Robert Jon & the Wreck",
@@ -900,7 +961,8 @@
       "description": "Robert Jon & the Wreck",
       "eventUrl": "http://www.prekindle.com/event/82267-robert-jon-and-the-wreck-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648667875687"
     },
     {
       "title": "SIDE QUESTS VOL 2 LIVE SHOWCASE",
@@ -912,7 +974,8 @@
       "description": "Morris Villiage, Powdr, Foam, FEVEREST, Computer Girl",
       "eventUrl": "http://www.prekindle.com/event/53211-side-quests-vol-2-live-showcase-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648491943153"
     },
     {
       "title": "Zack Fox",
@@ -924,7 +987,8 @@
       "description": "Zack Fox",
       "eventUrl": "http://www.prekindle.com/event/27229-zack-fox-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483085983"
     },
     {
       "title": "Volumes",
@@ -936,7 +1000,8 @@
       "description": "Volumes - The Mirror Touch Tour\nwith Notions, Catsclaw and Taker\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/volumespresentsthemirrortouchtour/89thstreetokc/oklahomacity/32235/",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_2a3fed39db8a4f139cceb8043a044037~mv2.jpg"
     },
     {
       "title": "Lung | Honduh Daze | Ivory Tusk",
@@ -948,7 +1013,8 @@
       "description": "Lung, Honduh Daze, Ivory Tusk",
       "eventUrl": "http://www.prekindle.com/event/51318-lung-honduh-daze-ivory-tusk-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648502735329"
     },
     {
       "title": "cirKus",
@@ -960,7 +1026,8 @@
       "description": "cirKus, Of Wrath And Ruin, Tretura, Aqua Fire, Oklahoma Blood",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/cirkus-15-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69826300d21f4f8af7cbe901_cirkus_promo.jpeg"
     },
     {
       "title": "Bluegrass Brunch Booth Reservation",
@@ -972,7 +1039,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648490530801",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648490530786_t"
     },
     {
       "title": "DeVotchKa",
@@ -984,7 +1052,8 @@
       "description": "Devotchka",
       "eventUrl": "http://www.prekindle.com/event/35474-devotchka-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648566036057"
     },
     {
       "title": "Dear Maryanne  /  Arcadia Grey  /  Pretty Bitter",
@@ -996,7 +1065,8 @@
       "description": "Dear Maryanne, Arcadia Grey, Pretty Bitter, Speak, Memory",
       "eventUrl": "http://www.prekindle.com/event/68876-dear-maryanne-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648541644134"
     },
     {
       "title": "Hudson Freeman",
@@ -1008,7 +1078,8 @@
       "description": "Hudson Freeman, Willa Mae",
       "eventUrl": "http://www.prekindle.com/event/87766-hudson-freeman-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648609265422"
     },
     {
       "title": "Stardust USA 2026: Obscura",
@@ -1020,7 +1091,8 @@
       "description": "Stardust USA 2026: Obscura\nSpecial Guests Allegaeon, Cognitive & Cryptosis\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/stardustusa2026obscura89thokc/89thstreetokc/oklahomacity/32292/",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_d36676454a2c4f4e93461343157cf412~mv2.jpg"
     },
     {
       "title": "Winyah",
@@ -1032,7 +1104,8 @@
       "description": "Winyah, Edgehill",
       "eventUrl": "http://www.prekindle.com/event/89494-winyah-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510604403"
     },
     {
       "title": "Spoon Benders",
@@ -1044,7 +1117,8 @@
       "description": "Spoon Benders, Emma Goldman Sachs, The Dull Drums",
       "eventUrl": "http://www.prekindle.com/event/86944-spoon-benders-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648582321408"
     },
     {
       "title": "A.J. Croce Presents CROCE PLAYS CROCE",
@@ -1056,7 +1130,8 @@
       "description": "A.J Croce",
       "eventUrl": "http://www.prekindle.com/event/49444-aj-croce-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648569506377"
     },
     {
       "title": "Winyah - No Place I'd Rather Be Tour",
@@ -1068,7 +1143,8 @@
       "description": "Winyah, Edgehill",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/winyah-no-place-i-d-rather-be-tour-18-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d31871364631086e36721_Winyah_Promo__copy.jpeg"
     },
     {
       "title": "Red Leather: Tahoe Tour",
@@ -1080,7 +1156,8 @@
       "description": "Red Leather, The Romance",
       "eventUrl": "http://www.prekindle.com/event/41237-red-leather-tahoe-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648485311917"
     },
     {
       "title": "Pretty Jane",
@@ -1092,7 +1169,8 @@
       "description": "Pretty Jane",
       "eventUrl": "http://www.prekindle.com/event/38545-pretty-jane-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648517878500"
     },
     {
       "title": "Wolves At The Gate with Convictions",
@@ -1104,7 +1182,8 @@
       "description": "The Aftermath Tour\nWolves At The Gate With Convictions\nPlus Special Guest Heal the Hurt & XIII Minutes\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/wolvesatthegatewithconvictions/89thstreetokc/oklahomacity/32414/",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_dd7fe9fa3a4f4c6b927d90b6b72d5834~mv2.jpg"
     },
     {
       "title": "Struggle Jennings",
@@ -1116,7 +1195,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/86595461/struggle-jennings-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/struggle-jennings.jfif"
     },
     {
       "title": "Final Gasp",
@@ -1128,7 +1208,8 @@
       "description": "Final Gasp",
       "eventUrl": "http://www.prekindle.com/event/31448-final-gasp-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648534452782"
     },
     {
       "title": "Elise Trouw presents: The Diary of Elon Lust Tour",
@@ -1140,7 +1221,8 @@
       "description": "Elise Trouw, Kennedy Fine",
       "eventUrl": "http://www.prekindle.com/event/45458-elise-trouw-presents-the-diary-of-elon-lust-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648623614933"
     },
     {
       "title": "Ali Siddiq: In The Shadows",
@@ -1152,7 +1234,8 @@
       "description": "Ali Siddiq",
       "eventUrl": "http://www.prekindle.com/event/49188-ali-siddiq-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648515942577"
     },
     {
       "title": "Ventana - Rust and Revelations Tour",
@@ -1164,7 +1247,8 @@
       "description": "Ventana (featuring Ex-Mushroomhead Members)\nPlus Aeternum and Shame In Nothing\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/ventanafeaturingexmushroomheadmembers/89thstreetokc/oklahomacity/32208/",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_2f6fc0f648694aaeb3ad1211e1c2e36f~mv2.jpg"
     },
     {
       "title": "Billy Idol Should Be Dead",
@@ -1176,7 +1260,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/14996-billy-idol-should-be-dead-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493347923"
     },
     {
       "title": "Flake",
@@ -1188,7 +1273,8 @@
       "description": "Flake, Feverest, In My Defense",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/flake-20-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697d41531cb1fc526e9172a4_FLATE_Portrait.jpeg"
     },
     {
       "title": "Vincent Neil Emerson",
@@ -1200,7 +1286,8 @@
       "description": "Vincent Neil Emerson, Kade Hoffman",
       "eventUrl": "http://www.prekindle.com/event/99898-vincent-neil-emerson-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648556587321"
     },
     {
       "title": "Honor Choir Album Release Show",
@@ -1212,7 +1299,8 @@
       "description": "Honor Choir, Bliss, Jaw Line, Khopesh, Foam",
       "eventUrl": "http://www.prekindle.com/event/95576-honor-choir-album-release-show-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506909653"
     },
     {
       "title": "Gen X Takeover Comedy Tour",
@@ -1224,7 +1312,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/82934-gen-x-takeover-comedy-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648722448237"
     },
     {
       "title": "Gen X Takeover Comedy Tour: MEET & GREET UPGRADE",
@@ -1236,7 +1325,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/66859-meet-and-greet-upgrade-gen-x-takeover-comedy-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648722378189"
     },
     {
       "title": "Raven",
@@ -1248,7 +1338,8 @@
       "description": "Raven with Special Guests SLACKJAW\nSpecial Guests Shame In Nothing & Trapped In Kaos\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/ravenwithspecialguestslackjaw/89thstreetokc/oklahomacity/32368/",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_413752ada56c4842bd4db5b778fba202~mv2.jpg"
     },
     {
       "title": "DAN SODER: THE GOLDEN RETRIEVER OF COMEDY TOUR",
@@ -1260,7 +1351,8 @@
       "description": "Dan Soder",
       "eventUrl": "http://www.prekindle.com/event/78555-dan-soder-the-golden-retriever-of-comedy-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648620699862"
     },
     {
       "title": "Stallone Cobras",
@@ -1272,7 +1364,8 @@
       "description": "Stallone Cobras, Fat Dracula, Bellwether Sirens",
       "eventUrl": "http://www.prekindle.com/event/66962-stallone-cobras-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648520247934"
     },
     {
       "title": "Emily Hollingshed",
@@ -1284,7 +1377,8 @@
       "description": "Emily Hollingshed, The Bison, Zain Braden",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/emily-hollingshed-21-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69629bd93ab21e7af265425d_emily_2x1.jpeg"
     },
     {
       "title": "Joshua Quimby with special guest Matt Pless",
@@ -1296,7 +1390,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648519867171",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519865728_t"
     },
     {
       "title": "Wednesday - Wednesday Bleeds Tour 2026",
@@ -1308,7 +1403,8 @@
       "description": "Wednesday, Gouge Away",
       "eventUrl": "http://www.prekindle.com/event/22313-wednesday-wednesday-bleeds-tour-2026-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648542389527"
     },
     {
       "title": "Robert Lester Folsom",
@@ -1320,7 +1416,8 @@
       "description": "Robert Lester Folsom, Rambler Kane",
       "eventUrl": "http://www.prekindle.com/event/33777-robert-lester-folsom-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648602316238"
     },
     {
       "title": "Bingo Loco XL",
@@ -1332,7 +1429,8 @@
       "description": "Bingo Loco",
       "eventUrl": "http://www.prekindle.com/event/33668-bingo-loco-xl-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514620411"
     },
     {
       "title": "Joshua Quimby & Matt Pless",
@@ -1344,7 +1442,8 @@
       "description": "2026 US South + Midwest Tour\nJoshua Quimby & Matt Pless \nPlus Special Guest TBA\n*All Tickets General Admission",
       "eventUrl": "http://etix.com/ticket/p/83799654/joshua-quimby-matt-pless-oklahoma-city-89th-street",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_d1f4a3b028ba41b89d455bb79dde0d84~mv2.jpg"
     },
     {
       "title": "Trampled by Turtles",
@@ -1356,7 +1455,8 @@
       "description": "Trampled By Turtles, Wild Horses",
       "eventUrl": "http://www.prekindle.com/event/27991-trampled-by-turtles-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648691638654"
     },
     {
       "title": "THE EARLY NOVEMBER & HELLOGOODBYE: 20 Years Young",
@@ -1368,7 +1468,8 @@
       "description": "The Early November, hellogoodbye, The Dangerous Summer (acoustic)",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-early-november-hellogoodbye-20-years-young-22-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f3f098cf51e9a227_hjkn.jpeg"
     },
     {
       "title": "Ally Nicholas",
@@ -1380,7 +1481,8 @@
       "description": "Ally Nicholas, Rubes, LETR",
       "eventUrl": "http://www.prekindle.com/event/38366-ally-nicholas-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483716248"
     },
     {
       "title": "The Missing Peace",
@@ -1392,7 +1494,8 @@
       "description": "The Missing Peace, Moral",
       "eventUrl": "http://www.prekindle.com/event/54748-the-missing-peace-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493087436"
     },
     {
       "title": "Obituary",
@@ -1404,7 +1507,8 @@
       "description": "OBITUARY: Out of the Swamp\nwith special guests Intoxicated and Castrator\n\nGeneral Admission Standing / All Ages Welcome\n\n(*special guests are subject to change)",
       "eventUrl": "https://www.etix.com/ticket/p/59585793/obituary-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_9a0dd4ebfbdb44a7b1abe6a6f4594aac~mv2.jpg"
     },
     {
       "title": "The Convalescence | Hunt The Dinosaur | Mantra of Morta | Drenched in Ceremony",
@@ -1416,7 +1520,8 @@
       "description": "The Convalescence, Hunt the Dinosaur, Mantra of Morta, Drenched In Ceremony",
       "eventUrl": "http://www.prekindle.com/event/94736-the-convalescence-hunt-the-dinosaur-mantra-of-morta-drenched-in-ceremony-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648502738137"
     },
     {
       "title": "Convictions + Wolves at the Gate - the Aftermath Tour",
@@ -1428,7 +1533,8 @@
       "description": "Wolves at the Gate, Convictions, Heal the Hurt",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/convictions-wolves-at-the-gate-24-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6970df66ec031e5ab4adfc7d_WolvesAtTheGate_Convictions_2026_Tour_FacebookCoverPhoto_Static.jpeg"
     },
     {
       "title": "The Menzingers",
@@ -1440,7 +1546,8 @@
       "description": "The Menzingers, I Am the Avalanche",
       "eventUrl": "http://www.prekindle.com/event/34227-the-menzingers-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648611548354"
     },
     {
       "title": "NICK HEXUM",
@@ -1452,7 +1559,8 @@
       "description": "Nick Hexum, Water Tower",
       "eventUrl": "http://www.prekindle.com/event/51619-nick-hexum-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648560629763"
     },
     {
       "title": "The Unlikely Candidates",
@@ -1464,7 +1572,8 @@
       "description": "The Unlikely Candidates, Snorkeler, Elektric Animals",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-unlikely-candidates-25-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69890d40600b0d0ffbcb8bb1_TUC-_KANSAS_DAY_5-16.jpeg"
     },
     {
       "title": "The Phil Collins Story",
@@ -1476,7 +1585,8 @@
       "description": "The Phil Collins Story (Phil Collins Tribute)",
       "eventUrl": "http://www.prekindle.com/event/34763-the-phil-collins-story-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648598300875"
     },
     {
       "title": "The Unlikely Candidates",
@@ -1488,7 +1598,8 @@
       "description": "THE UNLIKELY CANDIDATES\nwith special guest Snorkeler\n\nGeneral Admission Standing / All Ages Welcome",
       "eventUrl": "https://www.etix.com/ticket/p/36684399/the-unlikely-candidates-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_395999666d9c47cf83c4efdd37ea8f61~mv2.jpg"
     },
     {
       "title": "Pop Punk Nite: OKC! by Van Full of Nuns",
@@ -1500,7 +1611,8 @@
       "description": "Van Full of Nuns, Waiting 4 April",
       "eventUrl": "http://www.prekindle.com/event/51615-pop-punk-nite-okc-by-van-full-of-nuns-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648520314889"
     },
     {
       "title": "Lincoln Swanzy",
@@ -1512,7 +1624,8 @@
       "description": "Lincoln Swanzy, Alisha Marie, Henry Zoellner Music",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/lincoln-swanzy-26-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69934994a7e137346efdc342_cropped-event-image.jpeg"
     },
     {
       "title": "Ryan Caraveo - The Forever Foggy Tour",
@@ -1524,7 +1637,8 @@
       "description": "Ryan Caraveo, Travis Thompson",
       "eventUrl": "http://www.prekindle.com/event/88753-ryan-caraveo-the-forever-foggy-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488770727"
     },
     {
       "title": "Stereosity",
@@ -1536,7 +1650,8 @@
       "description": "Stereosity, Dear Cincinnati, Fighting Sleep",
       "eventUrl": "http://www.prekindle.com/event/25634-stereosity-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510516689"
     },
     {
       "title": "Dime Store Riot",
@@ -1548,7 +1663,8 @@
       "description": "DIME STORE RIOT\nwith special guests Crimson Love, Aqua Fire and Tretura\n\nGeneral Admission Standing / All Ages Welcome",
       "eventUrl": "https://www.etix.com/ticket/p/35617506/dime-store-riot-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_5fb00867b5594701a83be45738dd7cbe~mv2.jpg"
     },
     {
       "title": "History That Doesn’t Suck with Professor Greg Jackson",
@@ -1560,7 +1676,8 @@
       "description": "History That Doesn’t Suck",
       "eventUrl": "http://www.prekindle.com/event/43838-history-that-doesnt-suck-with-professor-greg-jackson-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648722506843"
     },
     {
       "title": "2 Minutes to Tulsa '26",
@@ -1572,7 +1689,8 @@
       "description": "Voivod, Atrophy, Meliah Rage, Slough Feg, Aska, Leatherwolf, She Hates Me Not, Electric Citizen, Black Sites, Wraith, Interceptor, CHARIOTS OVERDRIVE",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/2-minutes-to-tulsa-26-27-mar",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d318780475536e962561a_HORTON_TWO_MINUTES_2026_2160x1080.jpeg"
     },
     {
       "title": "Bri Bagwell with special guest Joleen Brown",
@@ -1584,7 +1702,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648487380024",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648487379849_t"
     },
     {
       "title": "FIA: THE LOVE ME TOUR",
@@ -1596,7 +1715,8 @@
       "description": "FIA, Johnny Suite",
       "eventUrl": "http://www.prekindle.com/event/25556-fia-the-love-me-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648535918588"
     },
     {
       "title": "TRVR? & Chandler Cooper",
@@ -1608,7 +1728,8 @@
       "description": "TRVR?, Chandler Cooper",
       "eventUrl": "http://www.prekindle.com/event/18967-trvr-and-chandler-cooper-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519755861"
     },
     {
       "title": "WWE NXT LIVE",
@@ -1620,7 +1741,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/44658-wwe-nxt-live-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648501342195"
     },
     {
       "title": "Turnpike Tributedours (Tribute Band)",
@@ -1632,7 +1754,8 @@
       "description": "Turnpike Tributedours",
       "eventUrl": "http://www.prekindle.com/event/79334-turnpike-tributedours-tribute-band-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648509915450"
     },
     {
       "title": "When Forever Finds Me | Boketto | Stutter",
@@ -1644,7 +1767,8 @@
       "description": "When Forever Finds Me, Boketto, Stutter",
       "eventUrl": "http://www.prekindle.com/event/44165-when-forever-finds-me-boketto-stutter-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488771552"
     },
     {
       "title": "Varials",
@@ -1656,7 +1780,8 @@
       "description": "Varials, UnityTX, Heavy//hitter, Boltcutter",
       "eventUrl": "http://www.prekindle.com/event/56146-varials-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648562149887"
     },
     {
       "title": "Pure Prairie League /  Atlanta Rhythm Section /  Orleans /  Firefall",
@@ -1668,7 +1793,8 @@
       "description": "Pure Praire League, Atlanta Rhythm Section, Orleans, Firefall",
       "eventUrl": "http://www.prekindle.com/event/83873-pure-prairie-league-atlanta-rhythm-section-orleans-firefall-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510434656"
     },
     {
       "title": "The Wood Brothers",
@@ -1680,7 +1806,8 @@
       "description": "The Wood Brothers",
       "eventUrl": "http://www.prekindle.com/event/54387-the-wood-brothers-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648560667311"
     },
     {
       "title": "BUGNOG, Ectospire, MyWitchMyBlood, Respair",
@@ -1692,7 +1819,8 @@
       "description": "BUGNOG, Ectospire, MyWitchMyBlood, Respair",
       "eventUrl": "http://www.prekindle.com/event/63983-bugnog-ectospire-mywitchmyblood-respair-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648591210734"
     },
     {
       "title": "SUNFO + Thanks! I Hate It",
@@ -1704,7 +1832,8 @@
       "description": "Sunfo, Thanks! I Hate It, Fighting Sleep",
       "eventUrl": "http://www.prekindle.com/event/87922-sunfo-and-thanks-i-hate-it-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486224086"
     },
     {
       "title": "Orbit Culture",
@@ -1716,7 +1845,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/32479639/orbit-culture-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/orbit-culture.jfif"
     },
     {
       "title": "Oceanic",
@@ -1728,7 +1858,8 @@
       "description": "OCEANIC\nNorth America Tour 2026\nGeneral Admission Standing / All Ages Welcome",
       "eventUrl": "https://www.etix.com/ticket/p/61106896/oceanic-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ba42766d34464feb84f56784ba495dc6~mv2.jpg"
     },
     {
       "title": "Samantha Crain",
@@ -1740,7 +1871,8 @@
       "description": "Samantha Crain, Ramsey Thornton, Agalisiga \"Chuj\" Mackey",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/samantha-crain-02-apr",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/698a14eaba96222007fbc167_SAM_CRAIN_SAMSELECTS__14_%25281%2529.jpeg"
     },
     {
       "title": "Vandoliers",
@@ -1752,7 +1884,8 @@
       "description": "Vandoliers, BC & The Big Rig, So Much Heaven",
       "eventUrl": "http://www.prekindle.com/event/54531-vandoliers-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488179903"
     },
     {
       "title": "Jordana",
@@ -1764,7 +1897,8 @@
       "description": "Jordana, The Booyah! Kids",
       "eventUrl": "http://www.prekindle.com/event/55492-jordana-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648623805901"
     },
     {
       "title": "FORTUNE FEIMSTER: TAKIN' CARE OF BISCUITS TOUR",
@@ -1776,7 +1910,8 @@
       "description": "Fortune Feimster",
       "eventUrl": "http://www.prekindle.com/event/47288-fortune-feimster-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648681178537"
     },
     {
       "title": "BOLO",
@@ -1788,7 +1923,8 @@
       "description": "Bolo",
       "eventUrl": "http://www.prekindle.com/event/29363-bolo-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510544582"
     },
     {
       "title": "2000's Rave - 18+",
@@ -1800,7 +1936,8 @@
       "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/2000-s-rave-18-03-apr",
       "ageLimit": "18+",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187b15cffc139e9ca41_TULSA_2000s_rave_wide_1920__flyer_%25281%2529.jpeg"
     },
     {
       "title": "Trenton Fletcher",
@@ -1812,7 +1949,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648487374697",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648487373534_t"
     },
     {
       "title": "Josh Weathers",
@@ -1824,7 +1962,8 @@
       "description": "Josh Weathers, Zac Wilkerson",
       "eventUrl": "http://www.prekindle.com/event/32545-josh-weathers-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648550332391"
     },
     {
       "title": "Nik Parr & The Selfless Lovers",
@@ -1836,7 +1975,8 @@
       "description": "Nik Parr & the Selfless Lovers",
       "eventUrl": "http://www.prekindle.com/event/61968-nik-parr-and-the-selfless-lovers-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648602363048"
     },
     {
       "title": "Straight Tequila Night: '90s Country Tribute",
@@ -1848,7 +1988,8 @@
       "description": "Straight Tequila Night",
       "eventUrl": "http://www.prekindle.com/event/99974-straight-tequila-night-90s-country-tribute-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648497330840"
     },
     {
       "title": "Josh Weathers",
@@ -1860,7 +2001,8 @@
       "description": "Josh Weathers",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/josh-weathers-04-apr",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3188328df0e936ea4a30_joshwesthers6.jpeg"
     },
     {
       "title": "Johnny Mullenax",
@@ -1872,7 +2014,8 @@
       "description": "Johnny Mullenax",
       "eventUrl": "http://www.prekindle.com/event/95962-johnny-mullenax-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648495447595"
     },
     {
       "title": "ATLiens",
@@ -1884,7 +2027,8 @@
       "description": "ATLiens, PIERCE, Blvckjesus, Gem",
       "eventUrl": "http://www.prekindle.com/event/26346-atliens-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493155212"
     },
     {
       "title": "IV and The Strange Band + Clownvis Presley + King Sickabilly",
@@ -1896,7 +2040,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648511063767",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510630743_t"
     },
     {
       "title": "Zero 9:36",
@@ -1908,7 +2053,8 @@
       "description": "Zero 9:36, elijah, Downswing",
       "eventUrl": "http://www.prekindle.com/event/85381-zero-936-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648504484842"
     },
     {
       "title": "saturdays at your place",
@@ -1920,7 +2066,8 @@
       "description": "saturdays at your place, Retirement Party, Kerosene Heights",
       "eventUrl": "http://www.prekindle.com/event/94368-saturdays-at-your-place-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648591197609"
     },
     {
       "title": "MY LIFE WITH THE THRILL KILL KULT",
@@ -1932,7 +2079,8 @@
       "description": "My Life With the Thrill Kill Kult, Light Asylum, Die Sexual, Devora, Heavy Halo",
       "eventUrl": "http://www.prekindle.com/event/12387-my-life-with-the-thrill-kill-kult-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648552711836"
     },
     {
       "title": "Moon Walker",
@@ -1944,7 +2092,8 @@
       "description": "with special guests Demi the Daredevil & Sarah and the Safe Word\n\n*All Tickets General Admission",
       "eventUrl": "https://www.etix.com/ticket/p/37381219/moonwalker-oklahoma-city-89th-street",
       "ageLimit": "All ages",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ce0a9436cbde48508255160e94312ee5~mv2.jpg"
     },
     {
       "title": "Stitched Up Heart",
@@ -1956,7 +2105,8 @@
       "description": "Stitched Up Heart, Between the Broken, Taranis",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/stitched-up-heart-08-apr",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6966730e725f26b5bc860e35_Stitched_Up_Heart_-_Photo.jpeg"
     },
     {
       "title": "The Thing",
@@ -1968,7 +2118,8 @@
       "description": "The Thing, Cherry Laurel, Sundrift",
       "eventUrl": "http://www.prekindle.com/event/23153-the-thing-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648643329265"
     },
     {
       "title": "Lily Seabird",
@@ -1980,7 +2131,8 @@
       "description": "Lily Seabird, Keathley",
       "eventUrl": "http://www.prekindle.com/event/18817-lily-seabird-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648494566333"
     },
     {
       "title": "Straight Tequila Night ~ a Tribute to '90s Country (21+)",
@@ -1992,7 +2144,8 @@
       "description": "Straight Tequila Night",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/straight-tequila-night-a-tribute-to-90s-country-21-10-apr",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6990cf961ab9ce9ed8721401_Legacy_Hall_Back_Stage_enhanced_small-gigapixel-recover_v2-7000w-faceai_v2.jpeg"
     },
     {
       "title": "Lissie",
@@ -2004,7 +2157,8 @@
       "description": "Lissie",
       "eventUrl": "http://www.prekindle.com/event/85417-lissie-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648491567166"
     },
     {
       "title": "The Retrograde",
@@ -2016,7 +2170,8 @@
       "description": "The Retrograde",
       "eventUrl": "http://www.prekindle.com/event/67318-the-retrograde-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514638197"
     },
     {
       "title": "The Happy Fits",
@@ -2028,7 +2183,8 @@
       "description": "The Happy Fits, BEL",
       "eventUrl": "http://www.prekindle.com/event/55773-the-happy-fits-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483248313"
     },
     {
       "title": "This Ain't a Scene - 18+ - MTV2 tribute",
@@ -2040,7 +2196,8 @@
       "description": "A Mixtape Catastrophe, A Day To Remember, Lamb of God, Underoath",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/this-ain-t-a-scene-18-mtv2-tribute-11-apr",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6980c0ab686d1abdc207c236_41843e5e-2c7d-4259-a3cc-1a2a38cb6bda.jpeg"
     },
     {
       "title": "The Riverbreaks with special guest Dane Arnold",
@@ -2052,7 +2209,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648487367095",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648487367048_t"
     },
     {
       "title": "David Murphy - For My Peeps",
@@ -2064,7 +2222,8 @@
       "description": "David Murphy",
       "eventUrl": "http://www.prekindle.com/event/13641-david-murphy-for-my-peeps-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648494846683"
     },
     {
       "title": "VIAL",
@@ -2076,7 +2235,8 @@
       "description": "VIAL, Alex Vile, Social Cinema",
       "eventUrl": "http://www.prekindle.com/event/23374-vial-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648539256766"
     },
     {
       "title": "Eliza McLamb",
@@ -2088,7 +2248,8 @@
       "description": "Eliza Mclamb, Tombstone Poetry, Skylily",
       "eventUrl": "http://www.prekindle.com/event/76829-eliza-mclamb-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2853111880107361983"
     },
     {
       "title": "Premo Rice",
@@ -2100,7 +2261,8 @@
       "description": "Premo Rice",
       "eventUrl": "http://www.prekindle.com/event/75458-premo-rice-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493884997"
     },
     {
       "title": "The Creekers",
@@ -2112,7 +2274,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648500212665",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/24898849038183634_t"
     },
     {
       "title": "HIRS  /  COMMITMENT",
@@ -2124,7 +2287,8 @@
       "description": "Hirs Collective, Commitment, Reversal Cell",
       "eventUrl": "http://www.prekindle.com/event/33332-hirs-commitment-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505866028"
     },
     {
       "title": "My So Called Band: '90s Tribute",
@@ -2136,7 +2300,8 @@
       "description": "My So Called Band",
       "eventUrl": "http://www.prekindle.com/event/33993-my-so-called-band-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488241709"
     },
     {
       "title": "Carson Jeffrey",
@@ -2148,7 +2313,8 @@
       "description": "Carson Jeffrey, Gatlin Johnson",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/carson-jeffrey-17-apr",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696135420f232263555a07a9_Photo_Jul_28_2025__10_44_51_PM_%25282%2529.jpeg"
     },
     {
       "title": "Wayne Hancock",
@@ -2160,7 +2326,8 @@
       "description": "Wayne Hancock",
       "eventUrl": "http://www.prekindle.com/event/61781-wayne-hancock-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488414125"
     },
     {
       "title": "Trey Kennedy - The Relatable Tour (Matinee)",
@@ -2172,7 +2339,8 @@
       "description": "Trey Kennedy",
       "eventUrl": "http://www.prekindle.com/event/93431-trey-kennedy-the-relatable-tour-matinee-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648683106445"
     },
     {
       "title": "Trey Kennedy - The Relatable Tour",
@@ -2184,7 +2352,8 @@
       "description": "Trey Kennedy",
       "eventUrl": "http://www.prekindle.com/event/56563-trey-kennedy-the-relatable-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648688318256"
     },
     {
       "title": "Texas Hippie Coalition",
@@ -2196,7 +2365,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/44958140/texas-hippie-coalition-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/02/texas-hippie-coalition.jfif"
     },
     {
       "title": "High Desert Queen | Gran Moreno",
@@ -2208,7 +2378,8 @@
       "description": "High Desert Queen, Gran Moreno",
       "eventUrl": "http://www.prekindle.com/event/44394-high-desert-queen-gran-moreno-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499648249"
     },
     {
       "title": "LOW TICKETS | The Crane Wives - ACT I",
@@ -2220,7 +2391,8 @@
       "description": "The Crane Wives, Lilith Max",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-crane-wives-18-apr",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69778e59ae8c3852d67cf20c_TCW_June2025_Scene4_0557_Web.jpeg"
     },
     {
       "title": "West Texas Exiles",
@@ -2232,7 +2404,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648498604977",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648498603984_t"
     },
     {
       "title": "PhaseOne",
@@ -2244,7 +2417,8 @@
       "description": "PhaseOne, Subsonix, Disco Presents",
       "eventUrl": "http://www.prekindle.com/event/69964-phaseone-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510121412"
     },
     {
       "title": "KPOP NIGHT",
@@ -2256,7 +2430,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/14186-kpop-night-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648537711282"
     },
     {
       "title": "Doublecamp",
@@ -2268,7 +2443,8 @@
       "description": "Doublecamp",
       "eventUrl": "http://www.prekindle.com/event/76158-doublecamp-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488781087"
     },
     {
       "title": "Dallas Cowboys Cheerleader - MEET & GREET UPGRADE",
@@ -2280,7 +2456,8 @@
       "description": "Dallas Cowboys Cheerleaders",
       "eventUrl": "http://www.prekindle.com/event/12113-dallas-cowboys-cheerleader-meet-and-greet-upgrade-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648507339227"
     },
     {
       "title": "Dallas Cowboys Cheerleaders LIVE!",
@@ -2292,7 +2469,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/77679-dallas-cowboys-cheerleaders-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648500789691"
     },
     {
       "title": "Jay Electronica, Neelam, Landon Wordswell, DJ Kitty Ca$h and DJ Kelly Green w /  Marcel P Black",
@@ -2304,7 +2482,8 @@
       "description": "Jay Electronica, Neelam, Landon Wordswell, DJ Kitty Ca$h, DJ Kelly Green, Marcel P Black",
       "eventUrl": "http://www.prekindle.com/event/94412-jay-electronica-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506568055"
     },
     {
       "title": "Dethklok & Amon Amarth: The Amonklok Conquest",
@@ -2316,7 +2495,8 @@
       "description": "Dethklok, Amon Amarth, Castle Rat",
       "eventUrl": "http://www.prekindle.com/event/44479-dethklok-and-amon-amarth-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648554461588"
     },
     {
       "title": "The Black Dahlia Murder",
@@ -2328,7 +2508,8 @@
       "description": "The Black Dahlia Murder, The Acacia Strain, Disembodied Tyrant, Corpse Pile",
       "eventUrl": "http://www.prekindle.com/event/24316-the-black-dahlia-murder-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648518163024"
     },
     {
       "title": "Marlon Funaki - Half Moon Tour",
@@ -2340,7 +2521,8 @@
       "description": "Marlon Funaki, harf.",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/marlon-funaki-21-apr",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69693de8736a775d2ecda907_marlon_funaki.jpeg"
     },
     {
       "title": "Hot Flash Heat Wave",
@@ -2352,7 +2534,8 @@
       "description": "Hot Flash Heat Wave, Love Seats",
       "eventUrl": "http://www.prekindle.com/event/11418-hot-flash-heat-wave-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648496904517"
     },
     {
       "title": "Bad Suns: ACCELERATOUR USA 2026",
@@ -2364,7 +2547,8 @@
       "description": "Bad Suns, Little Image",
       "eventUrl": "http://www.prekindle.com/event/66842-bad-suns-acceleratour-usa-2026-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648494038116"
     },
     {
       "title": "James McMurtry and the Martial Law Review",
@@ -2376,7 +2560,8 @@
       "description": "James McMurtry, BettySoo",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/james-mcmurtry-22-apr",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697a0bd88a1216873e11527f_james_mcmurtry_promo.jpeg"
     },
     {
       "title": "Travis Bolt",
@@ -2388,7 +2573,8 @@
       "description": "Travis Bolt",
       "eventUrl": "http://www.prekindle.com/event/32917-travis-bolt-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648495328465"
     },
     {
       "title": "Maria Bamford",
@@ -2400,7 +2586,8 @@
       "description": "Maria Bamford",
       "eventUrl": "http://www.prekindle.com/event/38734-maria-bamford-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2853111880077877552"
     },
     {
       "title": "KOAN Sound Live Explorations Tour",
@@ -2412,7 +2599,8 @@
       "description": "KOAN Sound",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/koan-sound-18-23-apr",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69949b0fe79818f64cf8c3fc_KOAN_Sound_Live_Explorations_-_Tulsa__OK_04.23_%252816x9%2529.jpeg"
     },
     {
       "title": "Black Pistol Fire - Flagrant Act of Bliss",
@@ -2424,7 +2612,8 @@
       "description": "Black Pistol Fire, Teddy At Night",
       "eventUrl": "http://www.prekindle.com/event/82183-black-pistol-fire-flagrant-act-of-bliss-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648485311780"
     },
     {
       "title": "AVATAR: DON'T GO IN THE FOREST 2026",
@@ -2436,7 +2625,8 @@
       "description": "Avatar, Fleshgod Apocalypse, Frozen Soul",
       "eventUrl": "http://www.prekindle.com/event/66736-avatar-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514651978"
     },
     {
       "title": "The Spooklights",
@@ -2448,7 +2638,8 @@
       "description": "The Spooklights",
       "eventUrl": "http://www.prekindle.com/event/16828-the-spooklights-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505954450"
     },
     {
       "title": "DISCO, ALWAYS: A HARRY STYLES DANCE NIGHT",
@@ -2460,7 +2651,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/32672-disco-always-a-harry-styles-dance-night-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505924465"
     },
     {
       "title": "Casey Donahew",
@@ -2472,7 +2664,8 @@
       "description": "Casey Donahew",
       "eventUrl": "http://www.prekindle.com/event/12421-casey-donahew-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506054128"
     },
     {
       "title": "Silversun Pickups - Tenterhooks Tour",
@@ -2484,7 +2677,8 @@
       "description": "Silversun Pickups, Giant Waste of Man",
       "eventUrl": "http://www.prekindle.com/event/31785-silversun-pickups-tenterhooks-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519390408"
     },
     {
       "title": "Happy Landing",
@@ -2496,7 +2690,8 @@
       "description": "Happy Landing",
       "eventUrl": "http://www.prekindle.com/event/57217-happy-landing-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510626617"
     },
     {
       "title": "Electronic Orchestra",
@@ -2508,7 +2703,8 @@
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/84828-electronic-orchestra-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510041727"
     },
     {
       "title": "Shovels & Rope",
@@ -2520,7 +2716,8 @@
       "description": "Shovels & Rope, Mechanical River",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/shovels-rope-26-apr",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f8c9f42958629f33_band_photo_horizontal.jpeg"
     },
     {
       "title": "Arcy Drive - The Pit Tour: Spring 2026",
@@ -2532,7 +2729,8 @@
       "description": "Arcy Drive",
       "eventUrl": "http://www.prekindle.com/event/29219-arcy-drive-the-pit-tour-spring-2026-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648598356652"
     },
     {
       "title": "Ralph Barbosa: The Red 40 Tour",
@@ -2544,7 +2742,8 @@
       "description": "Ralph Barbosa",
       "eventUrl": "http://www.prekindle.com/event/39114-ralph-barbosa-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510647706"
     },
     {
       "title": "Cass McCombs + Band: Interior Live Oak Live",
@@ -2556,7 +2755,8 @@
       "description": "Cass McCombs",
       "eventUrl": "http://www.prekindle.com/event/41864-cass-mccombs-and-band-interior-live-oak-live-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510625735"
     },
     {
       "title": "Snail Mail",
@@ -2568,7 +2768,8 @@
       "description": "Snail Mail, Sharp Pins",
       "eventUrl": "http://www.prekindle.com/event/34887-snail-mail-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510628146"
     },
     {
       "title": "RITT MOMNEY",
@@ -2580,7 +2781,8 @@
       "description": "Ritt Momney",
       "eventUrl": "http://www.prekindle.com/event/96932-ritt-momney-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648503123597"
     },
     {
       "title": "BILMURI - KINDA HARD TOUR",
@@ -2592,7 +2794,8 @@
       "description": "Bilmuri, The Home Team, GANG!",
       "eventUrl": "http://www.prekindle.com/event/62712-bilmuri-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648554367752"
     },
     {
       "title": "SEVENDUST ONE TOUR",
@@ -2604,7 +2807,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/96522713/sevendust-one-tour-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/01/sevendust-one-tour.jfif"
     },
     {
       "title": "Thoughts on Bowling w /  Adjust The Sails, halftimeshow, MooseCreek Park",
@@ -2616,7 +2820,8 @@
       "description": "Thoughts On Bowling, Adjust the Sails, HalftimeShow, MooseCreek Park",
       "eventUrl": "http://www.prekindle.com/event/32698-thoughts-on-bowling-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648520284686"
     },
     {
       "title": "jigitz",
@@ -2628,7 +2833,8 @@
       "description": "jigitz",
       "eventUrl": "http://www.prekindle.com/event/96441-jigitz-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648516132213"
     },
     {
       "title": "Sal Vulcano: Everything's Fine Tour",
@@ -2640,7 +2846,8 @@
       "description": "Sal Vulcano",
       "eventUrl": "http://www.prekindle.com/event/82449-sal-vulcano-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648665758415"
     },
     {
       "title": "Two Feet: The Next Steps Tour",
@@ -2652,7 +2859,8 @@
       "description": "Two Feet, Brothel",
       "eventUrl": "http://www.prekindle.com/event/27536-two-feet-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648503286575"
     },
     {
       "title": "Bill Callahan",
@@ -2664,7 +2872,8 @@
       "description": "Bill Callahan, Jana Horn",
       "eventUrl": "http://www.prekindle.com/event/95929-bill-callahan-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489594613"
     },
     {
       "title": "Rickshaw Billie's Burger Patrol",
@@ -2676,7 +2885,8 @@
       "description": "Rickshaw Billie's Burger Patrol, American Sharks, Pink Fuzz",
       "eventUrl": "http://www.prekindle.com/event/29428-rickshaw-billies-burger-patrol-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648497761232"
     },
     {
       "title": "Becky Robinson: The Beasts in Me Tour",
@@ -2688,7 +2898,8 @@
       "description": "Becky Robinson",
       "eventUrl": "http://www.prekindle.com/event/25459-becky-robinson-the-beasts-in-me-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519266550"
     },
     {
       "title": "The Toasters - 45 Years of Ska",
@@ -2700,7 +2911,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648514646277",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514645595_t"
     },
     {
       "title": "James McMurtry",
@@ -2712,7 +2924,8 @@
       "description": "James McMurtry, Bettysoo",
       "eventUrl": "http://www.prekindle.com/event/78612-james-mcmurtry-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506384161"
     },
     {
       "title": "Clarion",
@@ -2724,7 +2937,8 @@
       "description": "Clarion, Bed, Fawn, Revealing",
       "eventUrl": "http://www.prekindle.com/event/84319-clarion-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648546463355"
     },
     {
       "title": "Toadies: The Charmer Tour",
@@ -2736,7 +2950,8 @@
       "description": "Toadies, Local H",
       "eventUrl": "http://www.prekindle.com/event/76967-toadies-the-charmer-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493324870"
     },
     {
       "title": "Death Angel – “Act III” Tour",
@@ -2748,7 +2963,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/40952666/death-angel-act-iiitour-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/02/death-angel-act-iii-tour.jfif"
     },
     {
       "title": "Black Marble",
@@ -2760,7 +2976,8 @@
       "description": "Black Marble, Powdr, From Drexel",
       "eventUrl": "http://www.prekindle.com/event/68291-black-marble-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505691822"
     },
     {
       "title": "Cradle Of Filth",
@@ -2772,7 +2989,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/84773625/cradle-of-filth-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/12/cradle-of-filth.jfif"
     },
     {
       "title": "DIIV",
@@ -2784,7 +3002,8 @@
       "description": "DIIV, Draag",
       "eventUrl": "http://www.prekindle.com/event/17343-diiv-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499895197"
     },
     {
       "title": "Shelly Belly",
@@ -2796,7 +3015,8 @@
       "description": "Shelly Belly",
       "eventUrl": "http://www.prekindle.com/event/51457-shelly-belly-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648504485751"
     },
     {
       "title": "Jake Worthington - Intent to Tonk Tour",
@@ -2808,7 +3028,8 @@
       "description": "Jake Worthington, Joey Frendo, Julianna Rankin",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/jake-worthington-07-may",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/698f437fa252981f8d528ed8_Jake_Worthington_LEAD_Press_Image_Credit_Jim_Wright_August_2025.jpeg"
     },
     {
       "title": "Whitney Cummings: Big Baby",
@@ -2820,7 +3041,8 @@
       "description": "Whitney Cummings",
       "eventUrl": "http://www.prekindle.com/event/96947-whitney-cummings-big-baby-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648563175092"
     },
     {
       "title": "Cold and Alien Ant Farm",
@@ -2832,7 +3054,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/32504160/cold-and-alien-ant-farm-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/01/cold-and-alien-ant-farm.jfif"
     },
     {
       "title": "THE DOSE: A Psychedelic Comedy Show (18+)",
@@ -2844,7 +3067,8 @@
       "description": "Steve Gillespie: Comedy",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-dose-a-psychedelic-comedy-show-18-08-may",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d318947d1734db907fb19_Tulsa_FB_Event_Banner.jpeg"
     },
     {
       "title": "Alex Lambert",
@@ -2856,7 +3080,8 @@
       "description": "Alex Lambert",
       "eventUrl": "http://www.prekindle.com/event/23862-alex-lambert-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489047150"
     },
     {
       "title": "Steven Ho: Not Your Hero Tour (Early Show)",
@@ -2868,7 +3093,8 @@
       "description": "Steven Ho",
       "eventUrl": "http://www.prekindle.com/event/29455-steven-ho-draft-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506440944"
     },
     {
       "title": "Steven Ho: Not Your Hero Tour (Late Show)",
@@ -2880,7 +3106,8 @@
       "description": "Steven Ho",
       "eventUrl": "http://www.prekindle.com/event/64678-steven-ho-steven-hero-tour-late-show-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506440867"
     },
     {
       "title": "Smells Like Nirvana",
@@ -2892,7 +3119,8 @@
       "description": "Smells Like Nirvana, Dead Original",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/smells-like-nirvana-09-may-3a65f",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696fa8dc220685ce591ce66d_1200_x_628_SLN_STOCK_3A_%25281%2529.jpeg"
     },
     {
       "title": "DAYSEEKER: The Pale Moonlight Tour",
@@ -2904,7 +3132,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/33564574/dayseekerthe-pale-moonlight-tour-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/dayseeker-the-pale-moonlight-tour.jfif"
     },
     {
       "title": "Drugdealer",
@@ -2916,7 +3145,8 @@
       "description": "Drugdealer",
       "eventUrl": "http://www.prekindle.com/event/61268-drugdealer-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510127317"
     },
     {
       "title": "Dance Gavin Dance with Special Guests Wolf & Bear and Novelists",
@@ -2928,7 +3158,8 @@
       "description": "Dance Gavin Dance, Wolf & Bear, Novelists",
       "eventUrl": "http://www.prekindle.com/event/33993-dance-gavin-dance-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489756799"
     },
     {
       "title": "Ethan Regan - Spring Cleaning Tour",
@@ -2940,7 +3171,8 @@
       "description": "Ethan Regan, Emma Andersen",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/ethan-regan-13-may",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696936de7b3c2a5e8640f1bb_PRESS_6.jpeg"
     },
     {
       "title": "Citizen Soldier - Secret Songs tour Part II",
@@ -2952,7 +3184,8 @@
       "description": "Citizen Soldier, Adelitas Way, New Medicine",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/citizen-soldier-secret-songs-tour-part-ii-14-may",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697104e82572e54871a70b11_vanguard_cover_flyer_%25288%2529.jpeg"
     },
     {
       "title": "Ethan Regan: Spring Cleaning Tour",
@@ -2964,7 +3197,8 @@
       "description": "Ethan Regan, Emma Andersen",
       "eventUrl": "http://www.prekindle.com/event/29154-ethan-regan-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648501227749"
     },
     {
       "title": "Glom",
@@ -2976,7 +3210,8 @@
       "description": "Glom, Buffchick",
       "eventUrl": "http://www.prekindle.com/event/27713-glom-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648550171268"
     },
     {
       "title": "Jensen McRae: God Has A Hitman Tour",
@@ -2988,7 +3223,8 @@
       "description": "Jensen Mcrae, Jackie Evans",
       "eventUrl": "http://www.prekindle.com/event/78553-jensen-mcrae-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648495414961"
     },
     {
       "title": "GOLDEN: A K-Pop Kids Party!",
@@ -3000,7 +3236,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/78671636/goldena-kpop-kids-party-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/02/golden-a-k-pop-kids-party.jfif"
     },
     {
       "title": "MESO",
@@ -3012,7 +3249,8 @@
       "description": "Meso, Xenotype, Jalaya, Spyra, Subsonix, Disco Presents",
       "eventUrl": "http://www.prekindle.com/event/82235-meso-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505840828"
     },
     {
       "title": "My Sweetest Kill Album Release Show",
@@ -3024,7 +3262,8 @@
       "description": "My Sweetest Kill, Respair, Commander Pilot",
       "eventUrl": "http://www.prekindle.com/event/26957-my-sweetest-kill-album-release-show-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648496939524"
     },
     {
       "title": "Dance With The Dead & Magic Sword",
@@ -3036,7 +3275,8 @@
       "description": "Dance With the Dead, Magic Sword, Megan McDuffee",
       "eventUrl": "http://www.prekindle.com/event/39628-dance-with-the-dead-and-magic-sword-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648568126275"
     },
     {
       "title": "PURITY RING - PLACE OF MY OWN TOUR",
@@ -3048,7 +3288,8 @@
       "description": "Purity Ring",
       "eventUrl": "http://www.prekindle.com/event/62116-purity-ring-place-of-my-own-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648508075987"
     },
     {
       "title": "Archspire: Long Roads Big Loads Tour",
@@ -3060,7 +3301,8 @@
       "description": "Archspire, Undeath, Crown Magnetar, Mutilation BBQ",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/archspire-long-roads-big-loads-tour-18-may",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696a885b8ed3a90f5eb93538_Copy_of_archspire_2025_Alex_Morgan_5.jpeg"
     },
     {
       "title": "Sons of Legion - Soul to SØL Tour",
@@ -3072,7 +3314,8 @@
       "description": "Sons of Legion",
       "eventUrl": "http://www.prekindle.com/event/54748-sons-of-legion-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648650433646"
     },
     {
       "title": "Sports",
@@ -3084,7 +3327,8 @@
       "description": "Sports, Ally Evenson",
       "eventUrl": "http://www.prekindle.com/event/19249-sports-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510601463"
     },
     {
       "title": "Mac DeMarco",
@@ -3096,7 +3340,8 @@
       "description": "Mac DeMarco, Tex Crick",
       "eventUrl": "http://www.prekindle.com/event/63851-mac-demarco-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2853111880177686461"
     },
     {
       "title": "The Psychedelic Furs with Special Guests We Are Scientists",
@@ -3108,7 +3353,8 @@
       "description": "The Psychedelic Furs, We Are Scientists",
       "eventUrl": "http://www.prekindle.com/event/54854-the-psychedelic-furs-with-special-guests-we-are-scientists-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488981311"
     },
     {
       "title": "Mac Saturn",
@@ -3120,7 +3366,8 @@
       "description": "Mac Saturn",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/mac-saturn-20-may",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/699dd0e104118556a795946d_MacSaturn_2025_Maximus_Reid_MAX02006-2_web.jpeg"
     },
     {
       "title": "Quilts | Tavo Carbone | Mike Dee & Stone Trio",
@@ -3132,7 +3379,8 @@
       "description": "Quilts, Tavo Carbone, Mike Dee & Stone Trio",
       "eventUrl": "http://www.prekindle.com/event/79425-quilts-tavo-carbone-mike-dee-and-stone-trio-tulsa",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648501668755"
     },
     {
       "title": "The Widdler’s Midnight Mass Tour",
@@ -3144,7 +3392,8 @@
       "description": "The Widdler, Subsonix, Disco Presents",
       "eventUrl": "http://www.prekindle.com/event/42712-the-widdler-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519298682"
     },
     {
       "title": "Mac Saturn",
@@ -3156,7 +3405,8 @@
       "description": "Mac Saturn",
       "eventUrl": "http://www.prekindle.com/event/44836-mac-saturn-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486880063"
     },
     {
       "title": "DAMAG3",
@@ -3168,7 +3418,8 @@
       "description": "DAMAG3, Amber Ryann, Diet Riot",
       "eventUrl": "http://www.prekindle.com/event/86911-damag3-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514342982"
     },
     {
       "title": "The HU and Apocalyptica with Special Guest The Rasmus",
@@ -3180,7 +3431,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/88494074/the-hu-and-apocalyptica-with-special-guest-the-rasmus-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/02/the-hu-and-apocalyptica-with-special-guest-the-rasmus.jfif"
     },
     {
       "title": "Soft Hands: '80s Prom",
@@ -3192,7 +3444,8 @@
       "description": "Soft Hands",
       "eventUrl": "http://www.prekindle.com/event/53147-soft-hands-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648492008545"
     },
     {
       "title": "30 YEARS OF UNDERGROUND: Kottonmouth Kings & A Killer's Confession & Kung Fu Vampire",
@@ -3204,7 +3457,8 @@
       "description": "Kottonmouth Kings, A Killer's Confession, Kung Fu Vampire",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/kottonmouth-kings-a-killer-s-confession-kung-fu-vampire-29-may",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/698b873dfc2b0082f83055cb_30_years_anniversary_-_KMK._AKC._KFV.jpeg"
     },
     {
       "title": "Tophouse",
@@ -3216,7 +3470,8 @@
       "description": "Tophouse",
       "eventUrl": "http://www.prekindle.com/event/87339-tophouse-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499895635"
     },
     {
       "title": "Zoso: The Ultimate Led Zeppelin Experience",
@@ -3228,7 +3483,8 @@
       "description": "Zoso",
       "eventUrl": "http://www.prekindle.com/event/81667-zoso-the-ultimate-led-zeppelin-experience-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648634593625"
     },
     {
       "title": "Jackie Venson",
@@ -3240,7 +3496,8 @@
       "description": "Jackie Venson",
       "eventUrl": "http://www.prekindle.com/event/95378-jackie-venson-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648535563385"
     },
     {
       "title": "Buckcherry",
@@ -3252,7 +3509,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/87687109/buckcherry-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/07/etix-Buckcherry1751986173_3859601751986174.jfif"
     },
     {
       "title": "Bodysnatcher",
@@ -3264,7 +3522,8 @@
       "description": "Bodysnatcher, 200 STAB WOUNDS, Gates to Hell, Bodybox",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/bodysnatcher-03-jun",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69949e9d9b070a9a20f439f7_1ST_CHOICE.jpeg"
     },
     {
       "title": "Little Image",
@@ -3276,7 +3535,8 @@
       "description": "Little Image",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/little-image-05-jun",
       "ageLimit": "ALL AGES",
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697d3efcafc91270372c7da4_000364800007.jpeg"
     },
     {
       "title": "The Runarounds: The Minivan Tour",
@@ -3288,7 +3548,8 @@
       "description": "The Runarounds, Foxtide",
       "eventUrl": "http://www.prekindle.com/event/87192-the-runarounds-the-minivan-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648497555553"
     },
     {
       "title": "Lilly Hiatt",
@@ -3300,7 +3561,8 @@
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648504194325",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648504193880_t"
     },
     {
       "title": "Kings Kaleidoscope",
@@ -3312,7 +3574,8 @@
       "description": "Kings Kaleidoscope, Hollyn",
       "eventUrl": "http://www.prekindle.com/event/83141-kings-kaleidoscope-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648741672185"
     },
     {
       "title": "Between the Buried and Me: The Blue Nowhere U.S. Tour - Spring 2026",
@@ -3324,7 +3587,8 @@
       "description": "Between The Buried & Me, Imperial Triumphant, Fallujah",
       "eventUrl": "http://www.prekindle.com/event/93682-between-the-buried-and-me-the-blue-nowhere-us-tour-spring-2026-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048302"
     },
     {
       "title": "Juvenile’s Boiling Point Album Release Tour ​w /  The 400 Degreez Band​ & Friends",
@@ -3336,7 +3600,8 @@
       "description": "Juvenile",
       "eventUrl": "http://www.prekindle.com/event/84815-juveniles-boiling-point-album-release-tour-w-the-400-degreez-band-and-friends-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648513988504"
     },
     {
       "title": "Vinyl Williams",
@@ -3348,7 +3613,8 @@
       "description": "Vinyl Williams, Hott Mt, Jacob Hamilton",
       "eventUrl": "http://www.prekindle.com/event/47151-vinyl-williams-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648498707687"
     },
     {
       "title": "Cinderella’s Tom Keifer Band",
@@ -3360,7 +3626,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/76236221/cinderellas-tom-keifer-band-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/01/tom-keifer.jfif"
     },
     {
       "title": "High Fade",
@@ -3372,7 +3639,8 @@
       "description": "High Fade",
       "eventUrl": "http://www.prekindle.com/event/53779-high-fade-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505857371"
     },
     {
       "title": "Killers of Kill Tony",
@@ -3384,7 +3652,8 @@
       "description": "Ari Matti, Hans Kim, Martin Phillips, David Jolly",
       "eventUrl": "http://www.prekindle.com/event/49663-the-killers-of-kill-tony-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486932059"
     },
     {
       "title": "Last Podcast on the Left - JK Ultra Tour",
@@ -3396,7 +3665,8 @@
       "description": "Last Podcast On the Left",
       "eventUrl": "http://www.prekindle.com/event/43445-last-podcast-on-the-left-jk-ultra-tour-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648691639253"
     },
     {
       "title": "Matt Fraser",
@@ -3408,7 +3678,8 @@
       "description": "Matt Fraser",
       "eventUrl": "http://www.prekindle.com/event/89253-matt-fraser-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048633"
     },
     {
       "title": "PawPaw Rod: Picture Day Tour",
@@ -3420,7 +3691,8 @@
       "description": "PawPaw Rod",
       "eventUrl": "http://www.prekindle.com/event/38182-pawpaw-rod-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048191"
     },
     {
       "title": "Tig Notaro: Out of Nowhere",
@@ -3432,7 +3704,8 @@
       "description": "Tig Notaro",
       "eventUrl": "http://www.prekindle.com/event/16277-tig-notaro-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486637797"
     },
     {
       "title": "Elefante",
@@ -3444,7 +3717,8 @@
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/92657760/elefante-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/12/elefante.jfif"
     },
     {
       "title": "ABRA Cadabra - The Music & Magic of ABBA",
@@ -3456,7 +3730,8 @@
       "description": "Abra Cadabra",
       "eventUrl": "http://www.prekindle.com/event/31233-abba-cadabra-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514016308"
     },
     {
       "title": "Leonid & Friends",
@@ -3468,7 +3743,8 @@
       "description": "Leonid & Friends",
       "eventUrl": "http://www.prekindle.com/event/98399-leonid-and-friends-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648490354158"
     },
     {
       "title": "Snarky Puppy",
@@ -3480,7 +3756,8 @@
       "description": "Snarky Puppy",
       "eventUrl": "http://www.prekindle.com/event/73342-snarky-puppy-oklahoma-city",
       "ageLimit": null,
-      "tags": []
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648503287375"
     }
   ]
 }

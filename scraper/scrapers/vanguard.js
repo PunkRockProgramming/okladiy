@@ -81,7 +81,7 @@ export async function scrape() {
       const result = htmlResults[j];
 
       if (result.status !== 'fulfilled') {
-        shows.push(normalizeShow({ title, venue: VENUE_NAME, venueUrl: BASE_URL, date, time: null, price: null, description: null, eventUrl, ageLimit: null, tags: [] }));
+        shows.push(normalizeShow({ title, venue: VENUE_NAME, venueUrl: BASE_URL, date, time: null, price: null, description: null, eventUrl, ageLimit: null, tags: [], imageUrl: null }));
         continue;
       }
 
@@ -90,6 +90,7 @@ export async function scrape() {
       const priceRaw = $('#event-data').attr('data-price') ?? '';
       const price = priceRaw.match(/\$[\d.]+/) ? priceRaw.trim() : null;
       const description = $('#event-data').attr('data-description')?.trim() || null;
+      const imageUrl = $('#event-data').attr('data-image') || null;
 
       const timeWrapper = $('.uui-event_time-wrapper').text();
       const showMatch = timeWrapper.match(/Show[:\s]+(\d{1,2}:\d{2}\s*(?:am|pm))/i);
@@ -101,7 +102,7 @@ export async function scrape() {
       const ageMatch = bodyText.match(/\b(all\s*ages?|18\+|21\+)\b/i);
       const ageLimit = ageMatch ? ageMatch[1] : null;
 
-      shows.push(normalizeShow({ title, venue: VENUE_NAME, venueUrl: BASE_URL, date, time, price, description, eventUrl, ageLimit, tags: [] }));
+      shows.push(normalizeShow({ title, venue: VENUE_NAME, venueUrl: BASE_URL, date, time, price, description, eventUrl, ageLimit, tags: [], imageUrl }));
     }
   }
 

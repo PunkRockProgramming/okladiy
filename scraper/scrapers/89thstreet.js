@@ -67,6 +67,20 @@ export async function scrape() {
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
 /**
+ * Convert a Wix media URI to a static CDN URL.
+ * wix:image://v1/{mediaId}/{filename} → https://static.wixstatic.com/media/{mediaId}/v1/fit/w_300,h_300/img.jpg
+ */
+function wixImageUrl(raw) {
+  if (!raw) return null;
+  // mainImage is an object with a direct HTTPS url
+  if (typeof raw === 'object') return raw.url ?? null;
+  // fallback: wix:image://v1/{mediaId}/{filename} URI
+  const m = raw.match(/^wix:image:\/\/v1\/([^/]+)\//);
+  if (m) return `https://static.wixstatic.com/media/${m[1]}/v1/fit/w_300,h_300/img.jpg`;
+  return null;
+}
+
+/**
  * Map a raw Wix event object to our show schema.
  */
 function eventToShow(ev, dateMap) {
@@ -93,6 +107,10 @@ function eventToShow(ev, dateMap) {
   // Leave null — users click through to the ticketing page for price.
   const price = null;
 
+  // ── Image ──────────────────────────────────────────────────────────────────
+  // mainImage is an object { id, url, height, width } with a direct HTTPS URL
+  const imageUrl = wixImageUrl(ev.mainImage ?? ev.image ?? null);
+
   // ── Age / all-ages ─────────────────────────────────────────────────────────
   // 89th Street is explicitly "all ages"; note if mentioned in description
   const desc = (ev.description ?? '').trim();
@@ -110,5 +128,6 @@ function eventToShow(ev, dateMap) {
     eventUrl,
     ageLimit,
     tags:        [],
+    imageUrl,
   });
 }

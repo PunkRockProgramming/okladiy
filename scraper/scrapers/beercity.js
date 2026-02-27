@@ -23,8 +23,9 @@ export async function scrape() {
   const html = await fetchHtml(PREKINDLE_URL);
   const $ = cheerio.load(html);
 
-  // ── Step 1: build title → time map from HTML cards ───────────────────────
-  const timeByTitle = new Map();
+  // ── Step 1: build title → time and title → imageUrl maps from HTML cards ──
+  const timeByTitle  = new Map();
+  const imageByTitle = new Map();
   $('.pk-eachevent').each((_i, el) => {
     const title = $(el).find('.pk-headline').first().text().trim().toLowerCase();
     const timesText = $(el).find('.pk-times div').first().text().trim();
@@ -35,7 +36,12 @@ export async function scrape() {
     const raw        = startMatch?.[1] ?? anyMatch?.[1] ?? null;
     const time       = raw ? raw.replace(/([ap]m)$/i, m => ` ${m.toUpperCase()}`) : null;
 
-    if (title) timeByTitle.set(title, time);
+    const imgSrc = $(el).find('.pk-image img').first().attr('src') || null;
+
+    if (title) {
+      timeByTitle.set(title, time);
+      imageByTitle.set(title, imgSrc);
+    }
   });
 
   // ── Step 2: parse JSON-LD events ─────────────────────────────────────────
@@ -60,8 +66,10 @@ export async function scrape() {
         const date = event.startDate.split('T')[0];
         if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) continue;
 
-        // Look up time from HTML card by normalized title
-        const time = timeByTitle.get(event.name.trim().toLowerCase()) ?? null;
+        // Look up time and image from HTML card by normalized title
+        const normalizedTitle = event.name.trim().toLowerCase();
+        const time    = timeByTitle.get(normalizedTitle)  ?? null;
+        const imageUrl = imageByTitle.get(normalizedTitle) ?? event.image ?? null;
 
         // Price from AggregateOffer
         let price = null;
@@ -94,6 +102,7 @@ export async function scrape() {
             eventUrl:    event.url || PREKINDLE_URL,
             ageLimit:    null,
             tags:        [],
+            imageUrl,
           }),
         );
       } catch (_err) {

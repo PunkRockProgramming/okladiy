@@ -185,23 +185,24 @@
     .show-card {
       background: var(--surface);
       border: 1px solid var(--border);
+      border-left: 4px solid var(--vc, var(--border));
       border-radius: var(--radius);
-      padding: 12px 14px;
-      margin-bottom: 8px;
+      padding: 14px 16px 14px 13px;
+      margin-bottom: 10px;
       transition: border-color 0.15s;
     }
-    .show-card:hover { border-color: #444; }
+    .show-card:hover { border-color: #444; border-left-color: var(--vc, #444); }
 
     .card-top {
       display: flex;
       align-items: flex-start;
       justify-content: space-between;
-      gap: 8px;
+      gap: 10px;
     }
 
     .show-title {
       font-weight: 600;
-      font-size: 15px;
+      font-size: 17px;
       color: var(--text);
       flex: 1;
       min-width: 0;
@@ -211,7 +212,7 @@
     .show-title a:hover { color: var(--accent); text-decoration: none; }
 
     .show-price {
-      font-size: 13px;
+      font-size: 15px;
       font-weight: 600;
       color: var(--accent);
       white-space: nowrap;
@@ -223,13 +224,22 @@
       display: flex;
       flex-wrap: wrap;
       gap: 6px 14px;
-      margin-top: 5px;
-      font-size: 13px;
+      margin-top: 6px;
+      font-size: 14px;
       color: var(--muted);
     }
 
-    .meta-venue a { color: var(--muted); }
-    .meta-venue a:hover { color: var(--text); text-decoration: none; }
+    .meta-venue a { color: inherit; text-decoration: none; }
+    .meta-venue a:hover { opacity: 0.8; text-decoration: none; }
+
+    .venue-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 3px;
+      background: color-mix(in srgb, var(--vc, #888) 18%, transparent);
+      color: var(--vc, var(--muted));
+      font-weight: 600;
+    }
 
     .meta-age {
       color: var(--danger);
@@ -237,14 +247,18 @@
     }
 
     .card-desc {
-      margin-top: 6px;
-      font-size: 13px;
+      margin-top: 7px;
+      font-size: 14px;
       color: #999;
       display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
+
+    .show-card.has-thumb { display: flex; gap: 16px; align-items: flex-start; }
+    .card-thumb { width: 100px; height: 100px; border-radius: 6px; object-fit: cover; flex-shrink: 0; }
+    .card-body  { flex: 1; min-width: 0; }
 
     /* ── Empty / error states ───────────────────────────────────────────── */
     .empty-state {
@@ -320,6 +334,8 @@ let showPast = false;
 let searchQuery = '';
 let cityFilter  = '';
 let venueFilter = '';
+let currentPage = 0;
+const PAGE_SIZE  = 25; // date groups (days) per page
 
 const today = new Date();
 today.setHours(0, 0, 0, 0);
@@ -333,6 +349,20 @@ function formatDate(d) {
   const dd = String(d.getDate()).padStart(2, '0');
   return `${y}-${m}-${dd}`;
 }
+
+const VENUE_COLORS = {
+  '89th Street OKC':     '#ff6b35',
+  'Opolis':              '#a855f7',
+  'Tower Theatre':       '#3b82f6',
+  'Diamond Ballroom':    '#f59e0b',
+  'The Whittier Bar':    '#10b981',
+  'Noise Town':          '#ec4899',
+  'The Vanguard':        '#06b6d4',
+  'Mercury Lounge':      '#ffd166',
+  'Beer City Music Hall':'#84cc16',
+  'Resonant Head':       '#ef4444',
+  'The Criterion':       '#e879f9',
+};
 
 function parseISOLocal(str) {
   // Parse "2026-03-14" as local date (avoid UTC offset shifting day)
@@ -438,6 +468,9 @@ function renderShows() {
 }
 
 function renderCard(show) {
+  const vc = VENUE_COLORS[show.venue];
+  const vcStyle = vc ? ` style="--vc:${vc}"` : '';
+
   const titleHtml = show.eventUrl
     ? `<a href="${escape(show.eventUrl)}" target="_blank" rel="noopener">${escape(show.title)}</a>`
     : escape(show.title);
@@ -447,9 +480,10 @@ function renderCard(show) {
     ? `<span class="show-price${isFree ? ' free' : ''}">${escape(show.price)}</span>`
     : '';
 
-  const venueHtml = show.venueUrl
+  const venueInner = show.venueUrl
     ? `<a href="${escape(show.venueUrl)}" target="_blank" rel="noopener">${escape(show.venue)}</a>`
     : escape(show.venue);
+  const venueHtml = `<span class="venue-badge">${venueInner}</span>`;
 
   const meta = [
     show.venue    ? `<span class="meta-venue">${venueHtml}</span>` : '',
@@ -461,14 +495,23 @@ function renderCard(show) {
     ? `<div class="card-desc">${escape(show.description)}</div>`
     : '';
 
+  const thumbHtml = show.imageUrl
+    ? `<img class="card-thumb" src="${escape(show.imageUrl)}" alt="" loading="lazy">`
+    : '';
+
+  const body = `
+    <div class="card-top">
+      <div class="show-title">${titleHtml}</div>
+      ${priceHtml}
+    </div>
+    ${meta ? `<div class="card-meta">${meta}</div>` : ''}
+    ${descHtml}
+  `;
+
   return `
-    <article class="show-card">
-      <div class="card-top">
-        <div class="show-title">${titleHtml}</div>
-        ${priceHtml}
-      </div>
-      ${meta ? `<div class="card-meta">${meta}</div>` : ''}
-      ${descHtml}
+    <article class="show-card${show.imageUrl ? ' has-thumb' : ''}"${vcStyle}>
+      ${thumbHtml}
+      ${show.imageUrl ? `<div class="card-body">${body}</div>` : body}
     </article>
   `;
 }

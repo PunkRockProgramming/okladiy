@@ -62,6 +62,10 @@ export async function scrape() {
       // Start time
       const time = $el.find('.event-time-localized-start').first().text().trim() || null;
 
+      // Thumbnail image from Squarespace event thumbnail column
+      const rawImgSrc = $el.find('.eventlist-column-thumbnail img').first().attr('src') || null;
+      const imageUrl = rawImgSrc ? rawImgSrc.replace(/\?format=\w+$/, '?format=500w') : null;
+
       // Price from description text: "Tickets $10" or "$10 advance"
       const descText = $el.find('.eventlist-excerpt').text();
       const priceMatch = descText.match(/(?:tickets?\s*)?\$\s*(\d+(?:\.\d{1,2})?)/i);
@@ -94,6 +98,7 @@ export async function scrape() {
           eventUrl,
           ageLimit,
           tags:        [],
+          imageUrl,
         }),
       );
     } catch (_err) {
