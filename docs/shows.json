@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T07:03:54.671Z",
+  "lastUpdated": "2026-02-27T18:26:21.526Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -165,7 +165,7 @@
       "date": "2026-02-28",
       "time": null,
       "price": "$10",
-      "description": "Brainwasher, Lust Online, Powdr, Bad Athlete, Holy Hells, Lazy Circles",
+      "description": "Brainwasher, Lust Online, Powdr, Bad Athlete, Holy Hills, Lazy Circles",
       "eventUrl": "http://www.prekindle.com/event/67739-old-blood-noise-endeavors-band-showcase-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -346,7 +346,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-03-05",
       "time": "8:00 PM",
-      "price": "$8–$75",
+      "price": null,
       "description": "Clay Street Unit, Cris Jacobs",
       "eventUrl": "http://www.prekindle.com/event/79597-clay-street-unit-oklahoma-city",
       "ageLimit": null,
@@ -411,7 +411,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-03-06",
       "time": "8:00 PM",
-      "price": "$9–$75",
+      "price": null,
       "description": "Nether Hour",
       "eventUrl": "http://www.prekindle.com/event/67533-nether-hour-oklahoma-city",
       "ageLimit": null,
@@ -430,19 +430,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648500278273"
-    },
-    {
-      "title": "Snakehips: Always Forever Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-03-07",
-      "time": null,
-      "price": "$10–$55",
-      "description": "Snakehips, Disco Presents, Subsonix",
-      "eventUrl": "http://www.prekindle.com/event/46133-snakehips-always-forever-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510048429"
     },
     {
       "title": "Live Music COVER SETS feat: Crimson Love, Morris Village, & The Mannequin Side Hug Project",
@@ -529,11 +516,11 @@
       "date": "2026-03-08",
       "time": "6:30 PM",
       "price": null,
-      "description": "A Killer's Confession - Tour 2026\nSpecial Guests Saints of Solomon & Burn The Throne\n*All Tickets General Admission",
+      "description": "A Killer's Confession - Tour 2026\nw/ Saints of Solomon\nand special guests Shelter in Place & Pat Minotaur\n\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/akillersconfession/89thstreetokc/oklahomacity/32186/",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_9daeff463c9443d391047ae632c1c9f6~mv2.jpg"
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_86220ab8b4284d178cffced8e9d3fc7a~mv2.jpg"
     },
     {
       "title": "Big Something",
@@ -1979,6 +1966,19 @@
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648495447595"
     },
     {
+      "title": "True Love Weekend at Res",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-04",
+      "time": null,
+      "price": "$15",
+      "description": "Bliss, I Was Afraid, Peach Blush, So Much Heaven, Primal Brain, Powdr, Shielding",
+      "eventUrl": "http://www.prekindle.com/event/66531-true-love-weekend-at-res-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648482082398"
+    },
+    {
       "title": "ATLiens",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -2452,7 +2452,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-20",
       "time": null,
-      "price": "$60–$322",
+      "price": "$29–$322",
       "description": "Dethklok, Amon Amarth, Castle Rat",
       "eventUrl": "http://www.prekindle.com/event/44479-dethklok-and-amon-amarth-oklahoma-city",
       "ageLimit": null,
@@ -2648,11 +2648,11 @@
       "date": "2026-04-25",
       "time": "8:00 PM",
       "price": "$11–$22",
-      "description": "Happy Landing",
+      "description": "Happy Landing, Lostboycrow",
       "eventUrl": "http://www.prekindle.com/event/57217-happy-landing-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510626617"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648481694092"
     },
     {
       "title": "Electronic Orchestra",
@@ -3310,7 +3310,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-05-20",
       "time": null,
-      "price": "$45",
+      "price": "$40–$100",
       "description": "The Psychedelic Furs, We Are Scientists",
       "eventUrl": "http://www.prekindle.com/event/54854-the-psychedelic-furs-with-special-guests-we-are-scientists-oklahoma-city",
       "ageLimit": null,
@@ -3323,7 +3323,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-05-20",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$25.52",
       "description": "Mac Saturn",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/mac-saturn-20-may",
       "ageLimit": "ALL AGES",
@@ -3362,7 +3362,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-23",
       "time": "8:00 PM",
-      "price": "$22",
+      "price": "$19",
       "description": "Mac Saturn",
       "eventUrl": "http://www.prekindle.com/event/44836-mac-saturn-oklahoma-city",
       "ageLimit": null,
@@ -3544,7 +3544,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-12",
       "time": null,
-      "price": "$33",
+      "price": "$30–$60",
       "description": "Between The Buried & Me, Imperial Triumphant, Fallujah",
       "eventUrl": "http://www.prekindle.com/event/93682-between-the-buried-and-me-the-blue-nowhere-us-tour-spring-2026-oklahoma-city",
       "ageLimit": null,
@@ -3635,7 +3635,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-07-29",
       "time": null,
-      "price": null,
+      "price": "$30–$180",
       "description": "Matt Fraser",
       "eventUrl": "http://www.prekindle.com/event/89253-matt-fraser-oklahoma-city",
       "ageLimit": null,
