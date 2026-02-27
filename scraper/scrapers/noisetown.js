@@ -64,7 +64,7 @@ export async function scrape() {
 
       // Thumbnail image from Squarespace event thumbnail column
       const rawImgSrc = $el.find('.eventlist-column-thumbnail img').first().attr('src') || null;
-      const imageUrl = rawImgSrc ? rawImgSrc.replace(/\?format=\w+$/, '?format=500w') : null;
+      const imageUrl = rawImgSrc ? rawImgSrc.replace(/\?format=\w+$/, '?format=1000w') : null;
 
       // Price from description text: "Tickets $10" or "$10 advance"
       const descText = $el.find('.eventlist-excerpt').text();

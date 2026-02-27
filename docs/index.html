@@ -181,6 +181,99 @@
     .day-label .day-of-week { color: var(--text); }
     .day-label .day-today   { color: var(--accent); }
 
+    /* ── Modal ──────────────────────────────────────────────────────────── */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      background: rgba(0, 0, 0, 0.78);
+      backdrop-filter: blur(4px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+    }
+    .modal-overlay[hidden] { display: none; }
+
+    .modal-box {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-top: 3px solid var(--vc, var(--border));
+      border-radius: 10px;
+      max-width: 640px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 10px;
+      right: 12px;
+      background: none;
+      border: none;
+      color: var(--muted);
+      font-size: 20px;
+      line-height: 1;
+      cursor: pointer;
+      padding: 4px 6px;
+      z-index: 1;
+    }
+    .modal-close:hover { color: var(--text); }
+
+    .modal-img {
+      width: 100%;
+      height: 320px;
+      object-fit: cover;
+      display: block;
+    }
+    .modal-img[hidden] { display: none; }
+
+    .modal-body { padding: 20px; }
+
+    .modal-venue-row { margin-bottom: 10px; }
+
+    .modal-title {
+      font-size: 21px;
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+
+    .modal-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 16px;
+      font-size: 14px;
+      color: var(--muted);
+      margin-bottom: 14px;
+    }
+    .modal-meta .show-price { font-size: 14px; }
+
+    .modal-desc {
+      font-size: 14px;
+      color: #bbb;
+      line-height: 1.65;
+      margin-bottom: 20px;
+      white-space: pre-line;
+    }
+    .modal-desc[hidden] { display: none; }
+
+    .modal-ticket-btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #000;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: var(--radius);
+      text-decoration: none;
+      transition: opacity 0.15s;
+    }
+    .modal-ticket-btn:hover { opacity: 0.85; text-decoration: none; }
+
     /* ── Show card ──────────────────────────────────────────────────────── */
     .show-card {
       background: var(--surface);
@@ -191,6 +284,7 @@
       margin-bottom: 10px;
       transition: border-color 0.15s;
     }
+    .show-card { cursor: pointer; }
     .show-card:hover { border-color: #444; border-left-color: var(--vc, #444); }
 
     .card-top {
@@ -336,6 +430,20 @@
 
 <main id="main"></main>
 
+<div id="modal" class="modal-overlay" hidden>
+  <div class="modal-box" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <button class="modal-close" id="modalClose" aria-label="Close">✕</button>
+    <img class="modal-img" id="modalImg" src="" alt="" hidden>
+    <div class="modal-body">
+      <div class="modal-venue-row" id="modalVenueRow"></div>
+      <h2 class="modal-title" id="modalTitle"></h2>
+      <div class="modal-meta" id="modalMeta"></div>
+      <div class="modal-desc" id="modalDesc" hidden></div>
+      <div id="modalActions"></div>
+    </div>
+  </div>
+</div>
+
 <script>
 // ── City → venue mapping ────────────────────────────────────────────────────
 const CITY_MAP = {
@@ -352,6 +460,7 @@ const CITY_MAP = {
 
 // ── State ──────────────────────────────────────────────────────────────────
 let allShows = [];
+let showMap  = new Map(); // key: "venue||date||title" → show object
 let showPast = false;
 let searchQuery = '';
 let cityFilter  = '';
@@ -520,8 +629,10 @@ function renderShows() {
 }
 
 function renderCard(show) {
-  const vc = VENUE_COLORS[show.venue];
+  const vc      = VENUE_COLORS[show.venue];
   const vcStyle = vc ? ` style="--vc:${vc}"` : '';
+  const showKey = `${show.venue}||${show.date}||${show.title}`;
+  const showKeyAttr = escape(showKey);
 
   const titleHtml = show.eventUrl
     ? `<a href="${escape(show.eventUrl)}" target="_blank" rel="noopener">${escape(show.title)}</a>`
@@ -561,7 +672,7 @@ function renderCard(show) {
   `;
 
   return `
-    <article class="show-card${show.imageUrl ? ' has-thumb' : ''}"${vcStyle}>
+    <article class="show-card${show.imageUrl ? ' has-thumb' : ''}"${vcStyle} data-show-key="${showKeyAttr}">
       ${thumbHtml}
       ${show.imageUrl ? `<div class="card-body">${body}</div>` : body}
     </article>
@@ -657,6 +768,85 @@ document.getElementById('upcomingToggle').addEventListener('click', e => {
   resetAndRender();
 });
 
+// ── Modal ───────────────────────────────────────────────────────────────────
+
+function openModal(show) {
+  const vc      = VENUE_COLORS[show.venue] || '';
+  const overlay = document.getElementById('modal');
+  const box     = overlay.querySelector('.modal-box');
+
+  // Venue color on top border
+  box.style.setProperty('--vc', vc);
+
+  // Image
+  const img = document.getElementById('modalImg');
+  if (show.imageUrl) {
+    img.src    = show.imageUrl;
+    img.hidden = false;
+  } else {
+    img.src    = '';
+    img.hidden = true;
+  }
+
+  // Venue badge
+  const venueInner = show.venueUrl
+    ? `<a href="${escape(show.venueUrl)}" target="_blank" rel="noopener">${escape(show.venue)}</a>`
+    : escape(show.venue);
+  document.getElementById('modalVenueRow').innerHTML =
+    `<span class="venue-badge"${vc ? ` style="--vc:${vc}"` : ''}>${venueInner}</span>`;
+
+  // Title
+  document.getElementById('modalTitle').textContent = show.title;
+
+  // Meta row: date, time, price, age
+  const isFree = (show.price ?? '').toLowerCase() === 'free';
+  const metaParts = [
+    show.date     ? `<span>${escape(friendlyDate(show.date))}</span>` : '<span>Date TBD</span>',
+    show.time     ? `<span>${escape(show.time)}</span>` : '',
+    show.price    ? `<span class="show-price${isFree ? ' free' : ''}">${escape(show.price)}</span>` : '',
+    show.ageLimit ? `<span class="meta-age">${escape(show.ageLimit)}</span>` : '',
+  ].filter(Boolean);
+  document.getElementById('modalMeta').innerHTML = metaParts.join('');
+
+  // Description
+  const descEl = document.getElementById('modalDesc');
+  if (show.description) {
+    descEl.textContent = show.description;
+    descEl.hidden = false;
+  } else {
+    descEl.hidden = true;
+  }
+
+  // Ticket button
+  document.getElementById('modalActions').innerHTML = show.eventUrl
+    ? `<a class="modal-ticket-btn" href="${escape(show.eventUrl)}" target="_blank" rel="noopener">Get Tickets →</a>`
+    : '';
+
+  overlay.hidden = false;
+  document.body.style.overflow = 'hidden';
+}
+
+function closeModal() {
+  document.getElementById('modal').hidden = true;
+  document.body.style.overflow = '';
+}
+
+// Open modal on card click (skip if clicking a link)
+document.getElementById('main').addEventListener('click', e => {
+  if (e.target.closest('a')) return;
+  const card = e.target.closest('article.show-card[data-show-key]');
+  if (!card) return;
+  const show = showMap.get(card.dataset.showKey);
+  if (show) openModal(show);
+});
+
+// Close on backdrop click, close button, or Escape
+document.getElementById('modal').addEventListener('click', e => {
+  if (e.target === e.currentTarget) closeModal();
+});
+document.getElementById('modalClose').addEventListener('click', closeModal);
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
 // ── Boot ───────────────────────────────────────────────────────────────────
 
 async function boot() {
@@ -669,6 +859,7 @@ async function boot() {
     const data = await res.json();
 
     allShows = data.shows ?? [];
+    showMap  = new Map(allShows.map(s => [`${s.venue}||${s.date}||${s.title}`, s]));
 
     if (data.scraperErrors?.length) {
       const names = data.scraperErrors.map(e => e.scraper).join(', ');

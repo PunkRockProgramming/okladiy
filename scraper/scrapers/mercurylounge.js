@@ -58,8 +58,9 @@ export async function scrape() {
       const href = $el.find('a.pk-title-link').attr('href') ?? '';
       const eventUrl = href || VENUE_URL;
 
-      // Thumbnail image from Prekindle widget card
-      const imageUrl = $el.find('.pk-image img').first().attr('src') || null;
+      // Thumbnail image from Prekindle widget card — strip _t suffix for full resolution
+      const rawImgSrc = $el.find('.pk-image img').first().attr('src') || null;
+      const imageUrl  = rawImgSrc ? rawImgSrc.replace(/_t$/, '') : null;
 
       shows.push(
         normalizeShow({
