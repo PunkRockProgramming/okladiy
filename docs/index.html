@@ -260,6 +260,28 @@
     .card-thumb { width: 100px; height: 100px; border-radius: 6px; object-fit: cover; flex-shrink: 0; }
     .card-body  { flex: 1; min-width: 0; }
 
+    /* ── Pagination ──────────────────────────────────────────────────────── */
+    .pagination {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      padding: 24px 0 8px;
+    }
+    .page-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text);
+      cursor: pointer;
+      font-size: 14px;
+      padding: 8px 18px;
+      transition: border-color 0.15s, color 0.15s;
+    }
+    .page-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+    .page-btn:disabled { opacity: 0.3; cursor: default; }
+    .page-info { font-size: 14px; color: var(--muted); }
+
     /* ── Empty / error states ───────────────────────────────────────────── */
     .empty-state {
       text-align: center;
@@ -443,10 +465,17 @@ function renderShows() {
     groups.get(key).push(show);
   }
 
+  // Paginate by date groups
+  const allDates    = [...groups.keys()];
+  const totalPages  = Math.max(1, Math.ceil(allDates.length / PAGE_SIZE));
+  currentPage       = Math.min(currentPage, totalPages - 1);
+  const pageDates   = allDates.slice(currentPage * PAGE_SIZE, (currentPage + 1) * PAGE_SIZE);
+
   const parts = [];
-  for (const [date, dayShows] of groups) {
-    const isToday = date === todayStr;
-    const label   = date === 'TBD' ? 'Date TBD' : friendlyDate(date);
+  for (const date of pageDates) {
+    const dayShows = groups.get(date);
+    const isToday  = date === todayStr;
+    const label    = date === 'TBD' ? 'Date TBD' : friendlyDate(date);
     const [weekdayPart, ...rest] = label.split(', ');
     const restStr  = rest.join(', ');
     const dayClass = isToday ? 'day-today' : 'day-of-week';
@@ -463,8 +492,31 @@ function renderShows() {
     `);
   }
 
-  main.innerHTML = parts.join('');
-  renderMonthStrip([...groups.keys()]);
+  // Pagination controls
+  const paginationHtml = totalPages > 1 ? `
+    <div class="pagination">
+      <button class="page-btn" id="prevPage" ${currentPage === 0 ? 'disabled' : ''}>← Prev</button>
+      <span class="page-info">Page ${currentPage + 1} of ${totalPages}</span>
+      <button class="page-btn" id="nextPage" ${currentPage >= totalPages - 1 ? 'disabled' : ''}>Next →</button>
+    </div>
+  ` : '';
+
+  main.innerHTML = parts.join('') + paginationHtml;
+
+  if (totalPages > 1) {
+    document.getElementById('prevPage')?.addEventListener('click', () => {
+      currentPage--;
+      renderShows();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    document.getElementById('nextPage')?.addEventListener('click', () => {
+      currentPage++;
+      renderShows();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+
+  renderMonthStrip(pageDates);
 }
 
 function renderCard(show) {
@@ -575,9 +627,14 @@ function populateVenueFilter() {
 
 // ── Event wiring ───────────────────────────────────────────────────────────
 
+function resetAndRender() {
+  currentPage = 0;
+  renderShows();
+}
+
 document.getElementById('searchInput').addEventListener('input', e => {
   searchQuery = e.target.value;
-  renderShows();
+  resetAndRender();
 });
 
 document.getElementById('cityFilter').addEventListener('change', e => {
@@ -585,19 +642,19 @@ document.getElementById('cityFilter').addEventListener('change', e => {
   // Reset venue filter when city changes — the old selection may not apply
   venueFilter = '';
   document.getElementById('venueFilter').value = '';
-  renderShows();
+  resetAndRender();
 });
 
 document.getElementById('venueFilter').addEventListener('change', e => {
   venueFilter = e.target.value;
-  renderShows();
+  resetAndRender();
 });
 
 document.getElementById('upcomingToggle').addEventListener('click', e => {
   showPast = !showPast;
   e.target.textContent = showPast ? 'All shows' : 'Upcoming';
   e.target.classList.toggle('active', !showPast);
-  renderShows();
+  resetAndRender();
 });
 
 // ── Boot ───────────────────────────────────────────────────────────────────
