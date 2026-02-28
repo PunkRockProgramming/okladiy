@@ -1,20 +1,7 @@
 {
-  "lastUpdated": "2026-02-28T06:50:18.984Z",
+  "lastUpdated": "2026-02-28T18:17:22.933Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "The Queers",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-02-27",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "THE QUEERS \nwith Special Guests Costanzas, The Normandys, & Havana Affair\n\n*All Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/thequeers/89thstreetokc/oklahomacity/32121/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_68d02209fac942a3b14e0d5f3d10da9d~mv2.jpg"
-    },
     {
       "title": "51 June",
       "venue": "Tower Theatre",
@@ -300,6 +287,19 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648507814090"
+    },
+    {
+      "title": "HANGERS AND BANGERS",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-03-06",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/44254-hangers-and-bangers-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648480670819"
     },
     {
       "title": "J Rod Wald",
@@ -2003,6 +2003,19 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648643329265"
+    },
+    {
+      "title": "SCALP",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-09",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "SCALP\nspecial guest Year of the Knife\n\nGeneral Admission Standing / All Ages Welcome",
+      "eventUrl": "https://www.etix.com/ticket/p/62571689/scalp-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_2a2aa184f88b476cb41a554717dcde69~mv2.jpg"
     },
     {
       "title": "Lily Seabird",
