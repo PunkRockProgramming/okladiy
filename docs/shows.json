@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T07:08:06.893Z",
+  "lastUpdated": "2026-03-02T18:31:18.961Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -204,7 +204,7 @@
       "date": "2026-03-06",
       "time": "8:00 PM",
       "price": null,
-      "description": "Nether Hour",
+      "description": "Nether Hour, Compost Adjacent",
       "eventUrl": "http://www.prekindle.com/event/67533-nether-hour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1745,6 +1745,19 @@
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3188328df0e936ea4a30_joshwesthers6.jpeg"
     },
     {
+      "title": "Bonnie Stewart with special guest Joleen Brown",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-04-04",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648479541574",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648479541485"
+    },
+    {
       "title": "Johnny Mullenax",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1899,6 +1912,19 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648494566333"
+    },
+    {
+      "title": "Club XCX",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-04-10",
+      "time": null,
+      "price": "$15–$30",
+      "description": "The Dance Parties, DJ Isis Payne, Topatío, Dj Reboot, La'porsche Binz",
+      "eventUrl": "http://www.prekindle.com/event/91426-club-xcx-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483058867"
     },
     {
       "title": "Straight Tequila Night ~ a Tribute to '90s Country (21+)",
@@ -2270,7 +2296,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-20",
       "time": null,
-      "price": "$29–$322",
+      "price": "$60–$322",
       "description": "Dethklok, Amon Amarth, Castle Rat",
       "eventUrl": "http://www.prekindle.com/event/44479-dethklok-and-amon-amarth-oklahoma-city",
       "ageLimit": null,
