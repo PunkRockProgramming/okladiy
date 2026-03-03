@@ -1,53 +1,14 @@
 {
-  "lastUpdated": "2026-03-02T18:31:18.961Z",
+  "lastUpdated": "2026-03-03T07:02:24.172Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "BRYCE CRAWFORD “I LOVE JESUS U.S. TOUR”",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-03-02",
-      "time": null,
-      "price": "$30–$60",
-      "description": "Bryce Crawford",
-      "eventUrl": "http://www.prekindle.com/event/21591-bryce-crawford-i-love-jesus-us-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648709962947"
-    },
-    {
-      "title": "Poetry for Thee Open Mic Poetry Swap",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-03-02",
-      "time": "5:30 PM",
-      "price": null,
-      "description": "Open Mic Poetry Swap. Free to attend and participate. You can just listen to the poetry, you do not have to read!New Early Sign up Time 5:30pm Reading 6pm.",
-      "eventUrl": "https://www.noisetowntulsa.com/events/5c7fyztylg5l8837h54l3takt3bze6",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1772127725847-7CAXQARX1QCNY1FKZPSE/March+Poetry+Flier.png"
-    },
-    {
-      "title": "Descendents & Frank Turner & The Sleeping Souls",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-03-02",
-      "time": null,
-      "price": "$48–$130",
-      "description": "Descendents, Frank Turner & the Sleeping Souls, NOBRO",
-      "eventUrl": "http://www.prekindle.com/event/63145-descendents-and-frank-turner-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648622567766"
-    },
     {
       "title": "Jonah Kagen - Sunflowers & Leather Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-03-03",
       "time": "8:00 PM",
-      "price": "$30",
+      "price": "$35",
       "description": "Jonah Kagen, Anna Graves",
       "eventUrl": "http://www.prekindle.com/event/11622-jonah-kagen-oklahoma-city",
       "ageLimit": null,
@@ -99,7 +60,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-03-05",
       "time": null,
-      "price": "$16–$68",
+      "price": null,
       "description": "All Them Witches, King Buffalo",
       "eventUrl": "http://www.prekindle.com/event/29774-all-them-witches-house-of-mirrors-tour-oklahoma-city",
       "ageLimit": null,
@@ -208,7 +169,7 @@
       "eventUrl": "http://www.prekindle.com/event/67533-nether-hour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648549718228"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648479475708"
     },
     {
       "title": "Fanwave Artist Showcase",
@@ -222,6 +183,19 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648500278273"
+    },
+    {
+      "title": "THE FREAKOUT",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-03-07",
+      "time": null,
+      "price": "$5",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/28776-the-freakout-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648478645627"
     },
     {
       "title": "Live Music COVER SETS feat: Crimson Love, Morris Village, & The Mannequin Side Hug Project",
@@ -893,7 +867,7 @@
       "date": "2026-03-18",
       "time": null,
       "price": "$12",
-      "description": "Pretty Jane",
+      "description": "Pretty Jane, Clayton",
       "eventUrl": "http://www.prekindle.com/event/38545-pretty-jane-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1321,7 +1295,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-03-25",
       "time": null,
-      "price": "$11–$75",
+      "price": "$5–$75",
       "description": "The Phil Collins Story (Phil Collins Tribute)",
       "eventUrl": "http://www.prekindle.com/event/34763-the-phil-collins-story-oklahoma-city",
       "ageLimit": null,
@@ -1420,6 +1394,19 @@
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648722506843"
     },
     {
+      "title": "2 Minutes to Tulsa Afterparty: MADMAN MORGAN",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-03-27",
+      "time": null,
+      "price": null,
+      "description": "Madman Morgan",
+      "eventUrl": "http://www.prekindle.com/event/95742-2-minutes-to-tulsa-afterparty-madman-morgan-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648478630533"
+    },
+    {
       "title": "2 Minutes to Tulsa '26",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1498,17 +1485,17 @@
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648509915450"
     },
     {
-      "title": "When Forever Finds Me | Boketto | Stutter",
+      "title": "2 Minutes to Tulsa Afterparty: TRANSYLVANIA",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-03-28",
       "time": null,
       "price": "$10",
-      "description": "When Forever Finds Me, Boketto, Stutter",
+      "description": "Transylvania",
       "eventUrl": "http://www.prekindle.com/event/44165-when-forever-finds-me-boketto-stutter-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488771552"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648478630450"
     },
     {
       "title": "Varials",
@@ -2115,7 +2102,7 @@
       "date": "2026-04-17",
       "time": "8:00 PM",
       "price": "$15–$75",
-      "description": "Wayne Hancock",
+      "description": "Wayne Hancock, Billy Irwin and the Gambits",
       "eventUrl": "http://www.prekindle.com/event/61781-wayne-hancock-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2707,7 +2694,7 @@
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519266550"
     },
     {
-      "title": "The Toasters - 45 Years of Ska",
+      "title": "The Toasters - 45 Years of Ska with special guest Boss Riot",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-05-02",
