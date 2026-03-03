@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T07:02:24.172Z",
+  "lastUpdated": "2026-03-03T18:33:52.232Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -659,7 +659,7 @@
       "date": "2026-03-14",
       "time": "8:00 PM",
       "price": null,
-      "description": "Robert Jon & the Wreck",
+      "description": "Robert Jon & the Wreck, Sam Morrow",
       "eventUrl": "http://www.prekindle.com/event/82267-robert-jon-and-the-wreck-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1140,11 +1140,11 @@
       "date": "2026-03-22",
       "time": "7:00 PM",
       "price": null,
-      "description": "2026 US South + Midwest Tour\nJoshua Quimby & Matt Pless \nPlus Special Guest TBA\n*All Tickets General Admission",
+      "description": "2026 US South + Midwest Tour\nJoshua Quimby & Matt Pless \nSpecial Guests Billy Irwin & the Gambits and Beau Turrentine\n*All Tickets General Admission",
       "eventUrl": "http://etix.com/ticket/p/83799654/joshua-quimby-matt-pless-oklahoma-city-89th-street",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_d1f4a3b028ba41b89d455bb79dde0d84~mv2.jpg"
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_f348a4f84f964562b6787188c2bddba9~mv2.jpg"
     },
     {
       "title": "Trampled by Turtles",
@@ -1784,6 +1784,19 @@
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493155212"
     },
     {
+      "title": "TRUE LOVE WEEKEND",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-05",
+      "time": "3:00 PM",
+      "price": null,
+      "description": "TRUE LOVE WEEKEND\nFeaturing: Photocopy, Ivory Daze, From Drexel, and FOAM \n\nGeneral Admission Standing / All Ages Welcome",
+      "eventUrl": "https://www.etix.com/ticket/p/42811863/true-love-weekend-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_762ad1f48fb5434f901da21929f44cb8~mv2.jpg"
+    },
+    {
       "title": "IV and The Strange Band + Clownvis Presley + King Sickabilly",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -1875,19 +1888,6 @@
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648643329265"
     },
     {
-      "title": "SCALP",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-09",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "SCALP\nspecial guest Year of the Knife\n\nGeneral Admission Standing / All Ages Welcome",
-      "eventUrl": "https://www.etix.com/ticket/p/62571689/scalp-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_2a2aa184f88b476cb41a554717dcde69~mv2.jpg"
-    },
-    {
       "title": "Lily Seabird",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -1933,11 +1933,11 @@
       "date": "2026-04-10",
       "time": "8:00 PM",
       "price": "$30",
-      "description": "Lissie",
+      "description": "Lissie, Madisen Ward",
       "eventUrl": "http://www.prekindle.com/event/85417-lissie-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648491567166"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648478236496"
     },
     {
       "title": "The Retrograde",
