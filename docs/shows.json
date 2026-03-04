@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-04T06:58:43.165Z",
+  "lastUpdated": "2026-03-04T18:32:26.031Z",
   "scraperErrors": [],
   "shows": [
     {
-      "title": "Vicious Rumors",
+      "title": "CANCELLED** Vicious Rumors",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
       "date": "2026-03-04",
       "time": "6:30 PM",
       "price": null,
-      "description": "Vicious Rumors\nSpecial Guests  Chainsaw Review Club & Panik Roomz\nAll Tickets General Admission",
+      "description": "Due to circumstances beyond our control, the show is unfortunately cancelled.\nTickets will be refunded automatically.\n\nVicious Rumors\nSpecial Guests  Chainsaw Review Club & Panik Roomz\nAll Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/viciousrumors/89thstreetokc/oklahomacity/32108/",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_d7448fe51d204bc587300127777174e5~mv2.jpg"
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_4ea92f860db1479a976ab2cd7b0def0b~mv2.jpg"
     },
     {
       "title": "Magic City Hippies - Winter Tour 2026",
@@ -333,7 +333,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-03-10",
       "time": "8:00 PM",
-      "price": "$42.81",
+      "price": "$43",
       "description": "Lucero, Otis Gibbs",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/lucero-celebrating-20-years-of-nobody-s-darlings-10-mar",
       "ageLimit": "ALL AGES",
@@ -950,6 +950,19 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648477610798"
+    },
+    {
+      "title": "Acoustic Night featuring performances from Bugjuice Blues, Morris Village & More",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-03-20",
+      "time": "7:30 PM",
+      "price": "$10",
+      "description": "Acoustic Night featuring Bugjuice Blues, Morris Village, China Blue, and Babies on a Halfpipe.Doors 7:30pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/acoustic-night-featuring-performances-from-bugjuice-blues-morris-village-china-blue-babies-on-a-halfpipe",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1772642832066-X3Q6AGAMLVT71GRFWMZP/Acoustic+Flier.png"
     },
     {
       "title": "Flake",
@@ -1647,7 +1660,7 @@
       "date": "2026-04-03",
       "time": null,
       "price": "$13–$45",
-      "description": "Bolo",
+      "description": "Bolo, JNZO, MVRCUSJAY",
       "eventUrl": "http://www.prekindle.com/event/29363-bolo-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1927,6 +1940,19 @@
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6990cf961ab9ce9ed8721401_Legacy_Hall_Back_Stage_enhanced_small-gigapixel-recover_v2-7000w-faceai_v2.jpeg"
     },
     {
+      "title": "Kruse Brothers: The Heartbreak and Honky-Tonk Tour",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-04-10",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648477528233",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648477525747"
+    },
+    {
       "title": "Lissie",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2042,6 +2068,19 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493884997"
+    },
+    {
+      "title": "Huser Brother Band",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-04-16",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "Huser Brother Band",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/huser-brother-band-16-apr",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69a640b24c15923e195c7bc3_flyer_vanguard.jpeg"
     },
     {
       "title": "The Creekers",
@@ -3318,6 +3357,19 @@
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69949e9d9b070a9a20f439f7_1ST_CHOICE.jpeg"
     },
     {
+      "title": "GRAHAM – The MOODSWINGS Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-06-04",
+      "time": "8:00 PM",
+      "price": "$20–$50",
+      "description": "GRAHAM, Luke Rob",
+      "eventUrl": "http://www.prekindle.com/event/58141-graham-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648477739003"
+    },
+    {
       "title": "Little Image",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -3472,6 +3524,19 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048633"
+    },
+    {
+      "title": "Jayson Arendt",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-08-20",
+      "time": null,
+      "price": "$15–$50",
+      "description": "Jayson Arendt",
+      "eventUrl": "http://www.prekindle.com/event/67359-jayson-arendt-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476526614"
     },
     {
       "title": "PawPaw Rod: Picture Day Tour",
