@@ -1,20 +1,7 @@
 {
-  "lastUpdated": "2026-03-05T07:02:33.262Z",
+  "lastUpdated": "2026-03-05T19:06:00.942Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Vicious Rumors",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-04",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Vicious Rumors\nSpecial Guests  Chainsaw Review Club & Panik Roomz\nAll Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/viciousrumors/89thstreetokc/oklahomacity/32108/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_d7448fe51d204bc587300127777174e5~mv2.jpg"
-    },
     {
       "title": "All Them Witches - House of Mirrors Tour",
       "venue": "Tower Theatre",
@@ -263,17 +250,17 @@
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648563102817"
     },
     {
-      "title": "Irae & Diatheke",
+      "title": "Diatheke",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
       "date": "2026-03-09",
       "time": "6:30 PM",
       "price": null,
-      "description": "Irae & Diatheke\nwith Special Guests  Against the Dammed, Failure to Cope & Lamb Slaughter\n*All Tickets General Admission",
+      "description": "Diatheke\nwith Special Guests  Against the Dammed, Failure to Cope & Lamb Slaughter\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/iraediatheke/89thstreetokc/oklahomacity/32479/",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_04d5ba4c73e74e759b051b24d286d78b~mv2.png"
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_bfea022f6f3b4af39e6178f5e8a7736c~mv2.jpg"
     },
     {
       "title": "Taraneh",
@@ -788,7 +775,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-03-17",
       "time": null,
-      "price": "$25–$100",
+      "price": "$6–$100",
       "description": "A.J Croce",
       "eventUrl": "http://www.prekindle.com/event/49444-aj-croce-oklahoma-city",
       "ageLimit": null,
@@ -802,7 +789,7 @@
       "date": "2026-03-18",
       "time": "8:00 PM",
       "price": "$27.84",
-      "description": "Winyah, Edgehill",
+      "description": "Winyah, Edgehill, Andrew Lucier",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/winyah-no-place-i-d-rather-be-tour-18-mar",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -1888,6 +1875,19 @@
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648643329265"
     },
     {
+      "title": "SCALP",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-09",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "SCALP\nspecial guest Year of the Knife, Inferna, and Caustic\n\nGeneral Admission Standing / All Ages Welcome",
+      "eventUrl": "https://www.etix.com/ticket/p/62571689/scalp-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_2a2aa184f88b476cb41a554717dcde69~mv2.jpg"
+    },
+    {
       "title": "Lily Seabird",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2011,7 +2011,7 @@
       "date": "2026-04-11",
       "time": "8:00 PM",
       "price": "$23–$75",
-      "description": "David Murphy",
+      "description": "David Murphy, Montu",
       "eventUrl": "http://www.prekindle.com/event/13641-david-murphy-for-my-peeps-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2570,11 +2570,11 @@
       "date": "2026-04-27",
       "time": "8:00 PM",
       "price": "$14–$150",
-      "description": "Cass McCombs",
+      "description": "Cass McCombs, Lael Neale",
       "eventUrl": "http://www.prekindle.com/event/41864-cass-mccombs-and-band-interior-live-oak-live-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510625735"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648475736362"
     },
     {
       "title": "Snail Mail",
@@ -2939,6 +2939,19 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696fa8dc220685ce591ce66d_1200_x_628_SLN_STOCK_3A_%25281%2529.jpeg"
+    },
+    {
+      "title": "Jake Xerxes Fussell",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-10",
+      "time": null,
+      "price": "$20",
+      "description": "Jake Xerxes Fussell",
+      "eventUrl": "http://www.prekindle.com/event/18766-jake-xerxes-fussell-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476028375"
     },
     {
       "title": "DAYSEEKER: The Pale Moonlight Tour",
@@ -3368,6 +3381,19 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697d3efcafc91270372c7da4_000364800007.jpeg"
+    },
+    {
+      "title": "SiC (Slipknot Tribute) & Lost In Hollywood (System of a Down Tribute)",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-06-06",
+      "time": "8:00 PM",
+      "price": "$13–$75",
+      "description": "Sic Tx (Slipknot Tribute), Lost In Hollywood (System Of A Down Tribute)",
+      "eventUrl": "http://www.prekindle.com/event/78439-sic-and-lost-in-hollywood-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476466345"
     },
     {
       "title": "The Runarounds: The Minivan Tour",
