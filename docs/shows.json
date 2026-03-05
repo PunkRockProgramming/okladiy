@@ -1,45 +1,19 @@
 {
-  "lastUpdated": "2026-03-04T18:32:26.031Z",
+  "lastUpdated": "2026-03-05T07:02:33.262Z",
   "scraperErrors": [],
   "shows": [
     {
-      "title": "CANCELLED** Vicious Rumors",
+      "title": "Vicious Rumors",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
       "date": "2026-03-04",
       "time": "6:30 PM",
       "price": null,
-      "description": "Due to circumstances beyond our control, the show is unfortunately cancelled.\nTickets will be refunded automatically.\n\nVicious Rumors\nSpecial Guests  Chainsaw Review Club & Panik Roomz\nAll Tickets General Admission",
+      "description": "Vicious Rumors\nSpecial Guests  Chainsaw Review Club & Panik Roomz\nAll Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/viciousrumors/89thstreetokc/oklahomacity/32108/",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_4ea92f860db1479a976ab2cd7b0def0b~mv2.jpg"
-    },
-    {
-      "title": "Magic City Hippies - Winter Tour 2026",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-03-04",
-      "time": "8:00 PM",
-      "price": "$30",
-      "description": "Magic City Hippies, Supertaste",
-      "eventUrl": "http://www.prekindle.com/event/38181-magic-city-hippies-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648688848642"
-    },
-    {
-      "title": "Failure To Cope, Piehole, A Parting Gaze, Semester Abroad",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-04",
-      "time": null,
-      "price": "$12",
-      "description": "Failure To Cope, Piehole, A Parting Gaze, Semester Abroad",
-      "eventUrl": "http://www.prekindle.com/event/37541-failure-to-cope-piehole-a-parting-gaze-semester-abroad-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648491817029"
+      "imageUrl": "https://static.wixstatic.com/media/779716_d7448fe51d204bc587300127777174e5~mv2.jpg"
     },
     {
       "title": "All Them Witches - House of Mirrors Tour",
@@ -91,7 +65,7 @@
       "eventUrl": "http://www.prekindle.com/event/46359-its-a-2000s-party-oklahoma-city-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648507814090"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476053099"
     },
     {
       "title": "HANGERS AND BANGERS",
@@ -481,7 +455,7 @@
       "eventUrl": "http://www.prekindle.com/event/32321-paddys-rave-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505198387"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476050625"
     },
     {
       "title": "THE DEVIL WEARS PRADA – FLOWERS TOUR",
@@ -495,6 +469,19 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/the-devil-wears-prada-flowers-tour.jfif"
+    },
+    {
+      "title": "KATNIP",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-03-13",
+      "time": null,
+      "price": "$5",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/12264-katnip-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476361620"
     },
     {
       "title": "Kenny Feidler",
@@ -1360,7 +1347,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-03-26",
       "time": "8:00 PM",
-      "price": "$16–$113",
+      "price": "$11–$113",
       "description": "Ryan Caraveo, Travis Thompson",
       "eventUrl": "http://www.prekindle.com/event/88753-ryan-caraveo-the-forever-foggy-tour-oklahoma-city",
       "ageLimit": null,
@@ -1667,7 +1654,7 @@
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510544582"
     },
     {
-      "title": "2000's Rave - 18+",
+      "title": "(18+) 2000s Rave",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-04-03",
@@ -1675,7 +1662,7 @@
       "price": "$24.57",
       "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/2000-s-rave-18-03-apr",
-      "ageLimit": "18+",
+      "ageLimit": null,
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187b15cffc139e9ca41_TULSA_2000s_rave_wide_1920__flyer_%25281%2529.jpeg"
     },
@@ -3614,7 +3601,7 @@
       "eventUrl": "http://www.prekindle.com/event/73342-snarky-puppy-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648503287375"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476045156"
     }
   ]
 }
