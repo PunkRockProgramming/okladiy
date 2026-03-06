@@ -619,20 +619,20 @@ function filteredShows() {
 
 // ── Newly Added ────────────────────────────────────────────────────────────
 
+function daysSinceAdded(show) {
+  if (!show.dateAdded) return Infinity;
+  const added = parseISOLocal(show.dateAdded);
+  return (today - added) / (1000 * 60 * 60 * 24);
+}
+
 function isNewlyAdded(show) {
-  if (!show.dateAdded || !lastUpdatedISO) return false;
-  const ref   = new Date(lastUpdatedISO);
-  const added = new Date(show.dateAdded);
-  const diffDays = (ref - added) / (1000 * 60 * 60 * 24);
-  return diffDays <= 7 && diffDays >= 0;
+  const d = daysSinceAdded(show);
+  return d >= 0 && d <= 7;
 }
 
 function isBrandNew(show) {
-  if (!show.dateAdded || !lastUpdatedISO) return false;
-  const ref   = new Date(lastUpdatedISO);
-  const added = new Date(show.dateAdded);
-  const diffDays = (ref - added) / (1000 * 60 * 60 * 24);
-  return diffDays <= 1 && diffDays >= 0;
+  const d = daysSinceAdded(show);
+  return d >= 0 && d <= 1;
 }
 
 // ── Calendar Export ─────────────────────────────────────────────────────────
