@@ -274,6 +274,23 @@
     }
     .modal-ticket-btn:hover { opacity: 0.85; text-decoration: none; }
 
+    #modalActions { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+
+    .modal-cal-btn {
+      display: inline-block;
+      background: none;
+      color: var(--muted);
+      font-family: var(--font);
+      font-size: 13px;
+      font-weight: 600;
+      padding: 8px 16px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      cursor: pointer;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .modal-cal-btn:hover { color: var(--text); border-color: #555; }
+
     /* ── Show card ──────────────────────────────────────────────────────── */
     .show-card {
       background: var(--surface);
@@ -406,6 +423,7 @@
       display: inline-block;
       background: var(--accent);
       color: #0f0f0f;
+      flex-shrink: 0;
       font-size: 10px;
       font-weight: 700;
       letter-spacing: 0.06em;
@@ -413,6 +431,10 @@
       border-radius: 3px;
       margin-right: 6px;
       vertical-align: middle;
+    }
+    .new-badge.just-added {
+      background: #ff6b35;
+      color: #fff;
     }
 
     /* ── Responsive ─────────────────────────────────────────────────────── */
@@ -443,6 +465,7 @@
         <option value="">All venues</option>
       </select>
       <button class="toggle-btn active" id="upcomingToggle">Upcoming</button>
+      <button class="toggle-btn" id="newOnlyToggle">New</button>
       <button class="toggle-btn" id="exportIcalBtn" title="Export all upcoming shows as .ics calendar">Export .ics</button>
     </div>
     <span class="last-updated" id="lastUpdated"></span>
@@ -484,7 +507,8 @@ const CITY_MAP = {
 // ── State ──────────────────────────────────────────────────────────────────
 let allShows = [];
 let showMap  = new Map(); // key: "venue||date||title" → show object
-let showPast = false;
+let showPast    = false;
+let showNewOnly = false;
 let searchQuery = '';
 let cityFilter  = '';
 let venueFilter = '';
@@ -567,6 +591,7 @@ function filteredShows() {
   const q = searchQuery.toLowerCase();
   return allShows.filter(show => {
     if (!showPast && show.date && show.date < todayStr) return false;
+    if (showNewOnly && !isNewlyAdded(show)) return false;
     if (cityFilter && CITY_MAP[show.venue] !== cityFilter) return false;
     if (venueFilter && show.venue !== venueFilter) return false;
     if (q) {
@@ -586,6 +611,14 @@ function isNewlyAdded(show) {
   const added = new Date(show.dateAdded);
   const diffDays = (ref - added) / (1000 * 60 * 60 * 24);
   return diffDays <= 7 && diffDays >= 0;
+}
+
+function isBrandNew(show) {
+  if (!show.dateAdded || !lastUpdatedISO) return false;
+  const ref   = new Date(lastUpdatedISO);
+  const added = new Date(show.dateAdded);
+  const diffDays = (ref - added) / (1000 * 60 * 60 * 24);
+  return diffDays <= 1 && diffDays >= 0;
 }
 
 // ── Calendar Export ─────────────────────────────────────────────────────────
@@ -608,6 +641,38 @@ function toIcalDate(dateStr, timeStr) {
   if (ampm.toUpperCase() === 'AM' && h === 12) h = 0;
   const pad = n => String(n).padStart(2, '0');
   return { type: 'datetime', value: `${dateStr.replace(/-/g, '')}T${pad(h)}${pad(min)}00` };
+}
+
+function generateShowIcal(show) {
+  const uid = simpleHash(`${show.venue}||${show.date}||${show.title}`) + '@okdiy';
+  const dt  = toIcalDate(show.date, show.time);
+  if (!dt) return;
+  const dtStart = dt.type === 'date'
+    ? `DTSTART;VALUE=DATE:${dt.value}`
+    : `DTSTART;TZID=America/Chicago:${dt.value}`;
+  const descParts = [show.description, show.eventUrl ? `Tickets: ${show.eventUrl}` : null].filter(Boolean);
+  const lines = [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'PRODID:-//OKDIY//OKC+Tulsa Shows//EN',
+    'CALSCALE:GREGORIAN',
+    'X-WR-TIMEZONE:America/Chicago',
+    'BEGIN:VEVENT',
+    `UID:${uid}`,
+    `SUMMARY:${(show.title || '').replace(/[\\,;]/g, c => '\\' + c)}`,
+    dtStart,
+    `LOCATION:${(show.venue || '').replace(/[\\,;]/g, c => '\\' + c)}`,
+  ];
+  if (descParts.length) lines.push(`DESCRIPTION:${descParts.join('\\n').replace(/[\\,;]/g, c => '\\' + c)}`);
+  if (show.eventUrl) lines.push(`URL:${show.eventUrl}`);
+  lines.push('END:VEVENT', 'END:VCALENDAR');
+  const blob = new Blob([lines.join('\r\n')], { type: 'text/calendar' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  const slug = (show.title || 'show').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  a.download = `okdiy-${slug}.ics`;
+  a.click();
+  URL.revokeObjectURL(a.href);
 }
 
 function generateIcal() {
@@ -704,15 +769,15 @@ function renderShows() {
     </div>
   ` : '';
 
-  // Newly added section (first page only)
+  // Newly added section (first page only, hidden when new filter is active)
   let newlyAddedHtml = '';
-  if (currentPage === 0) {
+  if (currentPage === 0 && !showNewOnly) {
     const newShows = filteredShows().filter(s => s.date >= todayStr && isNewlyAdded(s));
     if (newShows.length > 0) {
       newlyAddedHtml = `
         <section class="newly-added-section">
           <div class="day-header"><span class="day-label"><span class="day-of-week">Recently Added</span></span></div>
-          ${newShows.map(s => renderCard(s, true)).join('')}
+          ${newShows.map(s => renderCard(s)).join('')}
         </section>
       `;
     }
@@ -736,7 +801,7 @@ function renderShows() {
   renderMonthStrip(pageDates);
 }
 
-function renderCard(show, isNew = false) {
+function renderCard(show) {
   const vc      = VENUE_COLORS[show.venue];
   const vcStyle = vc ? ` style="--vc:${vc}"` : '';
   const showKey = `${show.venue}||${show.date}||${show.title}`;
@@ -770,7 +835,11 @@ function renderCard(show, isNew = false) {
     ? `<img class="card-thumb" src="${escape(show.imageUrl)}" alt="" loading="lazy">`
     : '';
 
-  const newBadge = isNew ? `<span class="new-badge">NEW</span>` : '';
+  const newBadge = isBrandNew(show)
+    ? `<span class="new-badge just-added">JUST ADDED</span>`
+    : isNewlyAdded(show)
+      ? `<span class="new-badge">NEW</span>`
+      : '';
 
   const body = `
     <div class="card-top">
@@ -878,6 +947,12 @@ document.getElementById('upcomingToggle').addEventListener('click', e => {
   resetAndRender();
 });
 
+document.getElementById('newOnlyToggle').addEventListener('click', e => {
+  showNewOnly = !showNewOnly;
+  e.target.classList.toggle('active', showNewOnly);
+  resetAndRender();
+});
+
 document.getElementById('exportIcalBtn').addEventListener('click', generateIcal);
 
 // ── Modal ───────────────────────────────────────────────────────────────────
@@ -929,10 +1004,17 @@ function openModal(show) {
     descEl.hidden = true;
   }
 
-  // Ticket button
-  document.getElementById('modalActions').innerHTML = show.eventUrl
+  // Action buttons
+  const ticketBtn = show.eventUrl
     ? `<a class="modal-ticket-btn" href="${escape(show.eventUrl)}" target="_blank" rel="noopener">Get Tickets →</a>`
     : '';
+  const calBtn = show.date
+    ? `<button class="modal-cal-btn" id="modalCalBtn">+ Calendar</button>`
+    : '';
+  document.getElementById('modalActions').innerHTML = ticketBtn + calBtn;
+  if (show.date) {
+    document.getElementById('modalCalBtn').addEventListener('click', () => generateShowIcal(show));
+  }
 
   overlay.hidden = false;
   document.body.style.overflow = 'hidden';
