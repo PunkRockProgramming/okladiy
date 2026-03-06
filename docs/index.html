@@ -304,6 +304,20 @@
     .show-card { cursor: pointer; }
     .show-card:hover { border-color: #444; border-left-color: var(--vc, #444); }
 
+    .card-cal-btn {
+      display: inline-block;
+      margin-top: 8px;
+      background: none;
+      border: none;
+      color: var(--muted);
+      font-family: var(--font);
+      font-size: 11px;
+      cursor: pointer;
+      padding: 0;
+      letter-spacing: 0.04em;
+    }
+    .card-cal-btn:hover { color: var(--text); }
+
     .card-top {
       display: flex;
       align-items: flex-start;
@@ -841,6 +855,10 @@ function renderCard(show) {
       ? `<span class="new-badge">NEW</span>`
       : '';
 
+  const calBtnHtml = show.date
+    ? `<button class="card-cal-btn" data-cal-key="${showKeyAttr}" title="Add to calendar">+ cal</button>`
+    : '';
+
   const body = `
     <div class="card-top">
       <div class="show-title">${titleHtml}</div>
@@ -848,6 +866,7 @@ function renderCard(show) {
     </div>
     ${meta ? `<div class="card-meta">${meta}</div>` : ''}
     ${descHtml}
+    ${calBtnHtml}
   `;
 
   return `
@@ -1025,9 +1044,16 @@ function closeModal() {
   document.body.style.overflow = '';
 }
 
-// Open modal on card click (skip if clicking a link)
+// Open modal on card click (skip if clicking a link or cal button)
 document.getElementById('main').addEventListener('click', e => {
   if (e.target.closest('a')) return;
+  const calBtn = e.target.closest('.card-cal-btn');
+  if (calBtn) {
+    e.stopPropagation();
+    const show = showMap.get(calBtn.dataset.calKey);
+    if (show) generateShowIcal(show);
+    return;
+  }
   const card = e.target.closest('article.show-card[data-show-key]');
   if (!card) return;
   const show = showMap.get(card.dataset.showKey);
