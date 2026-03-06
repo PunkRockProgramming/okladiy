@@ -18,7 +18,7 @@ export async function fetchHtml(url, { delayMs = true } = {}) {
   const res = await fetch(url, {
     headers: {
       'User-Agent':
-        'Mozilla/5.0 (compatible; okladiy-scraper/1.0; +https://github.com/local/okladiy)',
+        'Mozilla/5.0 (compatible; okdiy-scraper/1.0; +https://github.com/local/okdiy)',
       Accept: 'text/html,application/xhtml+xml',
     },
     timeout: 15000,
@@ -139,5 +139,6 @@ export function normalizeShow(partial) {
     ageLimit: partial.ageLimit?.trim() || null,
     tags: Array.isArray(partial.tags) ? partial.tags : [],
     imageUrl: partial.imageUrl || null,
+    dateAdded: partial.dateAdded ?? null,
   };
 }

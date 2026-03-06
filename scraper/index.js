@@ -7,7 +7,7 @@
  * Usage:  node scraper/index.js
  */
 
-import { writeFile, mkdir } from 'fs/promises';
+import { writeFile, readFile, mkdir } from 'fs/promises';
 import { fileURLToPath } from 'url';
 import { join, dirname } from 'path';
 import { dedup } from './utils.js';
@@ -89,6 +89,28 @@ async function main() {
     if (!b.date) return -1;
     return a.date.localeCompare(b.date);
   });
+
+  // Load previous shows.json to preserve dateAdded values
+  const todayISO = new Date().toISOString().slice(0, 10);
+  let prevLookup = new Map();
+  try {
+    const prev = JSON.parse(await readFile(OUT_PATH, 'utf8'));
+    for (const s of prev.shows ?? []) {
+      const key = [(s.venue ?? '').toLowerCase(), s.date ?? '', (s.title ?? '').toLowerCase()].join('||');
+      prevLookup.set(key, s.dateAdded ?? null);
+    }
+  } catch {
+    // No existing file — all shows are new
+  }
+
+  for (const show of unique) {
+    const key = [(show.venue ?? '').toLowerCase(), show.date ?? '', (show.title ?? '').toLowerCase()].join('||');
+    if (prevLookup.has(key)) {
+      show.dateAdded = prevLookup.get(key) ?? todayISO;
+    } else {
+      show.dateAdded = todayISO;
+    }
+  }
 
   const output = {
     lastUpdated: new Date().toISOString(),

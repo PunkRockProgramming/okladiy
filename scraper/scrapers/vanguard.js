@@ -63,7 +63,7 @@ export async function scrape() {
   });
 
   // ── Step 2: fetch detail pages in parallel batches ───────────────────────
-  const UA = 'Mozilla/5.0 (compatible; okladiy-scraper/1.0; +https://github.com/local/okladiy)';
+  const UA = 'Mozilla/5.0 (compatible; okdiy-scraper/1.0; +https://github.com/local/okdiy)';
   const BATCH = 8;
   const shows = [];
 

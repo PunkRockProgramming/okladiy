@@ -49,7 +49,7 @@ export async function scrape() {
   today.setHours(0, 0, 0, 0);
   const todayISO = today.toISOString().slice(0, 10); // "2026-02-27"
 
-  const UA = 'Mozilla/5.0 (compatible; okladiy-scraper/1.0; +https://github.com/local/okladiy)';
+  const UA = 'Mozilla/5.0 (compatible; okdiy-scraper/1.0; +https://github.com/local/okdiy)';
   const BATCH = 8; // concurrent requests per batch
   const shows = [];
 

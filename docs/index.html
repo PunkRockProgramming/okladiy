@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>okladiy — OKC + Tulsa Shows</title>
+  <title>OKDIY — OKC + Tulsa Shows</title>
   <meta name="description" content="Upcoming indie and DIY shows in Oklahoma City and Tulsa, OK.">
   <style>
     /* ── Reset & Base ───────────────────────────────────────────────────── */
@@ -393,6 +393,28 @@
       color: var(--danger);
     }
 
+    /* ── Newly Added ─────────────────────────────────────────────────────── */
+    .newly-added-section {
+      margin-bottom: 8px;
+      border: 1px solid #2e3a1a;
+      border-radius: var(--radius);
+      background: #161e0d;
+      padding: 4px 0 4px;
+    }
+
+    .new-badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #0f0f0f;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      padding: 1px 5px;
+      border-radius: 3px;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+
     /* ── Responsive ─────────────────────────────────────────────────────── */
     @media (min-width: 600px) {
       .day-header { top: 53px; }
@@ -403,7 +425,7 @@
 
 <header class="site-header">
   <div class="header-row">
-    <span class="site-title">okladiy</span>
+    <span class="site-title">OKDIY</span>
     <div class="controls">
       <input
         class="search-input"
@@ -421,6 +443,7 @@
         <option value="">All venues</option>
       </select>
       <button class="toggle-btn active" id="upcomingToggle">Upcoming</button>
+      <button class="toggle-btn" id="exportIcalBtn" title="Export all upcoming shows as .ics calendar">Export .ics</button>
     </div>
     <span class="last-updated" id="lastUpdated"></span>
   </div>
@@ -466,6 +489,7 @@ let searchQuery = '';
 let cityFilter  = '';
 let venueFilter = '';
 let currentPage = 0;
+let lastUpdatedISO = null;
 const PAGE_SIZE  = 25; // date groups (days) per page
 
 const today = new Date();
@@ -554,6 +578,76 @@ function filteredShows() {
   });
 }
 
+// ── Newly Added ────────────────────────────────────────────────────────────
+
+function isNewlyAdded(show) {
+  if (!show.dateAdded || !lastUpdatedISO) return false;
+  const ref   = new Date(lastUpdatedISO);
+  const added = new Date(show.dateAdded);
+  const diffDays = (ref - added) / (1000 * 60 * 60 * 24);
+  return diffDays <= 7 && diffDays >= 0;
+}
+
+// ── Calendar Export ─────────────────────────────────────────────────────────
+
+function simpleHash(str) {
+  let h = 0;
+  for (let i = 0; i < str.length; i++) h = (Math.imul(31, h) + str.charCodeAt(i)) | 0;
+  return Math.abs(h).toString(36);
+}
+
+function toIcalDate(dateStr, timeStr) {
+  if (!dateStr) return null;
+  if (!timeStr) return { type: 'date', value: dateStr.replace(/-/g, '') };
+  // Parse "8:00 PM" style time
+  const m = timeStr.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+  if (!m) return { type: 'date', value: dateStr.replace(/-/g, '') };
+  let [, h, min, ampm] = m;
+  h = parseInt(h);
+  if (ampm.toUpperCase() === 'PM' && h !== 12) h += 12;
+  if (ampm.toUpperCase() === 'AM' && h === 12) h = 0;
+  const pad = n => String(n).padStart(2, '0');
+  return { type: 'datetime', value: `${dateStr.replace(/-/g, '')}T${pad(h)}${pad(min)}00` };
+}
+
+function generateIcal() {
+  const upcoming = allShows.filter(s => s.date && s.date >= todayStr);
+  const lines = [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'PRODID:-//OKDIY//OKC+Tulsa Shows//EN',
+    'CALSCALE:GREGORIAN',
+    'X-WR-CALNAME:OKDIY Shows',
+    'X-WR-TIMEZONE:America/Chicago',
+  ];
+
+  for (const show of upcoming) {
+    const uid = simpleHash(`${show.venue}||${show.date}||${show.title}`) + '@okdiy';
+    const dt  = toIcalDate(show.date, show.time);
+    if (!dt) continue;
+    const dtStart = dt.type === 'date'
+      ? `DTSTART;VALUE=DATE:${dt.value}`
+      : `DTSTART;TZID=America/Chicago:${dt.value}`;
+    const descParts = [show.description, show.eventUrl ? `Tickets: ${show.eventUrl}` : null].filter(Boolean);
+    lines.push('BEGIN:VEVENT');
+    lines.push(`UID:${uid}`);
+    lines.push(`SUMMARY:${(show.title || '').replace(/[\\,;]/g, c => '\\' + c)}`);
+    lines.push(dtStart);
+    lines.push(`LOCATION:${(show.venue || '').replace(/[\\,;]/g, c => '\\' + c)}`);
+    if (descParts.length) lines.push(`DESCRIPTION:${descParts.join('\\n').replace(/[\\,;]/g, c => '\\' + c)}`);
+    if (show.eventUrl) lines.push(`URL:${show.eventUrl}`);
+    lines.push('END:VEVENT');
+  }
+
+  lines.push('END:VCALENDAR');
+  const blob = new Blob([lines.join('\r\n')], { type: 'text/calendar' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'okdiy-shows.ics';
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
 // ── Render ─────────────────────────────────────────────────────────────────
 
 function renderShows() {
@@ -610,7 +704,21 @@ function renderShows() {
     </div>
   ` : '';
 
-  main.innerHTML = parts.join('') + paginationHtml;
+  // Newly added section (first page only)
+  let newlyAddedHtml = '';
+  if (currentPage === 0) {
+    const newShows = filteredShows().filter(s => s.date >= todayStr && isNewlyAdded(s));
+    if (newShows.length > 0) {
+      newlyAddedHtml = `
+        <section class="newly-added-section">
+          <div class="day-header"><span class="day-label"><span class="day-of-week">Recently Added</span></span></div>
+          ${newShows.map(s => renderCard(s, true)).join('')}
+        </section>
+      `;
+    }
+  }
+
+  main.innerHTML = newlyAddedHtml + parts.join('') + paginationHtml;
 
   if (totalPages > 1) {
     document.getElementById('prevPage')?.addEventListener('click', () => {
@@ -628,7 +736,7 @@ function renderShows() {
   renderMonthStrip(pageDates);
 }
 
-function renderCard(show) {
+function renderCard(show, isNew = false) {
   const vc      = VENUE_COLORS[show.venue];
   const vcStyle = vc ? ` style="--vc:${vc}"` : '';
   const showKey = `${show.venue}||${show.date}||${show.title}`;
@@ -662,10 +770,12 @@ function renderCard(show) {
     ? `<img class="card-thumb" src="${escape(show.imageUrl)}" alt="" loading="lazy">`
     : '';
 
+  const newBadge = isNew ? `<span class="new-badge">NEW</span>` : '';
+
   const body = `
     <div class="card-top">
       <div class="show-title">${titleHtml}</div>
-      ${priceHtml}
+      ${newBadge}${priceHtml}
     </div>
     ${meta ? `<div class="card-meta">${meta}</div>` : ''}
     ${descHtml}
@@ -768,6 +878,8 @@ document.getElementById('upcomingToggle').addEventListener('click', e => {
   resetAndRender();
 });
 
+document.getElementById('exportIcalBtn').addEventListener('click', generateIcal);
+
 // ── Modal ───────────────────────────────────────────────────────────────────
 
 function openModal(show) {
@@ -860,6 +972,7 @@ async function boot() {
 
     allShows = data.shows ?? [];
     showMap  = new Map(allShows.map(s => [`${s.venue}||${s.date}||${s.title}`, s]));
+    lastUpdatedISO = data.lastUpdated ?? null;
 
     if (data.scraperErrors?.length) {
       const names = data.scraperErrors.map(e => e.scraper).join(', ');

@@ -1,4 +1,4 @@
-# okladiy
+# OKDIY
 
 OKC + Tulsa indie/DIY show aggregator. Scrapes venue sites → `docs/shows.json` → static calendar at `docs/index.html`.
 

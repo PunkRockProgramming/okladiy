@@ -1,4 +1,4 @@
-# okladiy — Claude Project Context
+# OKDIY — Claude Project Context
 
 Static site + Node.js scraper that aggregates OKC and Tulsa show listings.
 Scraper writes `docs/shows.json`; frontend reads it at load time.
