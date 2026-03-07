@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T06:52:35.088Z",
+  "lastUpdated": "2026-03-07T18:18:00.519Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -70,20 +70,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648474242284",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Singles Fest",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-07",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/98457-singles-fest-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648491914497",
       "dateAdded": "2026-03-06"
     },
     {
