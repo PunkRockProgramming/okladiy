@@ -1,63 +1,7 @@
 {
-  "lastUpdated": "2026-03-08T18:18:16.750Z",
+  "lastUpdated": "2026-03-09T07:12:00.002Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "A Killer's Confession",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-08",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "A Killer's Confession - Tour 2026\nw/ Saints of Solomon\nand special guests Shelter in Place & Pat Minotaur\n\n*All Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/akillersconfession/89thstreetokc/oklahomacity/32186/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_86220ab8b4284d178cffced8e9d3fc7a~mv2.jpg",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Johnny Mullenax's Bluegrass Brunch Tickets & Booth Reservations",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-03-08",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648472419064",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472416441",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Big Something",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-03-08",
-      "time": "7:00 PM",
-      "price": "$10–$75",
-      "description": "Big Something, Michael Wilbur (of Moon Hooch)",
-      "eventUrl": "http://www.prekindle.com/event/84856-big-something-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648498875890",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Clover County",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-08",
-      "time": null,
-      "price": "$15",
-      "description": "Clover County, Ethansroom, Keyland",
-      "eventUrl": "http://www.prekindle.com/event/22832-clover-country-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648563102817",
-      "dateAdded": "2026-03-06"
-    },
     {
       "title": "Diatheke",
       "venue": "89th Street OKC",
@@ -2033,6 +1977,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Temptress",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-16",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "TEMPTRESS\n\nDoors @ 7P \nGeneral Admission Standing\nAll Ages Welcome",
+      "eventUrl": "https://www.etix.com/ticket/p/84443979/temptress-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_c633f32dd35c4a2492201c13a13e28ba~mv2.jpg",
+      "dateAdded": "2026-03-09"
+    },
+    {
       "title": "Huser Brother Band",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -2235,7 +2193,7 @@
       "date": "2026-04-19",
       "time": null,
       "price": "$18",
-      "description": "Doublecamp",
+      "description": "Doublecamp, Boston Busler",
       "eventUrl": "http://www.prekindle.com/event/76158-doublecamp-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2262,7 +2220,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-19",
       "time": null,
-      "price": "$30–$239",
+      "price": "$20–$239",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/77679-dallas-cowboys-cheerleaders-oklahoma-city",
       "ageLimit": null,
@@ -2591,6 +2549,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648475736362",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "A Keep Oklahoma Heavy Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-27",
+      "time": null,
+      "price": "$12",
+      "description": "Face Pulp, Ectospire, Thross, Surus",
+      "eventUrl": "http://www.prekindle.com/event/34635-a-keep-oklahoma-heavy-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469521949",
+      "dateAdded": "2026-03-09"
     },
     {
       "title": "Snail Mail",
@@ -3319,6 +3291,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514342982",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "R&B ONLY LIVE",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-05-23",
+      "time": null,
+      "price": "$15",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/94766-randb-only-live-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469512992",
+      "dateAdded": "2026-03-09"
     },
     {
       "title": "The HU and Apocalyptica with Special Guest The Rasmus",
