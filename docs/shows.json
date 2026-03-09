@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T07:12:00.002Z",
+  "lastUpdated": "2026-03-09T18:36:35.830Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1451,7 +1451,7 @@
       "date": "2026-04-02",
       "time": "7:00 PM",
       "price": null,
-      "description": "OCEANIC\nNorth America Tour 2026\nGeneral Admission Standing / All Ages Welcome",
+      "description": "OCEANIC\nNorth America Tour 2026\nwith special guests RAABERS \nGeneral Admission Standing / All Ages Welcome",
       "eventUrl": "https://www.etix.com/ticket/p/61106896/oceanic-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -2193,7 +2193,7 @@
       "date": "2026-04-19",
       "time": null,
       "price": "$18",
-      "description": "Doublecamp, Boston Busler",
+      "description": "Doublecamp, Smokey Motel, Boston Busler",
       "eventUrl": "http://www.prekindle.com/event/76158-doublecamp-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2445,7 +2445,7 @@
       "date": "2026-04-24",
       "time": null,
       "price": "$25–$100",
-      "description": "Casey Donahew",
+      "description": "Casey Donahew, Cole Phillips, Palmer Anthony",
       "eventUrl": "http://www.prekindle.com/event/12421-casey-donahew-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2557,11 +2557,11 @@
       "date": "2026-04-27",
       "time": null,
       "price": "$12",
-      "description": "Face Pulp, Ectospire, Thross, Surus",
+      "description": "Face Pulp, Dogs Throw Spears, Ectospire, Thross, Surus",
       "eventUrl": "http://www.prekindle.com/event/34635-a-keep-oklahoma-heavy-show-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469521949",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469120924",
       "dateAdded": "2026-03-09"
     },
     {
@@ -3025,6 +3025,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696936de7b3c2a5e8640f1bb_PRESS_6.jpeg",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Carrellee",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-13",
+      "time": null,
+      "price": "$15",
+      "description": "Carrellee",
+      "eventUrl": "http://www.prekindle.com/event/69643-carrellee-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472529103",
+      "dateAdded": "2026-03-09"
     },
     {
       "title": "Citizen Soldier - Secret Songs tour Part II",
@@ -3613,6 +3627,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048633",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Uncle Lucius: The 20th Anniversary Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-30",
+      "time": "8:00 PM",
+      "price": "$25",
+      "description": "Uncle Lucius",
+      "eventUrl": "http://www.prekindle.com/event/21699-uncle-lucius-the-20th-anniversary-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648475737233",
+      "dateAdded": "2026-03-09"
     },
     {
       "title": "Jayson Arendt",
