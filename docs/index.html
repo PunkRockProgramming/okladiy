@@ -480,6 +480,7 @@
       </select>
       <button class="toggle-btn active" id="upcomingToggle">Upcoming</button>
       <button class="toggle-btn" id="newOnlyToggle">New</button>
+      <button class="toggle-btn" id="justAddedToggle">Just Added</button>
       <button class="toggle-btn" id="exportIcalBtn" title="Export all upcoming shows as .ics calendar">Export .ics</button>
     </div>
     <span class="last-updated" id="lastUpdated"></span>
@@ -521,8 +522,9 @@ const CITY_MAP = {
 // ── State ──────────────────────────────────────────────────────────────────
 let allShows = [];
 let showMap  = new Map(); // key: "venue||date||title" → show object
-let showPast    = false;
-let showNewOnly = false;
+let showPast         = false;
+let showNewOnly      = false;
+let showJustAddedOnly = false;
 let searchQuery = '';
 let cityFilter  = '';
 let venueFilter = '';
@@ -605,7 +607,8 @@ function filteredShows() {
   const q = searchQuery.toLowerCase();
   return allShows.filter(show => {
     if (!showPast && show.date && show.date < todayStr) return false;
-    if (showNewOnly && !isNewlyAdded(show)) return false;
+    if (showNewOnly      && !isNewlyAdded(show)) return false;
+    if (showJustAddedOnly && !isBrandNew(show))   return false;
     if (cityFilter && CITY_MAP[show.venue] !== cityFilter) return false;
     if (venueFilter && show.venue !== venueFilter) return false;
     if (q) {
@@ -785,7 +788,7 @@ function renderShows() {
 
   // Newly added section (first page only, hidden when new filter is active)
   let newlyAddedHtml = '';
-  if (currentPage === 0 && !showNewOnly) {
+  if (currentPage === 0 && !showNewOnly && !showJustAddedOnly) {
     const newShows = filteredShows().filter(s => s.date >= todayStr && isNewlyAdded(s));
     if (newShows.length > 0) {
       newlyAddedHtml = `
@@ -968,7 +971,21 @@ document.getElementById('upcomingToggle').addEventListener('click', e => {
 
 document.getElementById('newOnlyToggle').addEventListener('click', e => {
   showNewOnly = !showNewOnly;
+  if (showNewOnly) {
+    showJustAddedOnly = false;
+    document.getElementById('justAddedToggle').classList.remove('active');
+  }
   e.target.classList.toggle('active', showNewOnly);
+  resetAndRender();
+});
+
+document.getElementById('justAddedToggle').addEventListener('click', e => {
+  showJustAddedOnly = !showJustAddedOnly;
+  if (showJustAddedOnly) {
+    showNewOnly = false;
+    document.getElementById('newOnlyToggle').classList.remove('active');
+  }
+  e.target.classList.toggle('active', showJustAddedOnly);
   resetAndRender();
 });
 
