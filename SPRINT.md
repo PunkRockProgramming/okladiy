@@ -1,39 +1,37 @@
-# Sprint: OKDIY Agent System — Phase 2
+# Sprint: OKDIY — Stability & Instagram PoC
 
 **Date:** 2026-03-10
-**Type:** Build
-**Ratio:** 60% agent improvements / 40% venue expansion
+**Type:** Debt / Build
+**Ratio:** 50% scraper fixes / 50% RSSHub PoC
 
 ---
 
 ## Goal
 
-Make the PM and tech-lead agents useful in day-to-day operations. Add a `plan-sprint` command to PM that reads system state + roadmap and drafts actionable sprint tasks. Wire the tech-lead to auto-investigate anomalies. Complete the RSSHub PoC when Docker is available. Identify and onboard 2-3 new OKC/Tulsa venues.
+Fix the two open scraper anomalies (Opolis returning 0 shows, BeerCity DB constraint error) and complete the RSSHub Instagram PoC for The Sanctuary OKC.
 
 ---
 
 ## Decisions (locked before sprint starts)
 
-- **Decision Manager:** Standalone at `decision-manager/` — agents produce decisions, humans review via web UI on port 3339
-- **RSSHub PoC:** Approved (DEC-0002, DEC-0003) — execute when Docker + Instagram session are available
-- **Agent orchestration:** PM delegates to tech-lead; tech-lead writes proposals; human approves via decision-manager; PM then delegates execution
+- **RSSHub PoC:** Approved (DEC-0002, DEC-0003) — deferred from Phase 2 sprint, execute when Docker + Instagram session are available
 
 ---
 
 ## Tasks
 
-### Agent Improvements
+### Scraper Fixes
 
-- [x] PM agent: add `plan-sprint` command
-  - Reads scraper health, open anomalies, pending decisions, current shows.json stats
-  - Reads `ROADMAP.md` or project-roadmap.md for priorities
-  - Outputs a draft SPRINT.md with prioritized tasks
-- [x] PM agent: add `review` command — summarize what changed since last run (new anomalies, resolved decisions, scraper failures)
-- [x] Tech-lead agent: add `auto-investigate` mode
-  - Reads open anomalies from DB
-  - For each unresolved anomaly, investigates root cause and proposes a fix or writes a DEC
-  - Limit: 2 investigations per run to control API costs
-- [x] Wire PM `delegate` command to actually execute tech-lead investigations (currently logs as pending)
+- [ ] Investigate Opolis 0-show anomaly
+  - Verify opolis.net/events is still live and has listings
+  - Run `node scraper/run-one.js opolis` and inspect raw HTML
+  - Fix selectors if Squarespace layout changed
+  - Mark anomaly resolved once show_count > 0
+- [ ] Fix BeerCity `ON CONFLICT` DB constraint error
+  - Trace the error in `agents/scraper/index.js` — likely a schema mismatch in the `shows` table upsert
+  - Check `db/schema.sql` UNIQUE constraint vs the INSERT statement
+  - Fix and verify via `node agents/scraper/index.js beercity`
+  - Mark anomaly resolved
 
 ### RSSHub PoC Completion
 
@@ -45,34 +43,11 @@ Make the PM and tech-lead agents useful in day-to-day operations. Add a `plan-sp
 - [ ] If success: `npm install fast-xml-parser` (not needed for manual paste path, but enables RSS)
 - [ ] If fail: document failure mode in DEC-0003, promote manual paste to primary
 
-### Venue Expansion
-
-- [x] Research 2-3 new OKC/Tulsa venues to add scrapers for
-  - Cain's Ballroom (Tulsa): WordPress + RHP plugin, server-rendered listing, 34 shows — VIABLE
-  - Tulsa Theater (Tulsa): WordPress + RHP plugin, server-rendered listing, 19 shows — VIABLE
-  - The Blue Note (OKC): site down — NOT VIABLE
-  - Sound Pony (Tulsa): domain for sale — NOT VIABLE
-  - Jones Assembly (OKC): JS redirect, no scrape — NOT VIABLE
-  - Tulsa Theater event detail pages: JS-rendered (no server-side JSON-LD) — listing page used instead
-- [x] Build scrapers for viable venues (follow `scraper/scrapers/_template.js` pattern)
-  - `scraper/scrapers/cainsballroom.js` — 34 shows from listing page
-  - `scraper/scrapers/tulsatheater.js` — 19 shows from listing page
-- [x] Verify via `node scraper/run-one.js VENUE` and add to SCRAPERS array
-
-### Consolidation Cleanup
-
-- [x] Update `okladiy/CLAUDE.md` to document new files from consolidation sprint:
-  - `scraper/parse-text.js` (shared parser)
-  - `scraper/validate.js` (shared validation)
-  - `scraper/scrapers/sanctuary.js` (Instagram venue)
-  - `scraper/data/sanctuary-manual.txt` (manual paste file)
-
 ---
 
 ## Done When
 
-- `node agents/pm/index.js plan-sprint` produces a usable draft sprint
-- `node agents/pm/index.js review` summarizes recent system changes
-- Tech-lead can auto-investigate at least 1 anomaly and write a proposal
+- Opolis scraper returns > 0 shows
+- BeerCity scraper runs without DB constraint errors
+- Both anomalies marked resolved in DB
 - RSSHub PoC has a clear pass/fail result documented
-- At least 1 new venue scraper is added and returning shows
