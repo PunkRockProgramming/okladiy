@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T07:00:39.889Z",
+  "lastUpdated": "2026-03-10T12:15:36.562Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -14,20 +14,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510920049",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Lucero - Celebrating 20 Years of Nobody's Darlings",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-03-10",
-      "time": "8:00 PM",
-      "price": "$50",
-      "description": "Lucero, Otis Gibbs",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/lucero-celebrating-20-years-of-nobody-s-darlings-10-mar",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3188d9216186e148fe04_lucero-38.jpeg",
       "dateAdded": "2026-03-06"
     },
     {
@@ -157,6 +143,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Beth Hart",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-03-12",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/72944582/beth-hart-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Neutral Snap",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -283,6 +283,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "49 Winchester",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-03-13",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/35097635/49-winchester-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Jeris Johnson",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -395,6 +409,34 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Avery Anna",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-03-14",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/31283794/avery-anna-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
+      "title": "Brad Williams",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-03-14",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/39809290/brad-williams-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Volumes",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -479,6 +521,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Badflower",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-03-15",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/57756392/badflower-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Hudson Freeman",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -491,6 +547,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648609265422",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "ROBERT PLANT WITH SAVING GRACE and SUZI DIAN",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-03-16",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/59836089/robert-plant-with-saving-grace-and-suzi-dian-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Stardust USA 2026: Obscura",
@@ -661,6 +731,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Houndmouth",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-03-19",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/70950984/houndmouth-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Ventana - Rust and Revelations Tour",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -787,6 +871,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Blackberry Smoke",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-03-20",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/92027363/blackberry-smoke-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Raven",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -897,6 +995,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514620411",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "The Band of Heathens",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-03-21",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/43991797/the-band-of-heathens-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Joshua Quimby & Matt Pless",
@@ -1039,6 +1151,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "St. Paul & The Broken Bones",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-03-24",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/55226009/stpaul-the-broken-bones-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "The Unlikely Candidates",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1165,6 +1291,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Nate Smith",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-03-26",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/84511315/nate-smith-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Dime Store Riot",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -1277,6 +1417,34 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Disco, Always",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-03-27",
+      "time": "7:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/72262054/discoalways-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
+      "title": "KILLERS OF KILL TONY",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-03-27",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/90560557/killers-of-kill-tony-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Turnpike Tributedours (Tribute Band)",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1345,6 +1513,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510434656",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Day Shift Party",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-03-28",
+      "time": "5 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/50579730/day-shift-party-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "21+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "The Wood Brothers",
@@ -1417,6 +1599,20 @@
       "dateAdded": "2026-03-08"
     },
     {
+      "title": "Watchhouse",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-01",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/49912688/watchhouse-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Oceanic",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -1487,6 +1683,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Jessica Kirson",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-02",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/84515075/jessica-kirson-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "BOLO",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1555,6 +1765,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648602363048",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Leon Live! Annual Birthday Celebration",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-03",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/36451132/leon-liveannual-birthday-celebration-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Straight Tequila Night: '90s Country Tribute",
@@ -1697,6 +1921,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Slaughter To Prevail: North America 2026 with Whitechapel & Attila",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-04-06",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/60890464/slaughter-to-prevailnorth-america-2026-with-whitechapel-attila-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "MY LIFE WITH THE THRILL KILL KULT",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1779,6 +2017,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648494566333",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "GWAR",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-09",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/93273673/gwar-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Club XCX",
@@ -1949,6 +2201,34 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Evan Honer",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-15",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/72896782/evan-honer-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
+      "title": "Drew & Ellie Holcomb",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-04-15",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/59103657/drew-ellie-holcomb-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Temptress",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -2005,6 +2285,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Molly Tuttle",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-16",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/42970191/molly-tuttle-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "My So Called Band: '90s Tribute",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2045,6 +2339,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488414125",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Benjamin Tod & The Inline Six",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-17",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/76560718/benjamin-tod-the-inline-six-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "lowheaven",
@@ -2299,6 +2607,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Dallas Cowboys Cheerleaders LIVE!",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-04-21",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/89329387/dallas-cowboys-cheerleaders-live-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Bad Suns: ACCELERATOUR USA 2026",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2339,6 +2661,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648495328465",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Big Head Todd and the Monsters",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-22",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/43072913/big-head-todd-and-the-monsters-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Maria Bamford",
@@ -2439,6 +2775,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Randall King",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-24",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/37602727/randall-king-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Silversun Pickups - Tenterhooks Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2481,6 +2831,34 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "23rd Annual 80s Prom",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-25",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/69696633/23rd-annual-80s-prom-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "18+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
+      "title": "Ralph Barbosa: The Red 40 Tour",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-04-25",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/73185819/ralph-barbosathe-red-40-tour-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": "18+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Shovels & Rope",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -2521,6 +2899,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510647706",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Maddox Batson",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-26",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/65058034/maddox-batson-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Cass McCombs + Band: Interior Live Oak Live",
@@ -2649,6 +3041,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Violent Vira",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-04-30",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/82659897/violent-vira-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Two Feet: The Next Steps Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2689,6 +3095,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648497761232",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "CARNEY FEST ’26 featuring ROBERT RANDOLPH",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-05-01",
+      "time": "5:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/37402536/carney-fest-26-featuring-robert-randolph-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Becky Robinson: The Beasts in Me Tour",
@@ -2747,6 +3167,34 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "OK, SO GRAND SLAM",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-05-02",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/68051693/okso-grand-slam-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
+      "title": "The Wallflowers",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-05-02",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/51986891/the-wallflowers-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Toadies: The Charmer Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2789,6 +3237,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Becky Robinson: The Beasts In Me Tour",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-05-03",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/33505599/becky-robinsonthe-beasts-in-me-tour-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Cradle Of Filth",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -2817,6 +3279,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Lukas Nelson",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-05-05",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/44393023/lukas-nelson-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Shelly Belly",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2843,6 +3319,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/698f437fa252981f8d528ed8_Jake_Worthington_LEAD_Press_Image_Credit_Jim_Wright_August_2025.jpeg",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Micky Dolenz – 60 Years of The Monkees",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-05-07",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/73482825/micky-dolenz-60-years-of-the-monkees-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Whitney Cummings: Big Baby",
@@ -2957,6 +3447,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Samantha Fish",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-05-10",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/83854012/samantha-fish-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "DAYSEEKER: The Pale Moonlight Tour",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -2999,6 +3503,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Whose Live Anyway?",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-05-12",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/89908335/whose-live-anyway-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Ethan Regan - Spring Cleaning Tour",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -3025,6 +3543,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472529103",
       "dateAdded": "2026-03-09"
+    },
+    {
+      "title": "BERT KREISCHER: PERMISSION TO PARTY",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-05-13",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/41621614/bert-kreischerpermission-to-party-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Citizen Soldier - Secret Songs tour Part II",
@@ -3067,6 +3599,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648550171268",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Billy Currington",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-05-15",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/83887847/billy-currington-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Jensen McRae: God Has A Hitman Tour",
@@ -3123,6 +3669,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648496939524",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Tech N9ne and E-40",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-05-16",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/38366908/tech-n9ne-and-e40-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Dance With The Dead & Magic Sword",
@@ -3307,6 +3867,20 @@
       "dateAdded": "2026-03-09"
     },
     {
+      "title": "Bingo Loco",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-05-23",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/51619412/bingo-loco-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "21+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "The HU and Apocalyptica with Special Guest The Rasmus",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -3391,6 +3965,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Kolby Cooper",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-05-30",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/31751944/kolby-cooper-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Buckcherry",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -3433,6 +4021,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Shakey Graves",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-06-04",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/37020339/shakey-graves-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Little Image",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -3445,6 +4047,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697d3efcafc91270372c7da4_000364800007.jpeg",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Stoney LaRue",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-06-05",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/87626002/stoney-larue-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "SiC (Slipknot Tribute) & Lost In Hollywood (System of a Down Tribute)",
@@ -3489,6 +4105,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "HENRY CHO: THE EMPTY NEST TOUR",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-06-07",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/82027053/henry-chothe-empty-nest-tour-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Kings Kaleidoscope",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3531,6 +4161,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Kat Hasty",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-06-13",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/64563444/kat-hasty-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Vinyl Williams",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -3543,6 +4187,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648498707687",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Wilco",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-07-01",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/61500882/wilco-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Cinderella’s Tom Keifer Band",
@@ -3585,6 +4243,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486932059",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Last Podcast on the Left",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-07-17",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/53271931/last-podcast-on-the-left-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Last Podcast on the Left - JK Ultra Tour",
@@ -3671,6 +4343,34 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "W.A.S.P. -1984 TO HEADLESS",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-09-17",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/50566561/wasp1984-to-headless-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
+      "title": "Buddy Guy 90",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-09-18",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/42817555/buddy-guy-90-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Elefante",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -3699,6 +4399,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Jim Henson’s Labyrinth: In Concert 40th Anniversary",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-10-11",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/88394702/jim-hensons-labyrinthin-concert-40th-anniversary-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Leonid & Friends",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -3711,6 +4425,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648490354158",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "The Living Tombstone",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-10-13",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/48035077/the-living-tombstone-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Snarky Puppy",

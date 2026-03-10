@@ -1,0 +1,141 @@
+[
+  {
+    "id": "valid-complete",
+    "description": "Fully valid show with all fields",
+    "show": {
+      "title": "Turnstile",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://beercitymusichall.com",
+      "date": "2026-04-11",
+      "time": "8:00 PM",
+      "price": "$25",
+      "description": "with support",
+      "eventUrl": "https://prekindle.com/event/123",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    "expectValid": true,
+    "expectWarnings": 0
+  },
+  {
+    "id": "valid-minimal",
+    "description": "Minimal valid show (only required fields)",
+    "show": {
+      "title": "Open Mic",
+      "venue": "The Sanctuary",
+      "date": "2026-04-01"
+    },
+    "expectValid": true
+  },
+  {
+    "id": "missing-title",
+    "description": "Missing title should fail",
+    "show": {
+      "venue": "Beer City",
+      "date": "2026-04-01"
+    },
+    "expectValid": false,
+    "expectErrors": ["title"]
+  },
+  {
+    "id": "missing-venue",
+    "description": "Missing venue should fail",
+    "show": {
+      "title": "Some Show",
+      "date": "2026-04-01"
+    },
+    "expectValid": false,
+    "expectErrors": ["venue"]
+  },
+  {
+    "id": "missing-date",
+    "description": "Missing date should fail",
+    "show": {
+      "title": "Some Show",
+      "venue": "Beer City"
+    },
+    "expectValid": false,
+    "expectErrors": ["date"]
+  },
+  {
+    "id": "bad-date-format",
+    "description": "Invalid date format should fail",
+    "show": {
+      "title": "Some Show",
+      "venue": "Beer City",
+      "date": "April 11, 2026"
+    },
+    "expectValid": false,
+    "expectErrors": ["date"]
+  },
+  {
+    "id": "past-date",
+    "description": "Date far in the past should warn",
+    "show": {
+      "title": "Some Show",
+      "venue": "Beer City",
+      "date": "2024-01-01"
+    },
+    "expectValid": true,
+    "expectWarnings": 1
+  },
+  {
+    "id": "future-date",
+    "description": "Date far in the future should warn",
+    "show": {
+      "title": "Some Show",
+      "venue": "Beer City",
+      "date": "2028-06-01"
+    },
+    "expectValid": true,
+    "expectWarnings": 1
+  },
+  {
+    "id": "high-price",
+    "description": "Suspiciously high price should warn",
+    "show": {
+      "title": "Some Show",
+      "venue": "Beer City",
+      "date": "2026-04-01",
+      "price": "$999"
+    },
+    "expectValid": true,
+    "expectWarnings": 1
+  },
+  {
+    "id": "placeholder-title",
+    "description": "Placeholder title should warn",
+    "show": {
+      "title": "Unknown Show",
+      "venue": "Beer City",
+      "date": "2026-04-01"
+    },
+    "expectValid": true,
+    "expectWarnings": 1
+  },
+  {
+    "id": "placeholder-venue",
+    "description": "Placeholder venue should fail",
+    "show": {
+      "title": "Some Show",
+      "venue": "Unknown Venue",
+      "date": "2026-04-01"
+    },
+    "expectValid": false,
+    "expectErrors": ["venue"]
+  },
+  {
+    "id": "tags-not-array",
+    "description": "Tags as string should fail",
+    "show": {
+      "title": "Some Show",
+      "venue": "Beer City",
+      "date": "2026-04-01",
+      "tags": "rock"
+    },
+    "expectValid": false,
+    "expectErrors": ["tags"]
+  }
+]

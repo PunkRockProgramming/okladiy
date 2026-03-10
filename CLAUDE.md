@@ -8,9 +8,13 @@ Hosted on GitHub Pages / Netlify from the `docs/` folder.
 
 | File | Purpose |
 |------|---------|
-| `scraper/index.js` | Entry point — runs all scrapers, merges, deduplicates, writes shows.json |
+| `scraper/index.js` | Entry point — runs all scrapers, merges, deduplicates, validates, writes shows.json. Exports `main()` and `SCRAPERS`. |
 | `scraper/utils.js` | `fetchHtml`, `parseDate`, `normalizePrice`, `dedup`, `normalizeShow` |
+| `scraper/parse-text.js` | Shared regex parser — `regexParse(text)`, `regexParseWithMeta(text, meta)`, `splitMultiShow(text)`. Single source of truth for all regex constants. |
+| `scraper/validate.js` | Shared validation — `validateShow(show)`, `findDuplicates(shows)`, `validateAll(shows)`. Pure functions, no DB. |
 | `scraper/scrapers/*.js` | One file per venue, each exports `scrape()` |
+| `scraper/scrapers/sanctuary.js` | Instagram venue — dual-mode: RSSHub feed (5s timeout) + manual paste fallback from `scraper/data/sanctuary-manual.txt` |
+| `scraper/data/sanctuary-manual.txt` | Manual paste file for Sanctuary (paste Instagram captions here) |
 | `scraper/run-one.js` | Debug: run a single scraper by name |
 | `docs/index.html` | Self-contained frontend (no build step) |
 | `docs/shows.json` | Committed output — regenerate with `node scraper/index.js` |
@@ -93,6 +97,27 @@ The homepage has a widget component with all upcoming shows:
 - Dates: `widget.dates.events[id].startDateISOFormatNotUTC` (already local time)
 - External ticket URL: `event.registration.external.registration`
 - No price in warmup data — link to ticketing page instead
+
+## Agent System
+
+Agents live in `agents/` with shared libs in `agents/lib/`.
+
+| Agent | File | Commands |
+|-------|------|----------|
+| PM | `agents/pm/index.js` | `status`, `assess`, `delegate`, `plan-sprint`, `review` |
+| Tech Lead | `agents/tech-lead/index.js` | `"problem"`, `check DEC-XXXX`, `pending`, `auto-investigate` |
+| Scraper | `agents/scraper/index.js` | `all`, `<venue>`, `health` |
+| Parser | `agents/parser/index.js` | `"text"`, `--venue <name>`, `--json` |
+| Validator | `agents/validator/index.js` | `report` |
+
+**Shared libs:**
+- `agents/lib/claude.js` — Claude client (`ask`, `askWithTools`, model: `claude-sonnet-4-6`)
+- `agents/lib/db.js` — SQLite access (`getDb`, `getLatestRuns`, `getOpenAnomalies`, `getPendingTasks`, `createTask`, `updateTask`)
+- `agents/lib/decisions.js` — DECISIONS.md reader/writer (`parseDecisions`, `appendDecision`, `isApproved`)
+
+**Orchestration flow:** PM reads state → assesses priorities → delegates to tech-lead → tech-lead writes DEC proposals → human approves via decision-manager (port 3339) → PM delegates execution.
+
+**SQLite DB:** `db/showdb.sqlite` — tables: `scraper_runs`, `anomalies`, `shows`, `agent_tasks`.
 
 ## Performance Notes
 

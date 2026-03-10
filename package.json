@@ -5,11 +5,17 @@
   "type": "module",
   "scripts": {
     "scrape": "node scraper/index.js",
-    "serve": "npx serve docs"
+    "serve": "npx serve docs",
+    "eval": "node evals/run.js",
+    "eval:fast": "node evals/run.js --fast",
+    "eval:judge": "node evals/judge.eval.js --verbose"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
+    "better-sqlite3": "^12.6.2",
     "cheerio": "^1.0.0",
     "date-fns": "^3.6.0",
+    "dotenv": "^17.3.1",
     "node-fetch": "^3.3.2",
     "playwright": "^1.58.2"
   }

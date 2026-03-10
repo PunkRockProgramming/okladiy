@@ -1,0 +1,6 @@
+node_modules/
+db/*.sqlite
+db/*.sqlite-wal
+db/*.sqlite-shm
+agents/tech-lead/spikes/
+agents/tech-lead/research/

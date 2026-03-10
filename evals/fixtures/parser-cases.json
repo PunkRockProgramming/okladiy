@@ -1,0 +1,191 @@
+[
+  {
+    "id": "standard-post",
+    "description": "Standard Instagram show announcement with all fields",
+    "input": "SHOW ALERT — Friday March 14 | Doors 8pm | The Sanctuary | $10 adv / $12 dos | All Ages\nFeaturing: The Burning Hotels, Bad Luck, Slow Caves",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-03-14",
+      "time": "8 PM",
+      "price": "$10 adv / $12 door",
+      "ageLimit": "All Ages",
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "minimal-post",
+    "description": "Minimal post with just date and artist",
+    "input": "Saturday March 22 at The Sanctuary\nNeon Indian w/ special guests",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-03-22",
+      "time": null,
+      "price": null,
+      "ageLimit": null,
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "full-post",
+    "description": "Full post with doors/show time, advance/door price, 21+",
+    "input": "Saturday March 22 at The Sanctuary\nNeon Indian w/ special guests\nDoors at 7pm, Show at 8pm\n$15 advance / $20 door\n21+",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-03-22",
+      "time": "7 PM",
+      "price": "$15 adv / $20 door",
+      "ageLimit": "21+",
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "free-show",
+    "description": "Free show announcement",
+    "input": "TONIGHT at The Sanctuary\nOpen Mic Night\nFriday April 4\nFree admission\nAll ages\nDoors 7pm",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-04-04",
+      "time": "7 PM",
+      "price": "Free",
+      "ageLimit": "All Ages",
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "multi-act",
+    "description": "Multiple artists listed",
+    "input": "Friday March 28\nThe Black Angels\nw/ Frankie and the Witch Fingers, Night Beats\nDoors 7pm / Show 8pm\n$20 adv / $25 door\n18+",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-03-28",
+      "time": "7 PM",
+      "price": "$20 adv / $25 door",
+      "ageLimit": "18+",
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "no-event",
+    "description": "Non-event post (should produce no shows)",
+    "input": "Thanks to everyone who came out last night! What an incredible show. See you next time OKC!",
+    "venue": "sanctuary",
+    "expected": null
+  },
+  {
+    "id": "emoji-heavy",
+    "description": "Emoji-heavy post that still has event data",
+    "input": "🎸🔥 SHOW ALERT 🔥🎸\n🎤 Turnstile 🎤\n📅 Friday April 11\n🚪 Doors 7pm\n💰 $25\n🎫 All Ages",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-04-11",
+      "time": "7 PM",
+      "price": "$25",
+      "ageLimit": "All Ages",
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "numeric-date",
+    "description": "Numeric date format (3/14/2026)",
+    "input": "The Flaming Lips\n3/14/2026\nDoors at 8pm\n$30 advance\nAll Ages",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-03-14",
+      "time": "8 PM",
+      "price": "$30",
+      "ageLimit": "All Ages",
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "no-cover",
+    "description": "Uses 'no cover' instead of 'free'",
+    "input": "Wednesday April 9\nJazz Night at The Sanctuary\nNo cover\nDoors 8pm",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-04-09",
+      "time": "8 PM",
+      "price": "Free",
+      "ageLimit": null,
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "date-no-day-of-week",
+    "description": "Date without day-of-week ('march 21st')",
+    "input": "PILE\nmarch 21st\nThe Sanctuary\nDoors 7pm\n$12\nAll Ages",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-03-21",
+      "time": "7 PM",
+      "price": "$12",
+      "ageLimit": "All Ages",
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "informal-price",
+    "description": "Informal price ('10 bucks')",
+    "input": "Friday March 14\nLocal Showcase at The Sanctuary\n10 bucks\nDoors 8pm",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-03-14",
+      "time": "8 PM",
+      "price": "$10",
+      "ageLimit": null,
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "abbreviated-time",
+    "description": "Abbreviated time format ('8p')",
+    "input": "Saturday April 5\nREMI WOLF\nDoors 8p\n$22\nAll Ages",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-04-05",
+      "time": "8 PM",
+      "price": "$22",
+      "ageLimit": "All Ages",
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "prose-age-18-and-over",
+    "description": "Prose age limit ('18 and over')",
+    "input": "Friday April 18\nJAPANESE BREAKFAST\nDoors 7pm\n$25\n18 and over",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-04-18",
+      "time": "7 PM",
+      "price": "$25",
+      "ageLimit": "18+",
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "age-aa",
+    "description": "Age limit as 'AA' abbreviation",
+    "input": "sat apr 5 // REMI WOLF // sanctuary okc // 8p doors // $22 adv $28 dos // AA",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-04-05",
+      "time": "8 PM",
+      "price": "$22 adv / $28 door",
+      "ageLimit": "All Ages",
+      "hasTitle": true
+    }
+  },
+  {
+    "id": "bare-time-730",
+    "description": "Bare numeric time near doors context ('doors @ 730')",
+    "input": "PILE\nmarch 21st\ndoors @ 730\n10 bucks\nall ages",
+    "venue": "sanctuary",
+    "expected": {
+      "date": "2026-03-21",
+      "time": "7:30 PM",
+      "price": "$10",
+      "ageLimit": "All Ages",
+      "hasTitle": true
+    }
+  }
+]

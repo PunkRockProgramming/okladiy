@@ -2,7 +2,7 @@
  * Scraper entry point.
  *
  * Runs all venue scrapers in parallel, merges results, deduplicates,
- * sorts by date, and writes docs/shows.json.
+ * validates, sorts by date, and writes docs/shows.json.
  *
  * Usage:  node scraper/index.js
  */
@@ -11,6 +11,7 @@ import { writeFile, readFile, mkdir } from 'fs/promises';
 import { fileURLToPath } from 'url';
 import { join, dirname } from 'path';
 import { dedup } from './utils.js';
+import { validateAll } from './validate.js';
 import overrides from './image-overrides.json' with { type: 'json' };
 
 // ── Import scrapers ───────────────────────────────────────────────────────────
@@ -27,8 +28,11 @@ import { scrape as scrapeMercuryLounge }   from './scrapers/mercurylounge.js';
 import { scrape as scrapeBeerCity }        from './scrapers/beercity.js';
 import { scrape as scrapeResonantHead }    from './scrapers/resonanthead.js';
 import { scrape as scrapeCriterion }       from './scrapers/criterion.js';
+import { scrape as scrapeSanctuary }      from './scrapers/sanctuary.js';
+import { scrape as scrapeCainsBallroom } from './scrapers/cainsballroom.js';
+import { scrape as scrapeTulsaTheater }  from './scrapers/tulsatheater.js';
 
-const SCRAPERS = [
+export const SCRAPERS = [
   // { name: 'noladiy', fn: scrapeNolaDIY },
   { name: '89thstreet',   fn: scrape89thStreet },
   { name: 'opolis',       fn: scrapeOpolis },
@@ -41,6 +45,9 @@ const SCRAPERS = [
   { name: 'beercity',       fn: scrapeBeerCity },
   { name: 'resonanthead',   fn: scrapeResonantHead },
   { name: 'criterion',      fn: scrapeCriterion },
+  { name: 'sanctuary',     fn: scrapeSanctuary },
+  { name: 'cainsballroom', fn: scrapeCainsBallroom },
+  { name: 'tulsatheater', fn: scrapeTulsaTheater },
 ];
 
 // ── Paths ─────────────────────────────────────────────────────────────────────
@@ -59,7 +66,7 @@ function applyImageOverrides(shows) {
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
-async function main() {
+export async function main() {
   console.log(`Running ${SCRAPERS.length} scraper(s)…\n`);
 
   const results = await Promise.allSettled(SCRAPERS.map(({ fn }) => fn()));
@@ -90,6 +97,15 @@ async function main() {
     return a.date.localeCompare(b.date);
   });
 
+  // Validate — reject malformed shows
+  const { passed: validated, rejected } = validateAll(unique);
+  if (rejected.length) {
+    console.warn(`\n  ⚠️  Validator rejected ${rejected.length} show(s):`);
+    for (const r of rejected.slice(0, 10)) {
+      console.warn(`    ❌ ${r.venue} / ${r.date} / ${r.title} — ${r._rejectionReasons.join('; ')}`);
+    }
+  }
+
   // Load previous shows.json to preserve dateAdded values
   const todayISO = new Date().toISOString().slice(0, 10);
   let prevLookup = new Map();
@@ -103,7 +119,10 @@ async function main() {
     // No existing file — all shows are new
   }
 
-  for (const show of unique) {
+  // Strip _rejectionReasons from clean output, use validated shows
+  const cleanShows = validated.map(({ _rejectionReasons, ...show }) => show);
+
+  for (const show of cleanShows) {
     const key = [(show.venue ?? '').toLowerCase(), show.date ?? '', (show.title ?? '').toLowerCase()].join('||');
     if (prevLookup.has(key)) {
       show.dateAdded = prevLookup.get(key) ?? todayISO;
@@ -115,19 +134,25 @@ async function main() {
   const output = {
     lastUpdated: new Date().toISOString(),
     scraperErrors: errors,
-    shows: unique,
+    shows: cleanShows,
   };
 
   await mkdir(dirname(OUT_PATH), { recursive: true });
   await writeFile(OUT_PATH, JSON.stringify(output, null, 2), 'utf8');
 
-  console.log(`\nWrote ${unique.length} shows → ${OUT_PATH}`);
+  console.log(`\nWrote ${cleanShows.length} shows → ${OUT_PATH}`);
   if (errors.length) {
     console.warn(`${errors.length} scraper(s) failed — check output above.`);
   }
 }
 
-main().catch((err) => {
-  console.error('Fatal error:', err);
-  process.exit(1);
-});
+// Run main() only when executed directly
+import { realpathSync } from 'fs';
+const thisFile = fileURLToPath(import.meta.url);
+const entryFile = process.argv[1] ? realpathSync(process.argv[1]) : '';
+if (thisFile === entryFile) {
+  main().catch((err) => {
+    console.error('Fatal error:', err);
+    process.exit(1);
+  });
+}
