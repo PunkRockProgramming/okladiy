@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T12:15:36.562Z",
+  "lastUpdated": "2026-03-10T18:34:28.718Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,6 +15,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510920049",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Lucero - Celebrating 20 Years of Nobody's Darlings",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-03-10",
+      "time": "8:00 PM",
+      "price": "$50",
+      "description": "Lucero, Otis Gibbs",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/lucero-celebrating-20-years-of-nobody-s-darlings-10-mar",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3188d9216186e148fe04_lucero-38.jpeg",
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Raynes",
@@ -1445,6 +1459,20 @@
       "dateAdded": "2026-03-10"
     },
     {
+      "title": "Wagon Burner",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-03-28",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "WAGON BURNER\nFeat. Tar Creek, Challo Music, & And In The Darkness I Was Free\n\nA benefit show for all the PRCS and our Indigenous Community.\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/64848567/wagon-burner-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_f59aa025e5ea4795bd006f4786e74857~mv2.jpg",
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Turnpike Tributedours (Tribute Band)",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2352,20 +2380,6 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
-    },
-    {
-      "title": "lowheaven",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-18",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "lowheaven\nw/ special guest Drosera\n\nGeneral Admission Standing / All Ages Welcome",
-      "eventUrl": "https://www.etix.com/ticket/p/88810606/lowheaven-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_b185f29cdb3142cbbf77ef8bebf080ee~mv2.jpg",
       "dateAdded": "2026-03-10"
     },
     {
@@ -3881,6 +3895,20 @@
       "dateAdded": "2026-03-10"
     },
     {
+      "title": "Cole Barnhill",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-24",
+      "time": null,
+      "price": "$16",
+      "description": "Cole Barnhill, Jake Slay",
+      "eventUrl": "http://www.prekindle.com/event/31647-cole-barnhill-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469074284",
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "The HU and Apocalyptica with Special Guest The Rasmus",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -4133,6 +4161,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Buckethead",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-06-11",
+      "time": "7:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/37664698/buckethead-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
+    },
+    {
       "title": "Between the Buried and Me: The Blue Nowhere U.S. Tour - Spring 2026",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4292,13 +4334,27 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-30",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$22",
       "description": "Uncle Lucius",
       "eventUrl": "http://www.prekindle.com/event/21699-uncle-lucius-the-20th-anniversary-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648475737233",
       "dateAdded": "2026-03-09"
+    },
+    {
+      "title": "The Marvelous Miss Gender starring BOSCO",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-10",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/76849402/the-marvelous-miss-gender-starring-bosco-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "18+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Jayson Arendt",
