@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-03-09T18:36:35.830Z",
+  "lastUpdated": "2026-03-10T07:00:39.889Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Diatheke",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-09",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Diatheke\nwith Special Guests  Against the Dammed, Failure to Cope & Lamb Slaughter\n*All Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/iraediatheke/89thstreetokc/oklahomacity/32479/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_bfea022f6f3b4af39e6178f5e8a7736c~mv2.jpg",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Taraneh",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-09",
-      "time": null,
-      "price": "$15",
-      "description": "Taraneh, China Blue, Double Violets",
-      "eventUrl": "http://www.prekindle.com/event/82746-taraneh-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648502832044",
-      "dateAdded": "2026-03-06"
-    },
     {
       "title": "Snailmate",
       "venue": "The Whittier Bar",
@@ -50,7 +22,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-03-10",
       "time": "8:00 PM",
-      "price": "$43",
+      "price": "$50",
       "description": "Lucero, Otis Gibbs",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/lucero-celebrating-20-years-of-nobody-s-darlings-10-mar",
       "ageLimit": "ALL AGES",
@@ -527,11 +499,11 @@
       "date": "2026-03-17",
       "time": "6:30 PM",
       "price": null,
-      "description": "Stardust USA 2026: Obscura\nSpecial Guests Allegaeon, Cognitive & Cryptosis\n*All Tickets General Admission",
+      "description": "Stardust USA 2026: Obscura\nSpecial Guests Allegaeon, Cognitive, Cryptosis, & Depraved\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/stardustusa2026obscura89thokc/89thstreetokc/oklahomacity/32292/",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_d36676454a2c4f4e93461343157cf412~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_72eb9618d99d44609a108e4b569f4a1e~mv2.jpg",
       "dateAdded": "2026-03-06"
     },
     {
@@ -2073,6 +2045,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488414125",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "lowheaven",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-18",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "lowheaven\nw/ special guest Drosera\n\nGeneral Admission Standing / All Ages Welcome",
+      "eventUrl": "https://www.etix.com/ticket/p/88810606/lowheaven-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_b185f29cdb3142cbbf77ef8bebf080ee~mv2.jpg",
+      "dateAdded": "2026-03-10"
     },
     {
       "title": "Trey Kennedy - The Relatable Tour (Matinee)",
