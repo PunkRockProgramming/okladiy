@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-03-10T18:34:28.718Z",
+  "lastUpdated": "2026-03-11T07:04:24.065Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Snailmate",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-03-10",
-      "time": null,
-      "price": "$10",
-      "description": "Snailmate, Acid Queen, Pluto Rouge",
-      "eventUrl": "http://www.prekindle.com/event/21689-snailmate-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510920049",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Lucero - Celebrating 20 Years of Nobody's Darlings",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-03-10",
-      "time": "8:00 PM",
-      "price": "$50",
-      "description": "Lucero, Otis Gibbs",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/lucero-celebrating-20-years-of-nobody-s-darlings-10-mar",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3188d9216186e148fe04_lucero-38.jpeg",
-      "dateAdded": "2026-03-10"
-    },
-    {
-      "title": "Raynes",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-10",
-      "time": null,
-      "price": "$20",
-      "description": "Raynes, Brock Bushong & the Still Shakes",
-      "eventUrl": "http://www.prekindle.com/event/17458-raynes-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648535689518",
-      "dateAdded": "2026-03-06"
-    },
     {
       "title": "JUMP – America's Van Halen Experience - VH1 Tour",
       "venue": "Tower Theatre",
@@ -64,7 +22,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-03-11",
       "time": "8:00 PM",
-      "price": "$28–$88",
+      "price": "$32–$88",
       "description": "KenTheMan",
       "eventUrl": "http://www.prekindle.com/event/33445-kentheman-kinda-famous-2our-oklahoma-city",
       "ageLimit": null,
@@ -190,7 +148,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-03-13",
       "time": null,
-      "price": "$8–$30",
+      "price": "$4–$30",
       "description": "2000s Rave",
       "eventUrl": "http://www.prekindle.com/event/32321-paddys-rave-oklahoma-city",
       "ageLimit": null,
@@ -483,7 +441,7 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-03-15",
-      "time": "7:30 PM",
+      "time": "7:00 PM",
       "price": "$22",
       "description": "cirKus, Of Wrath And Ruin, Tretura, Aqua Fire, Oklahoma Blood",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/cirkus-15-mar",
@@ -827,6 +785,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697d41531cb1fc526e9172a4_FLATE_Portrait.jpeg",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Some Hearts with special guest Buffalo Shivers",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-03-20",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648468345103",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468344776",
+      "dateAdded": "2026-03-11"
     },
     {
       "title": "Vincent Neil Emerson",
@@ -1207,18 +1179,18 @@
       "dateAdded": "2026-03-06"
     },
     {
-      "title": "The Phil Collins Story",
+      "title": "*CANCELLED* The Phil Collins Story",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
       "date": "2026-03-25",
       "time": null,
-      "price": "$5–$75",
+      "price": null,
       "description": "The Phil Collins Story (Phil Collins Tribute)",
       "eventUrl": "http://www.prekindle.com/event/34763-the-phil-collins-story-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648598300875",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-11"
     },
     {
       "title": "The Unlikely Candidates",
@@ -1571,6 +1543,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Crow & Gazelle with special guest Chloe Beth",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-03-29",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648468249659",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468249056",
+      "dateAdded": "2026-03-11"
+    },
+    {
       "title": "BUGNOG, Ectospire, MyWitchMyBlood, Respair",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -1667,6 +1653,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/698a14eaba96222007fbc167_SAM_CRAIN_SAMSELECTS__14_%25281%2529.jpeg",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Hillbilly Casino with special guest The Poppa Foster Goodtime™ Band",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-04-02",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648468247662",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468247569",
+      "dateAdded": "2026-03-11"
     },
     {
       "title": "Vandoliers",
