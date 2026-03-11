@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T07:04:24.065Z",
+  "lastUpdated": "2026-03-11T18:39:12.822Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -8,7 +8,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-03-11",
       "time": null,
-      "price": "$13–$55",
+      "price": null,
       "description": "Jump - America’s Van Halen Experience",
       "eventUrl": "http://www.prekindle.com/event/96134-billing-jump-americas-van-halen-experience-vh1-tour-oklahoma-city",
       "ageLimit": null,
@@ -23,7 +23,7 @@
       "date": "2026-03-11",
       "time": "8:00 PM",
       "price": "$32–$88",
-      "description": "KenTheMan",
+      "description": "KenTheMan, DJ Goddess",
       "eventUrl": "http://www.prekindle.com/event/33445-kentheman-kinda-famous-2our-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -275,7 +275,7 @@
       "date": "2026-03-14",
       "time": "6:00 PM",
       "price": null,
-      "description": "JERIS JOHNSON - TOUR IN THE USA\nPlus Special Guests  Butcher Babies, Eva Under Fire, LYLVC & Sacred Rose\nGeneral Admission Standing / All Ages Welcome\n\nTHIS IS A RESCHEDULED PERFORMANCE FROM 02/13/26\n*All Previously Purchased Tickets Honored",
+      "description": "JERIS JOHNSON - TOUR IN THE USA\nPlus Special Guests  Butcher Babies, LYLVC & Sacred Rose\nGeneral Admission Standing / All Ages Welcome\n\nTHIS IS A RESCHEDULED PERFORMANCE FROM 02/13/26\n*All Previously Purchased Tickets Honored",
       "eventUrl": "https://www.ticketstorm.com/event/jerisjohnsontourintheusa/89thstreetokc/oklahomacity/32209/",
       "ageLimit": "All Ages",
       "tags": [],
@@ -1003,11 +1003,11 @@
       "date": "2026-03-22",
       "time": "7:00 PM",
       "price": null,
-      "description": "2026 US South + Midwest Tour\nJoshua Quimby & Matt Pless \nSpecial Guests Billy Irwin & the Gambits and Beau Turrentine\n*All Tickets General Admission",
+      "description": "2026 US South + Midwest Tour\nJoshua Quimby & Matt Pless \nSpecial Guests Billy Irwin & the Gambits\n*All Tickets General Admission",
       "eventUrl": "http://etix.com/ticket/p/83799654/joshua-quimby-matt-pless-oklahoma-city-89th-street",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_f348a4f84f964562b6787188c2bddba9~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_219400f23e5e44acbe2c146d68a4ce04~mv2.jpg",
       "dateAdded": "2026-03-06"
     },
     {
@@ -1814,7 +1814,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-04",
       "time": null,
-      "price": "$20–$45",
+      "price": "$15–$45",
       "description": "Straight Tequila Night",
       "eventUrl": "http://www.prekindle.com/event/99974-straight-tequila-night-90s-country-tribute-oklahoma-city",
       "ageLimit": null,
@@ -3083,6 +3083,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Adam Hood",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-05-01",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648467770432",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648467770338",
+      "dateAdded": "2026-03-11"
+    },
+    {
       "title": "Bill Callahan",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3657,6 +3671,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Daisychain with special guest Manta Rays",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-05-16",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648467702340",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648467700487",
+      "dateAdded": "2026-03-11"
+    },
+    {
       "title": "MESO",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3732,7 +3760,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-05-18",
       "time": "7:00 PM",
-      "price": "$37.31",
+      "price": "$38",
       "description": "Archspire, Undeath, Crown Magnetar, Mutilation BBQ",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/archspire-long-roads-big-loads-tour-18-may",
       "ageLimit": "ALL AGES",
@@ -4383,6 +4411,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048191",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Ray Wylie Hubbard",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-10",
+      "time": null,
+      "price": "$30–$65",
+      "description": "Ray Wylie Hubbard",
+      "eventUrl": "http://www.prekindle.com/event/86345-ray-wylie-hubbard-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472769898",
+      "dateAdded": "2026-03-11"
     },
     {
       "title": "Tig Notaro: Out of Nowhere",
