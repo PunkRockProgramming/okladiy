@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T07:05:43.224Z",
+  "lastUpdated": "2026-03-12T18:37:47.472Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1151,20 +1151,6 @@
       "dateAdded": "2026-03-06"
     },
     {
-      "title": "*CANCELLED* The Phil Collins Story",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-03-25",
-      "time": null,
-      "price": null,
-      "description": "The Phil Collins Story (Phil Collins Tribute)",
-      "eventUrl": "http://www.prekindle.com/event/34763-the-phil-collins-story-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648598300875",
-      "dateAdded": "2026-03-11"
-    },
-    {
       "title": "The Unlikely Candidates",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -1507,11 +1493,11 @@
       "date": "2026-03-29",
       "time": null,
       "price": "$15–$59",
-      "description": "The Wood Brothers",
+      "description": "The Wood Brothers, Margo Cilker",
       "eventUrl": "http://www.prekindle.com/event/54387-the-wood-brothers-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466952837",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466235107",
       "dateAdded": "2026-03-06"
     },
     {
@@ -2263,7 +2249,7 @@
       "date": "2026-04-16",
       "time": "8:00 PM",
       "price": "$22",
-      "description": "Huser Brother Band",
+      "description": "Huser Brother Band, Aiden Logsdon",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/huser-brother-band-16-apr",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -2570,7 +2556,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-21",
       "time": null,
-      "price": "$15–$82",
+      "price": "$15–$75",
       "description": "The Black Dahlia Murder, The Acacia Strain, Disembodied Tyrant, Corpse Pile",
       "eventUrl": "http://www.prekindle.com/event/24316-the-black-dahlia-murder-oklahoma-city",
       "ageLimit": null,
@@ -3587,6 +3573,20 @@
       "dateAdded": "2026-03-10"
     },
     {
+      "title": "A Tribute to The Soul Divas: A Kendrik McKinney Production",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-05-14",
+      "time": null,
+      "price": "$16–$57",
+      "description": "A Kendrik Mckinney Production",
+      "eventUrl": "http://www.prekindle.com/event/75462-soul-divas-a-kendrik-mckinney-production-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469338175",
+      "dateAdded": "2026-03-12"
+    },
+    {
       "title": "Citizen Soldier - Secret Songs tour Part II",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4215,6 +4215,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048302",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Hastronaut",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-12",
+      "time": null,
+      "price": "$12",
+      "description": "Hashtronaut",
+      "eventUrl": "http://www.prekindle.com/event/53134-hastronaut-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468618403",
+      "dateAdded": "2026-03-12"
     },
     {
       "title": "Juvenile’s Boiling Point Album Release Tour ​w /  The 400 Degreez Band​ & Friends",
