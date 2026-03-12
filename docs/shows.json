@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-03-11T18:39:12.822Z",
+  "lastUpdated": "2026-03-12T07:05:43.224Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "JUMP – America's Van Halen Experience - VH1 Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-03-11",
-      "time": null,
-      "price": null,
-      "description": "Jump - America’s Van Halen Experience",
-      "eventUrl": "http://www.prekindle.com/event/96134-billing-jump-americas-van-halen-experience-vh1-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648518499478",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "KenTheMan - Kinda Famous 2our",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-03-11",
-      "time": "8:00 PM",
-      "price": "$32–$88",
-      "description": "KenTheMan, DJ Goddess",
-      "eventUrl": "http://www.prekindle.com/event/33445-kentheman-kinda-famous-2our-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648539336015",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Marissa Nadler",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-11",
-      "time": null,
-      "price": "$22",
-      "description": "Marissa Nadler, Gracie and Rachel",
-      "eventUrl": "http://www.prekindle.com/event/67522-marissa-nadler-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2853111880081924139",
-      "dateAdded": "2026-03-06"
-    },
     {
       "title": "Exhumed",
       "venue": "89th Street OKC",
@@ -64,7 +22,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-03-12",
       "time": null,
-      "price": "$18–$86",
+      "price": "$41–$86",
       "description": "The Wonder Years, Knuckle Puck, Equipment",
       "eventUrl": "http://www.prekindle.com/event/39313-the-wonder-years-oklahoma-city",
       "ageLimit": null,
@@ -92,7 +50,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-03-12",
       "time": "8:00 PM",
-      "price": "$13–$25",
+      "price": "$30",
       "description": "Peter McPoland, Girl Tones",
       "eventUrl": "http://www.prekindle.com/event/76972-peter-mcpoland-big-lucky-tour-oklahoma-city",
       "ageLimit": null,
@@ -493,18 +451,18 @@
       "dateAdded": "2026-03-06"
     },
     {
-      "title": "Badflower",
+      "title": "Badflower (CANCELLED)",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
       "date": "2026-03-15",
       "time": "6 pm",
       "price": null,
       "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/57756392/badflower-tulsa-cains-ballroom?partner_id=100",
+      "eventUrl": "javascript:void(0)",
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-12"
     },
     {
       "title": "Hudson Freeman",
@@ -1151,6 +1109,20 @@
       "dateAdded": "2026-03-10"
     },
     {
+      "title": "Sexcult | Shadow Hounds",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-03-25",
+      "time": null,
+      "price": "$10",
+      "description": "Sexcult, Shadow Hounds, Surus, Self Inflicted Oklahoma Sludge",
+      "eventUrl": "http://www.prekindle.com/event/62168-sexcult-shadow-hounds-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466951557",
+      "dateAdded": "2026-03-12"
+    },
+    {
       "title": "The Unlikely Candidates",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1539,7 +1511,7 @@
       "eventUrl": "http://www.prekindle.com/event/54387-the-wood-brothers-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648560667311",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466952837",
       "dateAdded": "2026-03-06"
     },
     {
@@ -1821,6 +1793,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648497330840",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "S. Reidy | Petty Fox | Joey Duffy",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-04-04",
+      "time": null,
+      "price": "$10",
+      "description": "S. Reidy, Petty Fox, Joey Duffy",
+      "eventUrl": "http://www.prekindle.com/event/96429-s-reidy-petty-fox-joey-duffy-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648467331546",
+      "dateAdded": "2026-03-12"
     },
     {
       "title": "Josh Weathers",
@@ -3389,6 +3375,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/01/cold-and-alien-ant-farm.jfif",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Jabee",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-05-08",
+      "time": null,
+      "price": "$12",
+      "description": "Jabee, Shyheim Nwadiei, Jediahko, Trip G, Dj Reaper",
+      "eventUrl": "http://www.prekindle.com/event/41782-jabee-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648467482729",
+      "dateAdded": "2026-03-12"
     },
     {
       "title": "THE DOSE: A Psychedelic Comedy Show (18+)",
