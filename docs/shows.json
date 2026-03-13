@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T18:37:47.472Z",
+  "lastUpdated": "2026-03-13T07:04:30.818Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,76 +15,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_def0d5efba7f4a609bbdecad3587ce27~mv2.jpg",
       "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "The Wonder Years",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-03-12",
-      "time": null,
-      "price": "$41–$86",
-      "description": "The Wonder Years, Knuckle Puck, Equipment",
-      "eventUrl": "http://www.prekindle.com/event/39313-the-wonder-years-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648579118368",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Void King",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-03-12",
-      "time": null,
-      "price": "$10",
-      "description": "Void King, Surus, Esc Ctrl",
-      "eventUrl": "http://www.prekindle.com/event/14582-void-king-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488759457",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Peter McPoland: Big Lucky Tour",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-03-12",
-      "time": "8:00 PM",
-      "price": "$30",
-      "description": "Peter McPoland, Girl Tones",
-      "eventUrl": "http://www.prekindle.com/event/76972-peter-mcpoland-big-lucky-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489623417",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "NITE",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-12",
-      "time": null,
-      "price": "$15",
-      "description": "NITE, The Sweet Talkers, Pretoria, Mechanical Flesh",
-      "eventUrl": "http://www.prekindle.com/event/37436-nite-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648551690281",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Beth Hart",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-03-12",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/72944582/beth-hart-tulsa-tulsa-theater?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-10"
     },
     {
       "title": "Neutral Snap",
@@ -1591,7 +1521,7 @@
       "date": "2026-04-02",
       "time": "7:00 PM",
       "price": null,
-      "description": "OCEANIC\nNorth America Tour 2026\nwith special guests RAABERS \nGeneral Admission Standing / All Ages Welcome",
+      "description": "OCEANIC\nNorth America Tour 2026\nwith special guests RAABERS and JuneCo\n\nGeneral Admission Standing / All Ages Welcome",
       "eventUrl": "https://www.etix.com/ticket/p/61106896/oceanic-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -2155,7 +2085,7 @@
       "eventUrl": "http://www.prekindle.com/event/13641-david-murphy-for-my-peeps-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648494846683",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466064430",
       "dateAdded": "2026-03-06"
     },
     {
@@ -2411,7 +2341,7 @@
       "dateAdded": "2026-03-06"
     },
     {
-      "title": "The Crane Wives - ACT I",
+      "title": "MORE TICKETS ADDED | The Crane Wives - ACT I",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-04-18",
@@ -2422,7 +2352,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69778e59ae8c3852d67cf20c_TCW_June2025_Scene4_0557_Web.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-13"
     },
     {
       "title": "West Texas Exiles",
@@ -4376,7 +4306,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-30",
       "time": "8:00 PM",
-      "price": "$22",
+      "price": "$25",
       "description": "Uncle Lucius",
       "eventUrl": "http://www.prekindle.com/event/21699-uncle-lucius-the-20th-anniversary-tour-oklahoma-city",
       "ageLimit": null,
