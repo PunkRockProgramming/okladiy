@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-03-13T07:04:30.818Z",
+  "lastUpdated": "2026-03-13T18:26:54.206Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Exhumed",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-12",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "Exhumed Red Asphalt Tour \nwith Oxygen Destroyer, No/Mas, & Ectospire\n*All Tickets General Admission",
-      "eventUrl": "https://www.etix.com/ticket/p/70316677/exhumed-oklahoma-city-89th-street",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_def0d5efba7f4a609bbdecad3587ce27~mv2.jpg",
-      "dateAdded": "2026-03-06"
-    },
     {
       "title": "Neutral Snap",
       "venue": "89th Street OKC",
@@ -78,7 +64,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-03-13",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$28",
       "description": "Kenny Feidler, Brennan Scott Greene, Colten Jesse",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/kenny-feidler-13-mar",
       "ageLimit": null,
@@ -825,7 +811,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648519867171",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519865728",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648464721326",
       "dateAdded": "2026-03-06"
     },
     {
@@ -1245,7 +1231,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648487380024",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648487379849",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648464699359",
       "dateAdded": "2026-03-06"
     },
     {
@@ -1590,7 +1576,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-02",
       "time": null,
-      "price": "$25–$166",
+      "price": "$21–$166",
       "description": "Fortune Feimster",
       "eventUrl": "http://www.prekindle.com/event/47288-fortune-feimster-oklahoma-city",
       "ageLimit": null,
@@ -1823,6 +1809,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Cold Steel",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-06",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "COLD STEEL\nDiscipline and Punish 2 Tour \n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/51935202/cold-steel-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_aef9417acf60496486e152c2208acbb9~mv2.jpg",
+      "dateAdded": "2026-03-13"
+    },
+    {
       "title": "Zero 9:36",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1968,7 +1968,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-10",
       "time": null,
-      "price": "$15–$30",
+      "price": "$14–$30",
       "description": "The Dance Parties, DJ Isis Payne, Topatío, Dj Reboot, La'porsche Binz",
       "eventUrl": "http://www.prekindle.com/event/91426-club-xcx-oklahoma-city",
       "ageLimit": null,
@@ -3405,6 +3405,20 @@
       "dateAdded": "2026-03-10"
     },
     {
+      "title": "War On Women x Stepmom",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-11",
+      "time": null,
+      "price": "$15",
+      "description": "War On Women, Stepmom",
+      "eventUrl": "http://www.prekindle.com/event/58738-war-on-women-x-stepmom-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648465932613",
+      "dateAdded": "2026-03-13"
+    },
+    {
       "title": "DAYSEEKER: The Pale Moonlight Tour",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -3835,7 +3849,7 @@
       "eventUrl": "http://www.prekindle.com/event/94766-randb-only-live-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469512992",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648464807699",
       "dateAdded": "2026-03-09"
     },
     {
@@ -4203,6 +4217,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Dinner Time",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-24",
+      "time": null,
+      "price": "$15",
+      "description": "Dinner Time, Easier, Douglas",
+      "eventUrl": "http://www.prekindle.com/event/69851-dinner-time-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468636995",
+      "dateAdded": "2026-03-13"
+    },
+    {
       "title": "Wilco",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4306,7 +4334,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-30",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$22",
       "description": "Uncle Lucius",
       "eventUrl": "http://www.prekindle.com/event/21699-uncle-lucius-the-20th-anniversary-tour-oklahoma-city",
       "ageLimit": null,
