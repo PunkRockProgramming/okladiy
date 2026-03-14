@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-03-14T06:58:09.229Z",
+  "lastUpdated": "2026-03-14T18:21:46.305Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Neutral Snap",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-13",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "NEUTRAL SNAP\nwith special guests Suitable Miss, Saving Seles, and The Burn Notice \nGeneral Admission Standing / All Ages Welcome\n\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/32699414/neutral-snap-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_045200ae6387459cb8797852a2bcce71~mv2.jpg",
-      "dateAdded": "2026-03-06"
-    },
     {
       "title": "Jeris Johnson",
       "venue": "89th Street OKC",
@@ -197,6 +183,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69826300d21f4f8af7cbe901_cirkus_promo.jpeg",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Bluegrass Brunch Tickets & Booth Reservation",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-03-15",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648468344091",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468344073",
+      "dateAdded": "2026-03-14"
     },
     {
       "title": "Bluegrass Brunch Booth Reservation",
@@ -1681,6 +1681,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510630743",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Cold Steel",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-06",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "COLD STEEL\nDiscipline and Punish 2 Tour \n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/51935202/cold-steel-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_aef9417acf60496486e152c2208acbb9~mv2.jpg",
+      "dateAdded": "2026-03-14"
     },
     {
       "title": "Zero 9:36",
