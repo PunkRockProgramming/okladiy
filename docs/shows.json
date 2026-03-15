@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T07:08:03.423Z",
+  "lastUpdated": "2026-03-15T18:22:46.154Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -14,20 +14,6 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_297cbb44f417415c9b84a2e49fb3d4f2~mv2.jpg",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Live Music All Ages feat: Miller Avenue, Sixth Degree Burns, Lillium, and Slice of Life",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-03-14",
-      "time": "7:30 PM",
-      "price": "$10",
-      "description": "Live music featuring performers that are all new to Noise Town! Featuring Miller Avenue, Sixth Degree Burns, Lillium, and Slice of Life.Doors 7:30pm Music 8pmTickets $10",
-      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-miller-avenue-sixth-degree-burns-lillium-and-slice-of-life",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1771219948825-99DVG5EFE8ZI6FJ2WIHH/Miller+Avenue+Flyer.png",
       "dateAdded": "2026-03-06"
     },
     {
@@ -260,7 +246,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-03-18",
       "time": null,
-      "price": "$12",
+      "price": "$7–$12",
       "description": "Pretty Jane, Clayton, DIVA",
       "eventUrl": "http://www.prekindle.com/event/38545-pretty-jane-oklahoma-city",
       "ageLimit": null,
@@ -905,7 +891,7 @@
       "date": "2026-03-26",
       "time": null,
       "price": "$15",
-      "description": "Stereosity, Dear Cincinnati, Fighting Sleep",
+      "description": "Stereosity, Dear Cincinnati, Star Student, Fighting Sleep",
       "eventUrl": "http://www.prekindle.com/event/25634-stereosity-oklahoma-city",
       "ageLimit": null,
       "tags": [],
