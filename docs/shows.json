@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T18:21:46.305Z",
+  "lastUpdated": "2026-03-15T07:08:03.423Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -17,20 +17,6 @@
       "dateAdded": "2026-03-06"
     },
     {
-      "title": "Howling Giant | Insomniac | Dust Lord",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-03-14",
-      "time": null,
-      "price": "$15",
-      "description": "Howling Giant, Insomniac, Dust Lord",
-      "eventUrl": "http://www.prekindle.com/event/75671-howling-giant-insomniac-dust-lord-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648573882697",
-      "dateAdded": "2026-03-06"
-    },
-    {
       "title": "Live Music All Ages feat: Miller Avenue, Sixth Degree Burns, Lillium, and Slice of Life",
       "venue": "Noise Town",
       "venueUrl": "https://www.noisetowntulsa.com",
@@ -43,104 +29,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1771219948825-99DVG5EFE8ZI6FJ2WIHH/Miller+Avenue+Flyer.png",
       "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "My So Called Band",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-03-14",
-      "time": "9:00 PM",
-      "price": "$22",
-      "description": "My So-Called Band",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/my-so-called-band-14-mar",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f8c9f42958629fd0_MSCB_POST.jpeg",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Amber Watson Single Release Party with special guest Keathley",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-03-14",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648487389986",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648487389088",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Robert Jon & the Wreck",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-03-14",
-      "time": "8:00 PM",
-      "price": null,
-      "description": "Robert Jon & the Wreck, Sam Morrow",
-      "eventUrl": "http://www.prekindle.com/event/82267-robert-jon-and-the-wreck-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648667875687",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "SIDE QUESTS VOL 2 LIVE SHOWCASE",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-14",
-      "time": null,
-      "price": "$12",
-      "description": "Morris Villiage, Powdr, Foam, FEVEREST, Computer Girl",
-      "eventUrl": "http://www.prekindle.com/event/53211-side-quests-vol-2-live-showcase-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648491943153",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Zack Fox",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-03-14",
-      "time": null,
-      "price": "$15",
-      "description": "Zack Fox",
-      "eventUrl": "http://www.prekindle.com/event/27229-zack-fox-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483085983",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Avery Anna",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-03-14",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/31283794/avery-anna-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-10"
-    },
-    {
-      "title": "Brad Williams",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-03-14",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/39809290/brad-williams-tulsa-tulsa-theater?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-10"
     },
     {
       "title": "Volumes",
@@ -2955,6 +2843,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519266550",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "My So Called Band",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-05-02",
+      "time": "9:00 PM",
+      "price": "$22",
+      "description": "My So-Called Band",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/my-so-called-band-02-may",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f8c9f42958629fd0_MSCB_POST.jpeg",
+      "dateAdded": "2026-03-15"
     },
     {
       "title": "The Toasters - 45 Years of Ska with special guest Boss Riot",
