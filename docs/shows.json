@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T07:28:36.603Z",
+  "lastUpdated": "2026-03-16T18:45:19.574Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -29,20 +29,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1771219948825-99DVG5EFE8ZI6FJ2WIHH/Miller+Avenue+Flyer.png",
       "dateAdded": "2026-03-16"
-    },
-    {
-      "title": "Volumes",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-15",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "Volumes - The Mirror Touch Tour\nwith Notions, Catsclaw and Taker\n*All Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/volumespresentsthemirrortouchtour/89thstreetokc/oklahomacity/32235/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_2a3fed39db8a4f139cceb8043a044037~mv2.jpg",
-      "dateAdded": "2026-03-06"
     },
     {
       "title": "Hudson Freeman",
@@ -2122,7 +2108,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-19",
       "time": null,
-      "price": "$20–$239",
+      "price": "$18–$239",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/77679-dallas-cowboys-cheerleaders-oklahoma-city",
       "ageLimit": null,
@@ -2285,6 +2271,20 @@
       "dateAdded": "2026-03-10"
     },
     {
+      "title": "Filth - Back to tha Gutta Tour",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-23",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "Filth - Back To Tha Gutta Tour \nwith Special Guests  Two-Piece, Resistor, Cultist & Inferious\n*All Tickets General Admission",
+      "eventUrl": "https://www.ticketstorm.com/event/backtotheguttatour/89thstreetokc/oklahomacity/32503/",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_ded7b5c57fb0457c8dc20b83db0aea02~mv2.jpg",
+      "dateAdded": "2026-03-16"
+    },
+    {
       "title": "Maria Bamford",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2318,7 +2318,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-23",
       "time": "8:00 PM",
-      "price": "$10–$20",
+      "price": "$10–$25",
       "description": "Black Pistol Fire, Teddy At Night",
       "eventUrl": "http://www.prekindle.com/event/82183-black-pistol-fire-flagrant-act-of-bliss-oklahoma-city",
       "ageLimit": null,
@@ -3265,6 +3265,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Bingo Loco",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-05-15",
+      "time": null,
+      "price": "$27–$43",
+      "description": "Bingo Loco",
+      "eventUrl": "http://www.prekindle.com/event/47354-bingo-loco-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648464880749",
+      "dateAdded": "2026-03-16"
+    },
+    {
       "title": "Glom",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3361,6 +3375,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648496939524",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Acid Bath with Chat Pile & Khemmis",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-05-16",
+      "time": null,
+      "price": "$36–$85",
+      "description": "Acid Bath, Chat Pile, Khemmis",
+      "eventUrl": "http://www.prekindle.com/event/28941-acid-bath-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648462578111",
+      "dateAdded": "2026-03-16"
     },
     {
       "title": "Tech N9ne and E-40",
