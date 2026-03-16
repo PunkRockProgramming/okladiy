@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T18:22:46.154Z",
+  "lastUpdated": "2026-03-16T07:28:36.603Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -17,6 +17,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "Live Music All Ages feat: Miller Avenue, Sixth Degree Burns, Lillium, and Slice of Life",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-03-14",
+      "time": "7:30 PM",
+      "price": "$10",
+      "description": "Live music featuring performers that are all new to Noise Town! Featuring Miller Avenue, Sixth Degree Burns, Lillium, and Slice of Life.Doors 7:30pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-miller-avenue-sixth-degree-burns-lillium-and-slice-of-life",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1771219948825-99DVG5EFE8ZI6FJ2WIHH/Miller+Avenue+Flyer.png",
+      "dateAdded": "2026-03-16"
+    },
+    {
       "title": "Volumes",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -29,104 +43,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_2a3fed39db8a4f139cceb8043a044037~mv2.jpg",
       "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Lung | Honduh Daze | Ivory Tusk",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-03-15",
-      "time": null,
-      "price": "$10",
-      "description": "Lung, Honduh Daze, Ivory Tusk",
-      "eventUrl": "http://www.prekindle.com/event/51318-lung-honduh-daze-ivory-tusk-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648502735329",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "cirKus",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-03-15",
-      "time": "7:00 PM",
-      "price": "$22",
-      "description": "cirKus, Of Wrath And Ruin, Tretura, Aqua Fire, Oklahoma Blood",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/cirkus-15-mar",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69826300d21f4f8af7cbe901_cirkus_promo.jpeg",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Bluegrass Brunch Tickets & Booth Reservation",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-03-15",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648468344091",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468344073",
-      "dateAdded": "2026-03-14"
-    },
-    {
-      "title": "Bluegrass Brunch Booth Reservation",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-03-15",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648490530801",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648490530786",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "DeVotchKa",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-03-15",
-      "time": "7:00 PM",
-      "price": "$10–$75",
-      "description": "Devotchka",
-      "eventUrl": "http://www.prekindle.com/event/35474-devotchka-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648566036057",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Dear Maryanne  /  Arcadia Grey  /  Pretty Bitter",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-15",
-      "time": null,
-      "price": "$15",
-      "description": "Dear Maryanne, Arcadia Grey, Pretty Bitter, Speak, Memory",
-      "eventUrl": "http://www.prekindle.com/event/68876-dear-maryanne-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648541644134",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Badflower (CANCELLED)",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-03-15",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "javascript:void(0)",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-12"
     },
     {
       "title": "Hudson Freeman",
