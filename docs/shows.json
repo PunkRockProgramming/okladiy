@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T07:13:55.241Z",
+  "lastUpdated": "2026-03-17T18:50:29.691Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -135,11 +135,11 @@
       "date": "2026-03-19",
       "time": null,
       "price": "$15",
-      "description": "Final Gasp",
-      "eventUrl": "http://www.prekindle.com/event/31448-final-gasp-tulsa",
+      "description": "Final Gasp, Scarlet Falls, Open Casket Soundsystem",
+      "eventUrl": "http://www.prekindle.com/event/84671-final-gasp-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648534452782",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461176849",
       "dateAdded": "2026-03-06"
     },
     {
@@ -961,7 +961,7 @@
       "date": "2026-03-28",
       "time": "7:00 PM",
       "price": "$10–$25",
-      "description": "Varials, UnityTX, Heavy//hitter, Boltcutter",
+      "description": "Varials, UnityTX, Heavy//hitter, Boltcutter, Nihil",
       "eventUrl": "http://www.prekindle.com/event/56146-varials-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2276,7 +2276,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-23",
       "time": null,
-      "price": "$35–$80",
+      "price": "$25–$80",
       "description": "Avatar, Fleshgod Apocalypse, Frozen Soul",
       "eventUrl": "http://www.prekindle.com/event/66736-avatar-oklahoma-city",
       "ageLimit": null,
@@ -2471,7 +2471,7 @@
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
       "date": "2026-04-26",
-      "time": "6:30 pm",
+      "time": "6 pm",
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/65058034/maddox-batson-tulsa-cains-ballroom?partner_id=100",
@@ -3475,6 +3475,20 @@
       "dateAdded": "2026-03-06"
     },
     {
+      "title": "HARBOUR",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-05-21",
+      "time": "8:00 PM",
+      "price": "$25",
+      "description": "HARBOUR",
+      "eventUrl": "http://www.prekindle.com/event/87862-harbour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648462594274",
+      "dateAdded": "2026-03-17"
+    },
+    {
       "title": "Quilts | Tavo Carbone | Mike Dee & Stone Trio",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -3501,6 +3515,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519298682",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Jarrod Morris",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-05-23",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "Jarrod Morris, Joleen Brown",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/jarrod-morris-23-may",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69b8c3c39ce6c3ad147e4f2c_Photo_Nov_02_2024__9_21_48_PM.jpeg",
+      "dateAdded": "2026-03-17"
     },
     {
       "title": "Mac Saturn",
@@ -3683,6 +3711,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/07/etix-Buckcherry1751986173_3859601751986174.jfif",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Highly Suspect And The Tour Of Yellow Roses",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-06-02",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/30209484/highly-suspect-and-the-tour-of-yellow-roses-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-17"
     },
     {
       "title": "Bodysnatcher",
@@ -3923,6 +3965,20 @@
       "dateAdded": "2026-03-13"
     },
     {
+      "title": "JINJER Duel North America 2026",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-06-28",
+      "time": "7 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/77997591/jinjer-duel-north-america-2026-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/03/jinjer-duel-north-america-2026.jfif",
+      "dateAdded": "2026-03-17"
+    },
+    {
       "title": "Wilco",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4035,6 +4091,20 @@
       "dateAdded": "2026-03-09"
     },
     {
+      "title": "Passion Pit - The Pretty Penny Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-03",
+      "time": null,
+      "price": "$25",
+      "description": "Passion Pit",
+      "eventUrl": "http://www.prekindle.com/event/35864-passion-pit-the-pretty-penny-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472769290",
+      "dateAdded": "2026-03-17"
+    },
+    {
       "title": "The Marvelous Miss Gender starring BOSCO",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4075,6 +4145,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048191",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "MINUS THE BEAR - Menos El Oso 20th Anniversary Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-07",
+      "time": null,
+      "price": "$152",
+      "description": "Minus the Bear, Keep",
+      "eventUrl": "http://www.prekindle.com/event/27911-minus-the-bear-menos-el-oso-20th-anniversary-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466299832",
+      "dateAdded": "2026-03-17"
     },
     {
       "title": "Ray Wylie Hubbard",
@@ -4215,6 +4299,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476045156",
       "dateAdded": "2026-03-06"
+    },
+    {
+      "title": "Public Image Ltd - THIS IS NOT THE LAST TOUR",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-02-20",
+      "time": null,
+      "price": "$35",
+      "description": "Public Image Ltd.",
+      "eventUrl": "http://www.prekindle.com/event/68122-public-image-ltd-this-is-not-the-last-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461319846",
+      "dateAdded": "2026-03-17"
     }
   ]
 }
