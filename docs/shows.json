@@ -1,63 +1,7 @@
 {
-  "lastUpdated": "2026-03-16T18:45:19.574Z",
+  "lastUpdated": "2026-03-17T07:13:55.241Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Jeris Johnson",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-14",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "JERIS JOHNSON - TOUR IN THE USA\nPlus Special Guests  Butcher Babies, LYLVC & Sacred Rose\nGeneral Admission Standing / All Ages Welcome\n\nTHIS IS A RESCHEDULED PERFORMANCE FROM 02/13/26\n*All Previously Purchased Tickets Honored",
-      "eventUrl": "https://www.ticketstorm.com/event/jerisjohnsontourintheusa/89thstreetokc/oklahomacity/32209/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_297cbb44f417415c9b84a2e49fb3d4f2~mv2.jpg",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "Live Music All Ages feat: Miller Avenue, Sixth Degree Burns, Lillium, and Slice of Life",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-03-14",
-      "time": "7:30 PM",
-      "price": "$10",
-      "description": "Live music featuring performers that are all new to Noise Town! Featuring Miller Avenue, Sixth Degree Burns, Lillium, and Slice of Life.Doors 7:30pm Music 8pmTickets $10",
-      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-miller-avenue-sixth-degree-burns-lillium-and-slice-of-life",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1771219948825-99DVG5EFE8ZI6FJ2WIHH/Miller+Avenue+Flyer.png",
-      "dateAdded": "2026-03-16"
-    },
-    {
-      "title": "Hudson Freeman",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-16",
-      "time": null,
-      "price": "$18",
-      "description": "Hudson Freeman, Willa Mae",
-      "eventUrl": "http://www.prekindle.com/event/87766-hudson-freeman-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648609265422",
-      "dateAdded": "2026-03-06"
-    },
-    {
-      "title": "ROBERT PLANT WITH SAVING GRACE and SUZI DIAN",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-03-16",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/59836089/robert-plant-with-saving-grace-and-suzi-dian-tulsa-tulsa-theater?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-10"
-    },
     {
       "title": "Stardust USA 2026: Obscura",
       "venue": "89th Street OKC",
@@ -247,11 +191,11 @@
       "date": "2026-03-20",
       "time": "6:30 PM",
       "price": null,
-      "description": "Ventana (featuring Ex-Mushroomhead Members)\nPlus Aeternum and Shame In Nothing\n*All Tickets General Admission",
+      "description": "Ventana (featuring Ex-Mushroomhead Members)\nPlus Aeternum, Munkie Gunn, and Neanderthal Jones\n*All Tickets General Admission",
       "eventUrl": "https://www.ticketstorm.com/event/ventanafeaturingexmushroomheadmembers/89thstreetokc/oklahomacity/32208/",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_2f6fc0f648694aaeb3ad1211e1c2e36f~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_8933a3a95b9e4177b16f15cd96854426~mv2.jpg",
       "dateAdded": "2026-03-06"
     },
     {
@@ -433,7 +377,7 @@
       "eventUrl": "http://www.prekindle.com/event/66962-stallone-cobras-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648520247934",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648462321646",
       "dateAdded": "2026-03-06"
     },
     {
@@ -2019,7 +1963,7 @@
       "dateAdded": "2026-03-06"
     },
     {
-      "title": "MORE TICKETS ADDED | The Crane Wives - ACT I",
+      "title": "The Crane Wives - ACT I",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-04-18",
@@ -2030,7 +1974,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69778e59ae8c3852d67cf20c_TCW_June2025_Scene4_0557_Web.jpeg",
-      "dateAdded": "2026-03-13"
+      "dateAdded": "2026-03-17"
     },
     {
       "title": "West Texas Exiles",
@@ -2137,7 +2081,7 @@
       "date": "2026-04-20",
       "time": "8:00 PM",
       "price": "$28",
-      "description": "Taylor Austin Dye",
+      "description": "Taylor Austin Dye, Austin Dixon",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/taylor-austin-dye-damn-good-day-tour-20-apr",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -2395,6 +2339,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-10"
+    },
+    {
+      "title": "Necrot",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-25",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "NECROT\nwith special guest BadxMouth\n\nGeneral Admission Standing / All Ages\n\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/47420216/necrot-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_e106d16ed91e47619f0cd859afd4eddc~mv2.jpg",
+      "dateAdded": "2026-03-17"
     },
     {
       "title": "Silversun Pickups - Tenterhooks Tour",
@@ -3382,7 +3340,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-16",
       "time": null,
-      "price": "$36–$85",
+      "price": "$36–$58",
       "description": "Acid Bath, Chat Pile, Khemmis",
       "eventUrl": "http://www.prekindle.com/event/28941-acid-bath-oklahoma-city",
       "ageLimit": null,
