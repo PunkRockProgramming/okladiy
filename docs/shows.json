@@ -1,63 +1,7 @@
 {
-  "lastUpdated": "2026-03-18T01:00:35.668Z",
+  "lastUpdated": "2026-03-18T07:11:48.258Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Stardust USA 2026: Obscura",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-17",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Stardust USA 2026: Obscura\nSpecial Guests Allegaeon, Cognitive, Cryptosis, & Depraved\n*All Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/stardustusa2026obscura89thokc/89thstreetokc/oklahomacity/32292/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_72eb9618d99d44609a108e4b569f4a1e~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Winyah",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-03-17",
-      "time": "8:00 PM",
-      "price": "$10–$80",
-      "description": "Winyah, Edgehill, Andrew Lucier",
-      "eventUrl": "http://www.prekindle.com/event/89494-winyah-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648474406211",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Spoon Benders",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-17",
-      "time": null,
-      "price": "$15",
-      "description": "Spoon Benders, Emma Goldman Sachs, The Dull Drums",
-      "eventUrl": "http://www.prekindle.com/event/86944-spoon-benders-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648582321408",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "A.J. Croce Presents CROCE PLAYS CROCE",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-03-17",
-      "time": null,
-      "price": "$6–$100",
-      "description": "A.J Croce",
-      "eventUrl": "http://www.prekindle.com/event/49444-aj-croce-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648569506377",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Winyah - No Place I'd Rather Be Tour",
       "venue": "The Vanguard",
@@ -78,7 +22,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-03-18",
       "time": "8:00 PM",
-      "price": "$8–$75",
+      "price": "$20–$75",
       "description": "Red Leather, The Romance",
       "eventUrl": "http://www.prekindle.com/event/41237-red-leather-tahoe-tour-oklahoma-city",
       "ageLimit": null,
@@ -1857,7 +1801,7 @@
       "date": "2026-04-10",
       "time": null,
       "price": "$15",
-      "description": "The Retrograde",
+      "description": "The Retrograde, Heralds",
       "eventUrl": "http://www.prekindle.com/event/67318-the-retrograde-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2774,6 +2718,20 @@
         "tulsa"
       ],
       "imageUrl": null,
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Silent Theory Redemption Tour",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-26",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "Silent Theory Redemption Tour\nwith Special Guests Outlier & Discrepancies\n*All Ticket General Admission",
+      "eventUrl": "https://www.ticketstorm.com/event/silenttheoryredemptiontour/89thstreetokc/oklahomacity/32272/",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_af503a4edeea421e8c21b8335ea94eb5~mv2.jpg",
       "dateAdded": "2026-03-18"
     },
     {
