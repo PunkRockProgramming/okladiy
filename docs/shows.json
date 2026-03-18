@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T18:50:29.691Z",
+  "lastUpdated": "2026-03-18T01:00:35.668Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -14,7 +14,7 @@
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_72eb9618d99d44609a108e4b569f4a1e~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Winyah",
@@ -28,7 +28,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648474406211",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Spoon Benders",
@@ -42,7 +42,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648582321408",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "A.J. Croce Presents CROCE PLAYS CROCE",
@@ -56,7 +56,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648569506377",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Winyah - No Place I'd Rather Be Tour",
@@ -70,7 +70,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d31871364631086e36721_Winyah_Promo__copy.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Red Leather: Tahoe Tour",
@@ -84,7 +84,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648485311917",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Pretty Jane",
@@ -98,7 +98,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648517878500",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "PONS (NYC)",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-03-18",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/3/18/buckets-la",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Wolves At The Gate with Convictions",
@@ -112,7 +128,7 @@
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_dd7fe9fa3a4f4c6b927d90b6b72d5834~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Struggle Jennings",
@@ -126,7 +142,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/struggle-jennings.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Final Gasp",
@@ -140,7 +156,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461176849",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Elise Trouw presents: The Diary of Elon Lust Tour",
@@ -154,7 +170,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648623614933",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Ali Siddiq: In The Shadows",
@@ -168,7 +184,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648515942577",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Houndmouth",
@@ -182,7 +198,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Ventana - Rust and Revelations Tour",
@@ -196,7 +212,7 @@
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_8933a3a95b9e4177b16f15cd96854426~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Billy Idol Should Be Dead",
@@ -210,7 +226,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493347923",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "THINN LIZZY TRIBUTE",
@@ -224,7 +240,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648477610798",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Acoustic Night featuring performances from Bugjuice Blues, Morris Village & More",
@@ -238,7 +254,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1772642832066-X3Q6AGAMLVT71GRFWMZP/Acoustic+Flier.png",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Flake",
@@ -252,7 +268,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697d41531cb1fc526e9172a4_FLATE_Portrait.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Some Hearts with special guest Buffalo Shivers",
@@ -266,7 +282,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468344776",
-      "dateAdded": "2026-03-11"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Vincent Neil Emerson",
@@ -280,7 +296,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648556587321",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Honor Choir Album Release Show",
@@ -294,7 +310,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506909653",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Gen X Takeover Comedy Tour",
@@ -308,7 +324,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648722448237",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Gen X Takeover Comedy Tour: MEET & GREET UPGRADE",
@@ -322,7 +338,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648722378189",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Blackberry Smoke",
@@ -336,7 +352,23 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Joe Stamm Band",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-03-20",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=36906",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/36906-f75403c0fc306e336c523006653197ef.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Raven",
@@ -350,7 +382,7 @@
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_413752ada56c4842bd4db5b778fba202~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "DAN SODER: THE GOLDEN RETRIEVER OF COMEDY TOUR",
@@ -364,7 +396,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648620699862",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Stallone Cobras",
@@ -378,7 +410,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648462321646",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Emily Hollingshed",
@@ -392,7 +424,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69629bd93ab21e7af265425d_emily_2x1.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Joshua Quimby with special guest Matt Pless",
@@ -406,7 +438,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648464721326",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Wednesday - Wednesday Bleeds Tour 2026",
@@ -420,7 +452,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648542389527",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Robert Lester Folsom",
@@ -434,7 +466,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648602316238",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Bingo Loco XL",
@@ -448,7 +480,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514620411",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Band of Heathens",
@@ -462,7 +494,39 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Jackson Tillman",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-03-21",
+      "time": "7:00 PM",
+      "price": "$18 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37426",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37426-6b8638e811f365abff2e2d809648aecc.jpeg",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "PULLEN STRINGS & CO.",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-03-21",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/3/21/pullen-strings-amp-co",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Joshua Quimby & Matt Pless",
@@ -476,7 +540,7 @@
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_219400f23e5e44acbe2c146d68a4ce04~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Trampled by Turtles",
@@ -490,7 +554,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648691638654",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "THE EARLY NOVEMBER & HELLOGOODBYE: 20 Years Young",
@@ -504,7 +568,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f3f098cf51e9a227_hjkn.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Ally Nicholas",
@@ -518,7 +582,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483716248",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "The  Deadgummits",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-03-22",
+      "time": "4:00 PM",
+      "price": "$8 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37432",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37432-44ae0dfb320f4b9fd3c7de7dae6cde53.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Missing Peace",
@@ -532,7 +612,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493087436",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Obituary",
@@ -546,7 +626,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_9a0dd4ebfbdb44a7b1abe6a6f4594aac~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Convalescence | Hunt The Dinosaur | Mantra of Morta | Drenched in Ceremony",
@@ -560,7 +640,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648502738137",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Convictions + Wolves at the Gate - the Aftermath Tour",
@@ -574,7 +654,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6970df66ec031e5ab4adfc7d_WolvesAtTheGate_Convictions_2026_Tour_FacebookCoverPhoto_Static.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Menzingers",
@@ -588,7 +668,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648611548354",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "NICK HEXUM",
@@ -602,7 +682,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648560629763",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "St. Paul & The Broken Bones",
@@ -616,7 +696,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Sexcult | Shadow Hounds",
@@ -630,7 +710,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466951557",
-      "dateAdded": "2026-03-12"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Unlikely Candidates",
@@ -644,7 +724,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69890d40600b0d0ffbcb8bb1_TUC-_KANSAS_DAY_5-16.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Latinx Karaoke Night",
@@ -658,7 +738,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648482070077",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Unlikely Candidates",
@@ -672,7 +752,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_395999666d9c47cf83c4efdd37ea8f61~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Pop Punk Nite: OKC! by Van Full of Nuns",
@@ -686,7 +766,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648520314889",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Paisley Fields",
@@ -700,7 +780,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648477607495",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Lincoln Swanzy",
@@ -714,7 +794,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69934994a7e137346efdc342_cropped-event-image.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Ryan Caraveo - The Forever Foggy Tour",
@@ -728,7 +808,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488770727",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Stereosity",
@@ -742,7 +822,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510516689",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Nate Smith",
@@ -756,7 +836,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Dime Store Riot",
@@ -770,7 +850,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_5fb00867b5594701a83be45738dd7cbe~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "History That Doesn’t Suck with Professor Greg Jackson",
@@ -784,7 +864,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648722506843",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "2 Minutes to Tulsa Afterparty: MADMAN MORGAN",
@@ -798,7 +878,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648478630533",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "2 Minutes to Tulsa '26",
@@ -812,7 +892,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d318780475536e962561a_HORTON_TWO_MINUTES_2026_2160x1080.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Bri Bagwell with special guest Joleen Brown",
@@ -826,7 +906,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648464699359",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "FIA: THE LOVE ME TOUR",
@@ -840,7 +920,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648535918588",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "TRVR? & Chandler Cooper",
@@ -854,7 +934,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519755861",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "WWE NXT LIVE",
@@ -868,7 +948,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648501342195",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Disco, Always",
@@ -882,7 +962,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "KILLERS OF KILL TONY",
@@ -896,7 +976,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Kanton Teen & The Penny Pickers",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-03-27",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37264",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37264-2415c0548cba7cd2aa44f32512a5d209.jpg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Wagon Burner",
@@ -910,7 +1006,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_f59aa025e5ea4795bd006f4786e74857~mv2.jpg",
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Turnpike Tributedours (Tribute Band)",
@@ -924,7 +1020,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648509915450",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "2 Minutes to Tulsa Afterparty: TRANSYLVANIA",
@@ -938,7 +1034,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648478630450",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Keyland with special guest Chris Bo Jones",
@@ -952,7 +1048,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472529746",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Varials",
@@ -966,7 +1062,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648562149887",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Pure Prairie League /  Atlanta Rhythm Section /  Orleans /  Firefall",
@@ -980,7 +1076,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510434656",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Day Shift Party",
@@ -994,7 +1090,39 @@
       "ageLimit": "21+",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Tony Logue",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-03-28",
+      "time": "7:00 PM",
+      "price": "$10 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37030",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37030-21035fba4f3a48ec9a319bcb04c1d613.jpeg",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "SKY RUN ROGER",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-03-28",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/3/28/sky-run-roger",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Wood Brothers",
@@ -1008,7 +1136,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466235107",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Crow & Gazelle with special guest Chloe Beth",
@@ -1022,7 +1150,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468249056",
-      "dateAdded": "2026-03-11"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "BUGNOG, Ectospire, MyWitchMyBlood, Respair",
@@ -1036,7 +1164,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648591210734",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Cobi Lalas",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-03-29",
+      "time": "4:00 PM",
+      "price": "$7 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37705",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37705-0648ccb017981a5b3f769652f4c2664f.png",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "SUNFO + Thanks! I Hate It",
@@ -1050,7 +1194,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486224086",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Orbit Culture",
@@ -1064,7 +1208,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/orbit-culture.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Love Cuts | Professional Golfer | Zapruder Film School",
@@ -1078,7 +1222,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648470594258",
-      "dateAdded": "2026-03-08"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Watchhouse",
@@ -1092,7 +1236,23 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "ANNA ROSALES + EMILY DAVIS",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-04-01",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/1/anna-rosales-emily-davis",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Oceanic",
@@ -1106,7 +1266,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ba42766d34464feb84f56784ba495dc6~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Samantha Crain",
@@ -1120,7 +1280,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/698a14eaba96222007fbc167_SAM_CRAIN_SAMSELECTS__14_%25281%2529.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Hillbilly Casino with special guest The Poppa Foster Goodtime™ Band",
@@ -1134,7 +1294,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468247569",
-      "dateAdded": "2026-03-11"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Vandoliers",
@@ -1148,7 +1308,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488179903",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jordana",
@@ -1162,7 +1322,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648623805901",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "FORTUNE FEIMSTER: TAKIN' CARE OF BISCUITS TOUR",
@@ -1176,7 +1336,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648681178537",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jessica Kirson",
@@ -1190,7 +1350,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "BOLO",
@@ -1204,7 +1364,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648471137786",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "(18+) 2000s Rave",
@@ -1218,7 +1378,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187b15cffc139e9ca41_TULSA_2000s_rave_wide_1920__flyer_%25281%2529.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Trenton Fletcher with special guest Kanton Teen",
@@ -1232,7 +1392,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648487373534",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Josh Weathers",
@@ -1246,7 +1406,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648550332391",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Nik Parr & The Selfless Lovers",
@@ -1260,7 +1420,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648602363048",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Leon Live! Annual Birthday Celebration",
@@ -1274,7 +1434,39 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Anthony Gomes",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-04-03",
+      "time": "7:00 PM",
+      "price": "$28 adv / $35 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=36948",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/36948-885829d8171e3f8fe56693e6c0dcbc46.jpeg",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "13TH ANNUAL GURNEY SHOW WITH ARTIST TODD GOLNICK (4PM-DARK)",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-04-03",
+      "time": "4:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/3/12th-annual-gurney-show-with-artist-todd-golnick-4pm-dark",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Straight Tequila Night: '90s Country Tribute",
@@ -1288,7 +1480,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648497330840",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "S. Reidy | Petty Fox | Joey Duffy",
@@ -1302,7 +1494,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648467331546",
-      "dateAdded": "2026-03-12"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Josh Weathers",
@@ -1316,7 +1508,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3188328df0e936ea4a30_joshwesthers6.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Bonnie Stewart with special guest Joleen Brown",
@@ -1330,7 +1522,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648479541485",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Johnny Mullenax",
@@ -1344,7 +1536,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648495447595",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "True Love Weekend at Res",
@@ -1358,7 +1550,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648482082398",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "ATLiens",
@@ -1372,7 +1564,39 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493155212",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Zingo",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-04-04",
+      "time": "7:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37348",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37348-c3516ab2e890f95034046f354b16721b.jpeg",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "STALLONE COBRAS // ILL FATED // MOONROCK BANDITS",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-04-04",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/4/stallone-cobras",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "TRUE LOVE WEEKEND",
@@ -1386,7 +1610,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_762ad1f48fb5434f901da21929f44cb8~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "IV and The Strange Band + Clownvis Presley + King Sickabilly",
@@ -1400,7 +1624,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510630743",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Cold Steel",
@@ -1414,7 +1638,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_aef9417acf60496486e152c2208acbb9~mv2.jpg",
-      "dateAdded": "2026-03-14"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Zero 9:36",
@@ -1428,7 +1652,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648504484842",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "saturdays at your place",
@@ -1442,7 +1666,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648591197609",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Slaughter To Prevail: North America 2026 with Whitechapel & Attila",
@@ -1456,7 +1680,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "MY LIFE WITH THE THRILL KILL KULT",
@@ -1470,7 +1694,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648552711836",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Moon Walker",
@@ -1484,7 +1708,7 @@
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ce0a9436cbde48508255160e94312ee5~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Stitched Up Heart",
@@ -1498,7 +1722,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6966730e725f26b5bc860e35_Stitched_Up_Heart_-_Photo.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Thing",
@@ -1512,7 +1736,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648643329265",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "SCALP",
@@ -1526,7 +1750,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_2a2aa184f88b476cb41a554717dcde69~mv2.jpg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Lily Seabird",
@@ -1540,7 +1764,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648494566333",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "GWAR",
@@ -1554,7 +1778,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Club XCX",
@@ -1568,7 +1792,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483058867",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "HEARTWERK",
@@ -1582,7 +1806,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648464376037",
-      "dateAdded": "2026-03-14"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Straight Tequila Night ~ a Tribute to '90s Country (21+)",
@@ -1596,7 +1820,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6990cf961ab9ce9ed8721401_Legacy_Hall_Back_Stage_enhanced_small-gigapixel-recover_v2-7000w-faceai_v2.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Kruse Brothers: The Heartbreak and Honky-Tonk Tour",
@@ -1610,7 +1834,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648477525747",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Lissie",
@@ -1624,7 +1848,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648478236496",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Retrograde",
@@ -1638,7 +1862,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514638197",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Tennessee Jet",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-04-10",
+      "time": "7:00 PM",
+      "price": "$18 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37581",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37581-5e62fbe5618c0055ba074f5b6303000e.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Happy Fits",
@@ -1652,7 +1892,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483248313",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "This Ain't a Scene - 18+ - MTV2 tribute",
@@ -1666,7 +1906,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6980c0ab686d1abdc207c236_41843e5e-2c7d-4259-a3cc-1a2a38cb6bda.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Riverbreaks with special guest Dane Arnold",
@@ -1680,7 +1920,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648487367048",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "David Murphy - For My Peeps",
@@ -1694,7 +1934,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466064430",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "VIAL",
@@ -1708,7 +1948,39 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648539256766",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Private Party",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-04-11",
+      "time": "6:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37142",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37142-430c6a64597fceb27203c7512b8e589e.png",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "LATIN NIGHT W/ DJ TEQUILA : SHOT HAPPENS!",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-04-11",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/11/latin-night-w-dj-tequila-shot-happens",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Eliza McLamb",
@@ -1722,7 +1994,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2853111880107361983",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Premo Rice",
@@ -1736,7 +2008,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493884997",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Evan Honer",
@@ -1750,7 +2022,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Drew & Ellie Holcomb",
@@ -1764,7 +2036,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Temptress",
@@ -1778,7 +2050,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_c633f32dd35c4a2492201c13a13e28ba~mv2.jpg",
-      "dateAdded": "2026-03-09"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Huser Brother Band",
@@ -1792,7 +2064,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69a640b24c15923e195c7bc3_flyer_vanguard.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Creekers",
@@ -1806,7 +2078,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/24898849038183634",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "HIRS  /  COMMITMENT",
@@ -1820,7 +2092,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505866028",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Molly Tuttle",
@@ -1834,7 +2106,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "My So Called Band: '90s Tribute",
@@ -1848,7 +2120,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488241709",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Carson Jeffrey",
@@ -1862,7 +2134,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696135420f232263555a07a9_Photo_Jul_28_2025__10_44_51_PM_%25282%2529.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Wayne Hancock",
@@ -1876,7 +2148,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488414125",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Benjamin Tod & The Inline Six",
@@ -1890,7 +2162,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "lowheaven",
@@ -1904,7 +2176,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_b185f29cdb3142cbbf77ef8bebf080ee~mv2.jpg",
-      "dateAdded": "2026-03-14"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Trey Kennedy - The Relatable Tour (Matinee)",
@@ -1918,7 +2190,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648683106445",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Trey Kennedy - The Relatable Tour",
@@ -1932,7 +2204,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648688318256",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Texas Hippie Coalition",
@@ -1946,7 +2218,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/02/texas-hippie-coalition.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "High Desert Queen | Gran Moreno",
@@ -1960,7 +2232,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499648249",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Crane Wives - ACT I",
@@ -1974,7 +2246,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69778e59ae8c3852d67cf20c_TCW_June2025_Scene4_0557_Web.jpeg",
-      "dateAdded": "2026-03-17"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "West Texas Exiles",
@@ -1988,7 +2260,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648498603984",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "PhaseOne",
@@ -2002,7 +2274,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510121412",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "KPOP NIGHT",
@@ -2016,7 +2288,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648537711282",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Friends Of The Phamily",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-04-18",
+      "time": "8:00 PM",
+      "price": "$12 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37349",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37349-dfdb07d01274692f8e4e46b7e1169c8e.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Doublecamp",
@@ -2030,7 +2318,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488781087",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Dallas Cowboys Cheerleader - MEET & GREET UPGRADE",
@@ -2044,7 +2332,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648507339227",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Dallas Cowboys Cheerleaders LIVE!",
@@ -2058,7 +2346,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648500789691",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "One Way Truckin'",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-04-19",
+      "time": "4:00 PM",
+      "price": "$15",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37985",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37985-43c1338da1e9349980b4c6df8c869e4a.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jay Electronica, Neelam, Landon Wordswell, DJ Kitty Ca$h and DJ Kelly Green w /  Marcel P Black",
@@ -2072,7 +2376,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506568055",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Taylor Austin Dye Damn Good Day Tour",
@@ -2086,7 +2390,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/699f90883727c30515814871_Taylor_Austin_Dye_Press_Photo_%25281%2529.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Dethklok & Amon Amarth: The Amonklok Conquest",
@@ -2100,7 +2404,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648554461588",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Black Dahlia Murder",
@@ -2114,7 +2418,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648518163024",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Marlon Funaki - Half Moon Tour",
@@ -2128,7 +2432,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69693de8736a775d2ecda907_marlon_funaki.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Hot Flash Heat Wave",
@@ -2142,7 +2446,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648496904517",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Dallas Cowboys Cheerleaders LIVE!",
@@ -2156,7 +2460,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Bad Suns: ACCELERATOUR USA 2026",
@@ -2170,7 +2474,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648494038116",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "James McMurtry and the Martial Law Review",
@@ -2184,7 +2488,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697a0bd88a1216873e11527f_james_mcmurtry_promo.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Travis Bolt",
@@ -2198,7 +2502,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648495328465",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Big Head Todd and the Monsters",
@@ -2212,7 +2516,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Filth - Back to tha Gutta Tour",
@@ -2226,7 +2530,7 @@
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_ded7b5c57fb0457c8dc20b83db0aea02~mv2.jpg",
-      "dateAdded": "2026-03-16"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Maria Bamford",
@@ -2240,7 +2544,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2853111880077877552",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "KOAN Sound Live Explorations Tour",
@@ -2254,7 +2558,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69949b0fe79818f64cf8c3fc_KOAN_Sound_Live_Explorations_-_Tulsa__OK_04.23_%252816x9%2529.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Black Pistol Fire - Flagrant Act of Bliss",
@@ -2268,7 +2572,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648485311780",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "AVATAR: DON'T GO IN THE FOREST 2026",
@@ -2282,7 +2586,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514651978",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Spooklights",
@@ -2296,7 +2600,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505954450",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "DISCO, ALWAYS: A HARRY STYLES DANCE NIGHT",
@@ -2310,7 +2614,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505924465",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Casey Donahew",
@@ -2324,7 +2628,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506054128",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Randall King",
@@ -2338,7 +2642,23 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Front Porch / Foggy Memory Boys",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-04-24",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37428",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37428-a29d09307d43aa979e20f6efbcb8ecb4.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Necrot",
@@ -2352,7 +2672,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_e106d16ed91e47619f0cd859afd4eddc~mv2.jpg",
-      "dateAdded": "2026-03-17"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Silversun Pickups - Tenterhooks Tour",
@@ -2366,7 +2686,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519390408",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Happy Landing",
@@ -2380,7 +2700,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648481694092",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Electronic Orchestra",
@@ -2394,7 +2714,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510041727",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "23rd Annual 80s Prom",
@@ -2408,7 +2728,7 @@
       "ageLimit": "18+",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Ralph Barbosa: The Red 40 Tour",
@@ -2422,7 +2742,39 @@
       "ageLimit": "18+",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Micky and The Motorcars",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-04-25",
+      "time": "7:00 PM",
+      "price": "$17 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37028",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37028-0f8644976f12d1fbb04f65d17dc2ca8e.jpeg",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "SKY  RUN ROGER",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-04-25",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/25/sky-run-roger",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Shovels & Rope",
@@ -2436,7 +2788,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f8c9f42958629f33_band_photo_horizontal.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Arcy Drive - The Pit Tour: Spring 2026",
@@ -2450,7 +2802,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648598356652",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Ralph Barbosa: The Red 40 Tour",
@@ -2464,7 +2816,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510647706",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Maddox Batson",
@@ -2478,7 +2830,23 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "A Toast For David Blue",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-04-26",
+      "time": "4:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=38002",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38002-18cad0d47c0116baf9ba9d22a1e758dd.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Cass McCombs + Band: Interior Live Oak Live",
@@ -2492,7 +2860,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648475736362",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "A Keep Oklahoma Heavy Show",
@@ -2506,7 +2874,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469120924",
-      "dateAdded": "2026-03-09"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Snail Mail",
@@ -2520,7 +2888,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510628146",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "RITT MOMNEY",
@@ -2534,7 +2902,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648503123597",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "BILMURI - KINDA HARD TOUR",
@@ -2548,7 +2916,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648554367752",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "SEVENDUST ONE TOUR",
@@ -2562,7 +2930,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/01/sevendust-one-tour.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Thoughts on Bowling w /  Adjust The Sails, halftimeshow, MooseCreek Park",
@@ -2576,7 +2944,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648520284686",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Paul McDonald & The Mourning Doves",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-04-29",
+      "time": "7:00 PM",
+      "price": "$12 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37927",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37927-57326aa950b6ebda200f3706a6df671c.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "jigitz",
@@ -2590,7 +2974,21 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648516132213",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Sex Mex",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-30",
+      "time": null,
+      "price": "$15",
+      "description": "Sex Mex, Helen Kelter Skelter, Emma Goldman Sachs",
+      "eventUrl": "http://www.prekindle.com/event/62746-sex-mex-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466918365",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Sal Vulcano: Everything's Fine Tour",
@@ -2604,7 +3002,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648665758415",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Violent Vira",
@@ -2618,7 +3016,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Two Feet: The Next Steps Tour",
@@ -2632,7 +3030,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648503286575",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Adam Hood",
@@ -2646,7 +3044,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648467770338",
-      "dateAdded": "2026-03-11"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Bill Callahan",
@@ -2660,7 +3058,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489594613",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Rickshaw Billie's Burger Patrol",
@@ -2674,7 +3072,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648497761232",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "CARNEY FEST ’26 featuring ROBERT RANDOLPH",
@@ -2688,7 +3086,23 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Max Goen",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-01",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37434",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37434-ab2465e8116ddd575fc792076deca780.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Becky Robinson: The Beasts in Me Tour",
@@ -2702,7 +3116,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519266550",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "My So Called Band",
@@ -2716,7 +3130,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f8c9f42958629fd0_MSCB_POST.jpeg",
-      "dateAdded": "2026-03-15"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Toasters - 45 Years of Ska with special guest Boss Riot",
@@ -2730,7 +3144,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514645595",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "James McMurtry",
@@ -2744,7 +3158,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506384161",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Clarion",
@@ -2758,7 +3172,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648546463355",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "OK, SO GRAND SLAM",
@@ -2772,7 +3186,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Wallflowers",
@@ -2786,7 +3200,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Playa Prom \"under the sea\"",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-02",
+      "time": "7:00 PM",
+      "price": "$20 adv / $26 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37431",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37431-46f7604039e9e8b6c63e862bf4da84b9.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Toadies: The Charmer Tour",
@@ -2800,7 +3230,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493324870",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Death Angel – “Act III” Tour",
@@ -2814,7 +3244,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/02/death-angel-act-iii-tour.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Black Marble",
@@ -2828,7 +3258,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505691822",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Becky Robinson: The Beasts In Me Tour",
@@ -2842,7 +3272,23 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "One Way Truckin",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-03",
+      "time": "4:00 PM",
+      "price": "$12",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37260",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37260-256fd1cb3fb0fbeb37b6966000ba987c.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Cradle Of Filth",
@@ -2856,7 +3302,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/12/cradle-of-filth.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "DIIV",
@@ -2870,7 +3316,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499895197",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Lukas Nelson",
@@ -2884,7 +3330,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Shelly Belly",
@@ -2898,7 +3344,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648504485751",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jake Worthington - Intent to Tonk Tour",
@@ -2912,7 +3358,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/698f437fa252981f8d528ed8_Jake_Worthington_LEAD_Press_Image_Credit_Jim_Wright_August_2025.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Micky Dolenz – 60 Years of The Monkees",
@@ -2926,7 +3372,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "HR & The Human Rights Movement",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-07",
+      "time": "7:00 PM",
+      "price": "$20 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37626",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37626-412e3bad16f320692833d0548a0fe69d.png",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Whitney Cummings: Big Baby",
@@ -2940,7 +3402,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648563175092",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Cold and Alien Ant Farm",
@@ -2954,7 +3416,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/01/cold-and-alien-ant-farm.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jabee",
@@ -2968,7 +3430,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648467482729",
-      "dateAdded": "2026-03-12"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "THE DOSE: A Psychedelic Comedy Show (18+)",
@@ -2982,7 +3444,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d318947d1734db907fb19_Tulsa_FB_Event_Banner.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Alex Lambert",
@@ -2996,7 +3458,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489047150",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Steven Ho: Not Your Hero Tour (Early Show)",
@@ -3010,7 +3472,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506440944",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Steven Ho: Not Your Hero Tour (Late Show)",
@@ -3024,7 +3486,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506440867",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Smells Like Nirvana",
@@ -3038,7 +3500,23 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696fa8dc220685ce591ce66d_1200_x_628_SLN_STOCK_3A_%25281%2529.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Arkansauce",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-09",
+      "time": "7:00 PM",
+      "price": "$18 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37766",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37766-b9569a8b21243f36c0977507613636ad.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jake Xerxes Fussell",
@@ -3052,7 +3530,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476028375",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Samantha Fish",
@@ -3066,7 +3544,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "War On Women x Stepmom",
@@ -3080,7 +3558,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648465932613",
-      "dateAdded": "2026-03-13"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "DAYSEEKER: The Pale Moonlight Tour",
@@ -3094,7 +3572,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/dayseeker-the-pale-moonlight-tour.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Drugdealer",
@@ -3108,7 +3586,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510127317",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Dance Gavin Dance with Special Guests Wolf & Bear and Novelists",
@@ -3122,7 +3600,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489756799",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Whose Live Anyway?",
@@ -3136,7 +3614,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Keep Flying",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-12",
+      "time": "6:30 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.tulsashrine.com",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37935-c00d928b99fa89a15a3189df94111e6d.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Ethan Regan - Spring Cleaning Tour",
@@ -3150,7 +3644,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696936de7b3c2a5e8640f1bb_PRESS_6.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Carrellee",
@@ -3164,7 +3658,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472529103",
-      "dateAdded": "2026-03-09"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "BERT KREISCHER: PERMISSION TO PARTY",
@@ -3178,7 +3672,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "A Tribute to The Soul Divas: A Kendrik McKinney Production",
@@ -3192,7 +3686,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469338175",
-      "dateAdded": "2026-03-12"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Citizen Soldier - Secret Songs tour Part II",
@@ -3206,7 +3700,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697104e82572e54871a70b11_vanguard_cover_flyer_%25288%2529.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Ethan Regan: Spring Cleaning Tour",
@@ -3220,7 +3714,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648501227749",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "ZZ Nation ( Tribute to ZZ Top )",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-14",
+      "time": "7:00 PM",
+      "price": "$18 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37830",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37830-2c7ac16df46b0febf298f97bf9f5b1f9.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Bingo Loco",
@@ -3234,7 +3744,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648464880749",
-      "dateAdded": "2026-03-16"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Glom",
@@ -3248,7 +3758,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648550171268",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Billy Currington",
@@ -3262,7 +3772,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Ty Smith & The Minor Offenses",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-15",
+      "time": "6:00 PM",
+      "price": "$20 to $40 ADV   $25 to $40 DAY OF",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37609",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37609-35cad796530bbf6ad095fecbf9fd3885.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jensen McRae: God Has A Hitman Tour",
@@ -3276,7 +3802,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648495414961",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "GOLDEN: A K-Pop Kids Party!",
@@ -3290,7 +3816,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/02/golden-a-k-pop-kids-party.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Daisychain with special guest Manta Rays",
@@ -3304,7 +3830,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648467700487",
-      "dateAdded": "2026-03-11"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "MESO",
@@ -3318,7 +3844,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505840828",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "My Sweetest Kill Album Release Show",
@@ -3332,7 +3858,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648496939524",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Acid Bath with Chat Pile & Khemmis",
@@ -3340,13 +3866,13 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-16",
       "time": null,
-      "price": "$36–$58",
+      "price": "$36–$85",
       "description": "Acid Bath, Chat Pile, Khemmis",
       "eventUrl": "http://www.prekindle.com/event/28941-acid-bath-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648462578111",
-      "dateAdded": "2026-03-16"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Tech N9ne and E-40",
@@ -3360,7 +3886,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Crueligans",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-16",
+      "time": "8:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37585",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37585-800c41f1c9fc2a4c3b978922d0030d55.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Dance With The Dead & Magic Sword",
@@ -3374,7 +3916,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648568126275",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Cobi Lalas & Duval",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-17",
+      "time": "4:00 PM",
+      "price": "$7 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37835",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37835-cca808407f8d430c3f7d85cfd8e598cc.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "PURITY RING - PLACE OF MY OWN TOUR",
@@ -3388,7 +3946,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648508075987",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Archspire: Long Roads Big Loads Tour",
@@ -3402,7 +3960,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696a885b8ed3a90f5eb93538_Copy_of_archspire_2025_Alex_Morgan_5.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Sons of Legion - Soul to SØL Tour",
@@ -3416,7 +3974,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648650433646",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Sports",
@@ -3430,7 +3988,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510601463",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Mac DeMarco",
@@ -3444,7 +4002,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2853111880177686461",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Psychedelic Furs with Special Guests We Are Scientists",
@@ -3458,7 +4016,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488981311",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Mac Saturn",
@@ -3472,7 +4030,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/699dd0e104118556a795946d_MacSaturn_2025_Maximus_Reid_MAX02006-2_web.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "HARBOUR",
@@ -3486,7 +4044,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648462594274",
-      "dateAdded": "2026-03-17"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Quilts | Tavo Carbone | Mike Dee & Stone Trio",
@@ -3500,7 +4058,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648501668755",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Widdler’s Midnight Mass Tour",
@@ -3514,7 +4072,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519298682",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jarrod Morris",
@@ -3528,7 +4086,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69b8c3c39ce6c3ad147e4f2c_Photo_Nov_02_2024__9_21_48_PM.jpeg",
-      "dateAdded": "2026-03-17"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Mac Saturn",
@@ -3542,7 +4100,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486880063",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "DAMAG3",
@@ -3556,7 +4114,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514342982",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "R&B ONLY LIVE",
@@ -3570,7 +4128,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648464807699",
-      "dateAdded": "2026-03-09"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Bingo Loco",
@@ -3584,7 +4142,23 @@
       "ageLimit": "21+",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Wyatt Putman",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-23",
+      "time": "7:00 PM",
+      "price": "$10 adv / $12 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37728",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37728-f27906977522e4c208e93b68cd9e63a0.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Cole Barnhill",
@@ -3598,7 +4172,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469074284",
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The HU and Apocalyptica with Special Guest The Rasmus",
@@ -3612,7 +4186,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/02/the-hu-and-apocalyptica-with-special-guest-the-rasmus.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Soft Hands: '80s Prom",
@@ -3626,7 +4200,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648492008545",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "30 YEARS OF UNDERGROUND: Kottonmouth Kings & A Killer's Confession & Kung Fu Vampire",
@@ -3640,7 +4214,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/698b873dfc2b0082f83055cb_30_years_anniversary_-_KMK._AKC._KFV.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Tophouse",
@@ -3654,7 +4228,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499895635",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Zoso: The Ultimate Led Zeppelin Experience",
@@ -3668,7 +4242,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648634593625",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jackie Venson",
@@ -3682,7 +4256,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648535563385",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Kolby Cooper",
@@ -3696,7 +4270,23 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Sten Joddi Live",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-30",
+      "time": "7:00 PM",
+      "price": "$20 to $50 ADV   $25 to $50 DAY OF",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37623",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37623-dc9efaab59f7c35dcc49d6eb0364176f.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Buckcherry",
@@ -3710,7 +4300,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/07/etix-Buckcherry1751986173_3859601751986174.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Brad Absher & The Superials",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-31",
+      "time": "4:00 PM",
+      "price": "$8 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37575",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37575-821b3a8e3415d474da729d4a7f7d15ab.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Highly Suspect And The Tour Of Yellow Roses",
@@ -3724,7 +4330,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-17"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Bodysnatcher",
@@ -3738,7 +4344,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69949e9d9b070a9a20f439f7_1ST_CHOICE.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "GRAHAM – The MOODSWINGS Tour",
@@ -3752,7 +4358,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648477739003",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Shakey Graves",
@@ -3766,7 +4372,23 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Phil Hamilton",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-04",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37740",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37740-64caaad0e3bdc5f5bce5a3cd79b4c1a4.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Little Image",
@@ -3780,7 +4402,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697d3efcafc91270372c7da4_000364800007.jpeg",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Stoney LaRue",
@@ -3794,7 +4416,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "SiC (Slipknot Tribute) & Lost In Hollywood (System of a Down Tribute)",
@@ -3808,7 +4430,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476466345",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Keep Nox Free",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-06",
+      "time": "6:30 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37090",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Runarounds: The Minivan Tour",
@@ -3822,7 +4460,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648497555553",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Lilly Hiatt",
@@ -3836,7 +4474,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648504193880",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "HENRY CHO: THE EMPTY NEST TOUR",
@@ -3850,7 +4488,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "One Way Truckin",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-07",
+      "time": "4:00 PM",
+      "price": "$12",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37263",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37263-f1d33262904d0795498999dbbe8da247.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Kings Kaleidoscope",
@@ -3864,7 +4518,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648741672185",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Buckethead",
@@ -3878,7 +4532,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Between the Buried and Me: The Blue Nowhere U.S. Tour - Spring 2026",
@@ -3892,7 +4546,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048302",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Hastronaut",
@@ -3906,7 +4560,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468618403",
-      "dateAdded": "2026-03-12"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Ian Moore Album Re-Release Party",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-12",
+      "time": "7:00 PM",
+      "price": "$25 adv / $30 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37261",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37261-1f9c969ba79cd3a1c07dbe3e0abf7378.jpg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Juvenile’s Boiling Point Album Release Tour ​w /  The 400 Degreez Band​ & Friends",
@@ -3920,7 +4590,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648513988504",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Kat Hasty",
@@ -3934,7 +4604,23 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Get Leppard",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-13",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37582",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37582-4f3e75d971b0782276bd44ad8da5192e.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Vinyl Williams",
@@ -3948,7 +4634,69 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648498707687",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "MC Chris W/ Mega Ran",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-18",
+      "time": "7:00 PM",
+      "price": "$25 adv / $30 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37262",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37262-a3427e3ff6f31e9ddcfd90e427e36d6b.jpg",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Private Event",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-19",
+      "time": "5:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37838",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37838-2d4766ebeec7241a22a6b7d8c18e1d50.png",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Day Shift Party",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-06-20",
+      "time": "5 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/89476603/day-shift-party-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "21+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Lets Zeppelin",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-20",
+      "time": "7:00 PM",
+      "price": "$16 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37698",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Dinner Time",
@@ -3962,7 +4710,39 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468636995",
-      "dateAdded": "2026-03-13"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "KC Bones ( Grateful Dead Tribute )",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-26",
+      "time": "8:00 PM",
+      "price": "$8 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37864",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37864-97e4ec4c065530c01ace15a01d9275d4.jpeg",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Indigenous",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-27",
+      "time": "7:00 PM",
+      "price": "$18 adv / $22 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37984",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37984-10ab73b6c7834416183723eba63d21e5.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "JINJER Duel North America 2026",
@@ -3976,7 +4756,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/03/jinjer-duel-north-america-2026.jfif",
-      "dateAdded": "2026-03-17"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Wilco",
@@ -3990,7 +4770,23 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "The Effigies",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-10",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37913",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37913-406db2acff07c718e15da70bd7d24c3b.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Cinderella’s Tom Keifer Band",
@@ -4004,7 +4800,39 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/01/tom-keifer.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Shakedown Strings",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-11",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37833",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37833-e7df985afa02611e43bb6215a61ff3ed.jpeg",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "One Way Truckin'",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-12",
+      "time": "4:00 PM",
+      "price": "$15",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37986",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37986-4624bbc17846967ed3edca7c3c689f90.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "High Fade",
@@ -4018,7 +4846,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505857371",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Killers of Kill Tony",
@@ -4032,7 +4860,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486932059",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Last Podcast on the Left",
@@ -4046,7 +4874,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Last Podcast on the Left - JK Ultra Tour",
@@ -4060,7 +4888,39 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648691639253",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Ratchet Dolls",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-23",
+      "time": "7:00 PM",
+      "price": "$7 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37929",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37929-aeb37b3128e65b80d80f4dfdc5c44821.jpeg",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "The Ex-faces (Ex Members Of Mushroomhead Playing Their Hits)",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-26",
+      "time": "6:00 PM",
+      "price": "$25 adv / $30 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37795",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37795-a3378052ac5ea21ed7b70e1b53de0a20.jpg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Matt Fraser",
@@ -4074,7 +4934,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048633",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Uncle Lucius: The 20th Anniversary Tour",
@@ -4088,7 +4948,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648475737233",
-      "dateAdded": "2026-03-09"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Passion Pit - The Pretty Penny Tour",
@@ -4102,7 +4962,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472769290",
-      "dateAdded": "2026-03-17"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Marvelous Miss Gender starring BOSCO",
@@ -4116,7 +4976,23 @@
       "ageLimit": "18+",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Kiss the Goat ( Premiere Ghost Tribute )",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-15",
+      "time": "7:00 PM",
+      "price": "$20 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37928",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37928-0ee0c3ecbd88b47bd08d10b13b270efd.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jayson Arendt",
@@ -4130,7 +5006,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476526614",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "PawPaw Rod: Picture Day Tour",
@@ -4144,7 +5020,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048191",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "MINUS THE BEAR - Menos El Oso 20th Anniversary Tour",
@@ -4158,7 +5034,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466299832",
-      "dateAdded": "2026-03-17"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Ray Wylie Hubbard",
@@ -4172,7 +5048,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472769898",
-      "dateAdded": "2026-03-11"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Tig Notaro: Out of Nowhere",
@@ -4186,7 +5062,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486637797",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "W.A.S.P. -1984 TO HEADLESS",
@@ -4200,7 +5076,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Buddy Guy 90",
@@ -4214,7 +5090,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Private Event",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-09-18",
+      "time": "5:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=38003",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38003-c1745f4821a211be53c4fda787e51ee2.png",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Elefante",
@@ -4228,7 +5120,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/12/elefante.jfif",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "ABRA Cadabra - The Music & Magic of ABBA",
@@ -4242,7 +5134,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514016308",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jim Henson’s Labyrinth: In Concert 40th Anniversary",
@@ -4256,7 +5148,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Leonid & Friends",
@@ -4270,7 +5162,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648490354158",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "The Living Tombstone",
@@ -4284,7 +5176,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-10"
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Snarky Puppy",
@@ -4298,7 +5190,55 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476045156",
-      "dateAdded": "2026-03-06"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "First Train To Tulsa Night One",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-16",
+      "time": "6:00 PM",
+      "price": "$18 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37987",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37987-70450099b4d5ae6cf200147866f9e43c.png",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "First Train To Tulsa Night Two",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-17",
+      "time": "6:00 PM",
+      "price": "$18 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37988",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37988-96b65867e1e92b6f2c5e545c26b01690.png",
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Henry Zoellner",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-14",
+      "time": "7:00 PM",
+      "price": "$8 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37898",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37898-a0fa599db228af20ff2ef98949e91875.jpeg",
+      "dateAdded": "2026-03-18"
     },
     {
       "title": "Public Image Ltd - THIS IS NOT THE LAST TOUR",
@@ -4312,7 +5252,23 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461319846",
-      "dateAdded": "2026-03-17"
+      "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Private Event",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-04-10",
+      "time": "7:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37771",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37771-5066818ae5497c56f690c712166b6554.png",
+      "dateAdded": "2026-03-18"
     }
   ]
 }
