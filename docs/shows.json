@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T07:11:48.258Z",
+  "lastUpdated": "2026-03-18T18:43:25.354Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1786,7 +1786,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-10",
       "time": "8:00 PM",
-      "price": "$30",
+      "price": "$22–$30",
       "description": "Lissie, Madisen Ward",
       "eventUrl": "http://www.prekindle.com/event/85417-lissie-oklahoma-city",
       "ageLimit": null,
@@ -2991,6 +2991,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Panhandle Playboys: Cole Barnhill x Sterling Elza",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-05-01",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Cole Barnhill, Sterling Elza",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/panhandle-playboys-cole-barnhill-x-sterling-elza-01-may",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bad30da01241a15eb06d27_SE_CB_ADMAT_2026_MAY_v3_.jpeg",
+      "dateAdded": "2026-03-18"
+    },
+    {
       "title": "Adam Hood",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -3719,6 +3733,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Neoni",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-15",
+      "time": null,
+      "price": "$30",
+      "description": "Neoni",
+      "eventUrl": "http://www.prekindle.com/event/95667-neoni-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461081257",
+      "dateAdded": "2026-03-18"
+    },
+    {
       "title": "Billy Currington",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -3824,7 +3852,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-16",
       "time": null,
-      "price": "$36–$85",
+      "price": "$48–$85",
       "description": "Acid Bath, Chat Pile, Khemmis",
       "eventUrl": "http://www.prekindle.com/event/28941-acid-bath-oklahoma-city",
       "ageLimit": null,
@@ -4914,7 +4942,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-03",
       "time": null,
-      "price": "$25",
+      "price": "$25–$70",
       "description": "Passion Pit",
       "eventUrl": "http://www.prekindle.com/event/35864-passion-pit-the-pretty-penny-tour-oklahoma-city",
       "ageLimit": null,
@@ -4986,7 +5014,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-07",
       "time": null,
-      "price": "$152",
+      "price": "$38–$152",
       "description": "Minus the Bear, Keep",
       "eventUrl": "http://www.prekindle.com/event/27911-minus-the-bear-menos-el-oso-20th-anniversary-tour-oklahoma-city",
       "ageLimit": null,
@@ -5204,7 +5232,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2027-02-20",
       "time": null,
-      "price": "$35",
+      "price": "$30–$65",
       "description": "Public Image Ltd.",
       "eventUrl": "http://www.prekindle.com/event/68122-public-image-ltd-this-is-not-the-last-tour-oklahoma-city",
       "ageLimit": null,
