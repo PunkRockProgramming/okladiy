@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T07:07:01.285Z",
+  "lastUpdated": "2026-03-19T18:40:37.484Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -28,20 +28,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/struggle-jennings.jfif",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Houndmouth",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-03-19",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/70950984/houndmouth-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
       "dateAdded": "2026-03-18"
     },
     {
@@ -245,6 +231,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f3f098cf51e9a227_hjkn.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Bluegrass Brunch Advance Tickets and Booth Reservation",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-03-22",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648460457034",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648460457017",
+      "dateAdded": "2026-03-19"
     },
     {
       "title": "The  Deadgummits",
@@ -518,20 +518,6 @@
         "tulsa"
       ],
       "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Crow & Gazelle with special guest Chloe Beth",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-03-29",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648468249659",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468249056",
       "dateAdded": "2026-03-18"
     },
     {
@@ -1858,7 +1844,7 @@
       "time": "6:30 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.tulsashrine.com",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37935",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -2787,6 +2773,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37898-a0fa599db228af20ff2ef98949e91875.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-24",
+      "time": "7:00 PM",
+      "price": "$53",
+      "description": "Hawthorne Heights, letlive., Creeper",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/hawthorne-heights-20th-anniversary-of-if-only-you-were-lonely-24-nov",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69b1a572cfeb3ad69b05bdf2_HH_Promo_2026.jpeg",
+      "dateAdded": "2026-03-19"
     },
     {
       "title": "Private Event",
