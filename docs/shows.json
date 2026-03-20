@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T18:40:37.484Z",
+  "lastUpdated": "2026-03-20T07:04:58.423Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -14,20 +14,6 @@
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_dd7fe9fa3a4f4c6b927d90b6b72d5834~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Struggle Jennings",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-03-19",
-      "time": "8 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/86595461/struggle-jennings-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/struggle-jennings.jfif",
       "dateAdded": "2026-03-18"
     },
     {
@@ -1097,6 +1083,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "BUBBLE",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-04-17",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/17/bubble",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-20"
     },
     {
       "title": "lowheaven",
@@ -2697,6 +2699,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/12/elefante.jfif",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Houndmouth",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-10-09",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/70950984/houndmouth-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-20"
     },
     {
       "title": "Jim Henson’s Labyrinth: In Concert 40th Anniversary",
