@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-03-20T07:04:58.423Z",
+  "lastUpdated": "2026-03-20T18:32:03.792Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Wolves At The Gate with Convictions",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-19",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "The Aftermath Tour\nWolves At The Gate With Convictions\nPlus Special Guest Heal the Hurt & XIII Minutes\n*All Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/wolvesatthegatewithconvictions/89thstreetokc/oklahomacity/32414/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_dd7fe9fa3a4f4c6b927d90b6b72d5834~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Ventana - Rust and Revelations Tour",
       "venue": "89th Street OKC",
@@ -695,6 +681,20 @@
       ],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Live Music All Ages feat: Unlikely Roll, Bathtub Fishing & Double Violets",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-04-04",
+      "time": "7:30 PM",
+      "price": "$10",
+      "description": "Live music featuring performances by Unlikely Roll, Bathtub Fishing, and Double Violets.Doors 7:30pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-unlikely-roll-bathtub-fishing-double-violets",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774030662584-IPKECICBO8X5UD5FS80R/Bathtub+Fishing+Flier.jpg",
+      "dateAdded": "2026-03-20"
     },
     {
       "title": "Josh Weathers",
@@ -1449,6 +1449,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "NU METAL SUCKS Feat. Spineshank",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-28",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "SPINESHANK- Nu Metal Sucks Tour\nwith special guests Hed PE, Primer 55, And Kissing Candace \n\nGeneral Admission Standing / All Ages Welcome",
+      "eventUrl": "https://www.ticketstorm.com/event/spineshankhedpeprimer55andkissingcandacenumetalsuckstour/89thstreetokc/oklahomacity/32514/?fbclid=IwY2xjawQFkHpleHRuA2FlbQIxMABicmlkETJYODVFVEdYYWhJSVE1WTlqc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjGiNcxHDG7a9-G3Pdkl9X-KITp2Fwg1oxDO0-ccznYM8mqb1smsPVspeURT_aem_uvtWBsUAzaa_vZSu1CgepQ",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_58e703e66bbb49949e0f321c9f7918ff~mv2.jpg",
+      "dateAdded": "2026-03-20"
+    },
+    {
       "title": "SEVENDUST ONE TOUR",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -1498,7 +1512,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-05-01",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$27",
       "description": "Cole Barnhill, Sterling Elza",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/panhandle-playboys-cole-barnhill-x-sterling-elza-01-may",
       "ageLimit": "ALL AGES",
@@ -2323,6 +2337,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "The Baby Bats Parade: Christian Death + Gene Loves Jezebel & more",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-10",
+      "time": "8:00 PM",
+      "price": "$39",
+      "description": "Christian Death, Gene Loves Jezebel, Descartes A Kant, Black Season Witch",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/christian-death-gene-loves-jezebel-descartes-a-kant-black-season-witch-10-jun",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bd6facbdef40ceee8dc930_C.D.-_G.L.J._TOUR_ART.jpeg",
+      "dateAdded": "2026-03-20"
+    },
+    {
       "title": "Buckethead",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -2708,7 +2736,7 @@
       "time": "7 pm",
       "price": null,
       "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/70950984/houndmouth-tulsa-cains-ballroom?partner_id=100",
+      "eventUrl": "javascript:void(0)",
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
