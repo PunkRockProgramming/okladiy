@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-03-21T06:55:40.809Z",
+  "lastUpdated": "2026-03-21T18:20:22.001Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Ventana - Rust and Revelations Tour",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-20",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Ventana (featuring Ex-Mushroomhead Members)\nPlus Aeternum, Munkie Gunn, and Neanderthal Jones\n*All Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/ventanafeaturingexmushroomheadmembers/89thstreetokc/oklahomacity/32208/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_8933a3a95b9e4177b16f15cd96854426~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Acoustic Night featuring performances from Bugjuice Blues, Morris Village & More",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-03-20",
-      "time": "7:30 PM",
-      "price": "$10",
-      "description": "Acoustic Night featuring Bugjuice Blues, Morris Village, China Blue, and Babies on a Halfpipe.Doors 7:30pm Music 8pmTickets $10",
-      "eventUrl": "https://www.noisetowntulsa.com/events/acoustic-night-featuring-performances-from-bugjuice-blues-morris-village-china-blue-babies-on-a-halfpipe",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1772642832066-X3Q6AGAMLVT71GRFWMZP/Acoustic+Flier.png",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Raven",
       "venue": "89th Street OKC",
@@ -421,11 +393,11 @@
       "date": "2026-03-26",
       "time": "7:00 PM",
       "price": null,
-      "description": "THE UNLIKELY CANDIDATES\nwith special guest Snorkeler\n\nGeneral Admission Standing / All Ages Welcome",
+      "description": "THE UNLIKELY CANDIDATES\nwith special guests Snorkeler and A Date With Iris\n\nGeneral Admission Standing / All Ages Welcome",
       "eventUrl": "https://www.etix.com/ticket/p/36684399/the-unlikely-candidates-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_395999666d9c47cf83c4efdd37ea8f61~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_4a792ca780ba45548634ec78605b99d5~mv2.jpg",
       "dateAdded": "2026-03-18"
     },
     {
@@ -1046,7 +1018,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-04-03",
       "time": "9:00 PM",
-      "price": "$24.57",
+      "price": "$27.84",
       "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/2000-s-rave-18-03-apr",
       "ageLimit": null,
@@ -1875,11 +1847,11 @@
       "date": "2026-04-18",
       "time": "7:00 PM",
       "price": null,
-      "description": "lowheaven\nw/ special guest Drosera\n\nGeneral Admission Standing / All Ages Welcome",
+      "description": "lowheaven\nw/ special guest Drosera, Respair, & itallhappenedinjuly\n\nGeneral Admission Standing / All Ages Welcome",
       "eventUrl": "https://www.etix.com/ticket/p/88810606/lowheaven-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_b185f29cdb3142cbbf77ef8bebf080ee~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_2fe525a8acd742ea84157ed5a91e60ff~mv2.jpg",
       "dateAdded": "2026-03-18"
     },
     {
@@ -2665,6 +2637,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Ashes Remain",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-29",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "Ashes Remain With Stephen Stanley\nWhat I've Become 15 Year Anniversary Tour\nPlus More Special Guests TBA\n*All Tickets General Admission",
+      "eventUrl": "https://www.ticketstorm.com/event/ashesremainwithstephenstanley/89thstreetokc/oklahomacity/32465/",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_751c6c64107047288c393c2a5c472aed~mv2.jpg",
+      "dateAdded": "2026-03-21"
+    },
+    {
       "title": "SEVENDUST ONE TOUR",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -3246,6 +3232,20 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506440867",
+      "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Carrellee",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-05-09",
+      "time": null,
+      "price": "$15",
+      "description": "Carrellee",
+      "eventUrl": "http://www.prekindle.com/event/28164-carrellee-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648456737836",
       "dateAdded": "2026-03-21"
     },
     {
@@ -5112,6 +5112,22 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461319846",
+      "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Private Event",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-04-10",
+      "time": "7:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37771",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37771-5066818ae5497c56f690c712166b6554.png",
       "dateAdded": "2026-03-21"
     }
   ]
