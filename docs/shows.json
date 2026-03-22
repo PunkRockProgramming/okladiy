@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T07:00:42.676Z",
+  "lastUpdated": "2026-03-22T18:22:00.185Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,20 +15,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1772642832066-X3Q6AGAMLVT71GRFWMZP/Acoustic+Flier.png",
       "dateAdded": "2026-03-22"
-    },
-    {
-      "title": "Raven",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-21",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Raven with Special Guests SLACKJAW\nSpecial Guests Shame In Nothing & Trapped In Kaos\n*All Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/ravenwithspecialguestslackjaw/89thstreetokc/oklahomacity/32368/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_413752ada56c4842bd4db5b778fba202~mv2.jpg",
-      "dateAdded": "2026-03-18"
     },
     {
       "title": "Joshua Quimby & Matt Pless",
@@ -50,7 +36,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-03-22",
       "time": null,
-      "price": "$49–$86",
+      "price": "$44–$86",
       "description": "Trampled By Turtles, Wild Horses",
       "eventUrl": "http://www.prekindle.com/event/27991-trampled-by-turtles-oklahoma-city",
       "ageLimit": null,
@@ -2647,6 +2633,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Claymore",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-01",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "CLAYMORE \nwith special guests Numb Generation and Masticated \n+local support from Hollowed Thoughts, Who Will Know and deathbyathousandcuts\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.ticketstorm.com/event/claymore89thst/89thstreetokc/oklahomacity/32610/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ea9141dce01748c9b0662d21caeb9c1b~mv2.jpg",
+      "dateAdded": "2026-03-22"
     },
     {
       "title": "Two Feet: The Next Steps Tour",
