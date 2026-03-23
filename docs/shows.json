@@ -1,114 +1,14 @@
 {
-  "lastUpdated": "2026-03-22T18:22:00.185Z",
+  "lastUpdated": "2026-03-23T07:21:28.118Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Acoustic Night featuring performances from Bugjuice Blues, Morris Village & More",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-03-20",
-      "time": "7:30 PM",
-      "price": "$10",
-      "description": "Acoustic Night featuring Bugjuice Blues, Morris Village, China Blue, and Babies on a Halfpipe.Doors 7:30pm Music 8pmTickets $10",
-      "eventUrl": "https://www.noisetowntulsa.com/events/acoustic-night-featuring-performances-from-bugjuice-blues-morris-village-china-blue-babies-on-a-halfpipe",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1772642832066-X3Q6AGAMLVT71GRFWMZP/Acoustic+Flier.png",
-      "dateAdded": "2026-03-22"
-    },
-    {
-      "title": "Joshua Quimby & Matt Pless",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-22",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "2026 US South + Midwest Tour\nJoshua Quimby & Matt Pless \nSpecial Guests Billy Irwin & the Gambits\n*All Tickets General Admission",
-      "eventUrl": "http://etix.com/ticket/p/83799654/joshua-quimby-matt-pless-oklahoma-city-89th-street",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_219400f23e5e44acbe2c146d68a4ce04~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Trampled by Turtles",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-03-22",
-      "time": null,
-      "price": "$44–$86",
-      "description": "Trampled By Turtles, Wild Horses",
-      "eventUrl": "http://www.prekindle.com/event/27991-trampled-by-turtles-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648691638654",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "THE EARLY NOVEMBER & HELLOGOODBYE: 20 Years Young",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-03-22",
-      "time": "6:30 PM",
-      "price": "$49.77",
-      "description": "The Early November, hellogoodbye, The Dangerous Summer (acoustic)",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-early-november-hellogoodbye-20-years-young-22-mar",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f3f098cf51e9a227_hjkn.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Bluegrass Brunch Advance Tickets and Booth Reservation",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-03-22",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648460457034",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648460457017",
-      "dateAdded": "2026-03-19"
-    },
-    {
-      "title": "Ally Nicholas",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-22",
-      "time": null,
-      "price": "$15",
-      "description": "Ally Nicholas, Rubes, LETR",
-      "eventUrl": "http://www.prekindle.com/event/38366-ally-nicholas-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483716248",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "The  Deadgummits",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-03-22",
-      "time": "4:00 PM",
-      "price": "$8 adv / $10 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37432",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37432-44ae0dfb320f4b9fd3c7de7dae6cde53.jpeg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "The Missing Peace",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-03-23",
       "time": null,
-      "price": "$12",
+      "price": "$15",
       "description": "The Missing Peace, Moral",
       "eventUrl": "http://www.prekindle.com/event/54748-the-missing-peace-oklahoma-city",
       "ageLimit": null,
@@ -304,7 +204,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-03-26",
       "time": "8:00 PM",
-      "price": "$11–$113",
+      "price": "$11–$21",
       "description": "Ryan Caraveo, Travis Thompson",
       "eventUrl": "http://www.prekindle.com/event/88753-ryan-caraveo-the-forever-foggy-tour-oklahoma-city",
       "ageLimit": null,
@@ -497,6 +397,22 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "DJ COLD CUTS",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-03-27",
+      "time": "2:00 AM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/dj-cold-cuts",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-23"
+    },
+    {
       "title": "Wagon Burner",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -683,6 +599,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648456239921",
       "dateAdded": "2026-03-22"
+    },
+    {
+      "title": "Toyotuh Tuesday ft. Heartwerk | Johnny Kemper & the Old Emus | Donny Vinn",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-03-31",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/92332-toyotuh-tuesday-ft-heartwerk-johnny-kemper-and-the-old-emus-donny-vinn-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648455593864",
+      "dateAdded": "2026-03-23"
     },
     {
       "title": "SUNFO + Thanks! I Hate It",
@@ -1409,6 +1339,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37581-5e62fbe5618c0055ba074f5b6303000e.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "RENELL MAE",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-04-10",
+      "time": "2:00 AM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/renell-mae",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-23"
     },
     {
       "title": "The Happy Fits",
@@ -2861,6 +2807,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37431-46f7604039e9e8b6c63e862bf4da84b9.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Jared Benjamin",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-03",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "JARED BENJAMIN\nIcarus Tour\n\nDoors @ 7PM \nGeneral Admission Standing \nAll Ages Welcome",
+      "eventUrl": "https://www.etix.com/ticket/p/69165997/jared-benjamin-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_c84e8548b44940efa6365f1cc2dc6eb0~mv2.jpg",
+      "dateAdded": "2026-03-23"
     },
     {
       "title": "Toadies: The Charmer Tour",
