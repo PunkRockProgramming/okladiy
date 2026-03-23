@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T07:21:28.118Z",
+  "lastUpdated": "2026-03-23T18:38:01.302Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -331,7 +331,7 @@
       "date": "2026-03-27",
       "time": null,
       "price": "$15",
-      "description": "TRVR?, Chandler Cooper",
+      "description": "TRVR?, Chandler Cooper, The Sweet Talkers",
       "eventUrl": "http://www.prekindle.com/event/18967-trvr-and-chandler-cooper-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -913,6 +913,20 @@
       ],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Birthday / Filth Hounds Record Release",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-04",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "Birthday / Filth Hounds Record Release\nFeaturing: Scab, Rock Star Night Club, Psychotic Reaction, BADxMOUTH, and Filth Hounds\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/43925812/birthdayfilth-hounds-record-release-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_6c7d420854b54aa582584b8904dc8fd9~mv2.jpg",
+      "dateAdded": "2026-03-23"
     },
     {
       "title": "Straight Tequila Night: '90s Country Tribute",
@@ -1604,7 +1618,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-17",
       "time": null,
-      "price": "$15–$40",
+      "price": "$11–$40",
       "description": "My So Called Band",
       "eventUrl": "http://www.prekindle.com/event/33993-my-so-called-band-oklahoma-city",
       "ageLimit": null,
@@ -1811,6 +1825,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37349-dfdb07d01274692f8e4e46b7e1169c8e.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "SECRET DANCE PARTY…?",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-04-18",
+      "time": "6:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/secret-dance-party",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-03-23"
     },
     {
       "title": "Doublecamp",
@@ -2316,7 +2346,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-04-26",
       "time": "8:00 PM",
-      "price": "$40.58",
+      "price": "$41",
       "description": "Shovels & Rope, Mechanical River",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/shovels-rope-26-apr",
       "ageLimit": "ALL AGES",
@@ -2535,7 +2565,7 @@
       "eventUrl": "http://www.prekindle.com/event/96441-jigitz-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648516132213",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648455103458",
       "dateAdded": "2026-03-21"
     },
     {
@@ -2807,20 +2837,6 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37431-46f7604039e9e8b6c63e862bf4da84b9.jpeg",
       "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Jared Benjamin",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-03",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "JARED BENJAMIN\nIcarus Tour\n\nDoors @ 7PM \nGeneral Admission Standing \nAll Ages Welcome",
-      "eventUrl": "https://www.etix.com/ticket/p/69165997/jared-benjamin-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_c84e8548b44940efa6365f1cc2dc6eb0~mv2.jpg",
-      "dateAdded": "2026-03-23"
     },
     {
       "title": "Toadies: The Charmer Tour",
@@ -3113,7 +3129,7 @@
       "date": "2026-05-09",
       "time": "8:00 PM",
       "price": "$28",
-      "description": "Smells Like Nirvana, Dead Original",
+      "description": "Smells Like Nirvana, Dead Original, Groucho",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/smells-like-nirvana-09-may-3a65f",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -4051,6 +4067,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "EZ Band",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-06-05",
+      "time": "8:00 PM",
+      "price": "$22–$27",
+      "description": "EZ Band",
+      "eventUrl": "http://www.prekindle.com/event/56614-ez-band-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648458839800",
+      "dateAdded": "2026-03-23"
+    },
+    {
       "title": "Stoney LaRue",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4063,6 +4093,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "EZ BAND",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-06",
+      "time": "8:00 PM",
+      "price": "$34",
+      "description": "EZ Band",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/ez-band-06-jun",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c1625a5b60b9106415efc1_EZ_Band_Photo_-_1.jpeg",
+      "dateAdded": "2026-03-23"
     },
     {
       "title": "SiC (Slipknot Tribute) & Lost In Hollywood (System of a Down Tribute)",
@@ -4535,6 +4579,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486932059",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "ELIJAH SCOTT",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-17",
+      "time": "8:00 PM",
+      "price": "$30",
+      "description": "Elijah Scott",
+      "eventUrl": "http://www.prekindle.com/event/92612-elijah-scott-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648458844643",
+      "dateAdded": "2026-03-23"
     },
     {
       "title": "Last Podcast on the Left",
