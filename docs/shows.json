@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-03-23T18:38:01.302Z",
+  "lastUpdated": "2026-03-24T07:13:58.678Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "The Missing Peace",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-23",
-      "time": null,
-      "price": "$15",
-      "description": "The Missing Peace, Moral",
-      "eventUrl": "http://www.prekindle.com/event/54748-the-missing-peace-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493087436",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "Obituary",
       "venue": "89th Street OKC",
@@ -50,7 +36,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-03-24",
       "time": "7:00 PM",
-      "price": "$28",
+      "price": "$34",
       "description": "Wolves at the Gate, Convictions, Heal the Hurt, XIII Minutes",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/convictions-wolves-at-the-gate-24-mar",
       "ageLimit": "ALL AGES",
@@ -64,7 +50,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-03-24",
       "time": "8:00 PM",
-      "price": "$15–$30",
+      "price": "$35",
       "description": "The Menzingers, I Am the Avalanche",
       "eventUrl": "http://www.prekindle.com/event/34227-the-menzingers-oklahoma-city",
       "ageLimit": null,
@@ -204,7 +190,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-03-26",
       "time": "8:00 PM",
-      "price": "$11–$21",
+      "price": "$16–$21",
       "description": "Ryan Caraveo, Travis Thompson",
       "eventUrl": "http://www.prekindle.com/event/88753-ryan-caraveo-the-forever-foggy-tour-oklahoma-city",
       "ageLimit": null,
@@ -1549,11 +1535,11 @@
       "date": "2026-04-16",
       "time": "7:00 PM",
       "price": null,
-      "description": "TEMPTRESS\n\nDoors @ 7P \nGeneral Admission Standing\nAll Ages Welcome",
+      "description": "TEMPTRESS\nw/ special guests MyWitchMyBlood & BUGNOG\n\nGeneral Admission Standing / All Ages",
       "eventUrl": "https://www.etix.com/ticket/p/84443979/temptress-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_c633f32dd35c4a2492201c13a13e28ba~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_61dedf73e5fe460ea15977a5765db145~mv2.jpg",
       "dateAdded": "2026-03-18"
     },
     {
@@ -4591,7 +4577,7 @@
       "eventUrl": "http://www.prekindle.com/event/92612-elijah-scott-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648458844643",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454879097",
       "dateAdded": "2026-03-23"
     },
     {
