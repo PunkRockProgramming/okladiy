@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T07:13:58.678Z",
+  "lastUpdated": "2026-03-24T18:45:46.008Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -205,7 +205,7 @@
       "date": "2026-03-26",
       "time": null,
       "price": "$15",
-      "description": "Stereosity, Dear Cincinnati, Star Student, Fighting Sleep",
+      "description": "Stereosity, Star Student, Fighting Sleep",
       "eventUrl": "http://www.prekindle.com/event/25634-stereosity-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -991,7 +991,7 @@
       "date": "2026-04-04",
       "time": "8:00 PM",
       "price": "$14–$75",
-      "description": "Johnny Mullenax",
+      "description": "Johnny Mullenax, Front Porch",
       "eventUrl": "http://www.prekindle.com/event/95962-johnny-mullenax-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2551,7 +2551,7 @@
       "eventUrl": "http://www.prekindle.com/event/96441-jigitz-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648455103458",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454518497",
       "dateAdded": "2026-03-21"
     },
     {
@@ -3381,6 +3381,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Through Being Cool presents EMO PROM with The Dom Telonges (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-05-15",
+      "time": "9:00 PM",
+      "price": "$22",
+      "description": "Through Being Cool",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/through-being-cool-presents-emo-prom-with-the-dom-telonges-18-15-may",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c181fc53bf093b246acebc_2026.05.15__EmoProm2.jpeg",
+      "dateAdded": "2026-03-24"
+    },
+    {
       "title": "Glom",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3516,7 +3530,7 @@
       "time": null,
       "price": "$48–$85",
       "description": "Acid Bath, Chat Pile, Khemmis",
-      "eventUrl": "http://www.prekindle.com/event/28941-acid-bath-oklahoma-city",
+      "eventUrl": "http://www.prekindle.com/event/15796-acid-bath-with-chat-pile-and-khemmis-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648462578111",
@@ -4253,6 +4267,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Matt Maeson",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-06-12",
+      "time": null,
+      "price": "$85",
+      "description": "Matt Maeson",
+      "eventUrl": "http://www.prekindle.com/event/72819-matt-maeson-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454334400",
+      "dateAdded": "2026-03-24"
+    },
+    {
       "title": "Ian Moore Album Re-Release Party",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4311,6 +4339,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37582-4f3e75d971b0782276bd44ad8da5192e.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Fruit Bats",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-06-14",
+      "time": null,
+      "price": "$35",
+      "description": "Fruit Bats",
+      "eventUrl": "http://www.prekindle.com/event/29337-fruit-bats-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648457890913",
+      "dateAdded": "2026-03-24"
     },
     {
       "title": "Vinyl Williams",
@@ -4523,6 +4565,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Hatebreed",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-07-12",
+      "time": "4 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/64635738/hatebreed-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-24"
+    },
+    {
       "title": "One Way Truckin'",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4572,7 +4628,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-17",
       "time": "8:00 PM",
-      "price": "$30",
+      "price": "$25",
       "description": "Elijah Scott",
       "eventUrl": "http://www.prekindle.com/event/92612-elijah-scott-oklahoma-city",
       "ageLimit": null,
@@ -4669,6 +4725,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Killer Queen - A Tribute To Queen ft Patrick Myers as Freddie Mercury",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-02",
+      "time": null,
+      "price": "$33–$68",
+      "description": "Killer Queen",
+      "eventUrl": "http://www.prekindle.com/event/63954-killer-queen-a-tribute-to-queen-ft-patrick-myers-as-freddie-mercury-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648458827430",
+      "dateAdded": "2026-03-24"
+    },
+    {
       "title": "Passion Pit - The Pretty Penny Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4681,6 +4751,34 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472769290",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Driveways",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-04",
+      "time": "7:00 PM",
+      "price": "$20",
+      "description": "Driveways",
+      "eventUrl": "http://www.prekindle.com/event/34226-driveways-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648455255444",
+      "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Chasin’ U – The Morgan Wallen Experience",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-08-07",
+      "time": "8 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/67480661/chasinu-the-morgan-wallen-experience-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/03/chasin-u-the-morgan-wallen-experience.jfif",
+      "dateAdded": "2026-03-24"
     },
     {
       "title": "The Marvelous Miss Gender starring BOSCO",
@@ -4957,6 +5055,34 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Kyle Hume",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-21",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Kyle Hume",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/kyle-hume-21-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c1b7f2d1a5bfe135a2b089_Kyle_Hume_US_1200_X_628_-_Tulsa.jpeg",
+      "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "BLUE OCTOBER",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-10-24",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/85442404/blue-october-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-24"
+    },
+    {
       "title": "Henry Zoellner",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4971,6 +5097,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37898-a0fa599db228af20ff2ef98949e91875.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "John Mulaney: Mister Whatever",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-11-21",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/59350316/john-mulaneymister-whatever-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-24"
     },
     {
       "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
@@ -5001,6 +5141,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38101-1cc2c5a8a9233012e91d6194a08eb647.jpeg",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Blue October",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-12-06",
+      "time": null,
+      "price": "$33–$115",
+      "description": "Blue October",
+      "eventUrl": "http://www.prekindle.com/event/79771-blue-october-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454666393",
+      "dateAdded": "2026-03-24"
     },
     {
       "title": "Public Image Ltd - THIS IS NOT THE LAST TOUR",
