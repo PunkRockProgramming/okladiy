@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T18:45:46.008Z",
+  "lastUpdated": "2026-03-25T07:12:01.842Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -14,76 +14,6 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_9a0dd4ebfbdb44a7b1abe6a6f4594aac~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "The Convalescence | Hunt The Dinosaur | Mantra of Morta | Drenched in Ceremony",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-03-24",
-      "time": null,
-      "price": "$10",
-      "description": "The Convalescence, Hunt the Dinosaur, Mantra of Morta, Drenched In Ceremony",
-      "eventUrl": "http://www.prekindle.com/event/94736-the-convalescence-hunt-the-dinosaur-mantra-of-morta-drenched-in-ceremony-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648502738137",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Convictions + Wolves at the Gate - the Aftermath Tour",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-03-24",
-      "time": "7:00 PM",
-      "price": "$34",
-      "description": "Wolves at the Gate, Convictions, Heal the Hurt, XIII Minutes",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/convictions-wolves-at-the-gate-24-mar",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6970df66ec031e5ab4adfc7d_WolvesAtTheGate_Convictions_2026_Tour_FacebookCoverPhoto_Static.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "The Menzingers",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-03-24",
-      "time": "8:00 PM",
-      "price": "$35",
-      "description": "The Menzingers, I Am the Avalanche",
-      "eventUrl": "http://www.prekindle.com/event/34227-the-menzingers-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648611548354",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "NICK HEXUM",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-24",
-      "time": null,
-      "price": "$38",
-      "description": "Nick Hexum, Water Tower",
-      "eventUrl": "http://www.prekindle.com/event/51619-nick-hexum-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648560629763",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "St. Paul & The Broken Bones",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-03-24",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/55226009/stpaul-the-broken-bones-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
       "dateAdded": "2026-03-18"
     },
     {
@@ -1829,6 +1759,20 @@
       "dateAdded": "2026-03-23"
     },
     {
+      "title": "Tonya and the Hardings | The Suzzies | Puncher",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-04-19",
+      "time": null,
+      "price": "$10",
+      "description": "Tonya and the Hardings, The Suzzies, Puncher",
+      "eventUrl": "http://www.prekindle.com/event/89566-tonya-and-the-hardings-the-suzzies-puncher-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453927736",
+      "dateAdded": "2026-03-25"
+    },
+    {
       "title": "Doublecamp",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2909,6 +2853,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/12/cradle-of-filth.jfif",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Honduh Daze | Pink Frost | Ivory Tusk",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-05-05",
+      "time": null,
+      "price": "$10",
+      "description": "Honduh Daze, Pink Frost, Ivory Tusk",
+      "eventUrl": "http://www.prekindle.com/event/39212-honduh-daze-pink-frost-ivory-tusk-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453923507",
+      "dateAdded": "2026-03-25"
     },
     {
       "title": "DIIV",
@@ -4519,6 +4477,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Ebony Dark'ness | Weepcar | China Blue | Blood On The Oilfield",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-07-04",
+      "time": null,
+      "price": "$10",
+      "description": "Ebony Dark'ness, China Blue, Weepcar, Blood On the Oilfield",
+      "eventUrl": "http://www.prekindle.com/event/16834-ebony-darkness-weepcar-china-blue-blood-on-the-oilfield-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453929640",
+      "dateAdded": "2026-03-25"
+    },
+    {
       "title": "The Effigies",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4960,7 +4932,7 @@
       "time": "7 pm",
       "price": null,
       "description": null,
-      "eventUrl": "javascript:void(0)",
+      "eventUrl": "https://www.etix.com/ticket/p/70950984/houndmouth-tulsa-cains-ballroom?partner_id=100",
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
