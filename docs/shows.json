@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-03-25T07:12:01.842Z",
+  "lastUpdated": "2026-03-25T18:42:00.104Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Obituary",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-24",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "OBITUARY: Out of the Swamp\nwith special guests Intoxicated and Castrator\n\nGeneral Admission Standing / All Ages Welcome\n\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/59585793/obituary-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_9a0dd4ebfbdb44a7b1abe6a6f4594aac~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Sexcult | Shadow Hounds",
       "venue": "The Whittier Bar",
@@ -36,7 +22,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-03-25",
       "time": "7:30 PM",
-      "price": "$22",
+      "price": "$28",
       "description": "The Unlikely Candidates, Snorkeler, Elektric Animals",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-unlikely-candidates-25-mar",
       "ageLimit": "ALL AGES",
@@ -161,9 +147,9 @@
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
       "date": "2026-03-27",
-      "time": "6:00 PM",
+      "time": "7:00 PM",
       "price": null,
-      "description": "DIME STORE RIOT\nwith special guests Crimson Love, Aqua Fire and Tretura\n\nGeneral Admission Standing / All Ages Welcome",
+      "description": "DIME STORE RIOT\nwith special guests Crimson Love, Aqua Fire and Tretura\n\nDOORS @ 7PM // SHOW @ 8PM\nGeneral Admission Standing / All Ages Welcome",
       "eventUrl": "https://www.etix.com/ticket/p/35617506/dime-store-riot-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -471,6 +457,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466235107",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Bluegrass Brunch Advance Tickets & Booth Reservation",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-03-29",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648460455807",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648460455786",
+      "dateAdded": "2026-03-25"
     },
     {
       "title": "BUGNOG, Ectospire, MyWitchMyBlood, Respair",
@@ -1036,7 +1036,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-06",
       "time": "8:00 PM",
-      "price": "$11–$22",
+      "price": "$10–$22",
       "description": "Zero 9:36, elijah, Downswing",
       "eventUrl": "http://www.prekindle.com/event/85381-zero-936-oklahoma-city",
       "ageLimit": null,
@@ -1562,7 +1562,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-17",
       "time": "8:00 PM",
-      "price": "$15–$75",
+      "price": "$11–$75",
       "description": "Wayne Hancock, Billy Irwin and the Gambits",
       "eventUrl": "http://www.prekindle.com/event/61781-wayne-hancock-oklahoma-city",
       "ageLimit": null,
@@ -1704,7 +1704,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-18",
       "time": "8:00 PM",
-      "price": "$20",
+      "price": "$15–$20",
       "description": "PhaseOne, Subsonix, Disco Presents",
       "eventUrl": "http://www.prekindle.com/event/69964-phaseone-oklahoma-city",
       "ageLimit": null,
@@ -2769,6 +2769,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Jared Benjamin",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-03",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "JARED BENJAMIN\nIcarus Tour\n\nDoors @ 7PM \nGeneral Admission Standing \nAll Ages Welcome",
+      "eventUrl": "https://www.etix.com/ticket/p/69165997/jared-benjamin-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_c84e8548b44940efa6365f1cc2dc6eb0~mv2.jpg",
+      "dateAdded": "2026-03-25"
+    },
+    {
       "title": "Toadies: The Charmer Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2881,6 +2895,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499895197",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Laney Jones and the Spirits",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-05",
+      "time": null,
+      "price": "$15",
+      "description": "Laney Jones and the Spirits, Compost Adjacent, Call Me Sparrow",
+      "eventUrl": "http://www.prekindle.com/event/56633-laney-jones-and-the-spirits-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454681110",
+      "dateAdded": "2026-03-25"
     },
     {
       "title": "Lukas Nelson",
@@ -4155,6 +4183,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Big K.R.I.T. - The World is a Parking Lot",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-06-09",
+      "time": null,
+      "price": "$30–$246",
+      "description": "Big K.R.I.T.",
+      "eventUrl": "http://www.prekindle.com/event/79219-big-krit-the-world-is-a-parking-lot-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453752041",
+      "dateAdded": "2026-03-25"
+    },
+    {
       "title": "The Baby Bats Parade: Christian Death + Gene Loves Jezebel & more",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4230,7 +4272,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-06-12",
       "time": null,
-      "price": "$85",
+      "price": "$35–$103",
       "description": "Matt Maeson",
       "eventUrl": "http://www.prekindle.com/event/72819-matt-maeson-oklahoma-city",
       "ageLimit": null,
@@ -4304,7 +4346,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-14",
       "time": null,
-      "price": "$35",
+      "price": "$30–$55",
       "description": "Fruit Bats",
       "eventUrl": "http://www.prekindle.com/event/29337-fruit-bats-oklahoma-city",
       "ageLimit": null,
@@ -4325,6 +4367,34 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648498707687",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Parker Millsap - The Very Last Day 10 YR Anniversary",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-17",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Parker Millsap",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/parker-millsap-the-very-last-day-10-yr-anniversary-17-jun",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bc3623f4e45584dac3295a_Promo_Photo.jpeg",
+      "dateAdded": "2026-03-25"
+    },
+    {
+      "title": "Parker Millsap",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-06-18",
+      "time": "8:00 PM",
+      "price": "$20–$75",
+      "description": "Parker Millsap",
+      "eventUrl": "http://www.prekindle.com/event/79213-parker-millsap-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454295143",
+      "dateAdded": "2026-03-25"
     },
     {
       "title": "MC Chris W/ Mega Ran",
@@ -4797,6 +4867,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Cheekface w /  special guest Catbite",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-26",
+      "time": "8:00 PM",
+      "price": "$23–$75",
+      "description": "Cheekface, Catbite",
+      "eventUrl": "http://www.prekindle.com/event/33269-cheekface-with-special-guest-catbite-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648457615173",
+      "dateAdded": "2026-03-25"
+    },
+    {
       "title": "PawPaw Rod: Picture Day Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4923,6 +5007,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514016308",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Built To Spill",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-30",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Built To Spill, Paul Schalda",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/built-to-spill-30-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bc39ad16afc81c7da92ad6_P5292418.jpeg",
+      "dateAdded": "2026-03-25"
     },
     {
       "title": "Houndmouth",
