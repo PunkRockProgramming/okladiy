@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-03-25T18:42:00.104Z",
+  "lastUpdated": "2026-03-26T07:20:02.131Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Sexcult | Shadow Hounds",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-03-25",
-      "time": null,
-      "price": "$10",
-      "description": "Sexcult, Shadow Hounds, Surus, Self Inflicted Oklahoma Sludge",
-      "eventUrl": "http://www.prekindle.com/event/62168-sexcult-shadow-hounds-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648459425065",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "The Unlikely Candidates",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-03-25",
-      "time": "7:30 PM",
-      "price": "$28",
-      "description": "The Unlikely Candidates, Snorkeler, Elektric Animals",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-unlikely-candidates-25-mar",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69890d40600b0d0ffbcb8bb1_TUC-_KANSAS_DAY_5-16.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Latinx Karaoke Night",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-25",
-      "time": null,
-      "price": null,
-      "description": "OKC Latina",
-      "eventUrl": "http://www.prekindle.com/event/85765-latinx-karaoke-night-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648482070077",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "The Unlikely Candidates",
       "venue": "89th Street OKC",
@@ -64,7 +22,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-03-26",
       "time": null,
-      "price": "$8–$38",
+      "price": "$18–$38",
       "description": "Van Full of Nuns, Waiting 4 April",
       "eventUrl": "http://www.prekindle.com/event/51615-pop-punk-nite-okc-by-van-full-of-nuns-oklahoma-city",
       "ageLimit": null,
@@ -106,7 +64,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-03-26",
       "time": "8:00 PM",
-      "price": "$16–$21",
+      "price": "$24",
       "description": "Ryan Caraveo, Travis Thompson",
       "eventUrl": "http://www.prekindle.com/event/88753-ryan-caraveo-the-forever-foggy-tour-oklahoma-city",
       "ageLimit": null,
@@ -290,7 +248,7 @@
       "time": "7:00 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37264",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37264",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -420,7 +378,7 @@
       "time": "7:00 PM",
       "price": "$10 adv / $15 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37030",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37030",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -494,7 +452,7 @@
       "time": "4:00 PM",
       "price": "$7 adv / $10 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37705",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37705",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -806,7 +764,7 @@
       "time": "7:00 PM",
       "price": "$28 adv / $35 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=36948",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=36948",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -893,7 +851,7 @@
       "date": "2026-04-04",
       "time": "8:00 PM",
       "price": "$33.95",
-      "description": "Josh Weathers",
+      "description": "Josh Weathers, Garrett Brown Band",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/josh-weathers-04-apr",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -964,7 +922,7 @@
       "time": "7:00 PM",
       "price": "Free",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37348",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37348",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -1262,7 +1220,7 @@
       "time": "7:00 PM",
       "price": "$18 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37581",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37581",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -1364,7 +1322,7 @@
       "time": "6:00 PM",
       "price": "Free",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37142",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37142",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -1571,6 +1529,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "lobsterfight, \"Speak, Memory\", Drunk Uncle, Tampa Chess Club",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-17",
+      "time": null,
+      "price": "$12",
+      "description": "lobsterfight, Speak, Memory, Drunk Uncle, Tampa Chess Club",
+      "eventUrl": "http://www.prekindle.com/event/46952-lobsterfight-speak-memory-drunk-uncle-tampa-chess-club-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453347302",
+      "dateAdded": "2026-03-26"
+    },
+    {
       "title": "Benjamin Tod & The Inline Six",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -1657,18 +1629,18 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "High Desert Queen | Gran Moreno",
+      "title": "High Desert Queen | Gran Moreno | Medicine Horse",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-04-18",
       "time": null,
       "price": "$15",
-      "description": "High Desert Queen, Gran Moreno",
+      "description": "High Desert Queen, Gran Moreno, Medicine Horse",
       "eventUrl": "http://www.prekindle.com/event/44394-high-desert-queen-gran-moreno-tulsa",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499648249",
-      "dateAdded": "2026-03-21"
+      "dateAdded": "2026-03-26"
     },
     {
       "title": "The Crane Wives - ACT I",
@@ -1734,7 +1706,7 @@
       "time": "8:00 PM",
       "price": "$12 adv / $15 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37349",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37349",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -1792,7 +1764,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-19",
       "time": null,
-      "price": "$18–$239",
+      "price": "$10–$239",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/77679-dallas-cowboys-cheerleaders-oklahoma-city",
       "ageLimit": null,
@@ -1822,7 +1794,7 @@
       "time": "4:00 PM",
       "price": "$15",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37985",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37985",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -2132,7 +2104,7 @@
       "time": "7:00 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37428",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37428",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -2232,7 +2204,7 @@
       "time": "7:00 PM",
       "price": "$17 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37028",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37028",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -2334,7 +2306,7 @@
       "time": "4:00 PM",
       "price": "Free",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=38002",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38002",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -2476,7 +2448,7 @@
       "time": "7:00 PM",
       "price": "$12 adv / $15 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37927",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37927",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -2646,7 +2618,7 @@
       "time": "7:00 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37434",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37434",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -2760,7 +2732,7 @@
       "time": "7:00 PM",
       "price": "$20 adv / $26 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37431",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37431",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -2846,7 +2818,7 @@
       "time": "4:00 PM",
       "price": "$12",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37260",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37260",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -2974,7 +2946,7 @@
       "time": "7:00 PM",
       "price": "$20 adv / $25 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37626",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37626",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -3130,7 +3102,7 @@
       "time": "7:00 PM",
       "price": "$18 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37766",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37766",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -3244,7 +3216,7 @@
       "time": "6:30 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37935",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37935",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -3344,7 +3316,7 @@
       "time": "7:00 PM",
       "price": "$18 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37830",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37830",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -3430,7 +3402,7 @@
       "time": "6:00 PM",
       "price": "$20 to $40 ADV   $25 to $40 DAY OF",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37609",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37609",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -3544,7 +3516,7 @@
       "time": "8:00 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37585",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37585",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -3574,7 +3546,7 @@
       "time": "4:00 PM",
       "price": "$7 adv / $10 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37835",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37835",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -3673,7 +3645,7 @@
       "date": "2026-05-20",
       "time": "8:00 PM",
       "price": "$25.52",
-      "description": "Mac Saturn",
+      "description": "Mac Saturn, The Lonelys",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/mac-saturn-20-may",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -3800,7 +3772,7 @@
       "time": "7:00 PM",
       "price": "$10 adv / $12 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37728",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37728",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -3928,7 +3900,7 @@
       "time": "7:00 PM",
       "price": "$20 to $50 ADV   $25 to $50 DAY OF",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37623",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37623",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -3958,7 +3930,7 @@
       "time": "4:00 PM",
       "price": "$8 adv / $10 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37575",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37575",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4030,7 +4002,7 @@
       "time": "7:00 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37740",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37740",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4045,7 +4017,7 @@
       "date": "2026-06-05",
       "time": "8:00 PM",
       "price": "$25",
-      "description": "Little Image",
+      "description": "Little Image, TWO CAR GARAGE, Boston Busler",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/little-image-05-jun",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -4116,7 +4088,7 @@
       "time": "6:30 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37090",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37090",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4174,7 +4146,7 @@
       "time": "4:00 PM",
       "price": "$12",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37263",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37263",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4288,7 +4260,7 @@
       "time": "7:00 PM",
       "price": "$25 adv / $30 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37261",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37261",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4332,7 +4304,7 @@
       "time": "7:00 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37582",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37582",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4404,13 +4376,27 @@
       "time": "7:00 PM",
       "price": "$25 adv / $30 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37262",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37262",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37262-a3427e3ff6f31e9ddcfd90e427e36d6b.jpg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Pop Punk Nite! by: Van Full of Nuns",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-06-19",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/32342933/pop-punk-nitebyvan-full-of-nuns-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-26"
     },
     {
       "title": "Private Event",
@@ -4420,7 +4406,7 @@
       "time": "5:00 PM",
       "price": "Free",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37838",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37838",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4450,7 +4436,7 @@
       "time": "7:00 PM",
       "price": "$16 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37698",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37698",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4480,7 +4466,7 @@
       "time": "8:00 PM",
       "price": "$8 adv / $10 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37864",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37864",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4496,7 +4482,7 @@
       "time": "7:00 PM",
       "price": "$18 adv / $22 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37984",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37984",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4568,7 +4554,7 @@
       "time": "7:00 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37913",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37913",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4598,7 +4584,7 @@
       "time": "7:00 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37833",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37833",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4628,7 +4614,7 @@
       "time": "4:00 PM",
       "price": "$15",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37986",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37986",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4714,7 +4700,7 @@
       "time": "7:00 PM",
       "price": "$7 adv / $10 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37929",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37929",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4730,7 +4716,7 @@
       "time": "6:00 PM",
       "price": "$25 adv / $30 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37795",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37795",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4844,7 +4830,7 @@
       "time": "7:00 PM",
       "price": "$20 adv / $25 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37928",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37928",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4972,7 +4958,7 @@
       "time": "5:00 PM",
       "price": "Free",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=38003",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38003",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -5100,7 +5086,7 @@
       "time": "6:00 PM",
       "price": "$18 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37987",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37987",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -5116,7 +5102,7 @@
       "time": "6:00 PM",
       "price": "$18 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37988",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37988",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -5160,7 +5146,7 @@
       "time": "7:00 PM",
       "price": "$8 adv / $10 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37898",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37898",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -5204,7 +5190,7 @@
       "time": "7:00 PM",
       "price": "$20 adv / $25 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=38101",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38101",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -5248,7 +5234,7 @@
       "time": "7:00 PM",
       "price": "Free",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=%7BREFERERINFOHERE%7D&event=37771",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37771",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
