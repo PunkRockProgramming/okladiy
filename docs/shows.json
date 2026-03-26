@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T07:20:02.131Z",
+  "lastUpdated": "2026-03-26T18:49:31.330Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1157,6 +1157,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "One Aux Presents Ffffffffffffest Night One at Drifters Theater",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-04-10",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "The first night of Fffffffffest, a three day experimental music festival, presented by One Aux featuring performances by A Thousand Plateaus, tiny amazing camera, Silkroad, ut mutem, and LoDrum & Natty Gray at Drifter’s Theater.Visit One Aux for more information on the festival.",
+      "eventUrl": "https://www.noisetowntulsa.com/events/one-aux-presents-ffffffffffffest",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774529393098-KRW8ZYGA8KWTI9FR8DFA/lineup-2.png",
+      "dateAdded": "2026-03-26"
+    },
+    {
       "title": "Straight Tequila Night ~ a Tribute to '90s Country (21+)",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1257,6 +1271,34 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483248313",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Kat King | The Lonelys | The Suzzies",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-04-11",
+      "time": null,
+      "price": "$10",
+      "description": "Kat King, The Lonelys, The Suzzies",
+      "eventUrl": "http://www.prekindle.com/event/25279-kat-king-the-lonelys-the-suzzies-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648452632135",
+      "dateAdded": "2026-03-26"
+    },
+    {
+      "title": "One Aux Presents Ffffffffffffest Day Two at Noise Town",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-04-11",
+      "time": "1:00 PM",
+      "price": null,
+      "description": "The second day of Fffffffffest, a three day experimental music festival, presented by One Aux featuring performances by Crescent Window, ELECTROGONG, Chazlen Rook, Jarvix, Hexpartner, Abbess, Stagn(ant), Meth Damon, Facade, DCLNR, Ahriman, HISSOM, Postule, Open Casket Soundsystem, Licking Wounds, Kid Naps, The Dankestra, White Boy Scream & Baseck at Noise Town. Visit One Aux for more information on the festival.",
+      "eventUrl": "https://www.noisetowntulsa.com/events/one-aux-presents-ffffffffffffest-day-two-at-noise-town",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774529967380-185UAOWX42MIFY469JDA/lineup-3.png",
+      "dateAdded": "2026-03-26"
     },
     {
       "title": "This Ain't a Scene - 18+ - MTV2 tribute",
@@ -1361,6 +1403,20 @@
       "dateAdded": "2026-03-22"
     },
     {
+      "title": "One Aux Presents Ffffffffffffest Day Three at Spotlight Theater",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-04-12",
+      "time": "9:00 PM",
+      "price": null,
+      "description": "The third day of Fffffffffest, a three day experimental music festival, presented by One Aux featuring performances by Doom Kit, Ugly Feelings, BIRD DRUGS, Phil Smith, Der Wurm, Kory Reeder, Nathan Alexander Pape, pseudokufic., NoMoore, Ground Bus, Altar Eagle, Warren Realrider, Elisa Harkins, The Blackstar Experience at Riverside Studios.Visit One Aux for more information on the festival.",
+      "eventUrl": "https://www.noisetowntulsa.com/events/one-aux-presents-ffffffffffffest-day-three-at-spotlight-theater",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774530513128-AHFN8E0AKLU8RE9O3UHN/lineup-4.png",
+      "dateAdded": "2026-03-26"
+    },
+    {
       "title": "Eliza McLamb",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -1387,6 +1443,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493884997",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Muscle | Bad Tripp | Primal Hominid",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-04-14",
+      "time": null,
+      "price": "$10",
+      "description": "Muscle, Bad Tripp, Primal Hominid",
+      "eventUrl": "http://www.prekindle.com/event/82357-muscle-bad-tripp-primal-hominid-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648452656779",
+      "dateAdded": "2026-03-26"
     },
     {
       "title": "Evan Honer",
@@ -1808,7 +1878,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-20",
       "time": null,
-      "price": "$12–$100",
+      "price": "$3–$100",
       "description": "Jay Electronica, Neelam, Landon Wordswell, DJ Kitty Ca$h, DJ Kelly Green, Marcel P Black",
       "eventUrl": "http://www.prekindle.com/event/94412-jay-electronica-oklahoma-city",
       "ageLimit": null,
@@ -3081,6 +3151,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Best of Both Worlds Rave - A 20-Year Hannah Montana Nostalgia Celebration",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-05-09",
+      "time": "9:00 PM",
+      "price": "$15",
+      "description": "Breckenridge Presents",
+      "eventUrl": "http://www.prekindle.com/event/93155-best-of-both-worlds-rave-a-20-year-hannah-montana-nostalgia-celebration-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454507625",
+      "dateAdded": "2026-03-26"
+    },
+    {
       "title": "Knumears",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -3581,6 +3665,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696a885b8ed3a90f5eb93538_Copy_of_archspire_2025_Alex_Morgan_5.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Diva Bleach x Lake Drive",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-18",
+      "time": null,
+      "price": "$15",
+      "description": "Diva Bleach, Lake Drive",
+      "eventUrl": "http://www.prekindle.com/event/54329-diva-bleach-x-lake-drive-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453306411",
+      "dateAdded": "2026-03-26"
     },
     {
       "title": "Sons of Legion - Soul to SØL Tour",
