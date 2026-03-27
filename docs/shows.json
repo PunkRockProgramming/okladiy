@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-03-27T07:18:35.094Z",
+  "lastUpdated": "2026-03-27T18:41:28.513Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "The Unlikely Candidates",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-03-26",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "THE UNLIKELY CANDIDATES\nwith special guests Snorkeler and A Date With Iris\n\nGeneral Admission Standing / All Ages Welcome",
-      "eventUrl": "https://www.etix.com/ticket/p/36684399/the-unlikely-candidates-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_4a792ca780ba45548634ec78605b99d5~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Dime Store Riot",
       "venue": "89th Street OKC",
@@ -2127,6 +2113,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "American Slang",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-04-25",
+      "time": "8:00 PM",
+      "price": "$15",
+      "description": "American Slang, Fast Molly",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/american-slang-25-apr",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c436914a47d6f8f5e8b661_SLANG_PROMO_1.jpeg",
+      "dateAdded": "2026-03-27"
+    },
+    {
       "title": "Happy Landing",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2881,6 +2881,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Strings & Heart",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-07",
+      "time": "6:45 PM",
+      "price": null,
+      "description": "Strings & Heart - Plastic Wine Tour Pt. III \nw/ special guest gracie\n\nGeneral Admission Standing / All Ages Welcome",
+      "eventUrl": "https://www.etix.com/ticket/p/93855962/strings-heart-plastic-wine-tour-ptiii-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_f135f899b18b47308e6c510357696b34~mv2.jpg",
+      "dateAdded": "2026-03-27"
     },
     {
       "title": "Shelly Belly",
@@ -4211,6 +4225,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Melancholy Club w /  Empty Parking Lot, and Lqm",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-11",
+      "time": null,
+      "price": "$12",
+      "description": "Melancholy Club, Empty Parking Lot, Lqm",
+      "eventUrl": "http://www.prekindle.com/event/66332-melancholy-club-with-empty-parking-lot-and-lqm-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648451022780",
+      "dateAdded": "2026-03-27"
+    },
+    {
       "title": "Buckethead",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4239,6 +4267,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Arkansauce",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-06-12",
+      "time": "8:00 PM",
+      "price": "$18–$20",
+      "description": "Arkansauce",
+      "eventUrl": "http://www.prekindle.com/event/52275-arkansauce-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453724175",
+      "dateAdded": "2026-03-27"
+    },
+    {
       "title": "Hastronaut",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -4258,7 +4300,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-06-12",
       "time": null,
-      "price": "$103",
+      "price": "$35–$103",
       "description": "Matt Maeson",
       "eventUrl": "http://www.prekindle.com/event/72819-matt-maeson-oklahoma-city",
       "ageLimit": null,
@@ -4332,7 +4374,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-14",
       "time": null,
-      "price": "$35",
+      "price": "$30–$55",
       "description": "Fruit Bats",
       "eventUrl": "http://www.prekindle.com/event/29337-fruit-bats-oklahoma-city",
       "ageLimit": null,
@@ -4360,7 +4402,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-06-17",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$31",
       "description": "Parker Millsap",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/parker-millsap-the-very-last-day-10-yr-anniversary-17-jun",
       "ageLimit": "ALL AGES",
@@ -4407,7 +4449,7 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/32342933/pop-punk-nitebyvan-full-of-nuns-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
+      "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-26"
@@ -4427,6 +4469,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37838-2d4766ebeec7241a22a6b7d8c18e1d50.png",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "She Hates Me Not & TAKER",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-20",
+      "time": "7:00 PM",
+      "price": "$22",
+      "description": "She Hates Me Not, Taker, Anerium, Leash, Facerot",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/she-hates-me-not-20-jun",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c408ddf59ec45b007f1889_IMG_2467.jpeg",
+      "dateAdded": "2026-03-27"
     },
     {
       "title": "Day Shift Party",
@@ -4767,6 +4823,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "K·POP Superstars",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-01",
+      "time": "4 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/97440896/kpop-superstars-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "21+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-03-27"
+    },
+    {
       "title": "Killer Queen - A Tribute To Queen ft Patrick Myers as Freddie Mercury",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4872,7 +4942,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-26",
       "time": "8:00 PM",
-      "price": "$23–$75",
+      "price": "$7–$75",
       "description": "Cheekface, Catbite",
       "eventUrl": "http://www.prekindle.com/event/33269-cheekface-with-special-guest-catbite-oklahoma-city",
       "ageLimit": null,
@@ -5014,7 +5084,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-30",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$50",
       "description": "Built To Spill, Paul Schalda",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/built-to-spill-30-sep",
       "ageLimit": "ALL AGES",
@@ -5130,7 +5200,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-21",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$34 to $92",
       "description": "Kyle Hume",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/kyle-hume-21-oct",
       "ageLimit": "ALL AGES",
@@ -5218,7 +5288,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-06",
       "time": null,
-      "price": null,
+      "price": "$33–$115",
       "description": "Blue October",
       "eventUrl": "http://www.prekindle.com/event/79771-blue-october-oklahoma-city",
       "ageLimit": null,
