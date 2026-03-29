@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T07:14:27.534Z",
+  "lastUpdated": "2026-03-29T18:26:05.761Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1811,6 +1811,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Live Music All Ages feat: Garden Ants, Bugjuice Blues & MORE",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-04-25",
+      "time": "7:00 PM",
+      "price": "$10",
+      "description": "Live Music from Garden Ants, Bugjuice Blues, Krack, and MOON. Doors 7pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-garden-ants-bugjuice-blues-more",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774781317231-3SZ0O8XUZ0HZ278Y6QYK/MOON+Flyer.png",
+      "dateAdded": "2026-03-29"
+    },
+    {
       "title": "American Slang",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -2323,6 +2337,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519266550",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Live Music All Ages feat: China Blue, Velvetine & MORE",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-05-02",
+      "time": "7:30 PM",
+      "price": "$10",
+      "description": "Live Music featuring China Blue, Velvetine, Ransided(Joplin MO) and Ice Blink.Doors 7:30pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-china-blue-velvetine-more",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774781499330-DLTCFPMM19N636YOND7B/Ransided+Flyer.jpg",
+      "dateAdded": "2026-03-29"
     },
     {
       "title": "My So Called Band",
