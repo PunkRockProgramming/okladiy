@@ -1,65 +1,7 @@
 {
-  "lastUpdated": "2026-03-29T18:26:05.761Z",
+  "lastUpdated": "2026-03-30T07:54:17.375Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "The Wood Brothers",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-03-29",
-      "time": null,
-      "price": "$29–$59",
-      "description": "The Wood Brothers, Margo Cilker",
-      "eventUrl": "http://www.prekindle.com/event/54387-the-wood-brothers-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466235107",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Bluegrass Brunch Advance Tickets & Booth Reservation",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-03-29",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648460455807",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648460455786",
-      "dateAdded": "2026-03-25"
-    },
-    {
-      "title": "BUGNOG, Ectospire, MyWitchMyBlood, Respair",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-29",
-      "time": null,
-      "price": "$10",
-      "description": "BUGNOG, Ectospire, MyWitchMyBlood, Respair",
-      "eventUrl": "http://www.prekindle.com/event/63983-bugnog-ectospire-mywitchmyblood-respair-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648591210734",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Cobi Lalas",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-03-29",
-      "time": "4:00 PM",
-      "price": "$7 adv / $10 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37705",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37705-0648ccb017981a5b3f769652f4c2664f.png",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Ritual Fog | Ectospire | Unrelenting Butchery",
       "venue": "The Whittier Bar",
@@ -1702,7 +1644,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-23",
       "time": null,
-      "price": "$25–$80",
+      "price": "$35–$80",
       "description": "Avatar, Fleshgod Apocalypse, Frozen Soul",
       "eventUrl": "http://www.prekindle.com/event/66736-avatar-oklahoma-city",
       "ageLimit": null,
@@ -4585,7 +4527,7 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/97440896/kpop-superstars-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "21+",
+      "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-27"
