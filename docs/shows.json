@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T07:54:17.375Z",
+  "lastUpdated": "2026-03-30T18:44:11.352Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1204,7 +1204,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-18",
       "time": null,
-      "price": "$30–$100",
+      "price": "$30–$64",
       "description": "Trey Kennedy",
       "eventUrl": "http://www.prekindle.com/event/93431-trey-kennedy-the-relatable-tour-matinee-oklahoma-city",
       "ageLimit": null,
@@ -1218,7 +1218,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-18",
       "time": null,
-      "price": "$30–$100",
+      "price": "$30–$64",
       "description": "Trey Kennedy",
       "eventUrl": "http://www.prekindle.com/event/56563-trey-kennedy-the-relatable-tour-oklahoma-city",
       "ageLimit": null,
@@ -3196,7 +3196,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-16",
       "time": null,
-      "price": "$48–$85",
+      "price": "$48–$58",
       "description": "Acid Bath, Chat Pile, Khemmis",
       "eventUrl": "http://www.prekindle.com/event/15796-acid-bath-with-chat-pile-and-khemmis-oklahoma-city",
       "ageLimit": null,
@@ -3326,7 +3326,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-19",
       "time": "8:00 PM",
-      "price": "$10–$80",
+      "price": "$25–$80",
       "description": "Sports, Ally Evenson",
       "eventUrl": "http://www.prekindle.com/event/19249-sports-oklahoma-city",
       "ageLimit": null,
