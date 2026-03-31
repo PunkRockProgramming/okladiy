@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T07:27:18.715Z",
+  "lastUpdated": "2026-03-31T18:44:32.941Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -192,7 +192,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-03",
       "time": null,
-      "price": "$13–$45",
+      "price": "$9–$45",
       "description": "Bolo, JNZO, MVRCUSJAY",
       "eventUrl": "http://www.prekindle.com/event/29363-bolo-oklahoma-city",
       "ageLimit": null,
@@ -434,7 +434,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-04",
       "time": null,
-      "price": "$20–$100",
+      "price": "$30–$100",
       "description": "ATLiens, PIERCE, Blvckjesus, Gem",
       "eventUrl": "http://www.prekindle.com/event/26346-atliens-oklahoma-city",
       "ageLimit": null,
@@ -522,7 +522,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-06",
       "time": "8:00 PM",
-      "price": "$10–$22",
+      "price": "$10–$75",
       "description": "Zero 9:36, elijah, Downswing",
       "eventUrl": "http://www.prekindle.com/event/85381-zero-936-oklahoma-city",
       "ageLimit": null,
@@ -732,7 +732,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-10",
       "time": "8:00 PM",
-      "price": "$22–$30",
+      "price": "$22–$75",
       "description": "Lissie, Madisen Ward",
       "eventUrl": "http://www.prekindle.com/event/85417-lissie-oklahoma-city",
       "ageLimit": null,
@@ -1190,7 +1190,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-18",
       "time": null,
-      "price": "$30–$64",
+      "price": "$6–$64",
       "description": "Trey Kennedy",
       "eventUrl": "http://www.prekindle.com/event/93431-trey-kennedy-the-relatable-tour-matinee-oklahoma-city",
       "ageLimit": null,
@@ -1204,7 +1204,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-18",
       "time": null,
-      "price": "$30–$64",
+      "price": "$6–$64",
       "description": "Trey Kennedy",
       "eventUrl": "http://www.prekindle.com/event/56563-trey-kennedy-the-relatable-tour-oklahoma-city",
       "ageLimit": null,
@@ -1637,6 +1637,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514651978",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Best of Both Worlds Rave (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-04-24",
+      "time": "9:30 PM",
+      "price": "$25",
+      "description": null,
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/best-of-both-worlds-rave-18-24-apr",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69ca90003fcab2722aef49e3_HM20_4.24.26_TSA_HOR.jpeg",
+      "dateAdded": "2026-03-31"
     },
     {
       "title": "The Spooklights",
@@ -4225,6 +4239,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "RayBurger",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-06-25",
+      "time": "8:00 PM",
+      "price": "$25",
+      "description": "Rayburger",
+      "eventUrl": "http://www.prekindle.com/event/26424-rayburger-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183367863",
+      "dateAdded": "2026-03-31"
+    },
+    {
       "title": "KC Bones ( Grateful Dead Tribute )",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4543,7 +4571,7 @@
       "eventUrl": "http://www.prekindle.com/event/63954-killer-queen-a-tribute-to-queen-ft-patrick-myers-as-freddie-mercury-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648458827430",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183038049",
       "dateAdded": "2026-03-24"
     },
     {
@@ -4789,6 +4817,20 @@
       "dateAdded": "2026-03-25"
     },
     {
+      "title": "Akeem Ali - The Texture Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-09",
+      "time": null,
+      "price": "$25–$85",
+      "description": "Akeem Ali",
+      "eventUrl": "http://www.prekindle.com/event/17198-akeem-ali-the-texture-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183596553",
+      "dateAdded": "2026-03-31"
+    },
+    {
       "title": "Houndmouth",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4917,6 +4959,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Dusty Slay: The Neighborhood Guy",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-06",
+      "time": null,
+      "price": null,
+      "description": "Dusty Slay",
+      "eventUrl": "http://www.prekindle.com/event/64536-dusty-slay-the-neighborhood-guy-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648452800045",
+      "dateAdded": "2026-03-31"
     },
     {
       "title": "Henry Zoellner",
