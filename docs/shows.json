@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T07:44:38.069Z",
+  "lastUpdated": "2026-04-01T18:43:52.761Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -136,7 +136,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-02",
       "time": null,
-      "price": "$25–$166",
+      "price": "$25–$86",
       "description": "Fortune Feimster",
       "eventUrl": "http://www.prekindle.com/event/47288-fortune-feimster-oklahoma-city",
       "ageLimit": null,
@@ -1513,6 +1513,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Bayymack",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-22",
+      "time": null,
+      "price": "$15",
+      "description": "Bayymack",
+      "eventUrl": "http://www.prekindle.com/event/29964-bayymack-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183235371",
+      "dateAdded": "2026-04-01"
+    },
+    {
       "title": "Big Head Todd and the Monsters",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -1630,7 +1644,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-24",
       "time": "8:00 PM",
-      "price": "$8–$15",
+      "price": "$8–$75",
       "description": "The Spooklights",
       "eventUrl": "http://www.prekindle.com/event/16828-the-spooklights-oklahoma-city",
       "ageLimit": null,
@@ -1665,20 +1679,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506054128",
       "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Randall King (CANCELLED)",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-04-24",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "javascript:void(0)",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-27"
     },
     {
       "title": "Front Porch / Foggy Memory Boys",
@@ -1758,7 +1758,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-25",
       "time": "8:00 PM",
-      "price": "$11–$22",
+      "price": "$11–$75",
       "description": "Happy Landing, Lostboycrow",
       "eventUrl": "http://www.prekindle.com/event/57217-happy-landing-oklahoma-city",
       "ageLimit": null,
@@ -2349,7 +2349,7 @@
       "eventUrl": "http://www.prekindle.com/event/84319-clarion-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648546463355",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949181969624",
       "dateAdded": "2026-03-21"
     },
     {
@@ -2716,7 +2716,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-08",
       "time": "8:00 PM",
-      "price": "$18",
+      "price": "$18–$75",
       "description": "Alex Lambert",
       "eventUrl": "http://www.prekindle.com/event/23862-alex-lambert-oklahoma-city",
       "ageLimit": null,
@@ -2921,6 +2921,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510127317",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Raue w /  Olive Vox",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-12",
+      "time": null,
+      "price": "$18",
+      "description": "RAUE, Olive Vox",
+      "eventUrl": "http://www.prekindle.com/event/48155-raue-with-olive-vox-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183325581",
+      "dateAdded": "2026-04-01"
     },
     {
       "title": "Dance Gavin Dance with Special Guests Wolf & Bear and Novelists",
@@ -3465,6 +3479,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519298682",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Shrek Rave",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-05-22",
+      "time": "9 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/40365734/shrek-rave-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "18+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-04-01"
     },
     {
       "title": "Jarrod Morris",
@@ -4030,7 +4058,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-12",
       "time": "8:00 PM",
-      "price": "$18–$20",
+      "price": "$18–$75",
       "description": "Arkansauce",
       "eventUrl": "http://www.prekindle.com/event/52275-arkansauce-oklahoma-city",
       "ageLimit": null,
@@ -4292,7 +4320,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-25",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$25–$75",
       "description": "Rayburger",
       "eventUrl": "http://www.prekindle.com/event/26424-rayburger-oklahoma-city",
       "ageLimit": null,
@@ -4387,6 +4415,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453929640",
       "dateAdded": "2026-03-25"
+    },
+    {
+      "title": "Cody Canada & The Departed",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-07-10",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/74841125/cody-canada-the-departed-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-04-01"
     },
     {
       "title": "The Effigies",
@@ -4533,6 +4575,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648691639253",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Hit The Lights",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-18",
+      "time": "8:00 PM",
+      "price": "$19–$75",
+      "description": "Hit The Lights, Action/Adventure, Eternal Boy",
+      "eventUrl": "http://www.prekindle.com/event/86984-hit-the-lights-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453506930",
+      "dateAdded": "2026-04-01"
     },
     {
       "title": "Ratchet Dolls",
@@ -4709,6 +4765,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Blue Whale Comedy Festival VIP Pass",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-20",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/73571061/blue-whale-comedy-festival-vip-pass-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-04-01"
+    },
+    {
       "title": "Cheekface w /  special guest Catbite",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4823,6 +4893,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Liverpool Legends: Beatles Experience",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-24",
+      "time": null,
+      "price": "$35–$65",
+      "description": "Liverpool Legends",
+      "eventUrl": "http://www.prekindle.com/event/84691-liverpool-legends-beatles-experience-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461830808",
+      "dateAdded": "2026-04-01"
+    },
+    {
       "title": "Elefante",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -4849,6 +4933,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514016308",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Artemas - LOVERCORE  /  GETTING UP TO NO GOOD Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-09-26",
+      "time": null,
+      "price": "$35",
+      "description": "Artemas, Henry Morris",
+      "eventUrl": "http://www.prekindle.com/event/17419-artemas-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182081108",
+      "dateAdded": "2026-04-01"
     },
     {
       "title": "Built To Spill",
@@ -5014,7 +5112,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-11-06",
       "time": null,
-      "price": null,
+      "price": "$26–$80",
       "description": "Dusty Slay",
       "eventUrl": "http://www.prekindle.com/event/64536-dusty-slay-the-neighborhood-guy-oklahoma-city",
       "ageLimit": null,
