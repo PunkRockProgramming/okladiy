@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-03-31T18:44:32.941Z",
+  "lastUpdated": "2026-04-01T07:44:38.069Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Toyotuh Tuesday ft. Heartwerk | Johnny Kemper & the Old Emus | Donny Vinn",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-03-31",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/92332-toyotuh-tuesday-ft-heartwerk-johnny-kemper-and-the-old-emus-donny-vinn-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648455593864",
-      "dateAdded": "2026-03-23"
-    },
-    {
-      "title": "SUNFO + Thanks! I Hate It",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-03-31",
-      "time": null,
-      "price": "$10",
-      "description": "Sunfo, Thanks! I Hate It, Fighting Sleep",
-      "eventUrl": "http://www.prekindle.com/event/87922-sunfo-and-thanks-i-hate-it-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486224086",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "Orbit Culture",
       "venue": "Diamond Ballroom",
@@ -411,7 +383,7 @@
       "eventUrl": "http://www.prekindle.com/event/95962-johnny-mullenax-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648495447595",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182678026",
       "dateAdded": "2026-03-21"
     },
     {
@@ -509,7 +481,7 @@
       "date": "2026-04-06",
       "time": "6:00 PM",
       "price": null,
-      "description": "COLD STEEL\nDiscipline and Punish 2 Tour \n\nGeneral Admission Standing / All Ages",
+      "description": "COLD STEEL\nDiscipline and Punish 2 Tour \nwith special guests Primal Hominid, Tar Creek and Bad Tripp\n\nGeneral Admission Standing / All Ages",
       "eventUrl": "https://www.etix.com/ticket/p/51935202/cold-steel-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -1123,7 +1095,7 @@
       "eventUrl": "http://www.prekindle.com/event/61781-wayne-hancock-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648488414125",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182679003",
       "dateAdded": "2026-03-21"
     },
     {
@@ -1795,6 +1767,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Bloombox",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-04-25",
+      "time": null,
+      "price": "$10",
+      "description": "D3wdrop, CG Jordan, RumTheVoyager, FEEL SUITE",
+      "eventUrl": "http://www.prekindle.com/event/68527-bloombox-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182685249",
+      "dateAdded": "2026-04-01"
+    },
+    {
       "title": "Electronic Orchestra",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -2267,6 +2253,22 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "FAT DRACULA + STALLONE COBRAS + BELL WETHER SIRENS (AR)",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-05-01",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/5/1/fat-dracula-stallone-cobras-bell-wether-sirens-ar",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-04-01"
+    },
+    {
       "title": "Becky Robinson: The Beasts in Me Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2549,6 +2551,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "SOUNDPONY 20YR ANNIVERSARY!!!!!",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-05-05",
+      "time": "3:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/5/5/soundpony-20yr-anniversary",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-04-01"
     },
     {
       "title": "Products Band with Monte and Strawberry 66",
@@ -3047,6 +3065,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37830-2c7ac16df46b0febf298f97bf9f5b1f9.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "LOFTY'S COMET (STL)",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-05-14",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/5/14/loftys-comet-stl",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-04-01"
     },
     {
       "title": "Bingo Loco",
@@ -3977,6 +4011,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Space Weather | Secret Gardens | Lilac Kings | Flora Nova",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-06-12",
+      "time": null,
+      "price": "$15",
+      "description": "Space Weather, Secret Gardens, Lilac Kings, Flora Nova",
+      "eventUrl": "http://www.prekindle.com/event/33941-space-weather-secret-gardens-lilac-kings-flora-nova-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182570113",
+      "dateAdded": "2026-04-01"
+    },
+    {
       "title": "Arkansauce",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4571,7 +4619,7 @@
       "eventUrl": "http://www.prekindle.com/event/63954-killer-queen-a-tribute-to-queen-ft-patrick-myers-as-freddie-mercury-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183038049",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182668358",
       "dateAdded": "2026-03-24"
     },
     {
