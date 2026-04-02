@@ -1,65 +1,7 @@
 {
-  "lastUpdated": "2026-04-01T18:43:52.761Z",
+  "lastUpdated": "2026-04-02T07:23:39.722Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Orbit Culture",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-04-01",
-      "time": "7:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/32479639/orbit-culture-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/orbit-culture.jfif",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Love Cuts | Professional Golfer | Zapruder Film School",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-04-01",
-      "time": null,
-      "price": "$10",
-      "description": "Love Cuts",
-      "eventUrl": "http://www.prekindle.com/event/31963-love-cuts-professional-golfer-zapruder-film-school-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648470594258",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Watchhouse",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-04-01",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/49912688/watchhouse-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "ANNA ROSALES + EMILY DAVIS",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-04-01",
-      "time": "10:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/1/anna-rosales-emily-davis",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Oceanic",
       "venue": "89th Street OKC",
@@ -108,7 +50,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-02",
       "time": "8:00 PM",
-      "price": "$9–$18",
+      "price": "$15–$20",
       "description": "Vandoliers, BC & The Big Rig, So Much Heaven",
       "eventUrl": "http://www.prekindle.com/event/54531-vandoliers-oklahoma-city",
       "ageLimit": null,
@@ -1057,6 +999,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "TAKER x SPLINTERED",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-17",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "TAKER & SPLINTERED\n+ False Idol, Barrel of Bodies and Pried Apart \n\nGeneral Admission Standing / All Ages Welcome \n\n$10 TICKETS AT THE DOOR - cannot purchase online\n\n**SPLINTERED'S FIRST SHOW!",
+      "eventUrl": "https://www.facebook.com/share/17op9agbKv/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_59291aa9ff0a427aacb13bbce9efbea5~mv2.jpg",
+      "dateAdded": "2026-04-02"
+    },
+    {
       "title": "My So Called Band: '90s Tribute",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1703,7 +1659,7 @@
       "date": "2026-04-25",
       "time": "7:00 PM",
       "price": null,
-      "description": "NECROT\nwith special guest BadxMouth\n\nGeneral Admission Standing / All Ages\n\n(*special guests are subject to change)",
+      "description": "NECROT\nwith special guest BadxMouth and Ectospire\n\nGeneral Admission Standing / All Ages\n\n(*special guests are subject to change)",
       "eventUrl": "https://www.etix.com/ticket/p/47420216/necrot-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -2839,20 +2795,6 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "Mother's Day Mosh",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-10",
-      "time": "3:30 PM",
-      "price": null,
-      "description": "MOTHER'S DAY MOSH \nFeaturing - Smile on the Sinner\nw/ special guests Thin the Herd, Hollowed Thoughts, Eternal Punishment, Bludgeon the Weak, and Cauterized\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.ticketstorm.com/event/mothersdaymosh/89thstreetokc/oklahomacity/32561/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_99bc1343cb56428bb5e5f08773da889e~mv2.jpg",
-      "dateAdded": "2026-03-29"
-    },
-    {
       "title": "Jake Xerxes Fussell",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -3437,6 +3379,22 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/699dd0e104118556a795946d_MacSaturn_2025_Maximus_Reid_MAX02006-2_web.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Brujeria",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-05-20",
+      "time": "6:30 PM",
+      "price": "$18 adv / $23 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38170",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38170-85ec766709e93ddf5cce7c2a148e883e.png",
+      "dateAdded": "2026-04-02"
     },
     {
       "title": "HARBOUR",
