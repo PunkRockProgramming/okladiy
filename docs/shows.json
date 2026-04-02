@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T07:23:39.722Z",
+  "lastUpdated": "2026-04-02T18:40:31.047Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1581,6 +1581,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "All in For Oklahoma - 2026 Kickoff Rally",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-04-24",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/32933-all-in-for-oklahoma-2026-kickoff-rally-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949181429747",
+      "dateAdded": "2026-04-02"
+    },
+    {
       "title": "Best of Both Worlds Rave (18+)",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -2756,7 +2770,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-09",
       "time": "9:00 PM",
-      "price": "$15",
+      "price": "$20",
       "description": "Breckenridge Presents",
       "eventUrl": "http://www.prekindle.com/event/93155-best-of-both-worlds-rave-a-20-year-hannah-montana-nostalgia-celebration-oklahoma-city",
       "ageLimit": null,
@@ -2771,7 +2785,7 @@
       "date": "2026-05-09",
       "time": null,
       "price": "$18",
-      "description": "Knumears",
+      "description": "Knumears, Garden Ants, it all happened in july",
       "eventUrl": "http://www.prekindle.com/event/16353-knumears-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4017,7 +4031,7 @@
       "date": "2026-06-12",
       "time": "8:00 PM",
       "price": "$18–$75",
-      "description": "Arkansauce",
+      "description": "Arkansauce, Brody Buster Band",
       "eventUrl": "http://www.prekindle.com/event/52275-arkansauce-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4229,6 +4243,20 @@
       "dateAdded": "2026-03-27"
     },
     {
+      "title": "CRIMEWAVE: A DARKWAVE PARTY",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-20",
+      "time": null,
+      "price": "$15",
+      "description": "La Fantasma, Mr Werewulf",
+      "eventUrl": "http://www.prekindle.com/event/31343-crimewave-a-darkwave-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183281069",
+      "dateAdded": "2026-04-02"
+    },
+    {
       "title": "Day Shift Party",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4361,6 +4389,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Novulent",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-02",
+      "time": "8:00 PM",
+      "price": "$20–$75",
+      "description": "Novulent",
+      "eventUrl": "http://www.prekindle.com/event/46612-novulent-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182573280",
+      "dateAdded": "2026-04-02"
+    },
+    {
       "title": "Ebony Dark'ness | Weepcar | China Blue | Blood On The Oilfield",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -4373,6 +4415,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453929640",
       "dateAdded": "2026-03-25"
+    },
+    {
+      "title": "Devin The Dude",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-09",
+      "time": "8:00 PM",
+      "price": "$22–$75",
+      "description": "Devin The Dude",
+      "eventUrl": "http://www.prekindle.com/event/47474-devin-the-dude-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648451272390",
+      "dateAdded": "2026-04-02"
     },
     {
       "title": "Cody Canada & The Departed",
@@ -4417,6 +4473,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/01/tom-keifer.jfif",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Chris Travis - The Prefix Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-11",
+      "time": "8:00 PM",
+      "price": "$50–$125",
+      "description": "Chris Travis",
+      "eventUrl": "http://www.prekindle.com/event/59796-chris-travis-the-prefix-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183370428",
+      "dateAdded": "2026-04-02"
     },
     {
       "title": "Shakedown Strings",
@@ -4547,6 +4617,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453506930",
       "dateAdded": "2026-04-01"
+    },
+    {
+      "title": "Sun Kil Moon",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-07-19",
+      "time": null,
+      "price": "$20–$60",
+      "description": "Sun Kil Moon",
+      "eventUrl": "http://www.prekindle.com/event/51456-sun-kil-moon-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183337177",
+      "dateAdded": "2026-04-02"
     },
     {
       "title": "Ratchet Dolls",
