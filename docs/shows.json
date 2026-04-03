@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-03T07:20:18.359Z",
+  "lastUpdated": "2026-04-03T18:31:24.926Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Oceanic",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-02",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "OCEANIC\nNorth America Tour 2026\nwith special guests RAABERS and JuneCo\n\nGeneral Admission Standing / All Ages Welcome",
-      "eventUrl": "https://www.etix.com/ticket/p/61106896/oceanic-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ba42766d34464feb84f56784ba495dc6~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "BOLO",
       "venue": "Tower Theatre",
@@ -2723,6 +2709,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37766-b9569a8b21243f36c0977507613636ad.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Mother's Day Mosh",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-10",
+      "time": "3:30 PM",
+      "price": null,
+      "description": "MOTHER'S DAY MOSH \nFeaturing - Smile on the Sinner\nw/ special guests Thin the Herd, Hollowed Thoughts, Eternal Punishment, Bludgeon the Weak, and Cauterized\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.ticketstorm.com/event/mothersdaymosh/89thstreetokc/oklahomacity/32561/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_99bc1343cb56428bb5e5f08773da889e~mv2.jpg",
+      "dateAdded": "2026-04-03"
     },
     {
       "title": "Jake Xerxes Fussell",
