@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-04T07:10:06.779Z",
+  "lastUpdated": "2026-04-04T18:25:17.788Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Live Music All Ages feat: Hypnosis, Channelcharger, and EZ4U2SEY",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-04-03",
-      "time": "7:30 PM",
-      "price": "$10",
-      "description": "Live music from Hypnosis, Channelchanger, and EZ4U2SEY.Doors 7:30pm Music 8pmTickets $10",
-      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-hypnosis-channelcharger-and-ez4u2sey",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774045350495-UXKEIATZ4NPSVB67VPTC/image0.png",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "Birthday / Filth Hounds Record Release",
       "venue": "89th Street OKC",
@@ -134,7 +120,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-04",
       "time": null,
-      "price": "$30–$100",
+      "price": "$40–$100",
       "description": "ATLiens, PIERCE, Blvckjesus, Gem",
       "eventUrl": "http://www.prekindle.com/event/26346-atliens-oklahoma-city",
       "ageLimit": null,
@@ -187,6 +173,20 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_762ad1f48fb5434f901da21929f44cb8~mv2.jpg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Bluegrass Brunch Advance Tickets",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-04-05",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949179335983",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179335966",
+      "dateAdded": "2026-04-04"
     },
     {
       "title": "IV and The Strange Band + Clownvis Presley + King Sickabilly",
