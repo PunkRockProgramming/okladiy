@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-03T18:31:24.926Z",
+  "lastUpdated": "2026-04-04T07:10:06.779Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "BOLO",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-04-03",
-      "time": null,
-      "price": "$15–$45",
-      "description": "Bolo, JNZO, MVRCUSJAY",
-      "eventUrl": "http://www.prekindle.com/event/29363-bolo-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648471137786",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "Live Music All Ages feat: Hypnosis, Channelcharger, and EZ4U2SEY",
       "venue": "Noise Town",
@@ -29,108 +15,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774045350495-UXKEIATZ4NPSVB67VPTC/image0.png",
       "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "(18+) 2000s Rave",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-04-03",
-      "time": "9:00 PM",
-      "price": "$31",
-      "description": null,
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/2000-s-rave-18-03-apr",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187b15cffc139e9ca41_TULSA_2000s_rave_wide_1920__flyer_%25281%2529.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Trenton Fletcher with special guest Kanton Teen",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-04-03",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648487374697",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648487373534",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Josh Weathers",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-04-03",
-      "time": "8:00 PM",
-      "price": "$30–$75",
-      "description": "Josh Weathers, Zac Wilkerson",
-      "eventUrl": "http://www.prekindle.com/event/32545-josh-weathers-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648550332391",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Nik Parr & The Selfless Lovers",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-03",
-      "time": null,
-      "price": "$20",
-      "description": "Nik Parr & the Selfless Lovers",
-      "eventUrl": "http://www.prekindle.com/event/61968-nik-parr-and-the-selfless-lovers-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648602363048",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Leon Live! Annual Birthday Celebration",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-04-03",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/36451132/leon-liveannual-birthday-celebration-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Anthony Gomes",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-04-03",
-      "time": "7:00 PM",
-      "price": "$28 adv / $35 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=36948",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/36948-885829d8171e3f8fe56693e6c0dcbc46.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "13TH ANNUAL GURNEY SHOW WITH ARTIST TODD GOLNICK (4PM-DARK)",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-04-03",
-      "time": "4:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/3/12th-annual-gurney-show-with-artist-todd-golnick-4pm-dark",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
     },
     {
       "title": "Birthday / Filth Hounds Record Release",
@@ -152,7 +36,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-04",
       "time": null,
-      "price": "$15–$45",
+      "price": "$25–$45",
       "description": "Straight Tequila Night",
       "eventUrl": "http://www.prekindle.com/event/99974-straight-tequila-night-90s-country-tribute-oklahoma-city",
       "ageLimit": null,
@@ -1765,7 +1649,7 @@
       "eventUrl": "http://www.prekindle.com/event/29219-arcy-drive-the-pit-tour-spring-2026-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648598356652",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179888311",
       "dateAdded": "2026-03-21"
     },
     {
@@ -2293,7 +2177,7 @@
       "eventUrl": "http://www.prekindle.com/event/76967-toadies-the-charmer-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493324870",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179821304",
       "dateAdded": "2026-03-21"
     },
     {
