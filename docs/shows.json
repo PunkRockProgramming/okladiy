@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-04-04T18:25:17.788Z",
+  "lastUpdated": "2026-04-05T07:17:23.550Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Birthday / Filth Hounds Record Release",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-04",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "Birthday / Filth Hounds Record Release\nFeaturing: Scab, Rock Star Night Club, Psychotic Reaction, BADxMOUTH, and Filth Hounds\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/43925812/birthdayfilth-hounds-record-release-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_6c7d420854b54aa582584b8904dc8fd9~mv2.jpg",
-      "dateAdded": "2026-03-23"
-    },
-    {
-      "title": "Straight Tequila Night: '90s Country Tribute",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-04-04",
-      "time": null,
-      "price": "$25–$45",
-      "description": "Straight Tequila Night",
-      "eventUrl": "http://www.prekindle.com/event/99974-straight-tequila-night-90s-country-tribute-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648497330840",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "S. Reidy | Petty Fox | Joey Duffy",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-04-04",
-      "time": null,
-      "price": "$10",
-      "description": "S. Reidy, Petty Fox, Joey Duffy",
-      "eventUrl": "http://www.prekindle.com/event/96429-s-reidy-petty-fox-joey-duffy-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648467331546",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "Live Music All Ages feat: Unlikely Roll, Bathtub Fishing & Double Violets",
       "venue": "Noise Town",
@@ -57,108 +15,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774030662584-IPKECICBO8X5UD5FS80R/Bathtub+Fishing+Flier.jpg",
       "dateAdded": "2026-03-20"
-    },
-    {
-      "title": "Josh Weathers",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-04-04",
-      "time": "8:00 PM",
-      "price": "$33.95",
-      "description": "Josh Weathers, Garrett Brown Band",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/josh-weathers-04-apr",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3188328df0e936ea4a30_joshwesthers6.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Bonnie Stewart with special guest Joleen Brown",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-04-04",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648479541574",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648479541485",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Johnny Mullenax",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-04-04",
-      "time": "8:00 PM",
-      "price": "$14–$75",
-      "description": "Johnny Mullenax, Front Porch",
-      "eventUrl": "http://www.prekindle.com/event/95962-johnny-mullenax-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182678026",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "True Love Weekend at Res",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-04",
-      "time": null,
-      "price": "$15",
-      "description": "Bliss, I Was Afraid, Peach Blush, So Much Heaven, Primal Brain, Powdr, Shielding",
-      "eventUrl": "http://www.prekindle.com/event/66531-true-love-weekend-at-res-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648482082398",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "ATLiens",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-04-04",
-      "time": null,
-      "price": "$40–$100",
-      "description": "ATLiens, PIERCE, Blvckjesus, Gem",
-      "eventUrl": "http://www.prekindle.com/event/26346-atliens-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493155212",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Zingo",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-04-04",
-      "time": "7:00 PM",
-      "price": "Free",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37348",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37348-c3516ab2e890f95034046f354b16721b.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "STALLONE COBRAS // ILL FATED // MOONROCK BANDITS",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-04-04",
-      "time": "10:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/4/stallone-cobras",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
     },
     {
       "title": "TRUE LOVE WEEKEND",
@@ -362,7 +218,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-10",
       "time": null,
-      "price": "$14–$30",
+      "price": "$15–$30",
       "description": "The Dance Parties, DJ Isis Payne, Topatío, Dj Reboot, La'porsche Binz",
       "eventUrl": "http://www.prekindle.com/event/91426-club-xcx-oklahoma-city",
       "ageLimit": null,
@@ -413,7 +269,7 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "Kruse Brothers: The Heartbreak and Honky-Tonk Tour",
+      "title": "Kruse Brothers: The Heartbreak and Honky-Tonk Tour with special guest Ty Smith",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-04-10",
@@ -424,7 +280,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648477525747",
-      "dateAdded": "2026-03-18"
+      "dateAdded": "2026-04-05"
     },
     {
       "title": "Lissie",
@@ -827,6 +683,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "BC & the Big Rig with special guests Canyon Sons",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-04-17",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949179283241",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179282509",
+      "dateAdded": "2026-04-05"
+    },
+    {
       "title": "Wayne Hancock",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1227,6 +1097,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Squelching | Katy Went Missing | Get Me The Knife | Traumatization",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-04-22",
+      "time": null,
+      "price": "$20",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/74685-squelching-katy-went-missing-get-me-the-knife-traumatization-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179050500",
+      "dateAdded": "2026-04-05"
+    },
+    {
       "title": "James McMurtry and the Martial Law Review",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1395,6 +1279,20 @@
       "dateAdded": "2026-03-31"
     },
     {
+      "title": "Chucky Waggs & the Company of Raggs + Sophia Clark",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-04-24",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949179280903",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179279516",
+      "dateAdded": "2026-04-05"
+    },
+    {
       "title": "The Spooklights",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1507,6 +1405,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c436914a47d6f8f5e8b661_SLANG_PROMO_1.jpeg",
       "dateAdded": "2026-03-27"
+    },
+    {
+      "title": "Krislyn Arthurs Debut Album Release Party",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-04-25",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949179278391",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179276807",
+      "dateAdded": "2026-04-05"
     },
     {
       "title": "Happy Landing",
@@ -2939,6 +2851,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Godseyes x Actor Observer",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-16",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "GODSEYES x ACTOR OBSERVER\nCelebrating their Split EP - An Exercise In Futility / An Old Song Of Favor And Fear\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/82821691/godseyes-x-actor-observer-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_02e4ea0cdc6a4e3499d324978f3719e1~mv2.jpg",
+      "dateAdded": "2026-04-05"
+    },
+    {
       "title": "Jensen McRae: God Has A Hitman Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3014,7 +2940,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-16",
       "time": null,
-      "price": "$48–$58",
+      "price": "$58",
       "description": "Acid Bath, Chat Pile, Khemmis",
       "eventUrl": "http://www.prekindle.com/event/15796-acid-bath-with-chat-pile-and-khemmis-oklahoma-city",
       "ageLimit": null,
@@ -3623,6 +3549,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Straight Tequila Night: '90s Country Tribute",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-06-06",
+      "time": null,
+      "price": "$20–$45",
+      "description": "Straight Tequila Night",
+      "eventUrl": "http://www.prekindle.com/event/66549-straight-tequila-night-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179828124",
+      "dateAdded": "2026-04-05"
     },
     {
       "title": "EZ BAND",
