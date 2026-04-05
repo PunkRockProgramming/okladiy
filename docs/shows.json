@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-04-05T07:17:23.550Z",
+  "lastUpdated": "2026-04-05T18:27:08.041Z",
   "scraperErrors": [],
   "shows": [
+    {
+      "title": "Birthday / Filth Hounds Record Release",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-04-04",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "Birthday / Filth Hounds Record Release\nFeaturing: Scab, Rock Star Night Club, Psychotic Reaction, BADxMOUTH, and Filth Hounds\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/43925812/birthdayfilth-hounds-record-release-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_6c7d420854b54aa582584b8904dc8fd9~mv2.jpg",
+      "dateAdded": "2026-04-05"
+    },
     {
       "title": "Live Music All Ages feat: Unlikely Roll, Bathtub Fishing & Double Violets",
       "venue": "Noise Town",
@@ -2851,20 +2865,6 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "Godseyes x Actor Observer",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-16",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "GODSEYES x ACTOR OBSERVER\nCelebrating their Split EP - An Exercise In Futility / An Old Song Of Favor And Fear\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/82821691/godseyes-x-actor-observer-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_02e4ea0cdc6a4e3499d324978f3719e1~mv2.jpg",
-      "dateAdded": "2026-04-05"
-    },
-    {
       "title": "Jensen McRae: God Has A Hitman Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3319,6 +3319,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648492008545",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Mammoth Caravan",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-05-29",
+      "time": null,
+      "price": "$12",
+      "description": "Mammoth Caravan, Chrono Wizard, Dust Lord",
+      "eventUrl": "http://www.prekindle.com/event/52645-mammoth-caravan-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949178892325",
+      "dateAdded": "2026-04-05"
     },
     {
       "title": "30 YEARS OF UNDERGROUND: Kottonmouth Kings & A Killer's Confession & Kung Fu Vampire",
