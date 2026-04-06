@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-06T07:55:27.626Z",
+  "lastUpdated": "2026-04-06T18:40:41.396Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Live Music All Ages feat: Unlikely Roll, Bathtub Fishing & Double Violets",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-04-04",
-      "time": "7:30 PM",
-      "price": "$10",
-      "description": "Live music featuring performances by Unlikely Roll, Bathtub Fishing, and Double Violets.Doors 7:30pm Music 8pmTickets $10",
-      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-unlikely-roll-bathtub-fishing-double-violets",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774030662584-IPKECICBO8X5UD5FS80R/Bathtub+Fishing+Flier.jpg",
-      "dateAdded": "2026-03-20"
-    },
     {
       "title": "Cold Steel",
       "venue": "89th Street OKC",
@@ -2540,7 +2526,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-12",
       "time": "8:00 PM",
-      "price": "$13–$25",
+      "price": "$13–$75",
       "description": "Drugdealer",
       "eventUrl": "http://www.prekindle.com/event/61268-drugdealer-oklahoma-city",
       "ageLimit": null,
@@ -3761,7 +3747,7 @@
       "eventUrl": "http://www.prekindle.com/event/52275-arkansauce-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453724175",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949178467413",
       "dateAdded": "2026-03-27"
     },
     {
@@ -4011,6 +3997,20 @@
       ],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Crimson Love & Pageant",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-21",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "Crimson Love, Pageant, Bison, Southbound Sinners",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/crimson-love-pageant-21-jun",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69aeda97683f0396c24dc617_open-uri20260309-823-fb7mg7.jpeg",
+      "dateAdded": "2026-04-06"
     },
     {
       "title": "Dinner Time",
@@ -4731,6 +4731,20 @@
       "dateAdded": "2026-03-25"
     },
     {
+      "title": "BRIT FLOYD – The Moon, The Wall, and Beyond",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-10-01",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/84554248/brit-floyd-the-moonthe-walland-beyond-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-04-06"
+    },
+    {
       "title": "Akeem Ali - The Texture Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4859,6 +4873,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c1b7f2d1a5bfe135a2b089_Kyle_Hume_US_1200_X_628_-_Tulsa.jpeg",
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Culture Wars",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-22",
+      "time": "8:00 PM",
+      "price": "$17–$75",
+      "description": "Culture Wars",
+      "eventUrl": "http://www.prekindle.com/event/45639-culture-wars-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949178468350",
+      "dateAdded": "2026-04-06"
     },
     {
       "title": "BLUE OCTOBER",
