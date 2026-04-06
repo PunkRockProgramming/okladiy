@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-05T18:27:08.041Z",
+  "lastUpdated": "2026-04-06T07:55:27.626Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Birthday / Filth Hounds Record Release",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-04",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "Birthday / Filth Hounds Record Release\nFeaturing: Scab, Rock Star Night Club, Psychotic Reaction, BADxMOUTH, and Filth Hounds\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/43925812/birthdayfilth-hounds-record-release-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_6c7d420854b54aa582584b8904dc8fd9~mv2.jpg",
-      "dateAdded": "2026-04-05"
-    },
     {
       "title": "Live Music All Ages feat: Unlikely Roll, Bathtub Fishing & Double Violets",
       "venue": "Noise Town",
@@ -29,48 +15,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774030662584-IPKECICBO8X5UD5FS80R/Bathtub+Fishing+Flier.jpg",
       "dateAdded": "2026-03-20"
-    },
-    {
-      "title": "TRUE LOVE WEEKEND",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-05",
-      "time": "3:00 PM",
-      "price": null,
-      "description": "TRUE LOVE WEEKEND\nFeaturing: Photocopy, Ivory Daze, From Drexel, and FOAM \n\nGeneral Admission Standing / All Ages Welcome",
-      "eventUrl": "https://www.etix.com/ticket/p/42811863/true-love-weekend-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_762ad1f48fb5434f901da21929f44cb8~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Bluegrass Brunch Advance Tickets",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-04-05",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949179335983",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179335966",
-      "dateAdded": "2026-04-04"
-    },
-    {
-      "title": "IV and The Strange Band + Clownvis Presley + King Sickabilly",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-04-05",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648511063767",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510630743",
-      "dateAdded": "2026-03-18"
     },
     {
       "title": "Cold Steel",
@@ -92,7 +36,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-06",
       "time": "8:00 PM",
-      "price": "$10–$75",
+      "price": "$25–$75",
       "description": "Zero 9:36, elijah, Downswing",
       "eventUrl": "http://www.prekindle.com/event/85381-zero-936-oklahoma-city",
       "ageLimit": null,
@@ -2865,6 +2809,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Godseyes x Actor Observer",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-16",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "GODSEYES x ACTOR OBSERVER\nCelebrating their Split EP - An Exercise In Futility / An Old Song Of Favor And Fear\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/82821691/godseyes-x-actor-observer-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_02e4ea0cdc6a4e3499d324978f3719e1~mv2.jpg",
+      "dateAdded": "2026-04-06"
+    },
+    {
       "title": "Jensen McRae: God Has A Hitman Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2977,6 +2935,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37585-800c41f1c9fc2a4c3b978922d0030d55.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "POET the Band & The Almas",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-17",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "POET the Band + The Almas\nDying Poets Tour\nwith Special Guests Embers Rise Plus More TBA\n*All Tickets General Admission",
+      "eventUrl": "https://www.ticketstorm.com/event/dyingpoetstour/89thstreetokc/oklahomacity/32469/",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_6dd9b98cd1184c349c8094b50774ff35~mv2.jpg",
+      "dateAdded": "2026-04-06"
     },
     {
       "title": "Dance With The Dead & Magic Sword",
