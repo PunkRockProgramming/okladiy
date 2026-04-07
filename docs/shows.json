@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T18:40:41.396Z",
+  "lastUpdated": "2026-04-07T07:42:25.232Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -17,54 +17,12 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "Zero 9:36",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-04-06",
-      "time": "8:00 PM",
-      "price": "$25–$75",
-      "description": "Zero 9:36, elijah, Downswing",
-      "eventUrl": "http://www.prekindle.com/event/85381-zero-936-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648504484842",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "saturdays at your place",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-06",
-      "time": null,
-      "price": "$20",
-      "description": "saturdays at your place, Retirement Party, Kerosene Heights",
-      "eventUrl": "http://www.prekindle.com/event/94368-saturdays-at-your-place-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648591197609",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Slaughter To Prevail: North America 2026 with Whitechapel & Attila",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-04-06",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/60890464/slaughter-to-prevailnorth-america-2026-with-whitechapel-attila-tulsa-tulsa-theater?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
       "title": "MY LIFE WITH THE THRILL KILL KULT",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-07",
       "time": "7:00 PM",
-      "price": "$15–$30",
+      "price": "$35",
       "description": "My Life With the Thrill Kill Kult, Light Asylum, Die Sexual, Devora, Heavy Halo",
       "eventUrl": "http://www.prekindle.com/event/12387-my-life-with-the-thrill-kill-kult-oklahoma-city",
       "ageLimit": null,
@@ -1005,7 +963,7 @@
       "date": "2026-04-21",
       "time": null,
       "price": "$20",
-      "description": "Hot Flash Heat Wave, Love Seats",
+      "description": "Hot Flash Heat Wave, Love Seats, JuneCo",
       "eventUrl": "http://www.prekindle.com/event/11418-hot-flash-heat-wave-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1075,11 +1033,11 @@
       "date": "2026-04-22",
       "time": "8:00 PM",
       "price": "$11–$75",
-      "description": "Travis Bolt",
+      "description": "Travis Bolt, Casper Wade",
       "eventUrl": "http://www.prekindle.com/event/32917-travis-bolt-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648495328465",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949178252750",
       "dateAdded": "2026-03-21"
     },
     {
@@ -1779,6 +1737,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Wolf Ugly | Beef | KikChik",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-05-01",
+      "time": null,
+      "price": "$10",
+      "description": "Wolf Ugly, Kikchik, Beef",
+      "eventUrl": "http://www.prekindle.com/event/53184-wolf-ugly-beef-kikchik-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177945283",
+      "dateAdded": "2026-04-07"
+    },
+    {
       "title": "Panhandle Playboys: Cole Barnhill x Sterling Elza",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1893,6 +1865,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519266550",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Self Solution | Southbound Sinners | Roots Traveler",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-05-02",
+      "time": null,
+      "price": "$10",
+      "description": "Self Solution, Southbound Sinners, Roots Traveler",
+      "eventUrl": "http://www.prekindle.com/event/44133-self-solution-southbound-sinners-roots-traveler-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177921083",
+      "dateAdded": "2026-04-07"
     },
     {
       "title": "Live Music All Ages feat: China Blue, Velvetine & MORE",
@@ -2128,7 +2114,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-05",
       "time": "8:00 PM",
-      "price": "$23",
+      "price": "$23–$75",
       "description": "DIIV, Draag",
       "eventUrl": "http://www.prekindle.com/event/17343-diiv-oklahoma-city",
       "ageLimit": null,
