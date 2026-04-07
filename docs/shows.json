@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-07T07:42:25.232Z",
+  "lastUpdated": "2026-04-07T18:45:13.567Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Cold Steel",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-06",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "COLD STEEL\nDiscipline and Punish 2 Tour \nwith special guests Primal Hominid, Tar Creek and Bad Tripp\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/51935202/cold-steel-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_aef9417acf60496486e152c2208acbb9~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "MY LIFE WITH THE THRILL KILL KULT",
       "venue": "Beer City Music Hall",
@@ -779,7 +765,7 @@
       "eventUrl": "http://www.prekindle.com/event/14186-kpop-night-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648537711282",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177773283",
       "dateAdded": "2026-03-21"
     },
     {
@@ -1272,7 +1258,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-25",
       "time": null,
-      "price": "$30–$145",
+      "price": "$23–$145",
       "description": "Silversun Pickups, Giant Waste of Man",
       "eventUrl": "http://www.prekindle.com/event/31785-silversun-pickups-tenterhooks-tour-oklahoma-city",
       "ageLimit": null,
@@ -1784,7 +1770,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-01",
       "time": "8:00 PM",
-      "price": "$25–$75",
+      "price": "$19–$75",
       "description": "Bill Callahan, Jana Horn",
       "eventUrl": "http://www.prekindle.com/event/95929-bill-callahan-oklahoma-city",
       "ageLimit": null,
@@ -2485,7 +2471,7 @@
       "date": "2026-05-11",
       "time": null,
       "price": "$15",
-      "description": "War On Women, Stepmom",
+      "description": "War On Women, Stepmom, Belle Riots",
       "eventUrl": "http://www.prekindle.com/event/58738-war-on-women-x-stepmom-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2993,6 +2979,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453306411",
       "dateAdded": "2026-03-26"
+    },
+    {
+      "title": "JILUKA - SOLD OUT**",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-19",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "JILUKA\n2026 World Tour \nwith special guests VCTMS and TSS\n\nGeneral Admission Standing / All Ages\n\n**THIS EVENT IS SOLD OUT**",
+      "eventUrl": "https://www.etix.com/ticket/p/41651115/jiluka-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_0dc47dadceac4abd9730bb971546968b~mv2.jpg",
+      "dateAdded": "2026-04-07"
     },
     {
       "title": "Sons of Legion - Soul to SØL Tour",
@@ -4489,6 +4489,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Hulvey – “Could Be Tonight” Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-13",
+      "time": null,
+      "price": "$25–$75",
+      "description": "Hulvey, Indie Tribe, Kijan Boone",
+      "eventUrl": "http://www.prekindle.com/event/53534-hulvey-could-be-tonight-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949178247055",
+      "dateAdded": "2026-04-07"
+    },
+    {
       "title": "Kiss the Goat ( Premiere Ghost Tribute )",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4531,6 +4545,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-01"
+    },
+    {
+      "title": "Sincere Engineer - The Probable Claws Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-21",
+      "time": null,
+      "price": "$25",
+      "description": "Sincere Engineer, Stay Inside, Smug LLC",
+      "eventUrl": "http://www.prekindle.com/event/97354-sincere-engineer-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648460849254",
+      "dateAdded": "2026-04-07"
     },
     {
       "title": "Cheekface w /  special guest Catbite",
@@ -4694,7 +4722,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-26",
       "time": null,
-      "price": "$35",
+      "price": "$35–$95",
       "description": "Artemas, Henry Morris",
       "eventUrl": "http://www.prekindle.com/event/17419-artemas-oklahoma-city",
       "ageLimit": null,
@@ -4729,6 +4757,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-06"
+    },
+    {
+      "title": "Parcels - LOVED Tour 2026",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-10-08",
+      "time": null,
+      "price": "$35",
+      "description": "Parcels",
+      "eventUrl": "http://www.prekindle.com/event/75385-parcels-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177693604",
+      "dateAdded": "2026-04-07"
     },
     {
       "title": "Akeem Ali - The Texture Tour",
@@ -4871,7 +4913,7 @@
       "eventUrl": "http://www.prekindle.com/event/45639-culture-wars-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949178468350",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177636522",
       "dateAdded": "2026-04-06"
     },
     {
@@ -4887,6 +4929,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Grateful Shred",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-11-04",
+      "time": "8:00 PM",
+      "price": "$23–$75",
+      "description": "Grateful Shred",
+      "eventUrl": "http://www.prekindle.com/event/16876-grateful-shred-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177636782",
+      "dateAdded": "2026-04-07"
     },
     {
       "title": "Dusty Slay: The Neighborhood Guy",
@@ -4919,6 +4975,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Apocalypse, Never! Tour - Nick Shoulders",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-21",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Nick Shoulders",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/apocalypse-never-tour-nick-shoulders-21-nov",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69cbf3072cca3a7222244302_Nick_Shoulders_%2528Shelby_Merry__Landscape%2529.jpeg",
+      "dateAdded": "2026-04-07"
+    },
+    {
       "title": "John Mulaney: Mister Whatever",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4931,6 +5001,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Nick Shoulders - Apocalypse, Never! Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-11-22",
+      "time": "8:00 PM",
+      "price": "$25",
+      "description": "Nick Shoulders",
+      "eventUrl": "http://www.prekindle.com/event/34328-nick-shoulders-apocalypse-never-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949181403168",
+      "dateAdded": "2026-04-07"
     },
     {
       "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
