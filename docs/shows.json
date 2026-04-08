@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-07T18:45:13.567Z",
+  "lastUpdated": "2026-04-08T07:45:49.325Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "MY LIFE WITH THE THRILL KILL KULT",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-04-07",
-      "time": "7:00 PM",
-      "price": "$35",
-      "description": "My Life With the Thrill Kill Kult, Light Asylum, Die Sexual, Devora, Heavy Halo",
-      "eventUrl": "http://www.prekindle.com/event/12387-my-life-with-the-thrill-kill-kult-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648552711836",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "Moon Walker",
       "venue": "89th Street OKC",
@@ -306,7 +292,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-11",
       "time": "8:00 PM",
-      "price": "$17–$75",
+      "price": "$6–$75",
       "description": "David Murphy, Montu",
       "eventUrl": "http://www.prekindle.com/event/13641-david-murphy-for-my-peeps-oklahoma-city",
       "ageLimit": null,
@@ -1023,7 +1009,7 @@
       "eventUrl": "http://www.prekindle.com/event/32917-travis-bolt-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949178252750",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177460380",
       "dateAdded": "2026-03-21"
     },
     {
@@ -4675,6 +4661,22 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Shiny Ribs",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-09-20",
+      "time": "6:00 PM",
+      "price": "$20 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38222",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38222-c0fac9aedfc621129b72b5c266a79210.jpeg",
+      "dateAdded": "2026-04-08"
+    },
+    {
       "title": "Liverpool Legends: Beatles Experience",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4722,7 +4724,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-26",
       "time": null,
-      "price": "$35–$95",
+      "price": "$95",
       "description": "Artemas, Henry Morris",
       "eventUrl": "http://www.prekindle.com/event/17419-artemas-oklahoma-city",
       "ageLimit": null,
