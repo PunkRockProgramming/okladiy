@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T07:45:49.325Z",
+  "lastUpdated": "2026-04-08T19:00:18.449Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -31,18 +31,18 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "The Thing",
+      "title": "Cherry Laurel, Sundrift, Major Good",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-04-08",
       "time": null,
       "price": "$15",
-      "description": "The Thing, Cherry Laurel, Sundrift",
-      "eventUrl": "http://www.prekindle.com/event/23153-the-thing-oklahoma-city",
+      "description": "Cherry Laurel, Sundrift, Major Good",
+      "eventUrl": "http://www.prekindle.com/event/11598-cherry-laurel-sundrift-major-good-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648643329265",
-      "dateAdded": "2026-03-21"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949176902584",
+      "dateAdded": "2026-04-08"
     },
     {
       "title": "SCALP",
@@ -635,11 +635,11 @@
       "date": "2026-04-18",
       "time": "7:00 PM",
       "price": null,
-      "description": "lowheaven\nw/ special guest Drosera, Respair, & itallhappenedinjuly\n\nGeneral Admission Standing / All Ages Welcome",
+      "description": "lowheaven\nw/ special guest Drosera, Respair, & A Parting Gaze\n\nGeneral Admission Standing / All Ages Welcome",
       "eventUrl": "https://www.etix.com/ticket/p/88810606/lowheaven-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_2fe525a8acd742ea84157ed5a91e60ff~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_1309163bbbd34b5c83699a5cfea853ea~mv2.jpg",
       "dateAdded": "2026-03-18"
     },
     {
@@ -2667,6 +2667,20 @@
       "dateAdded": "2026-04-01"
     },
     {
+      "title": "D.R.I.",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-15",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "D.R.I (Dirty Rotten Imbeciles)\n+ special guests Deathwish and Will Grim Brown\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.ticketstorm.com/event/dridirtyrottenimbecilesreturnstookc/89thstreetokc/oklahomacity/32675/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_fd7447305f88424ca03489ba59192895~mv2.jpg",
+      "dateAdded": "2026-04-08"
+    },
+    {
       "title": "Bingo Loco",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2965,20 +2979,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453306411",
       "dateAdded": "2026-03-26"
-    },
-    {
-      "title": "JILUKA - SOLD OUT**",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-19",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "JILUKA\n2026 World Tour \nwith special guests VCTMS and TSS\n\nGeneral Admission Standing / All Ages\n\n**THIS EVENT IS SOLD OUT**",
-      "eventUrl": "https://www.etix.com/ticket/p/41651115/jiluka-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_0dc47dadceac4abd9730bb971546968b~mv2.jpg",
-      "dateAdded": "2026-04-07"
     },
     {
       "title": "Sons of Legion - Soul to SØL Tour",
@@ -4489,6 +4489,20 @@
       "dateAdded": "2026-04-07"
     },
     {
+      "title": "NINE VICIOUS – A TOUR",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-14",
+      "time": null,
+      "price": "$25–$70",
+      "description": "Nine Vicious",
+      "eventUrl": "http://www.prekindle.com/event/61729-nine-vicious-a-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177637314",
+      "dateAdded": "2026-04-08"
+    },
+    {
       "title": "Kiss the Goat ( Premiere Ghost Tribute )",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4538,7 +4552,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-08-21",
       "time": null,
-      "price": "$25",
+      "price": "$18",
       "description": "Sincere Engineer, Stay Inside, Smug LLC",
       "eventUrl": "http://www.prekindle.com/event/97354-sincere-engineer-oklahoma-city",
       "ageLimit": null,
@@ -4724,7 +4738,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-26",
       "time": null,
-      "price": "$95",
+      "price": "$35–$95",
       "description": "Artemas, Henry Morris",
       "eventUrl": "http://www.prekindle.com/event/17419-artemas-oklahoma-city",
       "ageLimit": null,
@@ -4766,7 +4780,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-08",
       "time": null,
-      "price": "$35",
+      "price": "$35–$110",
       "description": "Parcels",
       "eventUrl": "http://www.prekindle.com/event/75385-parcels-oklahoma-city",
       "ageLimit": null,
@@ -5010,7 +5024,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-22",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$20–$75",
       "description": "Nick Shoulders",
       "eventUrl": "http://www.prekindle.com/event/34328-nick-shoulders-apocalypse-never-tour-oklahoma-city",
       "ageLimit": null,
