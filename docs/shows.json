@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-04-08T19:00:18.449Z",
+  "lastUpdated": "2026-04-09T07:48:21.405Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Moon Walker",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-08",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "with special guests Demi the Daredevil & Sarah and the Safe Word\n\n*All Tickets General Admission",
-      "eventUrl": "https://www.etix.com/ticket/p/37381219/moonwalker-oklahoma-city-89th-street",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ce0a9436cbde48508255160e94312ee5~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Stitched Up Heart",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-04-08",
-      "time": "8:00 PM",
-      "price": "$28",
-      "description": "Stitched Up Heart, Between the Broken, Taranis, PROJEKT ECLIPSE",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/stitched-up-heart-08-apr",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6966730e725f26b5bc860e35_Stitched_Up_Heart_-_Photo.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Cherry Laurel, Sundrift, Major Good",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-08",
-      "time": null,
-      "price": "$15",
-      "description": "Cherry Laurel, Sundrift, Major Good",
-      "eventUrl": "http://www.prekindle.com/event/11598-cherry-laurel-sundrift-major-good-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949176902584",
-      "dateAdded": "2026-04-08"
-    },
     {
       "title": "SCALP",
       "venue": "89th Street OKC",
@@ -2673,7 +2631,7 @@
       "date": "2026-05-15",
       "time": "6:00 PM",
       "price": null,
-      "description": "D.R.I (Dirty Rotten Imbeciles)\n+ special guests Deathwish and Will Grim Brown\n\nGeneral Admission Standing / All Ages",
+      "description": "D.R.I (Dirty Rotten Imbeciles)\n+ special guests Deathwish, Will Grim Brown, and Coke Throat\n\nGeneral Admission Standing / All Ages",
       "eventUrl": "https://www.ticketstorm.com/event/dridirtyrottenimbecilesreturnstookc/89thstreetokc/oklahomacity/32675/",
       "ageLimit": "All Ages",
       "tags": [],
@@ -2979,6 +2937,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453306411",
       "dateAdded": "2026-03-26"
+    },
+    {
+      "title": "JILUKA - SOLD OUT**",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-19",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "JILUKA\n2026 World Tour \nwith special guests VCTMS and TSS\n\nGeneral Admission Standing / All Ages\n\n**THIS EVENT IS SOLD OUT**",
+      "eventUrl": "https://www.etix.com/ticket/p/41651115/jiluka-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_0dc47dadceac4abd9730bb971546968b~mv2.jpg",
+      "dateAdded": "2026-04-09"
     },
     {
       "title": "Sons of Legion - Soul to SØL Tour",
@@ -4552,7 +4524,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-08-21",
       "time": null,
-      "price": "$18",
+      "price": "$25",
       "description": "Sincere Engineer, Stay Inside, Smug LLC",
       "eventUrl": "http://www.prekindle.com/event/97354-sincere-engineer-oklahoma-city",
       "ageLimit": null,
@@ -4675,7 +4647,7 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "Shiny Ribs",
+      "title": "Shinyribs",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-09-20",
@@ -4688,7 +4660,7 @@
         "tulsa"
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38222-c0fac9aedfc621129b72b5c266a79210.jpeg",
-      "dateAdded": "2026-04-08"
+      "dateAdded": "2026-04-09"
     },
     {
       "title": "Liverpool Legends: Beatles Experience",
