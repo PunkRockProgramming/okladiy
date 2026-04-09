@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T07:48:21.405Z",
+  "lastUpdated": "2026-04-09T18:46:06.664Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -534,7 +534,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-17",
       "time": "8:00 PM",
-      "price": "$11–$75",
+      "price": null,
       "description": "Wayne Hancock, Billy Irwin and the Gambits",
       "eventUrl": "http://www.prekindle.com/event/61781-wayne-hancock-oklahoma-city",
       "ageLimit": null,
@@ -1074,7 +1074,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-23",
       "time": null,
-      "price": "$35–$80",
+      "price": "$18–$80",
       "description": "Avatar, Fleshgod Apocalypse, Frozen Soul",
       "eventUrl": "http://www.prekindle.com/event/66736-avatar-oklahoma-city",
       "ageLimit": null,
@@ -1858,7 +1858,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-02",
       "time": "8:00 PM",
-      "price": "$25–$80",
+      "price": "$19–$80",
       "description": "James McMurtry, Bettysoo",
       "eventUrl": "http://www.prekindle.com/event/78612-james-mcmurtry-oklahoma-city",
       "ageLimit": null,
@@ -3115,7 +3115,7 @@
       "date": "2026-05-23",
       "time": "8:00 PM",
       "price": "$19",
-      "description": "Mac Saturn",
+      "description": "Mac Saturn, Kennedy Fine",
       "eventUrl": "http://www.prekindle.com/event/44836-mac-saturn-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3465,6 +3465,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Rock Anthem",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-05",
+      "time": "7:00 PM",
+      "price": "$10",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38242",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38242-571965ee2b12e3228cf85f1c91fe649c.jpeg",
+      "dateAdded": "2026-04-09"
     },
     {
       "title": "Straight Tequila Night: '90s Country Tribute",
@@ -4289,6 +4305,22 @@
       "dateAdded": "2026-04-01"
     },
     {
+      "title": "Zingo",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-18",
+      "time": "8:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38241",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38241-86c79961c765bcc5056265d64eafdf47.jpeg",
+      "dateAdded": "2026-04-09"
+    },
+    {
       "title": "Sun Kil Moon",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4317,6 +4349,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37929-aeb37b3128e65b80d80f4dfdc5c44821.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Lincoln Swanzy",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-24",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38240",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38240-64cc733d2535517cc33a1c904e49b1e5.jpeg",
+      "dateAdded": "2026-04-09"
     },
     {
       "title": "The Ex-faces (Ex Members Of Mushroomhead Playing Their Hits)",
@@ -4461,6 +4509,20 @@
       "dateAdded": "2026-04-07"
     },
     {
+      "title": "Honky Tonk Circus",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-13",
+      "time": "8:00 PM",
+      "price": "$15",
+      "description": "Honky Tonk Circus",
+      "eventUrl": "http://www.prekindle.com/event/13616-honky-tonk-circus-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949178467559",
+      "dateAdded": "2026-04-09"
+    },
+    {
       "title": "NINE VICIOUS – A TOUR",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4524,7 +4586,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-08-21",
       "time": null,
-      "price": "$25",
+      "price": "$18",
       "description": "Sincere Engineer, Stay Inside, Smug LLC",
       "eventUrl": "http://www.prekindle.com/event/97354-sincere-engineer-oklahoma-city",
       "ageLimit": null,
@@ -4919,6 +4981,20 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "West 22nd",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-11-03",
+      "time": "8:00 PM",
+      "price": "$15–$75",
+      "description": "West 22nd",
+      "eventUrl": "http://www.prekindle.com/event/54832-west-22nd-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177020888",
+      "dateAdded": "2026-04-09"
+    },
+    {
       "title": "Grateful Shred",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4945,6 +5021,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648452800045",
       "dateAdded": "2026-03-31"
+    },
+    {
+      "title": "Shadowgrass",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-07",
+      "time": "7:00 PM",
+      "price": "$20 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38239",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38239-080ca86d43fe9121b8c11577a33f0a87.jpeg",
+      "dateAdded": "2026-04-09"
     },
     {
       "title": "Henry Zoellner",
