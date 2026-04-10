@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T07:52:45.276Z",
+  "lastUpdated": "2026-04-10T18:38:03.915Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -745,20 +745,6 @@
       "dateAdded": "2026-03-21"
     },
     {
-      "title": "Dallas Cowboys Cheerleader - MEET & GREET UPGRADE",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-04-19",
-      "time": null,
-      "price": "$150",
-      "description": "Dallas Cowboys Cheerleaders",
-      "eventUrl": "http://www.prekindle.com/event/12113-dallas-cowboys-cheerleader-meet-and-greet-upgrade-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648507339227",
-      "dateAdded": "2026-03-21"
-    },
-    {
       "title": "One Way Truckin'",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -991,7 +977,7 @@
       "date": "2026-04-23",
       "time": "9:00 PM",
       "price": "$28",
-      "description": "KOAN Sound",
+      "description": "KOAN Sound, Onyx Garden, EOAL",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/koan-sound-18-23-apr",
       "ageLimit": null,
       "tags": [],
@@ -1151,7 +1137,7 @@
       "eventUrl": "http://www.prekindle.com/event/31785-silversun-pickups-tenterhooks-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519390408",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949174660471",
       "dateAdded": "2026-03-21"
     },
     {
@@ -2359,7 +2345,7 @@
       "date": "2026-05-11",
       "time": null,
       "price": "$15",
-      "description": "War On Women, Stepmom, Belle Riots",
+      "description": "War On Women, Stepmom, Psychic Baths",
       "eventUrl": "http://www.prekindle.com/event/58738-war-on-women-x-stepmom-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3585,6 +3571,22 @@
       "dateAdded": "2026-03-20"
     },
     {
+      "title": "Alyxx",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-10",
+      "time": "6:30 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38250",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38250-467b44559315e082b83328dc16a93516.jpg",
+      "dateAdded": "2026-04-10"
+    },
+    {
       "title": "Kings Kaleidoscope",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3675,7 +3677,7 @@
       "date": "2026-06-12",
       "time": null,
       "price": "$12",
-      "description": "Hashtronaut",
+      "description": "Hashtronaut, BUGNOG, World Peace Death Ray",
       "eventUrl": "http://www.prekindle.com/event/53134-hastronaut-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4472,7 +4474,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-13",
       "time": null,
-      "price": "$30",
+      "price": "$25–$75",
       "description": "Hulvey, Indie Tribe, Kijan Boone",
       "eventUrl": "http://www.prekindle.com/event/53534-hulvey-could-be-tonight-tour-oklahoma-city",
       "ageLimit": null,
@@ -4786,7 +4788,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-08",
       "time": null,
-      "price": "$35",
+      "price": "$35–$110",
       "description": "Parcels",
       "eventUrl": "http://www.prekindle.com/event/75385-parcels-oklahoma-city",
       "ageLimit": null,
@@ -5032,7 +5034,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-21",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$34",
       "description": "Nick Shoulders",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/apocalypse-never-tour-nick-shoulders-21-nov",
       "ageLimit": "ALL AGES",
