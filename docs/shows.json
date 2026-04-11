@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T07:09:57.084Z",
+  "lastUpdated": "2026-04-11T18:27:05.896Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -173,6 +173,20 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774530513128-AHFN8E0AKLU8RE9O3UHN/lineup-4.png",
       "dateAdded": "2026-03-26"
+    },
+    {
+      "title": "Advanced Tickets for Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-04-12",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949176733091",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949176733068",
+      "dateAdded": "2026-04-11"
     },
     {
       "title": "Eliza McLamb",
@@ -2667,6 +2681,20 @@
       "dateAdded": "2026-04-06"
     },
     {
+      "title": "School of Rock Showcase",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-05-17",
+      "time": "11:30 AM",
+      "price": "$22",
+      "description": "School of Rock",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/school-of-rock-showcase-17-may",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69d926b81be47cfe73422ea1_Vanguard_0915_wlogo.jpeg",
+      "dateAdded": "2026-04-11"
+    },
+    {
       "title": "Dance With The Dead & Magic Sword",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -5055,6 +5083,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461319846",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Private Event",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-04-10",
+      "time": "7:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37771",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37771-5066818ae5497c56f690c712166b6554.png",
+      "dateAdded": "2026-04-11"
     }
   ]
 }
