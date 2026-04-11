@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-04-10T18:38:03.915Z",
+  "lastUpdated": "2026-04-11T07:09:57.084Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Club XCX",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-04-10",
-      "time": null,
-      "price": "$25–$30",
-      "description": "The Dance Parties, DJ Isis Payne, Topatío, Dj Reboot, La'porsche Binz",
-      "eventUrl": "http://www.prekindle.com/event/91426-club-xcx-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483058867",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "HEARTWERK",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-04-10",
-      "time": null,
-      "price": "$5",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/64372-heartwerk-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648464376037",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "One Aux Presents Ffffffffffffest Night One at Drifters Theater",
       "venue": "Noise Town",
@@ -45,100 +17,12 @@
       "dateAdded": "2026-03-26"
     },
     {
-      "title": "Straight Tequila Night ~ a Tribute to '90s Country (21+)",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-04-10",
-      "time": "9:00 PM",
-      "price": "$34",
-      "description": "Straight Tequila Night",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/straight-tequila-night-a-tribute-to-90s-country-21-10-apr",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6990cf961ab9ce9ed8721401_Legacy_Hall_Back_Stage_enhanced_small-gigapixel-recover_v2-7000w-faceai_v2.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Kruse Brothers: The Heartbreak and Honky-Tonk Tour with special guest Ty Smith",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-04-10",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648477528233",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648477525747",
-      "dateAdded": "2026-04-05"
-    },
-    {
-      "title": "Lissie",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-04-10",
-      "time": "8:00 PM",
-      "price": "$35–$75",
-      "description": "Lissie, Madisen Ward",
-      "eventUrl": "http://www.prekindle.com/event/85417-lissie-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648478236496",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "The Retrograde",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-10",
-      "time": null,
-      "price": "$15",
-      "description": "The Retrograde, Heralds",
-      "eventUrl": "http://www.prekindle.com/event/67318-the-retrograde-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514638197",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Tennessee Jet",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-04-10",
-      "time": "7:00 PM",
-      "price": "$18 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37581",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37581-5e62fbe5618c0055ba074f5b6303000e.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "RENELL MAE",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-04-10",
-      "time": "2:00 AM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/renell-mae",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-03-23"
-    },
-    {
       "title": "The Happy Fits",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-11",
       "time": null,
-      "price": "$12–$65",
+      "price": "$30–$65",
       "description": "The Happy Fits, BEL",
       "eventUrl": "http://www.prekindle.com/event/55773-the-happy-fits-oklahoma-city",
       "ageLimit": null,
@@ -180,7 +64,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-04-11",
       "time": "9:00 PM",
-      "price": "$11",
+      "price": "$15",
       "description": "A Mixtape Catastrophe, A Day To Remember, Lamb of God, Underoath",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/this-ain-t-a-scene-18-mtv2-tribute-11-apr",
       "ageLimit": null,
@@ -1376,7 +1260,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-27",
       "time": "8:00 PM",
-      "price": "$14–$150",
+      "price": null,
       "description": "Cass McCombs, Lael Neale",
       "eventUrl": "http://www.prekindle.com/event/41864-cass-mccombs-and-band-interior-live-oak-live-oklahoma-city",
       "ageLimit": null,
@@ -2797,6 +2681,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Qoncert",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-17",
+      "time": null,
+      "price": "$20",
+      "description": "DRODD",
+      "eventUrl": "http://www.prekindle.com/event/96941-qoncert-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949174335378",
+      "dateAdded": "2026-04-11"
+    },
+    {
       "title": "Cobi Lalas & Duval",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3221,6 +3119,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648634593625",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Straight Tequila Night ~ a Tribute to '90s Country (21+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-05-30",
+      "time": "9:00 PM",
+      "price": "$31",
+      "description": "Straight Tequila Night",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/straight-tequila-night-a-tribute-to-90s-country-21-30-may",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bf08012b62d1897a35a0cb_STN_May26_Vanguard_2x1.jpeg",
+      "dateAdded": "2026-04-11"
     },
     {
       "title": "Jackie Venson",
@@ -4385,6 +4297,22 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Jackson Tillman",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-31",
+      "time": "7:00 PM",
+      "price": "$18 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38256",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38256-8d9d566f37b61edf621d34b3d2d74a7b.jpeg",
+      "dateAdded": "2026-04-11"
+    },
+    {
       "title": "K·POP Superstars",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -5126,22 +5054,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461319846",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Private Event",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2027-04-10",
-      "time": "7:00 PM",
-      "price": "Free",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37771",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37771-5066818ae5497c56f690c712166b6554.png",
       "dateAdded": "2026-03-21"
     }
   ]
