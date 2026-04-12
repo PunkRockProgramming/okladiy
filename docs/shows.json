@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T18:27:05.896Z",
+  "lastUpdated": "2026-04-12T07:24:25.075Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -17,34 +17,6 @@
       "dateAdded": "2026-03-26"
     },
     {
-      "title": "The Happy Fits",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-04-11",
-      "time": null,
-      "price": "$30–$65",
-      "description": "The Happy Fits, BEL",
-      "eventUrl": "http://www.prekindle.com/event/55773-the-happy-fits-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648483248313",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Kat King | The Lonelys | The Suzzies",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-04-11",
-      "time": null,
-      "price": "$10",
-      "description": "Kat King, The Lonelys, The Suzzies",
-      "eventUrl": "http://www.prekindle.com/event/25279-kat-king-the-lonelys-the-suzzies-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648452632135",
-      "dateAdded": "2026-03-26"
-    },
-    {
       "title": "One Aux Presents Ffffffffffffest Day Two at Noise Town",
       "venue": "Noise Town",
       "venueUrl": "https://www.noisetowntulsa.com",
@@ -57,94 +29,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774529967380-185UAOWX42MIFY469JDA/lineup-3.png",
       "dateAdded": "2026-03-26"
-    },
-    {
-      "title": "This Ain't a Scene - 18+ - MTV2 tribute",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-04-11",
-      "time": "9:00 PM",
-      "price": "$15",
-      "description": "A Mixtape Catastrophe, A Day To Remember, Lamb of God, Underoath",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/this-ain-t-a-scene-18-mtv2-tribute-11-apr",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6980c0ab686d1abdc207c236_41843e5e-2c7d-4259-a3cc-1a2a38cb6bda.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "The Riverbreaks with special guest Dane Arnold",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-04-11",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648487367095",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648487367048",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "David Murphy - For My Peeps",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-04-11",
-      "time": "8:00 PM",
-      "price": "$6–$75",
-      "description": "David Murphy, Montu",
-      "eventUrl": "http://www.prekindle.com/event/13641-david-murphy-for-my-peeps-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466064430",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "VIAL",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-11",
-      "time": null,
-      "price": "$17",
-      "description": "VIAL, Alex Vile, Social Cinema",
-      "eventUrl": "http://www.prekindle.com/event/23374-vial-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648539256766",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Private Party",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-04-11",
-      "time": "6:00 PM",
-      "price": "Free",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37142",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37142-430c6a64597fceb27203c7512b8e589e.png",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "LATIN NIGHT W/ DJ TEQUILA : SHOT HAPPENS!",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-04-11",
-      "time": "10:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/11/latin-night-w-dj-tequila-shot-happens",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
     },
     {
       "title": "The High Cost Of Playing God | Oberon | Alligator Exhibit",
@@ -194,7 +78,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-04-12",
       "time": null,
-      "price": "$22",
+      "price": "$25",
       "description": "Eliza Mclamb, Tombstone Poetry, Skylily",
       "eventUrl": "http://www.prekindle.com/event/76829-eliza-mclamb-oklahoma-city",
       "ageLimit": null,
@@ -4249,6 +4133,22 @@
       "dateAdded": "2026-04-02"
     },
     {
+      "title": "Cobi Lalas",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-19",
+      "time": "4:00 PM",
+      "price": "$7 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38260",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38260-ddb0743b38645b593d4fbdb5ab393fb8.jpeg",
+      "dateAdded": "2026-04-12"
+    },
+    {
       "title": "Ratchet Dolls",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4279,6 +4179,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38240-64cc733d2535517cc33a1c904e49b1e5.jpeg",
       "dateAdded": "2026-04-09"
+    },
+    {
+      "title": "Jackson Tillman",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-25",
+      "time": "7:00 PM",
+      "price": "$18 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38261",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/3c0699b16019735fce5a8edce04222b6.jpeg",
+      "dateAdded": "2026-04-12"
     },
     {
       "title": "The Ex-faces (Ex Members Of Mushroomhead Playing Their Hits)",
@@ -4323,22 +4239,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648475737233",
       "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Jackson Tillman",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-07-31",
-      "time": "7:00 PM",
-      "price": "$18 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38256",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38256-8d9d566f37b61edf621d34b3d2d74a7b.jpeg",
-      "dateAdded": "2026-04-11"
     },
     {
       "title": "K·POP Superstars",
@@ -5083,22 +4983,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461319846",
       "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Private Event",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2027-04-10",
-      "time": "7:00 PM",
-      "price": "Free",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37771",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37771-5066818ae5497c56f690c712166b6554.png",
-      "dateAdded": "2026-04-11"
     }
   ]
 }
