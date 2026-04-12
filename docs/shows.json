@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-04-12T07:24:25.075Z",
+  "lastUpdated": "2026-04-12T18:30:51.718Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "One Aux Presents Ffffffffffffest Night One at Drifters Theater",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-04-10",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "The first night of Fffffffffest, a three day experimental music festival, presented by One Aux featuring performances by A Thousand Plateaus, tiny amazing camera, Silkroad, ut mutem, and LoDrum & Natty Gray at Drifter’s Theater.Visit One Aux for more information on the festival.",
-      "eventUrl": "https://www.noisetowntulsa.com/events/one-aux-presents-ffffffffffffest",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774529393098-KRW8ZYGA8KWTI9FR8DFA/lineup-2.png",
-      "dateAdded": "2026-03-26"
-    },
-    {
-      "title": "One Aux Presents Ffffffffffffest Day Two at Noise Town",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-04-11",
-      "time": "1:00 PM",
-      "price": null,
-      "description": "The second day of Fffffffffest, a three day experimental music festival, presented by One Aux featuring performances by Crescent Window, ELECTROGONG, Chazlen Rook, Jarvix, Hexpartner, Abbess, Stagn(ant), Meth Damon, Facade, DCLNR, Ahriman, HISSOM, Postule, Open Casket Soundsystem, Licking Wounds, Kid Naps, The Dankestra, White Boy Scream & Baseck at Noise Town. Visit One Aux for more information on the festival.",
-      "eventUrl": "https://www.noisetowntulsa.com/events/one-aux-presents-ffffffffffffest-day-two-at-noise-town",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774529967380-185UAOWX42MIFY469JDA/lineup-3.png",
-      "dateAdded": "2026-03-26"
-    },
     {
       "title": "The High Cost Of Playing God | Oberon | Alligator Exhibit",
       "venue": "The Whittier Bar",
@@ -4983,6 +4955,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461319846",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Private Event",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-04-10",
+      "time": "7:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37771",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37771-5066818ae5497c56f690c712166b6554.png",
+      "dateAdded": "2026-04-12"
     }
   ]
 }
