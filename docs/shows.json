@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T08:14:26.218Z",
+  "lastUpdated": "2026-04-13T18:58:47.058Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -520,7 +520,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-20",
       "time": null,
-      "price": "$60",
+      "price": "$44–$60",
       "description": "Dethklok, Amon Amarth, Castle Rat",
       "eventUrl": "http://www.prekindle.com/event/44479-dethklok-and-amon-amarth-oklahoma-city",
       "ageLimit": null,
@@ -1617,11 +1617,11 @@
       "date": "2026-05-03",
       "time": null,
       "price": "$28–$57",
-      "description": "Toadies, Local H",
+      "description": "Toadies, Local H, Vandoliers",
       "eventUrl": "http://www.prekindle.com/event/76967-toadies-the-charmer-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179821304",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172792655",
       "dateAdded": "2026-03-21"
     },
     {
@@ -1917,7 +1917,7 @@
       "date": "2026-05-08",
       "time": "8:00 PM",
       "price": "$18–$75",
-      "description": "Alex Lambert",
+      "description": "Alex Lambert, Dasher the Band",
       "eventUrl": "http://www.prekindle.com/event/23862-alex-lambert-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2955,6 +2955,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Abe Parker",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-28",
+      "time": null,
+      "price": "$25–$75",
+      "description": "Abe Parker",
+      "eventUrl": "http://www.prekindle.com/event/13685-abe-parker-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949175980347",
+      "dateAdded": "2026-04-13"
+    },
+    {
       "title": "Soft Hands: '80s Prom",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3907,6 +3921,20 @@
       "dateAdded": "2026-04-02"
     },
     {
+      "title": "I LOVE R&B Party",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-07-10",
+      "time": null,
+      "price": "$15–$30",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/96243-i-love-randb-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177000938",
+      "dateAdded": "2026-04-13"
+    },
+    {
       "title": "Cody Canada & The Departed",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4017,7 +4045,7 @@
       "date": "2026-07-15",
       "time": null,
       "price": "$20",
-      "description": "High Fade",
+      "description": "High Fade, JT Loux",
       "eventUrl": "http://www.prekindle.com/event/53779-high-fade-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4303,6 +4331,20 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "Little Stranger",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-08",
+      "time": null,
+      "price": "$30–$143",
+      "description": "Little Stranger, Tropidelic, Jarv, Damn Skippy",
+      "eventUrl": "http://www.prekindle.com/event/76728-little-stranger-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172726763",
+      "dateAdded": "2026-04-13"
+    },
+    {
       "title": "The Marvelous Miss Gender starring BOSCO",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4336,7 +4378,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-13",
       "time": "8:00 PM",
-      "price": "$15",
+      "price": "$15–$75",
       "description": "Honky Tonk Circus",
       "eventUrl": "http://www.prekindle.com/event/13616-honky-tonk-circus-oklahoma-city",
       "ageLimit": null,
@@ -4443,6 +4485,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048191",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Hermanos Espinoza - LINAJE Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-09-05",
+      "time": null,
+      "price": null,
+      "description": "Hermanos Espinoza",
+      "eventUrl": "http://www.prekindle.com/event/99742-hermanos-espinoza-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172896814",
+      "dateAdded": "2026-04-13"
     },
     {
       "title": "MINUS THE BEAR - Menos El Oso 20th Anniversary Tour",
