@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-12T18:30:51.718Z",
+  "lastUpdated": "2026-04-13T08:14:26.218Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "The High Cost Of Playing God | Oberon | Alligator Exhibit",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-04-12",
-      "time": null,
-      "price": "$10",
-      "description": "The High Cost of Playing God, Oberon, Alligator Exhibit",
-      "eventUrl": "http://www.prekindle.com/event/84662-the-high-cost-of-playing-god-oberon-alligator-exhibit-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648456192962",
-      "dateAdded": "2026-03-22"
-    },
     {
       "title": "One Aux Presents Ffffffffffffest Day Three at Spotlight Theater",
       "venue": "Noise Town",
@@ -29,34 +15,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774530513128-AHFN8E0AKLU8RE9O3UHN/lineup-4.png",
       "dateAdded": "2026-03-26"
-    },
-    {
-      "title": "Advanced Tickets for Bluegrass Brunch with Johnny Mullenax",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-04-12",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949176733091",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949176733068",
-      "dateAdded": "2026-04-11"
-    },
-    {
-      "title": "Eliza McLamb",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-12",
-      "time": null,
-      "price": "$25",
-      "description": "Eliza Mclamb, Tombstone Poetry, Skylily",
-      "eventUrl": "http://www.prekindle.com/event/76829-eliza-mclamb-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2853111880107361983",
-      "dateAdded": "2026-03-21"
     },
     {
       "title": "Premo Rice",
@@ -457,6 +415,20 @@
       "dateAdded": "2026-03-23"
     },
     {
+      "title": "TOC 7 Finale Watch Party with Chef Kevin Lee",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-04-19",
+      "time": null,
+      "price": "$75",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/92335-toc-7-finale-watch-party-with-chef-kevin-lee-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949176602341",
+      "dateAdded": "2026-04-13"
+    },
+    {
       "title": "Tonya and the Hardings | The Suzzies | Puncher",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -520,7 +492,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-20",
       "time": null,
-      "price": "$3–$100",
+      "price": "$3–$55",
       "description": "Jay Electronica, Neelam, Landon Wordswell, DJ Kitty Ca$h, DJ Kelly Green, Marcel P Black",
       "eventUrl": "http://www.prekindle.com/event/94412-jay-electronica-oklahoma-city",
       "ageLimit": null,
@@ -548,7 +520,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-20",
       "time": null,
-      "price": "$60–$243",
+      "price": "$60",
       "description": "Dethklok, Amon Amarth, Castle Rat",
       "eventUrl": "http://www.prekindle.com/event/44479-dethklok-and-amon-amarth-oklahoma-city",
       "ageLimit": null,
@@ -865,6 +837,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37428-a29d09307d43aa979e20f6efbcb8ecb4.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "MARGARET RABBITT",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-04-24",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/24/margaret-rabbitt",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-04-13"
     },
     {
       "title": "Necrot",
@@ -2905,6 +2893,38 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37728-f27906977522e4c208e93b68cd9e63a0.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "JOHNEE KEMPER // WILL DYLAN HAPPY HOUR SHOW!",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-05-23",
+      "time": "6:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/5/23/johnee-kemper-will-dylan-happy-hour-show",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-04-13"
+    },
+    {
+      "title": "JOHNEE KEMPER // CHAD DEAN // RHONDA LOU HAPPY HOUR SHOW!",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-05-23",
+      "time": "6:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/5/23/johnee-kemper-will-dylan-happy-hour-show-aapz7",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-04-13"
     },
     {
       "title": "Cole Barnhill",
