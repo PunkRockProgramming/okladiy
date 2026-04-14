@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T07:58:12.975Z",
+  "lastUpdated": "2026-04-14T18:56:15.833Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -333,11 +333,11 @@
       "date": "2026-04-18",
       "time": "8:00 PM",
       "price": "$15–$20",
-      "description": "PhaseOne, Subsonix, Disco Presents",
+      "description": "PhaseOne, King Coopa, Reckless Ryan, Hellgxrl, Subsonix, Disco Presents",
       "eventUrl": "http://www.prekindle.com/event/69964-phaseone-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510121412",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172127536",
       "dateAdded": "2026-03-21"
     },
     {
@@ -435,7 +435,7 @@
       "date": "2026-04-19",
       "time": null,
       "price": "$18",
-      "description": "Doublecamp, Smokey Motel, Boston Busler",
+      "description": "Doublecamp, Boston Busler",
       "eventUrl": "http://www.prekindle.com/event/76158-doublecamp-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -455,6 +455,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648500789691",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Dallas Cowboys Cheerleader - MEET & GREET UPGRADE",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-04-19",
+      "time": null,
+      "price": "$150",
+      "description": "Dallas Cowboys Cheerleaders",
+      "eventUrl": "http://www.prekindle.com/event/12113-dallas-cowboys-cheerleader-meet-and-greet-upgrade-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648507339227",
+      "dateAdded": "2026-04-14"
     },
     {
       "title": "One Way Truckin'",
@@ -1060,7 +1074,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-26",
       "time": null,
-      "price": "$25–$125",
+      "price": "$21–$85",
       "description": "Ralph Barbosa",
       "eventUrl": "http://www.prekindle.com/event/39114-ralph-barbosa-oklahoma-city",
       "ageLimit": null,
@@ -2105,7 +2119,7 @@
       "eventUrl": "http://www.prekindle.com/event/61268-drugdealer-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510127317",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949171953315",
       "dateAdded": "2026-03-21"
     },
     {
@@ -4873,6 +4887,20 @@
       "dateAdded": "2026-04-07"
     },
     {
+      "title": "Nurse Blake: But Did You Die? Comedy Tour",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-11-05",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/84091203/nurse-blakebut-did-you-diecomedy-tour-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": "18+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-04-14"
+    },
+    {
       "title": "Dusty Slay: The Neighborhood Guy",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4931,6 +4959,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69cbf3072cca3a7222244302_Nick_Shoulders_%2528Shelby_Merry__Landscape%2529.jpeg",
       "dateAdded": "2026-04-07"
+    },
+    {
+      "title": "Jimmy Failla",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-21",
+      "time": null,
+      "price": null,
+      "description": "Jimmy Failla",
+      "eventUrl": "http://www.prekindle.com/event/47286-jimmy-failla-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949171951467",
+      "dateAdded": "2026-04-14"
     },
     {
       "title": "John Mulaney: Mister Whatever",
