@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-04-13T18:58:47.058Z",
+  "lastUpdated": "2026-04-14T07:58:12.975Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "One Aux Presents Ffffffffffffest Day Three at Spotlight Theater",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-04-12",
-      "time": "9:00 PM",
-      "price": null,
-      "description": "The third day of Fffffffffest, a three day experimental music festival, presented by One Aux featuring performances by Doom Kit, Ugly Feelings, BIRD DRUGS, Phil Smith, Der Wurm, Kory Reeder, Nathan Alexander Pape, pseudokufic., NoMoore, Ground Bus, Altar Eagle, Warren Realrider, Elisa Harkins, The Blackstar Experience at Riverside Studios.Visit One Aux for more information on the festival.",
-      "eventUrl": "https://www.noisetowntulsa.com/events/one-aux-presents-ffffffffffffest-day-three-at-spotlight-theater",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774530513128-AHFN8E0AKLU8RE9O3UHN/lineup-4.png",
-      "dateAdded": "2026-03-26"
-    },
-    {
-      "title": "Premo Rice",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-13",
-      "time": null,
-      "price": "$30",
-      "description": "Premo Rice",
-      "eventUrl": "http://www.prekindle.com/event/75458-premo-rice-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648493884997",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "Muscle | Bad Tripp | Primal Hominid",
       "venue": "The Whittier Bar",
@@ -443,6 +415,20 @@
       "dateAdded": "2026-03-25"
     },
     {
+      "title": "Girls Rock! Camp Fundraiser Live Music",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-04-19",
+      "time": "5:30 PM",
+      "price": "$10",
+      "description": "Live Music fundraiser for Girls Rock! Camp featuring performances by Ivory Tusk, Static Cathedral, Weepcar, and Fat Dracula.Matinee Show Doors at 5:30pm Music at 6pm$10 Suggested Donation",
+      "eventUrl": "https://www.noisetowntulsa.com/events/girls-rock-camp-fundraiser-live-music",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1776131366067-TBLIHSD6UZPVQ536PLY4/Girls+Rock+April+Small.png",
+      "dateAdded": "2026-04-14"
+    },
+    {
       "title": "Doublecamp",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -758,7 +744,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-04-24",
       "time": "9:30 PM",
-      "price": "$25",
+      "price": "$28",
       "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/best-of-both-worlds-rave-18-24-apr",
       "ageLimit": null,
@@ -1916,7 +1902,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-08",
       "time": "8:00 PM",
-      "price": "$18–$75",
+      "price": "$14–$75",
       "description": "Alex Lambert, Dasher the Band",
       "eventUrl": "http://www.prekindle.com/event/23862-alex-lambert-oklahoma-city",
       "ageLimit": null,
@@ -2687,7 +2673,7 @@
       "date": "2026-05-20",
       "time": "7:00 PM",
       "price": null,
-      "description": "COMBAT\nGeneral Admission Standing / All Ages Welcome \n(*special guests are subject to change)",
+      "description": "COMBAT\nwith special guests Semester Abroad & Fair Weather Enemies\n\nGeneral Admission Standing / All Ages Welcome \n(*special guests are subject to change)",
       "eventUrl": "https://www.etix.com/ticket/p/44015870/combat-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -4913,7 +4899,7 @@
       "tags": [
         "tulsa"
       ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38239-080ca86d43fe9121b8c11577a33f0a87.jpeg",
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38239-1e24ae7455dbbf4180b3826a7e3d6386.jpeg",
       "dateAdded": "2026-04-09"
     },
     {
