@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T07:59:32.829Z",
+  "lastUpdated": "2026-04-15T18:59:15.628Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -744,7 +744,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-04-24",
       "time": "9:30 PM",
-      "price": "$28",
+      "price": "$28 to $76",
       "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/best-of-both-worlds-rave-18-24-apr",
       "ageLimit": null,
@@ -916,7 +916,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-25",
       "time": "8:00 PM",
-      "price": "$11–$75",
+      "price": "$4–$75",
       "description": "Happy Landing, Lostboycrow",
       "eventUrl": "http://www.prekindle.com/event/57217-happy-landing-oklahoma-city",
       "ageLimit": null,
@@ -1986,7 +1986,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-09",
       "time": "9:00 PM",
-      "price": "$20",
+      "price": "$11–$20",
       "description": "Breckenridge Presents",
       "eventUrl": "http://www.prekindle.com/event/93155-best-of-both-worlds-rave-a-20-year-hannah-montana-nostalgia-celebration-oklahoma-city",
       "ageLimit": null,
@@ -3521,11 +3521,11 @@
       "date": "2026-06-12",
       "time": null,
       "price": "$35–$103",
-      "description": "Matt Maeson",
+      "description": "Matt Maeson, Haffway",
       "eventUrl": "http://www.prekindle.com/event/72819-matt-maeson-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454334400",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949171405941",
       "dateAdded": "2026-03-24"
     },
     {
@@ -3775,6 +3775,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69aeda97683f0396c24dc617_open-uri20260309-823-fb7mg7.jpeg",
       "dateAdded": "2026-04-06"
+    },
+    {
+      "title": "Psychics vs Science",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-06-23",
+      "time": null,
+      "price": "$27–$45",
+      "description": "Joe Diamond, Dr. Anthony Barnhart",
+      "eventUrl": "http://www.prekindle.com/event/67219-psychics-vs-scientists-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949174591655",
+      "dateAdded": "2026-04-15"
     },
     {
       "title": "Dinner Time",
@@ -4185,6 +4199,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Johnny Manchild and the Poor Bastards",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-24",
+      "time": "8:00 PM",
+      "price": "$15–$75",
+      "description": "Johnny Manchild and the Poor Bastards, Friend of A Friend, Karma and the Killjoys",
+      "eventUrl": "http://www.prekindle.com/event/22253-johnny-manchild-and-the-poor-bastards-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949181403473",
+      "dateAdded": "2026-04-15"
+    },
+    {
       "title": "Lincoln Swanzy",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4492,7 +4520,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-05",
       "time": null,
-      "price": null,
+      "price": "$30–$232",
       "description": "Hermanos Espinoza",
       "eventUrl": "http://www.prekindle.com/event/99742-hermanos-espinoza-oklahoma-city",
       "ageLimit": null,
@@ -4966,7 +4994,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-21",
       "time": null,
-      "price": null,
+      "price": "$20–$75",
       "description": "Jimmy Failla",
       "eventUrl": "http://www.prekindle.com/event/47286-jimmy-failla-oklahoma-city",
       "ageLimit": null,
