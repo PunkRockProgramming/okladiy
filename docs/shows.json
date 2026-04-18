@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-18T07:19:32.023Z",
+  "lastUpdated": "2026-04-18T18:33:08.687Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "TAKER x SPLINTERED",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-17",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "TAKER & SPLINTERED\n+ False Idol, Barrel of Bodies and Pried Apart \n\nGeneral Admission Standing / All Ages Welcome \n\n$10 TICKETS AT THE DOOR - cannot purchase online\n\n**SPLINTERED'S FIRST SHOW!",
-      "eventUrl": "https://www.facebook.com/share/17op9agbKv/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_59291aa9ff0a427aacb13bbce9efbea5~mv2.jpg",
-      "dateAdded": "2026-04-02"
-    },
     {
       "title": "lowheaven",
       "venue": "89th Street OKC",
@@ -187,6 +173,20 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1776131366067-TBLIHSD6UZPVQ536PLY4/Girls+Rock+April+Small.png",
       "dateAdded": "2026-04-14"
+    },
+    {
+      "title": "Bluegrass Brunch with Johnny Mullenax Advance Tickets",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-04-19",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949168732167",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949168732150",
+      "dateAdded": "2026-04-18"
     },
     {
       "title": "Doublecamp",
@@ -1667,7 +1667,7 @@
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-dose-a-psychedelic-comedy-show-18-08-may",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d318947d1734db907fb19_Tulsa_FB_Event_Banner.jpeg",
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69e391e8ef453f9e5b487e38_IMG_1300.jpeg",
       "dateAdded": "2026-03-18"
     },
     {
@@ -2867,6 +2867,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499895635",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Gammacide",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-05-30",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "GAMMACIDE \nwith special guests ARKHON and CHEMICAUST\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.ticketstorm.com/event/gammacide/89thstreetokc/oklahomacity/32521/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_87836cb1e35440ff9457715dd5df29ea~mv2.jpg",
+      "dateAdded": "2026-04-18"
     },
     {
       "title": "Zoso: The Ultimate Led Zeppelin Experience",
