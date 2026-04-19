@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T18:33:08.687Z",
+  "lastUpdated": "2026-04-19T07:40:10.596Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,136 +15,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_1309163bbbd34b5c83699a5cfea853ea~mv2.jpg",
       "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Trey Kennedy - The Relatable Tour (Matinee)",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-04-18",
-      "time": null,
-      "price": "$6–$64",
-      "description": "Trey Kennedy",
-      "eventUrl": "http://www.prekindle.com/event/93431-trey-kennedy-the-relatable-tour-matinee-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648683106445",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Trey Kennedy - The Relatable Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-04-18",
-      "time": null,
-      "price": "$6–$64",
-      "description": "Trey Kennedy",
-      "eventUrl": "http://www.prekindle.com/event/56563-trey-kennedy-the-relatable-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648688318256",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Texas Hippie Coalition",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-04-18",
-      "time": "6 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/44958140/texas-hippie-coalition-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/02/texas-hippie-coalition.jfif",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "High Desert Queen | Gran Moreno | Medicine Horse",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-04-18",
-      "time": null,
-      "price": "$15",
-      "description": "High Desert Queen, Gran Moreno, Medicine Horse",
-      "eventUrl": "http://www.prekindle.com/event/44394-high-desert-queen-gran-moreno-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499648249",
-      "dateAdded": "2026-03-26"
-    },
-    {
-      "title": "The Crane Wives - ACT I",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-04-18",
-      "time": "8:00 PM",
-      "price": "$41",
-      "description": "The Crane Wives, Lilith Max",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-crane-wives-18-apr",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69778e59ae8c3852d67cf20c_TCW_June2025_Scene4_0557_Web.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "West Texas Exiles",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-04-18",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648498604977",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648498603984",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "PhaseOne",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-04-18",
-      "time": "7:30 PM",
-      "price": "$25",
-      "description": "PhaseOne, King Coopa, Reckless Ryan, Hellgxrl, Subsonix, Disco Presents",
-      "eventUrl": "http://www.prekindle.com/event/69964-phaseone-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172127536",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Friends Of The Phamily",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-04-18",
-      "time": "8:00 PM",
-      "price": "$12 adv / $15 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37349",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37349-dfdb07d01274692f8e4e46b7e1169c8e.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "SECRET DANCE PARTY…?",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-04-18",
-      "time": "6:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/secret-dance-party",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-03-23"
     },
     {
       "title": "TOC 7 Finale Watch Party with Chef Kevin Lee",
@@ -1020,7 +890,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-30",
       "time": "8:00 PM",
-      "price": "$15–$30",
+      "price": "$15–$35",
       "description": "jigitz, Wes Mills",
       "eventUrl": "http://www.prekindle.com/event/96441-jigitz-oklahoma-city",
       "ageLimit": null,
