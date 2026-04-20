@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T08:21:31.250Z",
+  "lastUpdated": "2026-04-20T18:48:55.000Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,20 +15,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1776131366067-TBLIHSD6UZPVQ536PLY4/Girls+Rock+April+Small.png",
       "dateAdded": "2026-04-14"
-    },
-    {
-      "title": "Jay Electronica, Neelam, Landon Wordswell, DJ Kitty Ca$h and DJ Kelly Green w /  Marcel P Black",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-04-20",
-      "time": null,
-      "price": "$3–$55",
-      "description": "Jay Electronica, Neelam, Landon Wordswell, DJ Kitty Ca$h, DJ Kelly Green, Marcel P Black",
-      "eventUrl": "http://www.prekindle.com/event/94412-jay-electronica-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506568055",
-      "dateAdded": "2026-03-21"
     },
     {
       "title": "Taylor Austin Dye Damn Good Day Tour",
@@ -50,7 +36,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-20",
       "time": null,
-      "price": "$60–$65",
+      "price": "$65",
       "description": "Dethklok, Amon Amarth, Castle Rat",
       "eventUrl": "http://www.prekindle.com/event/44479-dethklok-and-amon-amarth-oklahoma-city",
       "ageLimit": null,
@@ -1146,7 +1132,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-05-03",
       "time": null,
-      "price": "$28–$57",
+      "price": "$21–$57",
       "description": "Toadies, Local H, Vandoliers",
       "eventUrl": "http://www.prekindle.com/event/76967-toadies-the-charmer-tour-oklahoma-city",
       "ageLimit": null,
@@ -4683,6 +4669,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38239-1e24ae7455dbbf4180b3826a7e3d6386.jpeg",
       "dateAdded": "2026-04-09"
+    },
+    {
+      "title": "OCT — On Company Time: The PTO Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-10",
+      "time": null,
+      "price": "$30",
+      "description": "OCT",
+      "eventUrl": "http://www.prekindle.com/event/91567-oct-on-company-time-the-pto-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949171105113",
+      "dateAdded": "2026-04-20"
     },
     {
       "title": "Henry Zoellner",
