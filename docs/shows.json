@@ -1,56 +1,14 @@
 {
-  "lastUpdated": "2026-04-20T18:48:55.000Z",
+  "lastUpdated": "2026-04-21T08:03:27.993Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Girls Rock! Camp Fundraiser Live Music",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-04-19",
-      "time": "5:30 PM",
-      "price": "$10",
-      "description": "Live Music fundraiser for Girls Rock! Camp featuring performances by Ivory Tusk, Static Cathedral, Weepcar, and Fat Dracula.Matinee Show Doors at 5:30pm Music at 6pm$10 Suggested Donation",
-      "eventUrl": "https://www.noisetowntulsa.com/events/girls-rock-camp-fundraiser-live-music",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1776131366067-TBLIHSD6UZPVQ536PLY4/Girls+Rock+April+Small.png",
-      "dateAdded": "2026-04-14"
-    },
-    {
-      "title": "Taylor Austin Dye Damn Good Day Tour",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-04-20",
-      "time": "8:00 PM",
-      "price": "$31.87",
-      "description": "Taylor Austin Dye, Austin Dixon",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/taylor-austin-dye-damn-good-day-tour-20-apr",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/699f90883727c30515814871_Taylor_Austin_Dye_Press_Photo_%25281%2529.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Dethklok & Amon Amarth: The Amonklok Conquest",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-04-20",
-      "time": null,
-      "price": "$65",
-      "description": "Dethklok, Amon Amarth, Castle Rat",
-      "eventUrl": "http://www.prekindle.com/event/44479-dethklok-and-amon-amarth-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648554461588",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "The Black Dahlia Murder",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-21",
       "time": null,
-      "price": "$15–$75",
+      "price": "$35–$75",
       "description": "The Black Dahlia Murder, The Acacia Strain, Disembodied Tyrant, Corpse Pile",
       "eventUrl": "http://www.prekindle.com/event/24316-the-black-dahlia-murder-oklahoma-city",
       "ageLimit": null,
@@ -875,7 +833,7 @@
       "date": "2026-05-01",
       "time": "8:00 PM",
       "price": "$25.34",
-      "description": "Cole Barnhill, Sterling Elza",
+      "description": "Cole Barnhill, Sterling Elza, Jaxon Malone",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/panhandle-playboys-cole-barnhill-x-sterling-elza-01-may",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -1197,6 +1155,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37260-256fd1cb3fb0fbeb37b6966000ba987c.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Poetry for Thee Open Mic Poetry Swap",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-05-04",
+      "time": "8:30 PM",
+      "price": null,
+      "description": "Open Mic Poetry Swap hosted by Alf. Free to attend and participate. You can just listen to the poetry, you do not have to read!Early Sign up Time 5:30pm Reading 6pm.",
+      "eventUrl": "https://www.noisetowntulsa.com/events/jaw5n8nxf49sl2nde4zxaa8893g4y6",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1776727701651-Z05GO7P3B1UQTY2Q5MC8/Poetry+May+Flyer.png",
+      "dateAdded": "2026-04-21"
     },
     {
       "title": "Cradle Of Filth",
@@ -2097,20 +2069,20 @@
       "dateAdded": "2026-04-11"
     },
     {
-      "title": "Cobi Lalas & Duval",
+      "title": "Private Event",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-05-17",
-      "time": "4:00 PM",
-      "price": "$7 adv / $10 door",
+      "time": "12:00 PM",
+      "price": "Free",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37835",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38298",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
       ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37835-cca808407f8d430c3f7d85cfd8e598cc.jpeg",
-      "dateAdded": "2026-03-18"
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38298-98637d2772e6e67a2430f3d59c6b436a.png",
+      "dateAdded": "2026-04-21"
     },
     {
       "title": "PURITY RING - PLACE OF MY OWN TOUR",
@@ -2123,7 +2095,7 @@
       "eventUrl": "http://www.prekindle.com/event/62116-purity-ring-place-of-my-own-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648508075987",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167144556",
       "dateAdded": "2026-03-21"
     },
     {
