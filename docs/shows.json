@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T08:03:27.993Z",
+  "lastUpdated": "2026-04-21T18:54:33.518Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -22,7 +22,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-04-21",
       "time": "8:00 PM",
-      "price": "$26.30",
+      "price": "$31.87",
       "description": "Marlon Funaki, harf.",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/marlon-funaki-21-apr",
       "ageLimit": "ALL AGES",
@@ -255,20 +255,6 @@
       "dateAdded": "2026-04-05"
     },
     {
-      "title": "The Spooklights",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-04-24",
-      "time": "8:00 PM",
-      "price": "$4–$75",
-      "description": "The Spooklights",
-      "eventUrl": "http://www.prekindle.com/event/16828-the-spooklights-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505954450",
-      "dateAdded": "2026-03-21"
-    },
-    {
       "title": "DISCO, ALWAYS: A HARRY STYLES DANCE NIGHT",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -348,7 +334,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-25",
       "time": null,
-      "price": "$23–$75",
+      "price": "$30–$75",
       "description": "Silversun Pickups, Giant Waste of Man",
       "eventUrl": "http://www.prekindle.com/event/31785-silversun-pickups-tenterhooks-tour-oklahoma-city",
       "ageLimit": null,
@@ -1204,7 +1190,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-05",
       "time": "8:00 PM",
-      "price": "$23–$75",
+      "price": "$17–$75",
       "description": "DIIV, Draag",
       "eventUrl": "http://www.prekindle.com/event/17343-diiv-oklahoma-city",
       "ageLimit": null,
@@ -1348,7 +1334,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-05-08",
       "time": null,
-      "price": "$22–$50",
+      "price": "$21–$50",
       "description": "Whitney Cummings",
       "eventUrl": "http://www.prekindle.com/event/96947-whitney-cummings-big-baby-oklahoma-city",
       "ageLimit": null,
@@ -1404,7 +1390,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-08",
       "time": "8:00 PM",
-      "price": "$14–$75",
+      "price": "$9–$75",
       "description": "Alex Lambert, Dasher the Band",
       "eventUrl": "http://www.prekindle.com/event/23862-alex-lambert-oklahoma-city",
       "ageLimit": null,
@@ -2090,12 +2076,12 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-05-18",
       "time": null,
-      "price": "$25–$149",
+      "price": "$18–$149",
       "description": "Purity Ring, mmj",
       "eventUrl": "http://www.prekindle.com/event/62116-purity-ring-place-of-my-own-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167144556",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166763844",
       "dateAdded": "2026-03-21"
     },
     {
@@ -3477,6 +3463,20 @@
       "dateAdded": "2026-04-18"
     },
     {
+      "title": "The Steppers",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-27",
+      "time": null,
+      "price": "$12",
+      "description": "The Steppers, Go Yonder",
+      "eventUrl": "http://www.prekindle.com/event/65595-the-steppers-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949175155683",
+      "dateAdded": "2026-04-21"
+    },
+    {
       "title": "Bingo Loco",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -3668,7 +3668,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-11",
       "time": "8:00 PM",
-      "price": "$50–$125",
+      "price": "$80–$125",
       "description": "Chris Travis",
       "eventUrl": "http://www.prekindle.com/event/59796-chris-travis-the-prefix-tour-oklahoma-city",
       "ageLimit": null,
@@ -3899,6 +3899,20 @@
       "dateAdded": "2026-04-09"
     },
     {
+      "title": "Bit Brigade Performs \"Mega Man X\" LIVE",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-07-25",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Bit Brigade",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/bit-brigade-25-jul",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69e5495cad8f83ff5d03eb9f__1.jpeg",
+      "dateAdded": "2026-04-21"
+    },
+    {
       "title": "Jackson Tillman",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4027,6 +4041,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/03/chasin-u-the-morgan-wallen-experience.jfif",
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Bikini Trill",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-07",
+      "time": null,
+      "price": "$15",
+      "description": "Bikini Trill",
+      "eventUrl": "http://www.prekindle.com/event/57424-bikini-trill-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949174266205",
+      "dateAdded": "2026-04-21"
     },
     {
       "title": "Little Stranger",
@@ -4241,6 +4269,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Molchat Doma - Molchat Doma Tour 2026",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-11",
+      "time": null,
+      "price": "$33–$75",
+      "description": "Molchat Doma",
+      "eventUrl": "http://www.prekindle.com/event/53215-molchat-doma-molchat-doma-tour-2026-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166631693",
+      "dateAdded": "2026-04-21"
+    },
+    {
       "title": "Tig Notaro: Out of Nowhere",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4369,6 +4411,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182081108",
       "dateAdded": "2026-04-01"
+    },
+    {
+      "title": "Bayonne - The ‘Filters’ Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-27",
+      "time": "8:00 PM",
+      "price": "$24",
+      "description": "Bayonne",
+      "eventUrl": "http://www.prekindle.com/event/31329-bayonne-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167255157",
+      "dateAdded": "2026-04-21"
     },
     {
       "title": "Built To Spill",
@@ -4557,6 +4613,20 @@
       "dateAdded": "2026-04-06"
     },
     {
+      "title": "Failure - Rising Skyline 2026",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-23",
+      "time": "8:00 PM",
+      "price": "$245",
+      "description": "Failure, quannnic",
+      "eventUrl": "http://www.prekindle.com/event/32869-failure-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167267176",
+      "dateAdded": "2026-04-21"
+    },
+    {
       "title": "BLUE OCTOBER",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4569,6 +4639,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "PJ Morton - Saturday Night Sunday Morning Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-01",
+      "time": null,
+      "price": "$95",
+      "description": "PJ Morton",
+      "eventUrl": "http://www.prekindle.com/event/97535-pj-morton-saturday-night-sunday-morning-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166764190",
+      "dateAdded": "2026-04-21"
     },
     {
       "title": "West 22nd",
