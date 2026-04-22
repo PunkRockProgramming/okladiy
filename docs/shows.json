@@ -1,70 +1,14 @@
 {
-  "lastUpdated": "2026-04-21T18:54:33.518Z",
+  "lastUpdated": "2026-04-22T08:00:04.707Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "The Black Dahlia Murder",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-04-21",
-      "time": null,
-      "price": "$35–$75",
-      "description": "The Black Dahlia Murder, The Acacia Strain, Disembodied Tyrant, Corpse Pile",
-      "eventUrl": "http://www.prekindle.com/event/24316-the-black-dahlia-murder-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648518163024",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Marlon Funaki - Half Moon Tour",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-04-21",
-      "time": "8:00 PM",
-      "price": "$31.87",
-      "description": "Marlon Funaki, harf.",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/marlon-funaki-21-apr",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69693de8736a775d2ecda907_marlon_funaki.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Hot Flash Heat Wave",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-21",
-      "time": null,
-      "price": "$20",
-      "description": "Hot Flash Heat Wave, Love Seats, JuneCo",
-      "eventUrl": "http://www.prekindle.com/event/11418-hot-flash-heat-wave-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648496904517",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Dallas Cowboys Cheerleaders LIVE!",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-04-21",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/89329387/dallas-cowboys-cheerleaders-live-tulsa-tulsa-theater?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Bad Suns: ACCELERATOUR USA 2026",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-04-22",
       "time": null,
-      "price": "$13–$80",
+      "price": "$30–$80",
       "description": "Bad Suns, Little Image",
       "eventUrl": "http://www.prekindle.com/event/66842-bad-suns-acceleratour-usa-2026-oklahoma-city",
       "ageLimit": null,
@@ -99,20 +43,6 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697a0bd88a1216873e11527f_james_mcmurtry_promo.jpeg",
       "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Travis Bolt",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-04-22",
-      "time": "8:00 PM",
-      "price": "$11–$75",
-      "description": "Travis Bolt, Casper Wade",
-      "eventUrl": "http://www.prekindle.com/event/32917-travis-bolt-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177460380",
-      "dateAdded": "2026-03-21"
     },
     {
       "title": "Big Head Todd and the Monsters",
@@ -431,7 +361,7 @@
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
       "date": "2026-04-25",
-      "time": "7 pm",
+      "time": "8 pm",
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/69696633/23rd-annual-80s-prom-tulsa-cains-ballroom?partner_id=100",
@@ -713,6 +643,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37927-57326aa950b6ebda200f3706a6df671c.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "20 Watt Tombstone",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-04-30",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/69536-20-watt-tombstone-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166456745",
+      "dateAdded": "2026-04-22"
     },
     {
       "title": "jigitz",
@@ -2755,6 +2699,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Ghoul A.D.",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-04",
+      "time": null,
+      "price": "$13–$18",
+      "description": "Ghoul A.D.",
+      "eventUrl": "http://www.prekindle.com/event/13782-ghoul-ad-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167181242",
+      "dateAdded": "2026-04-22"
+    },
+    {
       "title": "Shakey Graves",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4125,6 +4083,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177637314",
       "dateAdded": "2026-04-08"
+    },
+    {
+      "title": "Travis Bolt",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-14",
+      "time": "8:00 PM",
+      "price": "$11–$75",
+      "description": "Travis Bolt, Casper Wade",
+      "eventUrl": "http://www.prekindle.com/event/32917-travis-bolt-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166480610",
+      "dateAdded": "2026-04-22"
     },
     {
       "title": "Kiss the Goat ( Premiere Ghost Tribute )",
