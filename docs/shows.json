@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T08:05:48.376Z",
+  "lastUpdated": "2026-04-23T18:53:15.549Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -78,7 +78,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-23",
       "time": null,
-      "price": "$40–$80",
+      "price": "$18–$80",
       "description": "Avatar, Fleshgod Apocalypse, Frozen Soul",
       "eventUrl": "http://www.prekindle.com/event/66736-avatar-oklahoma-city",
       "ageLimit": null,
@@ -1035,7 +1035,7 @@
       "venue": "Noise Town",
       "venueUrl": "https://www.noisetowntulsa.com",
       "date": "2026-05-04",
-      "time": "8:30 PM",
+      "time": "5:30 PM",
       "price": null,
       "description": "Open Mic Poetry Swap hosted by Alf. Free to attend and participate. You can just listen to the poetry, you do not have to read!Early Sign up Time 5:30pm Reading 6pm.",
       "eventUrl": "https://www.noisetowntulsa.com/events/jaw5n8nxf49sl2nde4zxaa8893g4y6",
@@ -1257,6 +1257,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648467482729",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Live Music All Ages: Horse, Hypnosis, May This Sunday Be My Last",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-05-08",
+      "time": "7:30 PM",
+      "price": "$10",
+      "description": "Live HEAVY music from Horse, May This Sunday Be My Last, and Hypnosis!Doors 7:30pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-horse-hypnosis-may-this-sunday-be-my-last",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1776964994315-J9LPALAC590KXJGG2IL2/Horse+May+This+Sunday+Flyer.png",
+      "dateAdded": "2026-04-23"
     },
     {
       "title": "THE DOSE: A Psychedelic Comedy Show (18+)",
@@ -2155,6 +2169,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648501668755",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Live Music All Ages feat: Fighting Sleep, Me Too Thanks & More",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-05-22",
+      "time": "7:30 PM",
+      "price": "$10",
+      "description": "Live music featuring Fighting Sleep, Me Too Thanks(OKC), and Edith(Denver).Doors 7:30pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-fighting-sleep-me-too-thanks-more",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1776962719059-OKRGKXJBDHDDDSFK9SL4/Edith+Flyer.png",
+      "dateAdded": "2026-04-23"
     },
     {
       "title": "Branjae",
@@ -3451,6 +3479,22 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "The Dust Devils",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-06-28",
+      "time": "4:00 PM",
+      "price": "$5",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38317",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38317-c72ba98dd891ddf4a15671912b8cfd18.jpeg",
+      "dateAdded": "2026-04-23"
+    },
+    {
       "title": "Wilco",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -3651,6 +3695,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505857371",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Summer Good. Summer Bad. Year Two - LaserEye & Friends",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-07-16",
+      "time": "8:00 PM",
+      "price": "$14.15",
+      "description": "LaserEye, Jam on Toast, KikChik",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/summer-good-summer-bad-year-two-lasereye-friends-16-jul",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69e90caf7d4501eac82b1669_IMG_7332.jpeg",
+      "dateAdded": "2026-04-23"
     },
     {
       "title": "Killers of Kill Tony",
@@ -4218,7 +4276,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-10",
       "time": "8:00 PM",
-      "price": "$50",
+      "price": "$20–$80",
       "description": "Briscoe",
       "eventUrl": "http://www.prekindle.com/event/23123-briscoe-oklahoma-city",
       "ageLimit": null,
@@ -4341,6 +4399,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/12/elefante.jfif",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Jim E. Brown",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-24",
+      "time": null,
+      "price": "$25",
+      "description": "Jim E Brown",
+      "eventUrl": "http://www.prekindle.com/event/58613-jim-e-brown-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949165697354",
+      "dateAdded": "2026-04-23"
     },
     {
       "title": "ABRA Cadabra - The Music & Magic of ABBA",
@@ -4618,7 +4690,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-11-01",
       "time": null,
-      "price": "$95",
+      "price": "$30–$80",
       "description": "PJ Morton",
       "eventUrl": "http://www.prekindle.com/event/97535-pj-morton-saturday-night-sunday-morning-tour-oklahoma-city",
       "ageLimit": null,
