@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-24T08:14:34.570Z",
+  "lastUpdated": "2026-04-24T18:36:11.201Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Filth - Back to tha Gutta Tour",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-23",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Filth - Back To Tha Gutta Tour \nwith Special Guests  Two-Piece, Resistor, Cultist & Inferious\n*All Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/backtotheguttatour/89thstreetokc/oklahomacity/32503/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_ded7b5c57fb0457c8dc20b83db0aea02~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "All in For Oklahoma - 2026 Kickoff Rally",
       "venue": "Tower Theatre",
@@ -78,7 +64,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-24",
       "time": null,
-      "price": "$25–$100",
+      "price": "$25–$70",
       "description": "Casey Donahew, Cole Phillips, Palmer Anthony",
       "eventUrl": "http://www.prekindle.com/event/12421-casey-donahew-oklahoma-city",
       "ageLimit": null,
@@ -173,6 +159,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c436914a47d6f8f5e8b661_SLANG_PROMO_1.jpeg",
       "dateAdded": "2026-03-27"
+    },
+    {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-04-25",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949163687890",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949163687873",
+      "dateAdded": "2026-04-24"
     },
     {
       "title": "Krislyn Arthurs Debut Album Release Party",
@@ -466,7 +466,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-28",
       "time": null,
-      "price": "$50–$115",
+      "price": "$50",
       "description": "Bilmuri, The Home Team, GANG!",
       "eventUrl": "http://www.prekindle.com/event/62712-bilmuri-oklahoma-city",
       "ageLimit": null,
@@ -1597,6 +1597,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648501227749",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "BIEBER AND A BEAT: A JUSTIN BIEBER NIGHT",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-14",
+      "time": null,
+      "price": "$15",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/37522-bieber-and-a-beat-a-justin-bieber-night-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949163681783",
+      "dateAdded": "2026-04-24"
     },
     {
       "title": "ZZ Nation ( Tribute to ZZ Top )",
@@ -2759,6 +2773,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Cryhard - Before You Knew Me Album Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-06",
+      "time": null,
+      "price": "$12",
+      "description": "Cryhard, Foam, Photocopy, Ice Blink",
+      "eventUrl": "http://www.prekindle.com/event/66163-cryhard-before-you-knew-me-album-release-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949163804915",
+      "dateAdded": "2026-04-24"
+    },
+    {
       "title": "Keep Nox Free",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -2845,6 +2873,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453752041",
       "dateAdded": "2026-03-25"
+    },
+    {
+      "title": "Ace Monroe",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-06-10",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "ACE MONROE \nSummer Tour 2026\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/32317158/ace-monroe-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_cf1cfe818fdc4a7e96d3614f5581c3ee~mv2.jpg",
+      "dateAdded": "2026-04-24"
     },
     {
       "title": "The Baby Bats Parade: Christian Death + Gene Loves Jezebel & more",
@@ -3147,6 +3189,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949171096836",
       "dateAdded": "2026-04-16"
+    },
+    {
+      "title": "BRAT",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-19",
+      "time": null,
+      "price": "$15",
+      "description": "Brat",
+      "eventUrl": "http://www.prekindle.com/event/82215-brat-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949165723206",
+      "dateAdded": "2026-04-24"
     },
     {
       "title": "Pop Punk Nite! by: Van Full of Nuns",
@@ -3817,6 +3873,20 @@
       "dateAdded": "2026-04-15"
     },
     {
+      "title": "Lord Buffalo",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-24",
+      "time": null,
+      "price": "$15",
+      "description": "Lord Buffalo",
+      "eventUrl": "http://www.prekindle.com/event/76173-lord-buffalo-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949165849534",
+      "dateAdded": "2026-04-24"
+    },
+    {
       "title": "Lincoln Swanzy",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3838,7 +3908,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-07-25",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$26.30",
       "description": "Bit Brigade",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/bit-brigade-25-jul",
       "ageLimit": "ALL AGES",
@@ -4250,7 +4320,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-11",
       "time": null,
-      "price": "$35",
+      "price": "$33–$75",
       "description": "Molchat Doma",
       "eventUrl": "http://www.prekindle.com/event/53215-molchat-doma-molchat-doma-tour-2026-oklahoma-city",
       "ageLimit": null,
@@ -4608,7 +4678,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-23",
       "time": "8:00 PM",
-      "price": "$245",
+      "price": "$28–$245",
       "description": "Failure, quannnic",
       "eventUrl": "http://www.prekindle.com/event/32869-failure-oklahoma-city",
       "ageLimit": null,
@@ -4622,7 +4692,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-24",
       "time": null,
-      "price": "$33",
+      "price": "$28–$57",
       "description": "Palace",
       "eventUrl": "http://www.prekindle.com/event/41591-palace-usa-and-canada-tour-2026-oklahoma-city",
       "ageLimit": null,
@@ -4650,7 +4720,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-11-01",
       "time": null,
-      "price": "$65",
+      "price": "$30–$80",
       "description": "PJ Morton",
       "eventUrl": "http://www.prekindle.com/event/97535-pj-morton-saturday-night-sunday-morning-tour-oklahoma-city",
       "ageLimit": null,
@@ -4729,6 +4799,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38239-1e24ae7455dbbf4180b3826a7e3d6386.jpeg",
       "dateAdded": "2026-04-09"
+    },
+    {
+      "title": "Low Cut Connie",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-11-08",
+      "time": "8:00 PM",
+      "price": "$25–$75",
+      "description": "Low Cut Connie",
+      "eventUrl": "http://www.prekindle.com/event/91988-low-cut-connie-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949176701946",
+      "dateAdded": "2026-04-24"
     },
     {
       "title": "OCT — On Company Time: The PTO Tour",
