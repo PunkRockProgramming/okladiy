@@ -1,109 +1,7 @@
 {
-  "lastUpdated": "2026-04-24T18:36:11.201Z",
+  "lastUpdated": "2026-04-25T07:38:47.167Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "All in For Oklahoma - 2026 Kickoff Rally",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-04-24",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/32933-all-in-for-oklahoma-2026-kickoff-rally-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949181429747",
-      "dateAdded": "2026-04-02"
-    },
-    {
-      "title": "Best of Both Worlds Rave (18+)",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-04-24",
-      "time": "9:30 PM",
-      "price": "$26.30 to $70.89",
-      "description": null,
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/best-of-both-worlds-rave-18-24-apr",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69ca90003fcab2722aef49e3_HM20_4.24.26_TSA_HOR.jpeg",
-      "dateAdded": "2026-03-31"
-    },
-    {
-      "title": "Chucky Waggs & the Company of Raggs + Sophia Clark",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-04-24",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949179280903",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179279516",
-      "dateAdded": "2026-04-05"
-    },
-    {
-      "title": "DISCO, ALWAYS: A HARRY STYLES DANCE NIGHT",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-24",
-      "time": null,
-      "price": "$15",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/32672-disco-always-a-harry-styles-dance-night-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505924465",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Casey Donahew",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-04-24",
-      "time": null,
-      "price": "$25–$70",
-      "description": "Casey Donahew, Cole Phillips, Palmer Anthony",
-      "eventUrl": "http://www.prekindle.com/event/12421-casey-donahew-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506054128",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Front Porch / Foggy Memory Boys",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-04-24",
-      "time": "7:00 PM",
-      "price": "$15 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37428",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37428-a29d09307d43aa979e20f6efbcb8ecb4.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "MARGARET RABBITT",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-04-24",
-      "time": "10:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/4/24/margaret-rabbitt",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-04-13"
-    },
     {
       "title": "Necrot",
       "venue": "89th Street OKC",
@@ -256,22 +154,6 @@
       "ageLimit": "18+",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Micky and The Motorcars",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-04-25",
-      "time": "7:00 PM",
-      "price": "$17 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.tulsashrine.com",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37028-0f8644976f12d1fbb04f65d17dc2ca8e.jpeg",
       "dateAdded": "2026-03-18"
     },
     {
@@ -2071,6 +1953,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Inferna, Body Farm, Ectospire",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-20",
+      "time": null,
+      "price": "$12",
+      "description": "Inferna, Body Farm, Ectospire",
+      "eventUrl": "http://www.prekindle.com/event/91276-inferna-body-farm-ectospire-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "http://www.prekindle.com/images/prekindle-logo.png",
+      "dateAdded": "2026-04-25"
+    },
+    {
       "title": "Brujeria",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3277,22 +3173,6 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "Lets Zeppelin",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-06-20",
-      "time": "7:00 PM",
-      "price": "$16 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.tulsashrine.com",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
       "title": "Josey Scott: The Original Voice of Saliva RETURNS TO SHRINE",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4031,6 +3911,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648455255444",
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "System of A Clown",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-06",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38338",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38338-fcc4641c066dee7c85cc8007a8dfd2c7.png",
+      "dateAdded": "2026-04-25"
     },
     {
       "title": "Chasin’ U – The Morgan Wallen Experience",
