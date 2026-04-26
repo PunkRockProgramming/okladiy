@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-26T07:48:42.850Z",
+  "lastUpdated": "2026-04-26T18:34:57.229Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Necrot",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-25",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "NECROT\nwith special guest BadxMouth and Ectospire\n\nGeneral Admission Standing / All Ages\n\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/47420216/necrot-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_e106d16ed91e47619f0cd859afd4eddc~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Silent Theory Redemption Tour",
       "venue": "89th Street OKC",
@@ -80,7 +66,7 @@
       "time": "6 pm",
       "price": null,
       "description": null,
-      "eventUrl": "javascript:void(0)",
+      "eventUrl": "https://www.etix.com/ticket/p/65058034/maddox-batson-tulsa-cains-ballroom?partner_id=100",
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
@@ -1413,6 +1399,20 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "FRIKITONA - Reggaeton Fiesta",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-05-15",
+      "time": "9:00 PM",
+      "price": "$15–$75",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/26722-frikitona-reggaeton-fiesta-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949163583719",
+      "dateAdded": "2026-04-26"
+    },
+    {
       "title": "Neoni",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2657,6 +2657,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38250-467b44559315e082b83328dc16a93516.jpg",
       "dateAdded": "2026-04-10"
+    },
+    {
+      "title": "Solya",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-06-11",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "Solya \nQueen of Texas Tour 2026\nwith Special Guest Tele  Novella\n*All Tickets General Admission",
+      "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ade05b0d48874d71bb930fe522b3e6ec~mv2.jpg",
+      "dateAdded": "2026-04-26"
     },
     {
       "title": "Kings Kaleidoscope",
