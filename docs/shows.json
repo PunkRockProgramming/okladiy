@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-04-27T08:36:06.475Z",
+  "lastUpdated": "2026-04-27T19:02:27.552Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Silent Theory Redemption Tour",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-26",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Silent Theory Redemption Tour\nwith Special Guests Outlier & Discrepancies\n*All Ticket General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/silenttheoryredemptiontour/89thstreetokc/oklahomacity/32272/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_af503a4edeea421e8c21b8335ea94eb5~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Cass McCombs + Band: Interior Live Oak Live",
       "venue": "Beer City Music Hall",
@@ -1333,7 +1319,7 @@
       "date": "2026-05-15",
       "time": "9:00 PM",
       "price": "$15–$75",
-      "description": null,
+      "description": "Noche De Verano Sin Ti!, The Dance Parties",
       "eventUrl": "http://www.prekindle.com/event/26722-frikitona-reggaeton-fiesta-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2835,12 +2821,26 @@
       "date": "2026-06-18",
       "time": "8:00 PM",
       "price": "$20–$75",
-      "description": "Parker Millsap",
+      "description": "Parker Millsap, Caroline Spence",
       "eventUrl": "http://www.prekindle.com/event/79213-parker-millsap-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454295143",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949162010364",
       "dateAdded": "2026-03-25"
+    },
+    {
+      "title": "girl so in love an olivia rodrigo night",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-18",
+      "time": null,
+      "price": "$15",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/54984-girl-so-in-love-an-olivia-rodrigo-night-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161893495",
+      "dateAdded": "2026-04-27"
     },
     {
       "title": "MC Chris W/ Mega Ran",
@@ -3001,6 +3001,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949174591655",
       "dateAdded": "2026-04-15"
+    },
+    {
+      "title": "TopOppGen",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-06-24",
+      "time": null,
+      "price": "$144",
+      "description": "TopOppGen",
+      "eventUrl": "http://www.prekindle.com/event/54572-topoppgen-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949162103767",
+      "dateAdded": "2026-04-27"
     },
     {
       "title": "Dinner Time",
@@ -3175,6 +3189,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38317-c72ba98dd891ddf4a15671912b8cfd18.jpeg",
       "dateAdded": "2026-04-23"
+    },
+    {
+      "title": "Sparta",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-01",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "SPARTA\nCut A Silhouette World Tour 2026\n\nGeneral Admission Standing / All Ages\nVIP PACKAGE AVAILABLE",
+      "eventUrl": "https://www.etix.com/ticket/p/62147862/sparta-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_3d4a3b9f966442afabe20ad8cc0d90c8~mv2.jpg",
+      "dateAdded": "2026-04-27"
     },
     {
       "title": "Wilco",
@@ -3841,6 +3869,20 @@
       "dateAdded": "2026-04-22"
     },
     {
+      "title": "Willow Avalon - Pink Pocket Pistol Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-15",
+      "time": "8:00 PM",
+      "price": "$25–$100",
+      "description": "Willow Avalon",
+      "eventUrl": "http://www.prekindle.com/event/44467-willow-avalon-pink-pocket-pistol-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167232347",
+      "dateAdded": "2026-04-27"
+    },
+    {
       "title": "Kiss the Goat ( Premiere Ghost Tribute )",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3941,6 +3983,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Danielle Nicole",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-05",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Danielle Nicole",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/danielle-nicole-05-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69e66045bc0d7ccfb6c1154d_9_5_26_png-8.jpeg",
+      "dateAdded": "2026-04-27"
+    },
+    {
       "title": "Hermanos Espinoza - LINAJE Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4009,6 +4065,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166631693",
       "dateAdded": "2026-04-21"
+    },
+    {
+      "title": "Ray Wylie Hubbard",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-09-11",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/94962944/ray-wylie-hubbard-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-04-27"
     },
     {
       "title": "Tig Notaro: Out of Nowhere",
@@ -4125,6 +4195,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949165697354",
       "dateAdded": "2026-04-23"
+    },
+    {
+      "title": "Toadies: The Charmer Tour",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-09-24",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/72553338/toadiesthe-charmer-tour-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-04-27"
     },
     {
       "title": "ABRA Cadabra - The Music & Magic of ABBA",
