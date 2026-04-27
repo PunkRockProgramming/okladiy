@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T18:34:57.229Z",
+  "lastUpdated": "2026-04-27T08:36:06.475Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -14,78 +14,6 @@
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_af503a4edeea421e8c21b8335ea94eb5~mv2.jpg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Shovels & Rope",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-04-26",
-      "time": "8:00 PM",
-      "price": "$38.44",
-      "description": "Shovels & Rope, Mechanical River",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/shovels-rope-26-apr",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f8c9f42958629f33_band_photo_horizontal.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Arcy Drive - The Pit Tour: Spring 2026",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-04-26",
-      "time": "8:00 PM",
-      "price": "$28",
-      "description": "Arcy Drive",
-      "eventUrl": "http://www.prekindle.com/event/29219-arcy-drive-the-pit-tour-spring-2026-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179888311",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Ralph Barbosa: The Red 40 Tour",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-04-26",
-      "time": null,
-      "price": "$21–$85",
-      "description": "Ralph Barbosa",
-      "eventUrl": "http://www.prekindle.com/event/39114-ralph-barbosa-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510647706",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Maddox Batson",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-04-26",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/65058034/maddox-batson-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "A Toast For David Blue",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-04-26",
-      "time": "4:00 PM",
-      "price": "Free",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38002",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38002-18cad0d47c0116baf9ba9d22a1e758dd.jpeg",
       "dateAdded": "2026-03-18"
     },
     {
