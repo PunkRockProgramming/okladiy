@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T08:34:20.303Z",
+  "lastUpdated": "2026-04-28T19:16:33.327Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -64,7 +64,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-04-28",
       "time": null,
-      "price": "$50–$55",
+      "price": "$55",
       "description": "Bilmuri, The Home Team, GANG!",
       "eventUrl": "http://www.prekindle.com/event/62712-bilmuri-oklahoma-city",
       "ageLimit": null,
@@ -476,7 +476,7 @@
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-05-02",
       "time": "7:00 PM",
-      "price": "$20 adv / $26 door",
+      "price": "$20 adv / $30 door",
       "description": null,
       "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37431",
       "ageLimit": "21 & Over",
@@ -2845,6 +2845,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Dan Spencer",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-06-19",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "DAN SPENCER LIVES!\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/59622667/dan-spencer-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_571508bec4634dfeb7bb7c21dab31664~mv2.jpg",
+      "dateAdded": "2026-04-28"
+    },
+    {
       "title": "Bingo Loco",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2901,6 +2915,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37838-2d4766ebeec7241a22a6b7d8c18e1d50.png",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Please Don’t Destroy: LIVE",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-06-20",
+      "time": null,
+      "price": "$35–$45",
+      "description": "Please Don't Destroy",
+      "eventUrl": "http://www.prekindle.com/event/71715-please-dont-destroy-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949162019630",
+      "dateAdded": "2026-04-28"
     },
     {
       "title": "She Hates Me Not & TAKER",
@@ -2994,7 +3022,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-24",
       "time": null,
-      "price": "$144",
+      "price": "$19–$144",
       "description": "TopOppGen",
       "eventUrl": "http://www.prekindle.com/event/54572-topoppgen-oklahoma-city",
       "ageLimit": null,
@@ -3029,6 +3057,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183367863",
       "dateAdded": "2026-03-31"
+    },
+    {
+      "title": "BOP TO THE TOP TOUR",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-06-26",
+      "time": null,
+      "price": "$20–$50",
+      "description": "Bop To the Top",
+      "eventUrl": "http://www.prekindle.com/event/88867-bop-to-the-top-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161424930",
+      "dateAdded": "2026-04-28"
     },
     {
       "title": "Blade Rave",
@@ -3175,20 +3217,6 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38317-c72ba98dd891ddf4a15671912b8cfd18.jpeg",
       "dateAdded": "2026-04-23"
-    },
-    {
-      "title": "Sparta",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-07-01",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "SPARTA\nCut A Silhouette World Tour 2026\n\nGeneral Admission Standing / All Ages\nVIP PACKAGE AVAILABLE",
-      "eventUrl": "https://www.etix.com/ticket/p/62147862/sparta-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_3d4a3b9f966442afabe20ad8cc0d90c8~mv2.jpg",
-      "dateAdded": "2026-04-27"
     },
     {
       "title": "Wilco",
@@ -3521,6 +3549,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38260-ddb0743b38645b593d4fbdb5ab393fb8.jpeg",
       "dateAdded": "2026-04-12"
+    },
+    {
+      "title": "Dying Wish",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-22",
+      "time": "7:00 PM",
+      "price": "$25",
+      "description": "Dying Wish, Guilt Trip, Contention",
+      "eventUrl": "http://www.prekindle.com/event/24658-dying-wish-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161446653",
+      "dateAdded": "2026-04-28"
     },
     {
       "title": "Ratchet Dolls",
@@ -3941,6 +3983,20 @@
       "dateAdded": "2026-04-16"
     },
     {
+      "title": "ELLA RED - TOUR’S NOT REAL: PART 2",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-23",
+      "time": "8:00 PM",
+      "price": "$75–$101",
+      "description": "Ella Red​, Zoe Ko",
+      "eventUrl": "http://www.prekindle.com/event/69224-ella-red-tours-not-real-part-2-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167198898",
+      "dateAdded": "2026-04-28"
+    },
+    {
       "title": "Cheekface w /  special guest Catbite",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3967,6 +4023,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048191",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Congress the Band",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-01",
+      "time": "8:00 PM",
+      "price": "$25",
+      "description": "Congress the Band",
+      "eventUrl": "http://www.prekindle.com/event/15174-congress-the-band-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949162107615",
+      "dateAdded": "2026-04-28"
     },
     {
       "title": "Danielle Nicole",
@@ -4079,6 +4149,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486637797",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Shaboozey - Outlaws Never Die Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-09-15",
+      "time": null,
+      "price": "$41",
+      "description": "Shaboozey, Brittany Spencer",
+      "eventUrl": "http://www.prekindle.com/event/59817-shaboozey-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161458942",
+      "dateAdded": "2026-04-28"
     },
     {
       "title": "W.A.S.P. -1984 TO HEADLESS",
@@ -4253,6 +4337,20 @@
       "dateAdded": "2026-03-25"
     },
     {
+      "title": "Gable Price and Friends - Too Good Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-30",
+      "time": "8:00 PM",
+      "price": "$22–$76",
+      "description": "Gable Price and Friends",
+      "eventUrl": "http://www.prekindle.com/event/27799-gable-price-and-friends-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949168973044",
+      "dateAdded": "2026-04-28"
+    },
+    {
       "title": "BRIT FLOYD – The Moon, The Wall, and Beyond",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4265,6 +4363,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-06"
+    },
+    {
+      "title": "Suki Waterhouse: The Loveland Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-10-06",
+      "time": null,
+      "price": "$45",
+      "description": "Suki Waterhouse, Rochelle Jordan",
+      "eventUrl": "http://www.prekindle.com/event/46244-suki-waterhouse-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161326833",
+      "dateAdded": "2026-04-28"
     },
     {
       "title": "Parcels - LOVED Tour 2026",
@@ -4579,6 +4691,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949171105113",
       "dateAdded": "2026-04-20"
+    },
+    {
+      "title": "ICON FOR HIRE SCRIPTED 15 YEAR ALBUM ANNIVERSARY TOUR",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-11",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "Icon For Hire, Elijah, Lauren Babic",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/icon-for-hire-scripted-15-year-album-anniversary-tour-11-nov",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69ea814cab439b9ebc36c265_Banner.jpeg",
+      "dateAdded": "2026-04-28"
     },
     {
       "title": "Henry Zoellner",
