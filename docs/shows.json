@@ -1,77 +1,7 @@
 {
-  "lastUpdated": "2026-04-28T19:16:33.327Z",
+  "lastUpdated": "2026-04-29T08:28:26.379Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "NU METAL SUCKS Feat. Spineshank",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-28",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "SPINESHANK- Nu Metal Sucks Tour\nwith special guests Hed PE, Primer 55, And Kissing Candace \n\nGeneral Admission Standing / All Ages Welcome",
-      "eventUrl": "https://www.ticketstorm.com/event/spineshankhedpeprimer55andkissingcandacenumetalsuckstour/89thstreetokc/oklahomacity/32514/?fbclid=IwY2xjawQFkHpleHRuA2FlbQIxMABicmlkETJYODVFVEdYYWhJSVE1WTlqc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjGiNcxHDG7a9-G3Pdkl9X-KITp2Fwg1oxDO0-ccznYM8mqb1smsPVspeURT_aem_uvtWBsUAzaa_vZSu1CgepQ",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_58e703e66bbb49949e0f321c9f7918ff~mv2.jpg",
-      "dateAdded": "2026-03-20"
-    },
-    {
-      "title": "Snail Mail",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-04-28",
-      "time": null,
-      "price": "$35–$65",
-      "description": "Snail Mail, Sharp Pins",
-      "eventUrl": "http://www.prekindle.com/event/34887-snail-mail-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510628146",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Toyotuh Tuesday",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-04-28",
-      "time": null,
-      "price": "$5",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/41473-toyotuh-tuesday-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949164134133",
-      "dateAdded": "2026-04-24"
-    },
-    {
-      "title": "RITT MOMNEY",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-28",
-      "time": null,
-      "price": "$25",
-      "description": "Ritt Momney, Mercury",
-      "eventUrl": "http://www.prekindle.com/event/96932-ritt-momney-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648503123597",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "BILMURI - KINDA HARD TOUR",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-04-28",
-      "time": null,
-      "price": "$55",
-      "description": "Bilmuri, The Home Team, GANG!",
-      "eventUrl": "http://www.prekindle.com/event/62712-bilmuri-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648554367752",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "Ashes Remain",
       "venue": "89th Street OKC",
@@ -141,7 +71,7 @@
       "eventUrl": "http://www.prekindle.com/event/69536-20-watt-tombstone-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166456745",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161161586",
       "dateAdded": "2026-04-22"
     },
     {
@@ -909,7 +839,7 @@
       "eventUrl": "http://www.prekindle.com/event/28164-carrellee-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648456737836",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161156974",
       "dateAdded": "2026-03-21"
     },
     {
@@ -1385,6 +1315,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Unlikely Roll | Magenta Burn | Flight by Nothing",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-05-16",
+      "time": null,
+      "price": "$10",
+      "description": "Unlikely Roll",
+      "eventUrl": "http://www.prekindle.com/event/46416-unlikely-roll-magenta-burn-flight-by-nothing-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161132932",
+      "dateAdded": "2026-04-29"
+    },
+    {
       "title": "Daisychain with special guest Manta Rays",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -1432,7 +1376,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-16",
       "time": null,
-      "price": "$58",
+      "price": "$48–$58",
       "description": "Acid Bath, Chat Pile, Khemmis",
       "eventUrl": "http://www.prekindle.com/event/15796-acid-bath-with-chat-pile-and-khemmis-oklahoma-city",
       "ageLimit": null,
@@ -1719,11 +1663,11 @@
       "date": "2026-05-21",
       "time": "8:00 PM",
       "price": "$22–$75",
-      "description": "HARBOUR",
+      "description": "HARBOUR, Fox Royale",
       "eventUrl": "http://www.prekindle.com/event/87862-harbour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648462594274",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161227442",
       "dateAdded": "2026-03-21"
     },
     {
@@ -2081,6 +2025,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499895635",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "White Recluse",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-29",
+      "time": null,
+      "price": "$12",
+      "description": "White Recluse, Visions of Afterlife",
+      "eventUrl": "http://www.prekindle.com/event/12824-white-recluse-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161943797",
+      "dateAdded": "2026-04-29"
     },
     {
       "title": "Gammacide",
@@ -2573,6 +2531,20 @@
       "dateAdded": "2026-04-26"
     },
     {
+      "title": "Living Hollow | Ghost in the Atlantic | Who Will Know",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-06-11",
+      "time": null,
+      "price": "$10",
+      "description": "Living Hollow",
+      "eventUrl": "http://www.prekindle.com/event/84877-living-hollow-ghost-in-the-atlantic-inhuman-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161151594",
+      "dateAdded": "2026-04-29"
+    },
+    {
       "title": "Kings Kaleidoscope",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2639,7 +2611,7 @@
       "eventUrl": "http://www.prekindle.com/event/33941-space-weather-secret-gardens-lilac-kings-flora-nova-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182570113",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161055984",
       "dateAdded": "2026-04-01"
     },
     {
@@ -3217,6 +3189,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38317-c72ba98dd891ddf4a15671912b8cfd18.jpeg",
       "dateAdded": "2026-04-23"
+    },
+    {
+      "title": "Sparta",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-01",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "SPARTA\nCut A Silhouette World Tour 2026\n\nGeneral Admission Standing / All Ages\nVIP PACKAGE AVAILABLE",
+      "eventUrl": "https://www.etix.com/ticket/p/62147862/sparta-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_3d4a3b9f966442afabe20ad8cc0d90c8~mv2.jpg",
+      "dateAdded": "2026-04-29"
     },
     {
       "title": "Wilco",
