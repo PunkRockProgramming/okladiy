@@ -1,65 +1,7 @@
 {
-  "lastUpdated": "2026-04-29T19:05:37.388Z",
+  "lastUpdated": "2026-04-30T08:30:44.394Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Ashes Remain",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-04-29",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "Ashes Remain With Stephen Stanley\nWhat I've Become 15 Year Anniversary Tour\nPlus More Special Guests TBA\n*All Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/ashesremainwithstephenstanley/89thstreetokc/oklahomacity/32465/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_751c6c64107047288c393c2a5c472aed~mv2.jpg",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "SEVENDUST ONE TOUR",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-04-29",
-      "time": "6:50 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/96522713/sevendust-one-tour-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/01/sevendust-one-tour.jfif",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Thoughts on Bowling w /  Adjust The Sails, halftimeshow, MooseCreek Park",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-04-29",
-      "time": null,
-      "price": "$15",
-      "description": "Thoughts On Bowling, Adjust the Sails, HalftimeShow, MooseCreek Park",
-      "eventUrl": "http://www.prekindle.com/event/32698-thoughts-on-bowling-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648520284686",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Paul McDonald & The Mourning Doves",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-04-29",
-      "time": "7:00 PM",
-      "price": "$12 adv / $15 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37927",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37927-57326aa950b6ebda200f3706a6df671c.jpeg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "20 Watt Tombstone",
       "venue": "The Whittier Bar",
@@ -80,7 +22,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-04-30",
       "time": "8:00 PM",
-      "price": "$15–$35",
+      "price": "$40",
       "description": "jigitz, Wes Mills",
       "eventUrl": "http://www.prekindle.com/event/96441-jigitz-oklahoma-city",
       "ageLimit": null,
@@ -1063,7 +1005,7 @@
       "date": "2026-05-13",
       "time": null,
       "price": "$15",
-      "description": "Carrellee",
+      "description": "Carrellee, DROIDA, Dj Von Ludwig",
       "eventUrl": "http://www.prekindle.com/event/69643-carrellee-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1637,7 +1579,7 @@
       "eventUrl": "http://www.prekindle.com/event/91276-inferna-body-farm-ectospire-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "http://www.prekindle.com/images/prekindle-logo.png",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160483090",
       "dateAdded": "2026-04-25"
     },
     {
@@ -3391,6 +3333,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Ghoul's Ball Feat. Ghost Stories",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-12",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "GHOUL'S BALL Feat. Ghost Stories\nRitual: 003 - A Celebration of the music of Ghost\nw/ special guests Unholy Communion (Burlesque)\n+ A Costume Contest All Night Long \n\nGeneral Admission Standing / Ages 18+ Only",
+      "eventUrl": "https://www.etix.com/ticket/p/57036930/ghouls-ball-oklahoma-city-89th-street",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_7e6896dfde794b2c85daea7a23169365~mv2.jpg",
+      "dateAdded": "2026-04-30"
+    },
+    {
       "title": "Hatebreed",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -3433,6 +3389,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161155713",
       "dateAdded": "2026-04-29"
+    },
+    {
+      "title": "Velvet, Foam, Shielding, Winder",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-14",
+      "time": null,
+      "price": "$12",
+      "description": "Velvet, Foam, Shielding, Winder",
+      "eventUrl": "http://www.prekindle.com/event/46812-velvet-foam-shielding-winder-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160478672",
+      "dateAdded": "2026-04-30"
     },
     {
       "title": "High Fade",
@@ -3531,6 +3501,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453506930",
       "dateAdded": "2026-04-01"
+    },
+    {
+      "title": "Math Rock Times Presents: Math Rock vs Midwest Emo",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-18",
+      "time": null,
+      "price": "$35",
+      "description": "North End, HalftimeShow, Monte, Speak, Memory, Channel Changer, Plastic Smile, Loudfoxcult, Celebration Guns, Fighting Sleep, Bugjuice Blues, A Date with Iris",
+      "eventUrl": "http://www.prekindle.com/event/35136-math-rock-times-presents-math-rock-vs-midwest-emo-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160465881",
+      "dateAdded": "2026-04-30"
     },
     {
       "title": "Zingo",
@@ -4011,6 +3995,22 @@
       "dateAdded": "2026-04-07"
     },
     {
+      "title": "The Rocklahoma Bitches Show",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-22",
+      "time": "7:00 PM",
+      "price": "$10 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38361",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38361-046af9917094e80bfbfe6b3466588f5d.jpeg",
+      "dateAdded": "2026-04-30"
+    },
+    {
       "title": "DevilDriver",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -4249,6 +4249,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38003-c1745f4821a211be53c4fda787e51ee2.png",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Spike Hellis",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-20",
+      "time": null,
+      "price": "$15",
+      "description": "Spike Hellis, Nuxx",
+      "eventUrl": "http://www.prekindle.com/event/65567-spike-hellis-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160456042",
+      "dateAdded": "2026-04-30"
     },
     {
       "title": "Shinyribs",
