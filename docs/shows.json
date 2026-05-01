@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T08:21:46.040Z",
+  "lastUpdated": "2026-05-01T18:54:44.079Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -153,7 +153,7 @@
       "date": "2026-05-02",
       "time": null,
       "price": "$35–$65",
-      "description": "Becky Robinson",
+      "description": "Becky Robinson, Icon Concerts",
       "eventUrl": "http://www.prekindle.com/event/25459-becky-robinson-the-beasts-in-me-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -199,7 +199,7 @@
       "eventUrl": "https://www.thevanguardtulsa.com/shows/my-so-called-band-02-may",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/695d3187f8c9f42958629fd0_MSCB_POST.jpeg",
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f4cbab9ae047749232a5c0_cropped-event-image.jpeg",
       "dateAdded": "2026-03-18"
     },
     {
@@ -629,6 +629,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69e391e8ef453f9e5b487e38_IMG_1300.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "The Dollfly's",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-05-08",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949158653501",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158643324",
+      "dateAdded": "2026-05-01"
     },
     {
       "title": "Alex Lambert",
@@ -1201,6 +1215,20 @@
       "dateAdded": "2026-04-29"
     },
     {
+      "title": "Vanguard Boiler Club presents RAVE ON MAIN (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-05-16",
+      "time": "9:00 PM",
+      "price": "$14.15",
+      "description": "Dj Kylie, Sydney Lee",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/vanguard-boiler-club-presents-rave-on-main-18-16-may",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f4c123ded6e7a878cb3d7f_RaveOnMain_VG_CONVENTDESIGNS.JPG.jpeg",
+      "dateAdded": "2026-05-01"
+    },
+    {
       "title": "Daisychain with special guest Manta Rays",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -1499,18 +1527,18 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "Inferna, Body Farm, Ectospire",
+      "title": "Inferna, Body Farm, Heavenbound, Gutgash, Ectospire",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-05-20",
       "time": null,
       "price": "$12",
-      "description": "Inferna, Body Farm, Ectospire",
+      "description": "Inferna, Body Farm, Heavenbound, Gutgash, Ectospire",
       "eventUrl": "http://www.prekindle.com/event/91276-inferna-body-farm-ectospire-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160483090",
-      "dateAdded": "2026-04-25"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158681852",
+      "dateAdded": "2026-05-01"
     },
     {
       "title": "Brujeria",
@@ -2731,6 +2759,20 @@
       "dateAdded": "2026-04-16"
     },
     {
+      "title": "Electric Feels: Indie Rock + Electronic Dance Party",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-19",
+      "time": "9:30 PM",
+      "price": "$20.72",
+      "description": "Electric Feels Indie Dance Party",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/electric-feels-indie-rock-electronic-dance-party-19-jun",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f4ea38fd86ee17aa1bb399_electricfeels_vg.JPG.jpeg",
+      "dateAdded": "2026-05-01"
+    },
+    {
       "title": "BRAT",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2880,7 +2922,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-24",
       "time": null,
-      "price": "$144",
+      "price": "$19–$144",
       "description": "TopOppGen",
       "eventUrl": "http://www.prekindle.com/event/54572-topoppgen-oklahoma-city",
       "ageLimit": null,
@@ -3498,7 +3540,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-07-21",
       "time": "7:00 PM",
-      "price": null,
+      "price": "$38.44",
       "description": "Upon a Burning Body, Norma Jean, Fox Lake",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/upon-a-burning-body-norma-jean-21-jul",
       "ageLimit": "ALL AGES",
@@ -3512,7 +3554,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-22",
       "time": "7:00 PM",
-      "price": "$25",
+      "price": "$23",
       "description": "Dying Wish, Guilt Trip, Contention",
       "eventUrl": "http://www.prekindle.com/event/24658-dying-wish-oklahoma-city",
       "ageLimit": null,
@@ -3897,20 +3939,6 @@
       "dateAdded": "2026-03-21"
     },
     {
-      "title": "Blue Whale Comedy Festival VIP Pass",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-20",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/73571061/blue-whale-comedy-festival-vip-pass-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-04-01"
-    },
-    {
       "title": "Sincere Engineer - The Probable Claws Tour",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -4016,7 +4044,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-05",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$38.44",
       "description": "Danielle Nicole",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/danielle-nicole-05-sep",
       "ageLimit": "ALL AGES",
@@ -4128,7 +4156,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-15",
       "time": null,
-      "price": "$146–$723",
+      "price": "$31–$723",
       "description": "Shaboozey, Brittany Spencer",
       "eventUrl": "http://www.prekindle.com/event/59817-shaboozey-oklahoma-city",
       "ageLimit": null,
@@ -4328,7 +4356,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-30",
       "time": "8:00 PM",
-      "price": "$54–$76",
+      "price": "$22–$76",
       "description": "Gable Price and Friends",
       "eventUrl": "http://www.prekindle.com/event/27799-gable-price-and-friends-oklahoma-city",
       "ageLimit": null,
@@ -4356,7 +4384,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-06",
       "time": null,
-      "price": "$45",
+      "price": "$45–$95",
       "description": "Suki Waterhouse, Rochelle Jordan",
       "eventUrl": "http://www.prekindle.com/event/46244-suki-waterhouse-oklahoma-city",
       "ageLimit": null,
@@ -4579,6 +4607,20 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "PJ Morton - Saturday Night Sunday Morning Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-01",
+      "time": null,
+      "price": "$27–$75",
+      "description": "PJ Morton",
+      "eventUrl": "http://www.prekindle.com/event/97535-pj-morton-saturday-night-sunday-morning-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166764190",
+      "dateAdded": "2026-05-01"
+    },
+    {
       "title": "West 22nd",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4684,7 +4726,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-11",
       "time": "7:00 PM",
-      "price": null,
+      "price": "$31.87",
       "description": "Icon For Hire, Elijah, Lauren Babic",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/icon-for-hire-scripted-15-year-album-anniversary-tour-11-nov",
       "ageLimit": "ALL AGES",
