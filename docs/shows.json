@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-05-03T08:08:34.266Z",
+  "lastUpdated": "2026-05-03T18:41:05.506Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Live Music All Ages feat: China Blue, Velvetine & MORE",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-05-02",
-      "time": "7:30 PM",
-      "price": "$10",
-      "description": "Live Music featuring China Blue, Velvetine, Ransided(Joplin MO) and Ice Blink.Doors 7:30pm Music 8pmTickets $10",
-      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-china-blue-velvetine-more",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774781499330-DLTCFPMM19N636YOND7B/Ransided+Flyer.jpg",
-      "dateAdded": "2026-03-29"
-    },
     {
       "title": "Jared Benjamin",
       "venue": "89th Street OKC",
@@ -469,6 +455,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696fa8dc220685ce591ce66d_1200_x_628_SLN_STOCK_3A_%25281%2529.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Conrad Moor, Justin Bloss & Jared Hard",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-05-09",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949157504717",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157504131",
+      "dateAdded": "2026-05-03"
     },
     {
       "title": "Best of Both Worlds Rave - A 20-Year Hannah Montana Nostalgia Celebration",
@@ -1299,6 +1299,20 @@
       "dateAdded": "2026-05-02"
     },
     {
+      "title": "Mother Road Sons",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-05-21",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949157498883",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157498514",
+      "dateAdded": "2026-05-03"
+    },
+    {
       "title": "HARBOUR",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1653,6 +1667,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/698b873dfc2b0082f83055cb_30_years_anniversary_-_KMK._AKC._KFV.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "An Evening with Algebra & EZ Mireles",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-05-29",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949157496972",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157496936",
+      "dateAdded": "2026-05-03"
     },
     {
       "title": "Tophouse",
@@ -2271,6 +2299,20 @@
       "dateAdded": "2026-04-01"
     },
     {
+      "title": "Black Widows: Creatures of the Night Tour 2026",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-12",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949157515023",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157514919",
+      "dateAdded": "2026-05-03"
+    },
+    {
       "title": "Arkansauce",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2585,6 +2627,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c408ddf59ec45b007f1889_IMG_2467.jpeg",
       "dateAdded": "2026-03-27"
+    },
+    {
+      "title": "Bottomland",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-20",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949157511167",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157508574",
+      "dateAdded": "2026-05-03"
     },
     {
       "title": "CRIMEWAVE: A DARKWAVE PARTY",
