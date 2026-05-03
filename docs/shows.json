@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-05-02T18:40:18.986Z",
+  "lastUpdated": "2026-05-03T08:08:34.266Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Claymore",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-01",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "CLAYMORE \nwith special guests Numb Generation and Masticated \n+local support from Hollowed Thoughts, Who Will Know and deathbyathousandcuts\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.ticketstorm.com/event/claymore89thst/89thstreetokc/oklahomacity/32610/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ea9141dce01748c9b0662d21caeb9c1b~mv2.jpg",
-      "dateAdded": "2026-03-22"
-    },
-    {
-      "title": "Becky Robinson: The Beasts in Me Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-05-02",
-      "time": null,
-      "price": "$35–$65",
-      "description": "Becky Robinson, Icon Concerts",
-      "eventUrl": "http://www.prekindle.com/event/25459-becky-robinson-the-beasts-in-me-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519266550",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Self Solution | Southbound Sinners | Roots Traveler",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-05-02",
-      "time": null,
-      "price": "$10",
-      "description": "Self Solution, Southbound Sinners, Roots Traveler",
-      "eventUrl": "http://www.prekindle.com/event/44133-self-solution-southbound-sinners-roots-traveler-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177921083",
-      "dateAdded": "2026-04-07"
-    },
     {
       "title": "Live Music All Ages feat: China Blue, Velvetine & MORE",
       "venue": "Noise Town",
@@ -57,106 +15,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1774781499330-DLTCFPMM19N636YOND7B/Ransided+Flyer.jpg",
       "dateAdded": "2026-03-29"
-    },
-    {
-      "title": "My So Called Band",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-05-02",
-      "time": "9:00 PM",
-      "price": "$20.72",
-      "description": "My So-Called Band",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/my-so-called-band-02-may",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f4cbab9ae047749232a5c0_cropped-event-image.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "The Toasters - 45 Years of Ska with special guest Boss Riot",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-05-02",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648514646277",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514645595",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "James McMurtry",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-05-02",
-      "time": "8:00 PM",
-      "price": "$30–$80",
-      "description": "James McMurtry, Bettysoo",
-      "eventUrl": "http://www.prekindle.com/event/78612-james-mcmurtry-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648506384161",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Clarion",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-05-02",
-      "time": null,
-      "price": "$15",
-      "description": "Clarion, Bed, Fawn, Revealing",
-      "eventUrl": "http://www.prekindle.com/event/84319-clarion-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949181969624",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "OK, SO GRAND SLAM",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-05-02",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/68051693/okso-grand-slam-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "The Wallflowers",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-05-02",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/51986891/the-wallflowers-tulsa-tulsa-theater?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Playa Prom \"under the sea\"",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-05-02",
-      "time": "7:00 PM",
-      "price": "$20 adv / $30 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37431",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37431-46f7604039e9e8b6c63e862bf4da84b9.jpeg",
-      "dateAdded": "2026-03-18"
     },
     {
       "title": "Jared Benjamin",
@@ -3247,6 +3105,20 @@
       "dateAdded": "2026-04-29"
     },
     {
+      "title": "DED",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-14",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "DED : Anti-Everything Tour \nwith special guests Dropout Kings, VRSTY, and Kicked Hopeless\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.ticketstorm.com/event/dedwithguestsdropoutkings/89thstreetokc/oklahomacity/32555/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_91037df02ee54c1f8d0f2cf020d49d57~mv2.jpg",
+      "dateAdded": "2026-05-03"
+    },
+    {
       "title": "Velvet, Foam, Shielding, Winder",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -3777,6 +3649,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166480610",
       "dateAdded": "2026-04-22"
+    },
+    {
+      "title": "Front Porch",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-14",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38395",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/24c241d7ace5eb22efc7b43f84ef2ff0.jpeg",
+      "dateAdded": "2026-05-03"
     },
     {
       "title": "Willow Avalon - Pink Pocket Pistol Tour",
@@ -4747,6 +4635,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454666393",
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Max Goen",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-12-26",
+      "time": "7:00 PM",
+      "price": "$12 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38394",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/d909954b36eea8abc65e31e8251ee159.jpeg",
+      "dateAdded": "2026-05-03"
     },
     {
       "title": "Public Image Ltd - THIS IS NOT THE LAST TOUR",
