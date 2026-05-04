@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T18:41:05.506Z",
+  "lastUpdated": "2026-05-04T08:38:21.131Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,78 +15,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_c84e8548b44940efa6365f1cc2dc6eb0~mv2.jpg",
       "dateAdded": "2026-03-25"
-    },
-    {
-      "title": "Toadies: The Charmer Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-05-03",
-      "time": null,
-      "price": "$33–$57",
-      "description": "Toadies, Local H, Vandoliers",
-      "eventUrl": "http://www.prekindle.com/event/76967-toadies-the-charmer-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172792655",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Death Angel – “Act III” Tour",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-05-03",
-      "time": "6:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/40952666/death-angel-act-iiitour-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/02/death-angel-act-iii-tour.jfif",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Black Marble",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-05-03",
-      "time": null,
-      "price": "$20",
-      "description": "Black Marble, Powdr, From Drexel",
-      "eventUrl": "http://www.prekindle.com/event/68291-black-marble-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505691822",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Becky Robinson: The Beasts In Me Tour",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-05-03",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/33505599/becky-robinsonthe-beasts-in-me-tour-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "One Way Truckin",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-05-03",
-      "time": "4:00 PM",
-      "price": "$12",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37260",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37260-256fd1cb3fb0fbeb37b6966000ba987c.jpeg",
-      "dateAdded": "2026-03-18"
     },
     {
       "title": "Poetry for Thee Open Mic Poetry Swap",
