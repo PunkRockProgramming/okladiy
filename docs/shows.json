@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-05-04T08:38:21.131Z",
+  "lastUpdated": "2026-05-04T19:10:31.298Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Jared Benjamin",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-03",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "JARED BENJAMIN\nIcarus Tour\n\nDoors @ 7PM \nGeneral Admission Standing \nAll Ages Welcome",
-      "eventUrl": "https://www.etix.com/ticket/p/69165997/jared-benjamin-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_c84e8548b44940efa6365f1cc2dc6eb0~mv2.jpg",
-      "dateAdded": "2026-03-25"
-    },
     {
       "title": "Poetry for Thee Open Mic Poetry Swap",
       "venue": "Noise Town",
@@ -1048,7 +1034,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-05-18",
       "time": null,
-      "price": "$18–$149",
+      "price": "$18–$85",
       "description": "Purity Ring, mmj",
       "eventUrl": "http://www.prekindle.com/event/62116-purity-ring-place-of-my-own-tour-oklahoma-city",
       "ageLimit": null,
@@ -1560,7 +1546,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-05-29",
       "time": null,
-      "price": "$15–$40",
+      "price": "$11–$40",
       "description": "Soft Hands",
       "eventUrl": "http://www.prekindle.com/event/53147-soft-hands-oklahoma-city",
       "ageLimit": null,
@@ -1767,6 +1753,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37575-821b3a8e3415d474da729d4a7f7d15ab.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "L.A. WITCH",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-02",
+      "time": null,
+      "price": "$18",
+      "description": "L.A. Witch",
+      "eventUrl": "http://www.prekindle.com/event/14821-la-witch-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157388626",
+      "dateAdded": "2026-05-04"
     },
     {
       "title": "Highly Suspect And The Tour Of Yellow Roses",
@@ -2313,6 +2313,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Dead Metal Society",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-13",
+      "time": "8:00 PM",
+      "price": "$14.15",
+      "description": "Dead Metal Society",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/dead-metal-society-13-jun",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f8d1bf806ba378e4d67a5b_679855577_1282526500095572_3447706787682002268_n.jpeg",
+      "dateAdded": "2026-05-04"
+    },
+    {
       "title": "Kat Hasty",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -2369,6 +2383,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648498707687",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Asian Glow",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-16",
+      "time": null,
+      "price": "$17",
+      "description": "Asian Glow, Ivory Days, Some Fear",
+      "eventUrl": "http://www.prekindle.com/event/77946-asian-glow-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158641995",
+      "dateAdded": "2026-05-04"
     },
     {
       "title": "Parker Millsap - The Very Last Day 10 YR Anniversary",
@@ -2571,6 +2599,20 @@
       "dateAdded": "2026-05-03"
     },
     {
+      "title": "Electric Feels: Indie Rock + Electronic Dance Party",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-06-20",
+      "time": "9:30 PM",
+      "price": "$15–$75",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/99878-electric-feels-indie-rock-and-electronic-dance-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158672203",
+      "dateAdded": "2026-05-04"
+    },
+    {
       "title": "CRIMEWAVE: A DARKWAVE PARTY",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2711,6 +2753,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/04/blade-rave.jfif",
       "dateAdded": "2026-04-16"
+    },
+    {
+      "title": "Pariah System",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-26",
+      "time": "8:00 PM",
+      "price": "$20.72",
+      "description": "Pariah System, Stutter, A Faustian Bargain, Hollowed Thoughts",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/pariah-system-26-jun",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c1c84ce4dd6c459f36a488_open-uri20260323-809-qaghvq.jpeg",
+      "dateAdded": "2026-05-04"
     },
     {
       "title": "Punchis Punchis: Banda Rave Experience",
@@ -3187,6 +3243,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Letters To Part",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-18",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "LETTERS TO PART\nwith special guest Lilac Kings\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/55196885/letters-to-part-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_25bca20313824c298388a8e6faa02d34~mv2.jpg",
+      "dateAdded": "2026-05-04"
+    },
+    {
       "title": "Last Podcast on the Left - JK Ultra Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3407,6 +3477,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37795-a3378052ac5ea21ed7b70e1b53de0a20.jpg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Anyone Awake: I Meant What I Said Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-28",
+      "time": null,
+      "price": "$12",
+      "description": "Anyone Awake, daychaser., Magenta Burn, The Stone Popes",
+      "eventUrl": "http://www.prekindle.com/event/38963-anyone-awake-i-meant-what-i-said-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157518603",
+      "dateAdded": "2026-05-04"
     },
     {
       "title": "Matt Fraser",
@@ -3879,6 +3963,20 @@
       "dateAdded": "2026-04-21"
     },
     {
+      "title": "Rehash",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-11",
+      "time": "8:00 PM",
+      "price": "$25",
+      "description": "Rehash, Makeout Reef",
+      "eventUrl": "http://www.prekindle.com/event/34545-rehash-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158698751",
+      "dateAdded": "2026-05-04"
+    },
+    {
       "title": "Ray Wylie Hubbard",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4196,7 +4294,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-10",
       "time": null,
-      "price": "$127–$185",
+      "price": "$30–$185",
       "description": "LP",
       "eventUrl": "http://www.prekindle.com/event/86625-lp-all-is-not-lost-tour-oklahoma-city",
       "ageLimit": null,
@@ -4361,6 +4459,36 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "AFI",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-10-25",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/43791759/afi-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-05-04"
+    },
+    {
+      "title": "Rachel Ammons",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-29",
+      "time": "7:00 PM",
+      "price": "$7 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38400",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38400-f549a04692241d3b21b97c8b99908afe.jpeg",
+      "dateAdded": "2026-05-04"
     },
     {
       "title": "PJ Morton - Saturday Night Sunday Morning Tour",
