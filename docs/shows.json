@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T08:20:45.316Z",
+  "lastUpdated": "2026-05-05T19:06:32.770Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1247,7 +1247,7 @@
       "date": "2026-05-21",
       "time": null,
       "price": "$12",
-      "description": "Flowersforpersephone, Salvinorin-a, Slugterra, May This Sunday Be My Last",
+      "description": "Flowersforpersephone, Salvinorin-a, Slugterra, May This Sunday Be My Last, A Wish That Lasts",
       "eventUrl": "http://www.prekindle.com/event/53339-flowersforpersephone-x-salvinorin-a-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1351,6 +1351,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69b8c3c39ce6c3ad147e4f2c_Photo_Nov_02_2024__9_21_48_PM.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Poppa Foster and the Goodtime™ Band",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-05-23",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156285228",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156284174",
+      "dateAdded": "2026-05-05"
     },
     {
       "title": "Mac Saturn",
@@ -1513,20 +1527,6 @@
       "dateAdded": "2026-04-18"
     },
     {
-      "title": "Abe Parker",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-05-28",
-      "time": null,
-      "price": "$25–$75",
-      "description": "Abe Parker",
-      "eventUrl": "http://www.prekindle.com/event/13685-abe-parker-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949175980347",
-      "dateAdded": "2026-04-13"
-    },
-    {
       "title": "House of Heavy ..",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -1681,6 +1681,20 @@
       "dateAdded": "2026-04-11"
     },
     {
+      "title": "Okra & the Universe",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-05-30",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156277488",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156277102",
+      "dateAdded": "2026-05-05"
+    },
+    {
       "title": "Jackie Venson",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1811,6 +1825,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Henry Merchant",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-04",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156276214",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156274054",
+      "dateAdded": "2026-05-05"
+    },
+    {
       "title": "GRAHAM – The MOODSWINGS Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1883,6 +1911,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Crow & Gazelle with special guest Chloe-Beth",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-05",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156240770",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156240630",
+      "dateAdded": "2026-05-05"
+    },
+    {
       "title": "EZ Band",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1953,6 +1995,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c1625a5b60b9106415efc1_EZ_Band_Photo_-_1.jpeg",
       "dateAdded": "2026-03-23"
+    },
+    {
+      "title": "Ray and the High Rollers",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-06",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156239411",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156239336",
+      "dateAdded": "2026-05-05"
     },
     {
       "title": "SiC (Slipknot Tribute) & Lost In Hollywood (System of a Down Tribute)",
@@ -2327,6 +2383,20 @@
       "dateAdded": "2026-05-04"
     },
     {
+      "title": "Matt Mann and the Shinerunners",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-13",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156237921",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156237833",
+      "dateAdded": "2026-05-05"
+    },
+    {
       "title": "Kat Hasty",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -2427,6 +2497,20 @@
       "dateAdded": "2026-04-10"
     },
     {
+      "title": "Dallas Burrow",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-18",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156236901",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156236531",
+      "dateAdded": "2026-05-05"
+    },
+    {
       "title": "Parker Millsap",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2513,6 +2597,20 @@
       "dateAdded": "2026-05-01"
     },
     {
+      "title": "Freakjuice",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-19",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156235307",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156235120",
+      "dateAdded": "2026-05-05"
+    },
+    {
       "title": "BRAT",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2577,7 +2675,7 @@
       "date": "2026-06-20",
       "time": "7:00 PM",
       "price": "$20.72",
-      "description": "She Hates Me Not, Taker, Anerium, Leash, Facerot",
+      "description": "She Hates Me Not, Taker, Anerium, Leash, Dirtywork",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/she-hates-me-not-20-jun",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -2605,7 +2703,7 @@
       "date": "2026-06-20",
       "time": "9:30 PM",
       "price": "$15–$75",
-      "description": null,
+      "description": "Electric Feels",
       "eventUrl": "http://www.prekindle.com/event/99878-electric-feels-indie-rock-and-electronic-dance-party-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2913,6 +3011,20 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_3d4a3b9f966442afabe20ad8cc0d90c8~mv2.jpg",
       "dateAdded": "2026-04-29"
+    },
+    {
+      "title": "Black Uhuru",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-01",
+      "time": "8:00 PM",
+      "price": "$25",
+      "description": "Black Uhuru, Quantum SoulJahs",
+      "eventUrl": "http://www.prekindle.com/event/24821-black-uhuru-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158525312",
+      "dateAdded": "2026-05-05"
     },
     {
       "title": "Wilco",
@@ -3329,6 +3441,20 @@
       "dateAdded": "2026-04-02"
     },
     {
+      "title": "Slow Joy",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-19",
+      "time": null,
+      "price": "$20",
+      "description": "Slow Joy, The High Curbs, Glom",
+      "eventUrl": "http://www.prekindle.com/event/33381-slow-joy-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157353859",
+      "dateAdded": "2026-05-05"
+    },
+    {
       "title": "Cobi Lalas",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3445,6 +3571,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69e5495cad8f83ff5d03eb9f__1.jpeg",
       "dateAdded": "2026-04-21"
+    },
+    {
+      "title": "DWLLRS: One of Those Nights Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-25",
+      "time": "8:00 PM",
+      "price": "$57",
+      "description": "DWLLRS, Thebandfriday",
+      "eventUrl": "http://www.prekindle.com/event/47949-dwllrs-one-of-those-nights-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156494546",
+      "dateAdded": "2026-05-05"
     },
     {
       "title": "Jackson Tillman",
@@ -3575,6 +3715,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648455255444",
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "The Mavericks & Friends",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-06",
+      "time": null,
+      "price": "$40–$105",
+      "description": "The Mavericks & Friends",
+      "eventUrl": "http://www.prekindle.com/event/24567-the-mavericks-and-friends-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160146593",
+      "dateAdded": "2026-05-05"
     },
     {
       "title": "System of A Clown",
@@ -3835,6 +3989,34 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167198898",
       "dateAdded": "2026-04-28"
+    },
+    {
+      "title": "Royale Lynn: The Royale Pain In The A$$ Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-23",
+      "time": null,
+      "price": "$15",
+      "description": "Royale Lynn",
+      "eventUrl": "http://www.prekindle.com/event/79138-the-royale-pain-in-the-a-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158685090",
+      "dateAdded": "2026-05-05"
+    },
+    {
+      "title": "BRENN! - AMATEUR AT BEST WORLD TOUR",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-25",
+      "time": "8:00 PM",
+      "price": "$25",
+      "description": "Brenn!",
+      "eventUrl": "http://www.prekindle.com/event/96492-brenn-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158699087",
+      "dateAdded": "2026-05-05"
     },
     {
       "title": "Cheekface w /  special guest Catbite",
@@ -4391,6 +4573,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Michigander",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-18",
+      "time": null,
+      "price": "$21",
+      "description": "Michigander",
+      "eventUrl": "http://www.prekindle.com/event/75653-michigander-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156371061",
+      "dateAdded": "2026-05-05"
+    },
+    {
       "title": "Kyle Hume",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4403,6 +4599,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c1b7f2d1a5bfe135a2b089_Kyle_Hume_US_1200_X_628_-_Tulsa.jpeg",
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Prof",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-22",
+      "time": null,
+      "price": "$35",
+      "description": "Prof, Norman Sann, Khantrast, Willie Wonka",
+      "eventUrl": "http://www.prekindle.com/event/46835-prof-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160599318",
+      "dateAdded": "2026-05-05"
     },
     {
       "title": "Culture Wars",
@@ -4749,6 +4959,20 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "Scott Bradlee’s Postmodern Jukebox – The Future Is Vintage World Tour",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-12-11",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/66019106/scott-bradlees-postmodern-jukebox-the-future-is-vintage-world-tour-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-05-05"
+    },
+    {
       "title": "Max Goen",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4775,7 +4999,7 @@
       "eventUrl": "http://www.prekindle.com/event/68122-public-image-ltd-this-is-not-the-last-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461319846",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156289027",
       "dateAdded": "2026-03-21"
     },
     {
