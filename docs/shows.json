@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T08:43:22.496Z",
+  "lastUpdated": "2026-05-07T19:23:15.307Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -36,7 +36,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-05-07",
       "time": "8:00 PM",
-      "price": "$31",
+      "price": "$34",
       "description": "Jake Worthington, Joey Frendo",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/jake-worthington-07-may",
       "ageLimit": "ALL AGES",
@@ -864,7 +864,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-16",
       "time": null,
-      "price": "$46–$58",
+      "price": "$36–$46",
       "description": "Acid Bath, Chat Pile, Khemmis",
       "eventUrl": "http://www.prekindle.com/event/15796-acid-bath-with-chat-pile-and-khemmis-oklahoma-city",
       "ageLimit": null,
@@ -1106,7 +1106,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-05-20",
       "time": null,
-      "price": "$30–$100",
+      "price": "$40–$90",
       "description": "The Psychedelic Furs, We Are Scientists",
       "eventUrl": "http://www.prekindle.com/event/54854-the-psychedelic-furs-with-special-guests-we-are-scientists-oklahoma-city",
       "ageLimit": null,
@@ -2915,6 +2915,20 @@
       "dateAdded": "2026-05-06"
     },
     {
+      "title": "Kiss the Goat - The Premier GHOST Tribute",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-06-26",
+      "time": "8:00 PM",
+      "price": "$15–$75",
+      "description": "Kiss the Goat",
+      "eventUrl": "http://www.prekindle.com/event/71543-kiss-the-goat-the-premier-ghost-tribute-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156192444",
+      "dateAdded": "2026-05-07"
+    },
+    {
       "title": "Punchis Punchis: Banda Rave Experience",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -2957,6 +2971,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949170387054",
       "dateAdded": "2026-04-18"
+    },
+    {
+      "title": "GOLDEN: A K-Pop Kids Party!",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-27",
+      "time": "11:00 AM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/golden-a-k-pop-kids-party-27-jun",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69fcb5d90ddeb0aeced030ff_Tulsa__OK_%25281%2529.jpeg",
+      "dateAdded": "2026-05-07"
     },
     {
       "title": "The Steppers",
@@ -3045,6 +3073,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38317-c72ba98dd891ddf4a15671912b8cfd18.jpeg",
       "dateAdded": "2026-04-23"
+    },
+    {
+      "title": "Red Sun, Fly Over Statres, Ogbert The Nerd, Endswell",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-30",
+      "time": null,
+      "price": "$15",
+      "description": "Red Sun, Fly Over States, Ogbert the Nerd, Endswell",
+      "eventUrl": "http://www.prekindle.com/event/32884-red-sun-fly-over-statres-ogbert-the-nerd-endswell-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154738309",
+      "dateAdded": "2026-05-07"
     },
     {
       "title": "Sparta",
@@ -3728,7 +3770,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-07-30",
       "time": null,
-      "price": "$20",
+      "price": "$15",
       "description": "First Day Back, gapyear",
       "eventUrl": "http://www.prekindle.com/event/88739-first-day-back-oklahoma-city",
       "ageLimit": null,
@@ -3749,6 +3791,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f4d2b4c6d07d2a23fa8f07_UO_V2V_Tour_One_Horizontal.jpeg",
       "dateAdded": "2026-05-06"
+    },
+    {
+      "title": "Locust Grove",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-01",
+      "time": "8:00 PM",
+      "price": "$17–$125",
+      "description": "Locust Grove, Nevermind the Embers, Taranis",
+      "eventUrl": "http://www.prekindle.com/event/34321-locust-grove-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154884967",
+      "dateAdded": "2026-05-07"
     },
     {
       "title": "K·POP Superstars",
@@ -4014,7 +4070,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-08-19",
       "time": null,
-      "price": null,
+      "price": "$30–$115",
       "description": "Jesse & Joy",
       "eventUrl": "http://www.prekindle.com/event/91189-jesse-and-joy-el-despecho-tour-oklahoma-city",
       "ageLimit": null,
@@ -4268,7 +4324,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-11",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$22",
       "description": "Rehash, Makeout Reef",
       "eventUrl": "http://www.prekindle.com/event/34545-rehash-oklahoma-city",
       "ageLimit": null,
@@ -4724,7 +4780,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-22",
       "time": null,
-      "price": "$35",
+      "price": "$33–$57",
       "description": "Prof, Norman Sann, Khantrast, Willie Wonka",
       "eventUrl": "http://www.prekindle.com/event/46835-prof-oklahoma-city",
       "ageLimit": null,
@@ -4801,6 +4857,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-04"
+    },
+    {
+      "title": "Madeon presents Victory Live",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-28",
+      "time": null,
+      "price": "$120–$178",
+      "description": "Madeon",
+      "eventUrl": "http://www.prekindle.com/event/53178-madeon-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154813578",
+      "dateAdded": "2026-05-07"
     },
     {
       "title": "Rachel Ammons w/ Knipple",
@@ -5113,7 +5183,7 @@
       "date": "2027-02-20",
       "time": null,
       "price": "$30–$65",
-      "description": "Public Image Ltd.",
+      "description": "Public Image Ltd., Plague Vendor",
       "eventUrl": "http://www.prekindle.com/event/68122-public-image-ltd-this-is-not-the-last-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
