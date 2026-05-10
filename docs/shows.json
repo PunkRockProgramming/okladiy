@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-05-10T08:17:42.604Z",
+  "lastUpdated": "2026-05-10T18:43:23.023Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Shayfer James",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-09",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "SHAYFER JAMES\nThe Counterfeit Summoning Tour\nwith special guest Katacombs\n\nGeneral Admission Standing / All Ages Welcome",
-      "eventUrl": "https://www.etix.com/ticket/p/96130898/shayfer-james-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_b4ee7e70c0524b73bbf1933f83023166~mv2.jpg",
-      "dateAdded": "2026-03-28"
-    },
     {
       "title": "Mother's Day Mosh",
       "venue": "89th Street OKC",
@@ -3245,6 +3231,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161446653",
       "dateAdded": "2026-04-28"
+    },
+    {
+      "title": "In The Company Of Serpants",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-23",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "IN THE COMPANY OF SERPENTS \n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/61068590/in-the-company-of-serpents-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ae11eaa2f6a24169b88f44cc9e636b6f~mv2.jpg",
+      "dateAdded": "2026-05-10"
     },
     {
       "title": "Ratchet Dolls",
