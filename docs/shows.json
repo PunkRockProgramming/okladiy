@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-05-11T09:53:19.818Z",
+  "lastUpdated": "2026-05-11T19:24:42.830Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Mother's Day Mosh",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-10",
-      "time": "3:30 PM",
-      "price": null,
-      "description": "MOTHER'S DAY MOSH \nFeaturing - Smile on the Sinner\nw/ special guests Thin the Herd, Hollowed Thoughts, Eternal Punishment, Bludgeon the Weak, and Cauterized\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.ticketstorm.com/event/mothersdaymosh/89thstreetokc/oklahomacity/32561/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_99bc1343cb56428bb5e5f08773da889e~mv2.jpg",
-      "dateAdded": "2026-04-03"
-    },
     {
       "title": "War On Women x Stepmom",
       "venue": "Resonant Head",
@@ -1213,7 +1199,7 @@
       "eventUrl": "http://www.prekindle.com/event/87339-tophouse-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648499895635",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151695971",
       "dateAdded": "2026-03-21"
     },
     {
@@ -1313,6 +1299,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648535563385",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Sundrift EP Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-05-30",
+      "time": null,
+      "price": "$12",
+      "description": "Sundrift, Smokey Motel, JuneCo",
+      "eventUrl": "http://www.prekindle.com/event/39534-sundrift-ep-release-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151730780",
+      "dateAdded": "2026-05-11"
     },
     {
       "title": "Kolby Cooper",
@@ -1466,7 +1466,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-04",
       "time": "8:00 PM",
-      "price": "$20–$75",
+      "price": "$15–$75",
       "description": "GRAHAM, Luke Rob",
       "eventUrl": "http://www.prekindle.com/event/58141-graham-oklahoma-city",
       "ageLimit": null,
@@ -3493,6 +3493,20 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "Good Boy Daisy",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-08-05",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "GOOD BOY DAISY\nThe Summer Love Tour\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/33786446/good-boy-daisy-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_81b46e6aaf334101a045a1c119125a11~mv2.jpg",
+      "dateAdded": "2026-05-11"
+    },
+    {
       "title": "The Mavericks & Friends",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4261,6 +4275,20 @@
       "dateAdded": "2026-04-06"
     },
     {
+      "title": "The Stars Tour featuring Anne Wilson",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-10-02",
+      "time": null,
+      "price": null,
+      "description": "Anne Wilson, Aodhan King",
+      "eventUrl": "http://www.prekindle.com/event/39612-anne-wilson-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151663122",
+      "dateAdded": "2026-05-11"
+    },
+    {
       "title": "Suki Waterhouse: The Loveland Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4475,6 +4503,20 @@
       "dateAdded": "2026-04-06"
     },
     {
+      "title": "Mom Jeans",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-23",
+      "time": null,
+      "price": "$30–$55",
+      "description": "Mom Jeans",
+      "eventUrl": "http://www.prekindle.com/event/91981-mom-jeans-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949153501171",
+      "dateAdded": "2026-05-11"
+    },
+    {
       "title": "Failure - Rising Skyline 2026",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4543,6 +4585,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154813578",
       "dateAdded": "2026-05-07"
+    },
+    {
+      "title": "REZN",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-29",
+      "time": null,
+      "price": "$25",
+      "description": "REZN",
+      "eventUrl": "http://www.prekindle.com/event/77497-rezn-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156038480",
+      "dateAdded": "2026-05-11"
     },
     {
       "title": "Rachel Ammons w/ Knipple",
@@ -4719,6 +4775,20 @@
       "dateAdded": "2026-04-29"
     },
     {
+      "title": "Switchfoot with special guest Anberlin - Forever Now Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-13",
+      "time": null,
+      "price": "$40",
+      "description": "Switchfoot, Anberlin",
+      "eventUrl": "http://www.prekindle.com/event/66517-switchfoot-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151703778",
+      "dateAdded": "2026-05-11"
+    },
+    {
       "title": "Henry Zoellner",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4733,6 +4803,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37898-a0fa599db228af20ff2ef98949e91875.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Mojo Brookzz: Outta Pocket Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-20",
+      "time": null,
+      "price": null,
+      "description": "Mojo Brookzz",
+      "eventUrl": "http://www.prekindle.com/event/89592-mojo-brookzz-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151663075",
+      "dateAdded": "2026-05-11"
     },
     {
       "title": "Apocalypse, Never! Tour - Nick Shoulders",
