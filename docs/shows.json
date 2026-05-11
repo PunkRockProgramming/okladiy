@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T18:43:23.023Z",
+  "lastUpdated": "2026-05-11T09:53:19.818Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,34 +15,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_99bc1343cb56428bb5e5f08773da889e~mv2.jpg",
       "dateAdded": "2026-04-03"
-    },
-    {
-      "title": "Jake Xerxes Fussell",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-05-10",
-      "time": null,
-      "price": "$20",
-      "description": "Jake Xerxes Fussell, Tim Buchanan",
-      "eventUrl": "http://www.prekindle.com/event/18766-jake-xerxes-fussell-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476028375",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Samantha Fish",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-05-10",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/83854012/samantha-fish-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
     },
     {
       "title": "War On Women x Stepmom",
@@ -608,7 +580,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-17",
       "time": "7:00 PM",
-      "price": "$10–$109",
+      "price": "$10–$19",
       "description": "Dance With the Dead, Magic Sword, Megan McDuffee",
       "eventUrl": "http://www.prekindle.com/event/39628-dance-with-the-dead-and-magic-sword-oklahoma-city",
       "ageLimit": null,
@@ -3884,7 +3856,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-29",
       "time": "8:00 PM",
-      "price": "$10–$114",
+      "price": "$28–$114",
       "description": "PawPaw Rod",
       "eventUrl": "http://www.prekindle.com/event/38182-pawpaw-rod-oklahoma-city",
       "ageLimit": null,
