@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-05-11T19:24:42.830Z",
+  "lastUpdated": "2026-05-12T08:52:44.516Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "War On Women x Stepmom",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-05-11",
-      "time": null,
-      "price": "$15",
-      "description": "War On Women, Stepmom, Psychic Baths",
-      "eventUrl": "http://www.prekindle.com/event/58738-war-on-women-x-stepmom-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648465932613",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "DAYSEEKER: The Pale Moonlight Tour",
       "venue": "Diamond Ballroom",
@@ -36,7 +22,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-12",
       "time": "8:00 PM",
-      "price": "$13–$75",
+      "price": "$30–$75",
       "description": "Drugdealer, Sedona",
       "eventUrl": "http://www.prekindle.com/event/61268-drugdealer-oklahoma-city",
       "ageLimit": null,
@@ -51,7 +37,7 @@
       "date": "2026-05-12",
       "time": null,
       "price": "$18",
-      "description": "RAUE, Olive Vox",
+      "description": "RAUE, Olive Vox, LETR",
       "eventUrl": "http://www.prekindle.com/event/48155-raue-with-olive-vox-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1283,7 +1269,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156277488",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/24898849038183634",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151380303",
       "dateAdded": "2026-05-05"
     },
     {
@@ -3187,7 +3173,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/76015897/being-as-an-ocean-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_5d34407ad18a438f9b1ec64f0253007c~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_9d26b9b299c64ef1a7d0d12eb1a7b3f1~mv2.jpg",
       "dateAdded": "2026-05-08"
     },
     {
@@ -3763,6 +3749,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-08"
+    },
+    {
+      "title": "Ehsan Ahmad",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-22",
+      "time": "4:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/33929610/ehsan-ahmad-tulsa-cains-side-stage?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-05-12"
     },
     {
       "title": "The Rocklahoma Bitches Show",
