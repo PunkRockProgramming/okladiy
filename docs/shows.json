@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T08:52:44.516Z",
+  "lastUpdated": "2026-05-12T19:26:20.058Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -50,7 +50,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-12",
       "time": null,
-      "price": "$48–$108",
+      "price": "$58–$88",
       "description": "Dance Gavin Dance, Wolf & Bear, Novelists",
       "eventUrl": "http://www.prekindle.com/event/33993-dance-gavin-dance-oklahoma-city",
       "ageLimit": null,
@@ -466,7 +466,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-16",
       "time": null,
-      "price": "$36–$46",
+      "price": "$36–$58",
       "description": "Acid Bath, Chat Pile, Khemmis",
       "eventUrl": "http://www.prekindle.com/event/15796-acid-bath-with-chat-pile-and-khemmis-oklahoma-city",
       "ageLimit": null,
@@ -1180,7 +1180,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-29",
       "time": "8:00 PM",
-      "price": "$13–$25",
+      "price": "$13–$75",
       "description": "Tophouse, Good Morning Bedlam",
       "eventUrl": "http://www.prekindle.com/event/87339-tophouse-oklahoma-city",
       "ageLimit": null,
@@ -1582,7 +1582,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-06",
       "time": null,
-      "price": "$20–$45",
+      "price": "$15–$45",
       "description": "Straight Tequila Night",
       "eventUrl": "http://www.prekindle.com/event/66549-straight-tequila-night-oklahoma-city",
       "ageLimit": null,
@@ -1817,7 +1817,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ade05b0d48874d71bb930fe522b3e6ec~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_b49ae4c776e14b4098bda3a591c76933~mv2.jpg",
       "dateAdded": "2026-04-26"
     },
     {
@@ -2624,7 +2624,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-28",
       "time": null,
-      "price": "$25–$134",
+      "price": "$15–$134",
       "description": "Shordie Shordie",
       "eventUrl": "http://www.prekindle.com/event/37223-shordie-shordie-oklahoma-city",
       "ageLimit": null,
@@ -2819,6 +2819,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "CLIFFDIVER",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-11",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nCLIFFDIVER\nwith Special Guest\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://bit.ly/cliffdiver26",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_b4a1c0c6b80640ccbbde0ba7261d2b32~mv2.jpeg",
+      "dateAdded": "2026-05-12"
+    },
+    {
       "title": "Cinderella’s Tom Keifer Band",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -3005,6 +3019,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Steel Pulse - Reggae Against Racism Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-07-17",
+      "time": null,
+      "price": "$24–$74",
+      "description": "Steel Pulse",
+      "eventUrl": "http://www.prekindle.com/event/68925-steel-pulse-reggae-against-racism-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154885420",
+      "dateAdded": "2026-05-12"
+    },
+    {
       "title": "ELIJAH SCOTT",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3059,6 +3087,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648691639253",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Cliffdiver",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-07-18",
+      "time": "8:00 PM",
+      "price": "$34",
+      "description": "Cliffdiver",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/cliffdiver-18-jul",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69fe3638671c01ed0957497c_2.jpeg",
+      "dateAdded": "2026-05-12"
     },
     {
       "title": "Hit The Lights",
@@ -3191,7 +3233,7 @@
       "dateAdded": "2026-04-28"
     },
     {
-      "title": "In The Company Of Serpants",
+      "title": "In The Company Of Serpents",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
       "date": "2026-07-23",
@@ -3202,7 +3244,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ae11eaa2f6a24169b88f44cc9e636b6f~mv2.jpg",
-      "dateAdded": "2026-05-10"
+      "dateAdded": "2026-05-12"
     },
     {
       "title": "Ratchet Dolls",
@@ -3477,20 +3519,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648455255444",
       "dateAdded": "2026-03-24"
-    },
-    {
-      "title": "Good Boy Daisy",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-08-05",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "GOOD BOY DAISY\nThe Summer Love Tour\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/33786446/good-boy-daisy-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_81b46e6aaf334101a045a1c119125a11~mv2.jpg",
-      "dateAdded": "2026-05-11"
     },
     {
       "title": "The Mavericks & Friends",
@@ -3871,12 +3899,26 @@
       "date": "2026-08-29",
       "time": "8:00 PM",
       "price": "$28–$114",
-      "description": "PawPaw Rod",
+      "description": "PawPaw Rod, Casper Sage",
       "eventUrl": "http://www.prekindle.com/event/38182-pawpaw-rod-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048191",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151127089",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "The Browning Burn This World (EVOLVED) USA V2",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-08-30",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "The Browning, Deadlands, The Crimson Armada, Blind Equation",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-browning-burn-this-world-evolved-usa-v2-30-aug",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f3919f54dad1f78b0812e3_The_Browning_NEW_Band_Photo.jpeg",
+      "dateAdded": "2026-05-12"
     },
     {
       "title": "Congress the Band",
@@ -3891,6 +3933,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156174480",
       "dateAdded": "2026-04-28"
+    },
+    {
+      "title": "Shearling",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-03",
+      "time": null,
+      "price": "$15",
+      "description": "Shearling",
+      "eventUrl": "http://www.prekindle.com/event/68114-shearling-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154495932",
+      "dateAdded": "2026-05-12"
     },
     {
       "title": "Danielle Nicole",
@@ -3933,6 +3989,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466299832",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Sweeping Promises",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-09",
+      "time": null,
+      "price": "$20",
+      "description": "Sweeping Promises",
+      "eventUrl": "http://www.prekindle.com/event/81278-sweeping-promises-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151758306",
+      "dateAdded": "2026-05-12"
     },
     {
       "title": "Ray Wylie Hubbard",
@@ -4121,6 +4191,20 @@
       "dateAdded": "2026-04-09"
     },
     {
+      "title": "The Expendables",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-23",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "The Expendables",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-expendables-23-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69fe1a1865c2230d18068b58_expendables_promo.jpeg",
+      "dateAdded": "2026-05-12"
+    },
+    {
       "title": "Liverpool Legends: Beatles Experience",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4273,6 +4357,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-06"
+    },
+    {
+      "title": "CANNONS - THE EVERYTHING GLOWS TOUR",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-02",
+      "time": null,
+      "price": "$136–$262",
+      "description": "Cannons, Jesse Jo Stark",
+      "eventUrl": "http://www.prekindle.com/event/56886-cannons-the-everything-glows-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151126420",
+      "dateAdded": "2026-05-12"
     },
     {
       "title": "The Stars Tour featuring Anne Wilson",
@@ -4592,7 +4690,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-29",
       "time": null,
-      "price": "$25",
+      "price": "$20",
       "description": "REZN",
       "eventUrl": "http://www.prekindle.com/event/77497-rezn-oklahoma-city",
       "ageLimit": null,
@@ -4780,7 +4878,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-13",
       "time": null,
-      "price": "$40",
+      "price": "$40–$145",
       "description": "Switchfoot, Anberlin",
       "eventUrl": "http://www.prekindle.com/event/66517-switchfoot-oklahoma-city",
       "ageLimit": null,
