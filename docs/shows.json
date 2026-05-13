@@ -1,93 +1,7 @@
 {
-  "lastUpdated": "2026-05-12T19:26:20.058Z",
+  "lastUpdated": "2026-05-13T08:52:40.034Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "DAYSEEKER: The Pale Moonlight Tour",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-05-12",
-      "time": "7 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/33564574/dayseekerthe-pale-moonlight-tour-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/11/dayseeker-the-pale-moonlight-tour.jfif",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Drugdealer",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-05-12",
-      "time": "8:00 PM",
-      "price": "$30–$75",
-      "description": "Drugdealer, Sedona",
-      "eventUrl": "http://www.prekindle.com/event/61268-drugdealer-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949171953315",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Raue w /  Olive Vox",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-05-12",
-      "time": null,
-      "price": "$18",
-      "description": "RAUE, Olive Vox, LETR",
-      "eventUrl": "http://www.prekindle.com/event/48155-raue-with-olive-vox-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183325581",
-      "dateAdded": "2026-04-01"
-    },
-    {
-      "title": "Dance Gavin Dance with Special Guests Wolf & Bear and Novelists",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-05-12",
-      "time": null,
-      "price": "$58–$88",
-      "description": "Dance Gavin Dance, Wolf & Bear, Novelists",
-      "eventUrl": "http://www.prekindle.com/event/33993-dance-gavin-dance-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489756799",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Whose Live Anyway?",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-05-12",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/89908335/whose-live-anyway-tulsa-tulsa-theater?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Keep Flying",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-05-12",
-      "time": "6:30 PM",
-      "price": "$15 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37935",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37935-c00d928b99fa89a15a3189df94111e6d.jpeg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Ethan Regan - Spring Cleaning Tour",
       "venue": "The Vanguard",
@@ -108,7 +22,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-05-13",
       "time": null,
-      "price": "$15",
+      "price": "$8–$15",
       "description": "Carrellee, DROIDA, Dj Von Ludwig",
       "eventUrl": "http://www.prekindle.com/event/69643-carrellee-oklahoma-city",
       "ageLimit": null,
@@ -245,6 +159,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648464880749",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Katnip",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-05-15",
+      "time": null,
+      "price": "$5",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/22799-katnip-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150701069",
+      "dateAdded": "2026-05-13"
     },
     {
       "title": "Live Music All Ages feat: That Sick Feeling, SKINK, & Joe Henderson",
@@ -1377,6 +1305,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Wraith | Blind Oath",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-06-01",
+      "time": null,
+      "price": "$10",
+      "description": "Wraith",
+      "eventUrl": "http://www.prekindle.com/event/95175-wraith-blind-oath-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150877665",
+      "dateAdded": "2026-05-13"
+    },
+    {
       "title": "L.A. WITCH",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -1831,7 +1773,7 @@
       "eventUrl": "http://www.prekindle.com/event/84877-living-hollow-ghost-in-the-atlantic-inhuman-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161151594",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150840514",
       "dateAdded": "2026-04-29"
     },
     {
@@ -2063,6 +2005,20 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "Graveripper | Gravehuffer",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-06-14",
+      "time": null,
+      "price": "$15",
+      "description": "Graveripper",
+      "eventUrl": "http://www.prekindle.com/event/36392-graveripper-gravehuffer-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150805184",
+      "dateAdded": "2026-05-13"
+    },
+    {
       "title": "Vinyl Williams",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2239,7 +2195,7 @@
       "date": "2026-06-19",
       "time": null,
       "price": "$15",
-      "description": "Brat, Taranis",
+      "description": "Brat, Taranis, Hollowed Thoughts",
       "eventUrl": "http://www.prekindle.com/event/82215-brat-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2857,7 +2813,7 @@
       "eventUrl": "http://www.prekindle.com/event/19517-slumbering-sun-insomniac-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160677759",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150838037",
       "dateAdded": "2026-04-29"
     },
     {
@@ -3045,6 +3001,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454879097",
       "dateAdded": "2026-03-23"
+    },
+    {
+      "title": "Moon Fever",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-17",
+      "time": null,
+      "price": "$15",
+      "description": "Moon Fever, Dead Sugar, DIVA",
+      "eventUrl": "http://www.prekindle.com/event/65942-moon-fever-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150770210",
+      "dateAdded": "2026-05-13"
     },
     {
       "title": "Last Podcast on the Left",
@@ -4115,6 +4085,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161458942",
       "dateAdded": "2026-04-28"
+    },
+    {
+      "title": "Dirty Sound Magnet | Gran Moreno",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-09-17",
+      "time": null,
+      "price": "$15",
+      "description": "Dirty Sound Magnet",
+      "eventUrl": "http://www.prekindle.com/event/77689-dirty-sound-magnet-gran-moreno-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150822459",
+      "dateAdded": "2026-05-13"
     },
     {
       "title": "W.A.S.P. -1984 TO HEADLESS",
