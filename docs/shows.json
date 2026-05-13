@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T08:52:40.034Z",
+  "lastUpdated": "2026-05-13T19:28:23.661Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -223,7 +223,7 @@
       "date": "2026-05-15",
       "time": null,
       "price": "$25",
-      "description": "Neoni",
+      "description": "Neoni, Skylily",
       "eventUrl": "http://www.prekindle.com/event/95667-neoni-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -394,7 +394,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-16",
       "time": null,
-      "price": "$36–$58",
+      "price": "$36–$46",
       "description": "Acid Bath, Chat Pile, Khemmis",
       "eventUrl": "http://www.prekindle.com/event/15796-acid-bath-with-chat-pile-and-khemmis-oklahoma-city",
       "ageLimit": null,
@@ -2403,6 +2403,20 @@
       "dateAdded": "2026-03-31"
     },
     {
+      "title": "System Exclusive",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-25",
+      "time": null,
+      "price": "$15",
+      "description": "System Exclusive, Lust Online, DROIDA, Prom Mom",
+      "eventUrl": "http://www.prekindle.com/event/83534-system-exclusive-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150563056",
+      "dateAdded": "2026-05-13"
+    },
+    {
       "title": "BOP TO THE TOP TOUR",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2817,6 +2831,20 @@
       "dateAdded": "2026-04-29"
     },
     {
+      "title": "Kanton Teen & the Penny Pickers",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-07-11",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949150351504",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150350783",
+      "dateAdded": "2026-05-13"
+    },
+    {
       "title": "Chris Travis - The Prefix Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2987,6 +3015,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154885420",
       "dateAdded": "2026-05-12"
+    },
+    {
+      "title": "The Damn Quails",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-07-17",
+      "time": "8:00 PM",
+      "price": "$28",
+      "description": "The Damn Quails",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-damn-quails-17-jul",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c1c979306713e8c459444f_open-uri20260323-804-xeswjg.jpeg",
+      "dateAdded": "2026-05-13"
     },
     {
       "title": "ELIJAH SCOTT",
@@ -3407,6 +3449,20 @@
       "dateAdded": "2026-05-06"
     },
     {
+      "title": "Bingo Loco",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-07-31",
+      "time": null,
+      "price": "$27–$43",
+      "description": "Bingo Loco",
+      "eventUrl": "http://www.prekindle.com/event/27632-bingo-loco-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949155276677",
+      "dateAdded": "2026-05-13"
+    },
+    {
       "title": "UNDEROATH: THE VAN TOUR TO VANS WARPED TOUR",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -3421,6 +3477,20 @@
       "dateAdded": "2026-05-06"
     },
     {
+      "title": "Journey of a Lifetime",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-01",
+      "time": null,
+      "price": "$15–$40",
+      "description": "Journey of A Lifetime, Deja Blues",
+      "eventUrl": "http://www.prekindle.com/event/95711-journey-of-a-lifetime-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156806569",
+      "dateAdded": "2026-05-13"
+    },
+    {
       "title": "Locust Grove",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3433,6 +3503,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154884967",
       "dateAdded": "2026-05-07"
+    },
+    {
+      "title": "The Technicolors",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-01",
+      "time": null,
+      "price": "$20",
+      "description": "The Technicolors",
+      "eventUrl": "http://www.prekindle.com/event/18547-the-technicolors-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949153318555",
+      "dateAdded": "2026-05-13"
     },
     {
       "title": "K·POP Superstars",
@@ -3675,6 +3759,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167232347",
       "dateAdded": "2026-04-27"
+    },
+    {
+      "title": "Ghostland Observatory",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-15",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/75354601/ghostland-observatory-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-05-13"
     },
     {
       "title": "Kiss the Goat ( Premiere Ghost Tribute )",
@@ -3966,7 +4064,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-09-09",
       "time": null,
-      "price": "$20",
+      "price": "$16",
       "description": "Sweeping Promises",
       "eventUrl": "http://www.prekindle.com/event/81278-sweeping-promises-oklahoma-city",
       "ageLimit": null,
@@ -4098,6 +4196,20 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150822459",
+      "dateAdded": "2026-05-13"
+    },
+    {
+      "title": "Born Without Bones",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-17",
+      "time": null,
+      "price": "$20",
+      "description": "Born Without Bones",
+      "eventUrl": "http://www.prekindle.com/event/93422-born-without-bones-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156288935",
       "dateAdded": "2026-05-13"
     },
     {
@@ -4348,12 +4460,12 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-02",
       "time": null,
-      "price": "$136–$262",
+      "price": "$33–$262",
       "description": "Cannons, Jesse Jo Stark",
       "eventUrl": "http://www.prekindle.com/event/56886-cannons-the-everything-glows-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151126420",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150474998",
       "dateAdded": "2026-05-12"
     },
     {
@@ -4362,7 +4474,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-02",
       "time": null,
-      "price": null,
+      "price": "$20–$90",
       "description": "Anne Wilson, Aodhan King",
       "eventUrl": "http://www.prekindle.com/event/39612-anne-wilson-oklahoma-city",
       "ageLimit": null,
@@ -4660,7 +4772,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-28",
       "time": null,
-      "price": "$120–$178",
+      "price": "$30–$178",
       "description": "Madeon",
       "eventUrl": "http://www.prekindle.com/event/53178-madeon-oklahoma-city",
       "ageLimit": null,
@@ -4892,7 +5004,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-20",
       "time": null,
-      "price": null,
+      "price": "$28–$102",
       "description": "Mojo Brookzz",
       "eventUrl": "http://www.prekindle.com/event/89592-mojo-brookzz-oklahoma-city",
       "ageLimit": null,
