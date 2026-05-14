@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T08:46:19.118Z",
+  "lastUpdated": "2026-05-14T19:26:25.846Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -325,11 +325,11 @@
       "date": "2026-05-16",
       "time": "8:00 PM",
       "price": "$16–$22",
-      "description": "Meso, Xenotype, Jalaya, Spyra, Subsonix, Disco Presents",
+      "description": "Meso, Xenotype, Jalaya, Spyra, Saint Dave B2b $bill, Disco Presents, Subsonix",
       "eventUrl": "http://www.prekindle.com/event/82235-meso-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648505840828",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149652031",
       "dateAdded": "2026-03-21"
     },
     {
@@ -1081,7 +1081,7 @@
       "date": "2026-05-29",
       "time": null,
       "price": "$12",
-      "description": "White Recluse, Red Sun, Visions of Afterlife, Willow Creek",
+      "description": "White Recluse, Visions of Afterlife, Willow Creek",
       "eventUrl": "http://www.prekindle.com/event/12824-white-recluse-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1731,7 +1731,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_b49ae4c776e14b4098bda3a591c76933~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/779716_89d6580904594b4396f5123be1b0f7b4~mv2.jpg",
       "dateAdded": "2026-04-26"
     },
     {
@@ -1931,6 +1931,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156237833",
       "dateAdded": "2026-05-05"
+    },
+    {
+      "title": "Donna",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-06-13",
+      "time": null,
+      "price": "$15",
+      "description": "Donna",
+      "eventUrl": "http://www.prekindle.com/event/35839-donna-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949180160496",
+      "dateAdded": "2026-05-14"
     },
     {
       "title": "Kat Hasty",
@@ -2339,11 +2353,11 @@
       "date": "2026-06-24",
       "time": null,
       "price": "$19–$144",
-      "description": "TopOppGen",
+      "description": "TopOppGen, Aziedoesntexist",
       "eventUrl": "http://www.prekindle.com/event/54572-topoppgen-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949162103767",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149644521",
       "dateAdded": "2026-04-27"
     },
     {
@@ -2415,6 +2429,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/04/blade-rave.jfif",
       "dateAdded": "2026-04-16"
+    },
+    {
+      "title": "Civil Serpents | My Pet Snail Lost in Italy | Surus",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-06-26",
+      "time": null,
+      "price": "$10",
+      "description": "Civil Serpents",
+      "eventUrl": "http://www.prekindle.com/event/52935-civil-serpents-my-pet-snail-lost-in-italy-surus-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149639861",
+      "dateAdded": "2026-05-14"
     },
     {
       "title": "Pariah System",
@@ -2771,7 +2799,7 @@
       "eventUrl": "https://bit.ly/cliffdiver26",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_b4a1c0c6b80640ccbbde0ba7261d2b32~mv2.jpeg",
+      "imageUrl": "https://static.wixstatic.com/media/779716_2bf601adc1a247f2a1ef29f21fef9163~mv2.jpg",
       "dateAdded": "2026-05-12"
     },
     {
@@ -2847,18 +2875,18 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "Ghoul's Ball Feat. Ghost Stories",
+      "title": "Ghoul's Ball: Ghost Stories",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
       "date": "2026-07-12",
       "time": "6:30 PM",
       "price": null,
-      "description": "GHOUL'S BALL Feat. Ghost Stories\nRitual: 003 - A Celebration of the music of Ghost\nw/ special guests Unholy Communion (Burlesque)\n+ A Costume Contest All Night Long \n\nGeneral Admission Standing / Ages 18+ Only",
+      "description": "GHOUL'S BALL Feat. Ghost Stories\nRitual: 003 - A Celebration of the Music of Ghost\nImmersive & Live Entertainment - Bringing Lore to Life\nUnholy Communion • Burlesque • Costume Contest \n\nGeneral Admission Standing / Ages 18+ Only",
       "eventUrl": "https://www.etix.com/ticket/p/57036930/ghouls-ball-oklahoma-city-89th-street",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_7e6896dfde794b2c85daea7a23169365~mv2.jpg",
-      "dateAdded": "2026-04-30"
+      "imageUrl": "https://static.wixstatic.com/media/779716_31f65074821f43b6b23af5643d6a3ede~mv2.jpg",
+      "dateAdded": "2026-05-14"
     },
     {
       "title": "Hatebreed",
@@ -3199,7 +3227,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/76015897/being-as-an-ocean-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_9d26b9b299c64ef1a7d0d12eb1a7b3f1~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/779716_d26eb8ed86404f158f956617211102e0~mv2.jpg",
       "dateAdded": "2026-05-08"
     },
     {
@@ -3619,6 +3647,20 @@
       "dateAdded": "2026-04-13"
     },
     {
+      "title": "Jabee - Black Future 10 Year Anniversary",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-08",
+      "time": "8:00 PM",
+      "price": "$15–$75",
+      "description": "Jabee, Pwap, Meant 2 B, Trip G, Chloe Hart",
+      "eventUrl": "http://www.prekindle.com/event/38519-jabee-black-future-10-year-anniversary-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151670276",
+      "dateAdded": "2026-05-14"
+    },
+    {
       "title": "The Sword  /  Red Fang",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3645,6 +3687,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "The Montvales",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-11",
+      "time": null,
+      "price": "$15",
+      "description": "The Montvales",
+      "eventUrl": "http://www.prekindle.com/event/34438-the-montvales-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156048839",
+      "dateAdded": "2026-05-14"
     },
     {
       "title": "Hulvey – “Could Be Tonight” Tour",
