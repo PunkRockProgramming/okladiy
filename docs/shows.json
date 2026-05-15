@@ -1,95 +1,7 @@
 {
-  "lastUpdated": "2026-05-14T19:26:25.846Z",
+  "lastUpdated": "2026-05-15T08:56:45.783Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "A Tribute to The Soul Divas: A Kendrik McKinney Production",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-05-14",
-      "time": null,
-      "price": "$20–$57",
-      "description": "A Kendrik Mckinney Production",
-      "eventUrl": "http://www.prekindle.com/event/75462-soul-divas-a-kendrik-mckinney-production-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469338175",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Citizen Soldier - Secret Songs tour Part II",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-05-14",
-      "time": "7:00 PM",
-      "price": "$43",
-      "description": "Citizen Soldier, Adelitas Way, New Medicine",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/citizen-soldier-secret-songs-tour-part-ii-14-may",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697104e82572e54871a70b11_vanguard_cover_flyer_%25288%2529.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Ethan Regan: Spring Cleaning Tour",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-05-14",
-      "time": "8:00 PM",
-      "price": "$30",
-      "description": "Ethan Regan, Emma Andersen",
-      "eventUrl": "http://www.prekindle.com/event/29154-ethan-regan-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648501227749",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "BIEBER AND A BEAT: A JUSTIN BIEBER NIGHT",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-05-14",
-      "time": null,
-      "price": "$15",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/37522-bieber-and-a-beat-a-justin-bieber-night-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949163681783",
-      "dateAdded": "2026-04-24"
-    },
-    {
-      "title": "ZZ Nation ( Tribute to ZZ Top )",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-05-14",
-      "time": "7:00 PM",
-      "price": "$18 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37830",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37830-2c7ac16df46b0febf298f97bf9f5b1f9.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "LOFTY'S COMET (STL)",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-05-14",
-      "time": "10:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/5/14/loftys-comet-stl",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-04-01"
-    },
     {
       "title": "D.R.I.",
       "venue": "89th Street OKC",
@@ -166,7 +78,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-15",
       "time": "9:00 PM",
-      "price": "$15–$75",
+      "price": "$22–$75",
       "description": "Noche De Verano Sin Ti!, The Dance Parties",
       "eventUrl": "http://www.prekindle.com/event/26722-frikitona-reggaeton-fiesta-oklahoma-city",
       "ageLimit": null,
@@ -325,7 +237,7 @@
       "date": "2026-05-16",
       "time": "8:00 PM",
       "price": "$16–$22",
-      "description": "Meso, Xenotype, Jalaya, Spyra, Saint Dave B2b $bill, Disco Presents, Subsonix",
+      "description": "Meso, Xenotype, Jalaya, Saint Dave B2b $bill, Disco Presents, Subsonix",
       "eventUrl": "http://www.prekindle.com/event/82235-meso-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1896,7 +1808,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-13",
       "time": null,
-      "price": "$15–$100",
+      "price": "$30–$100",
       "description": "Juvenile",
       "eventUrl": "http://www.prekindle.com/event/84815-juveniles-boiling-point-album-release-tour-w-the-400-degreez-band-and-friends-oklahoma-city",
       "ageLimit": null,
@@ -3477,6 +3389,22 @@
       "dateAdded": "2026-05-06"
     },
     {
+      "title": "Haydon Wiginton & Faith Schueler",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-31",
+      "time": "7:00 PM",
+      "price": "$20 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38505",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38505-5f32b6ea064ad6acd30de0474368c643.jpeg",
+      "dateAdded": "2026-05-15"
+    },
+    {
       "title": "Journey of a Lifetime",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3819,6 +3747,22 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Chris Duarte Group",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-18",
+      "time": "6:30 PM",
+      "price": "$20 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38504",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38504-15af22427fb4bd5cf958ba542d2bfffb.jpeg",
+      "dateAdded": "2026-05-15"
+    },
+    {
       "title": "Jesse & Joy - El Despecho Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -3975,6 +3919,20 @@
       "dateAdded": "2026-03-25"
     },
     {
+      "title": "Toast to Toby Keith",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-28",
+      "time": null,
+      "price": "$17–$85",
+      "description": "Kendrik Mckinney",
+      "eventUrl": "http://www.prekindle.com/event/85776-toast-to-toby-keith-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151084360",
+      "dateAdded": "2026-05-15"
+    },
+    {
       "title": "Velvetine",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -4092,7 +4050,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-09-09",
       "time": null,
-      "price": "$16",
+      "price": "$20",
       "description": "Sweeping Promises",
       "eventUrl": "http://www.prekindle.com/event/81278-sweeping-promises-oklahoma-city",
       "ageLimit": null,
@@ -4488,7 +4446,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-02",
       "time": null,
-      "price": "$33–$262",
+      "price": "$136–$262",
       "description": "Cannons, Jesse Jo Stark",
       "eventUrl": "http://www.prekindle.com/event/56886-cannons-the-everything-glows-tour-oklahoma-city",
       "ageLimit": null,
@@ -4814,7 +4772,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-29",
       "time": null,
-      "price": "$20",
+      "price": "$25",
       "description": "REZN",
       "eventUrl": "http://www.prekindle.com/event/77497-rezn-oklahoma-city",
       "ageLimit": null,
@@ -5002,7 +4960,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-13",
       "time": null,
-      "price": "$40–$145",
+      "price": "$145",
       "description": "Switchfoot, Anberlin",
       "eventUrl": "http://www.prekindle.com/event/66517-switchfoot-oklahoma-city",
       "ageLimit": null,
