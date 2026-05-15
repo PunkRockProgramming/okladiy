@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T08:56:45.783Z",
+  "lastUpdated": "2026-05-15T19:13:35.228Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -64,7 +64,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-05-15",
       "time": "8:00 PM",
-      "price": "$22",
+      "price": "$24",
       "description": "Through Being Cool",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/through-being-cool-presents-emo-prom-with-the-dom-telonges-18-15-may",
       "ageLimit": null,
@@ -1189,6 +1189,20 @@
       "dateAdded": "2026-05-13"
     },
     {
+      "title": "When Forever Finds Me | Boketto | esc ctrl",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-06-02",
+      "time": null,
+      "price": "$10",
+      "description": "When Forever Finds Me",
+      "eventUrl": "http://www.prekindle.com/event/89754-when-forever-finds-me-boketto-esc-ctrl-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148699481",
+      "dateAdded": "2026-05-15"
+    },
+    {
       "title": "L.A. WITCH",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -1408,7 +1422,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-06",
       "time": null,
-      "price": "$15–$45",
+      "price": "$15–$35",
       "description": "Straight Tequila Night",
       "eventUrl": "http://www.prekindle.com/event/66549-straight-tequila-night-oklahoma-city",
       "ageLimit": null,
@@ -1465,11 +1479,11 @@
       "date": "2026-06-06",
       "time": null,
       "price": "$12",
-      "description": "Cryhard, Foam, Photocopy, Ice Blink",
+      "description": "Cryhard, Foam, Photocopy, Colliding",
       "eventUrl": "http://www.prekindle.com/event/66163-cryhard-before-you-knew-me-album-release-show-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949163804915",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148994142",
       "dateAdded": "2026-04-24"
     },
     {
@@ -2545,6 +2559,20 @@
       "dateAdded": "2026-04-23"
     },
     {
+      "title": "Jesus Christ Taxi Driver | Manta Rays | Some Hearts",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-06-29",
+      "time": null,
+      "price": "$10",
+      "description": "Jesus Christ Taxi Driver",
+      "eventUrl": "http://www.prekindle.com/event/76719-jesus-christ-taxi-driver-manta-rays-some-hearts-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148588838",
+      "dateAdded": "2026-05-15"
+    },
+    {
       "title": "Red Sun, Fly Over Statres, Ogbert The Nerd, Endswell",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2671,6 +2699,20 @@
       "dateAdded": "2026-04-13"
     },
     {
+      "title": "KAWAII RAVE (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-07-10",
+      "time": "9:30 PM",
+      "price": "$28 to $92",
+      "description": null,
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/kawaii-rave-18-10-jul",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a036019788cbda186e17a9f_Tulsa__OK.jpeg",
+      "dateAdded": "2026-05-15"
+    },
+    {
       "title": "Cody Canada & The Departed",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -2769,6 +2811,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183370428",
       "dateAdded": "2026-04-02"
+    },
+    {
+      "title": "Traindodge 30th Anniversary Show!",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-11",
+      "time": null,
+      "price": "$15",
+      "description": "Traindodge, Self-Evident, Sky Creature",
+      "eventUrl": "http://www.prekindle.com/event/37843-traindodge-30th-anniversary-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148990061",
+      "dateAdded": "2026-05-15"
     },
     {
       "title": "Shakedown Strings",
@@ -2949,11 +3005,11 @@
       "date": "2026-07-17",
       "time": "8:00 PM",
       "price": "$25",
-      "description": "Elijah Scott",
+      "description": "Elijah Scott, DEVORA",
       "eventUrl": "http://www.prekindle.com/event/92612-elijah-scott-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454879097",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148804968",
       "dateAdded": "2026-03-23"
     },
     {
@@ -3819,6 +3875,20 @@
       "dateAdded": "2026-05-08"
     },
     {
+      "title": "Braxton Keith",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-08-22",
+      "time": null,
+      "price": "$28",
+      "description": "Braxton Keith, Cole Phillips",
+      "eventUrl": "http://www.prekindle.com/event/68836-braxton-keith-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148804952",
+      "dateAdded": "2026-05-15"
+    },
+    {
       "title": "Ehsan Ahmad",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -3925,7 +3995,7 @@
       "date": "2026-08-28",
       "time": null,
       "price": "$17–$85",
-      "description": "Kendrik Mckinney",
+      "description": "A Kendrik Mckinney Production",
       "eventUrl": "http://www.prekindle.com/event/85776-toast-to-toby-keith-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3966,7 +4036,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-30",
       "time": "7:00 PM",
-      "price": null,
+      "price": "$32",
       "description": "The Browning, Deadlands, The Crimson Armada, Blind Equation",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-browning-burn-this-world-evolved-usa-v2-30-aug",
       "ageLimit": "ALL AGES",
@@ -4050,7 +4120,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-09-09",
       "time": null,
-      "price": "$20",
+      "price": "$16",
       "description": "Sweeping Promises",
       "eventUrl": "http://www.prekindle.com/event/81278-sweeping-promises-oklahoma-city",
       "ageLimit": null,
@@ -4278,7 +4348,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-23",
       "time": "7:30 PM",
-      "price": null,
+      "price": "$31",
       "description": "The Expendables",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-expendables-23-sep",
       "ageLimit": "ALL AGES",
@@ -4446,7 +4516,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-02",
       "time": null,
-      "price": "$136–$262",
+      "price": "$33–$262",
       "description": "Cannons, Jesse Jo Stark",
       "eventUrl": "http://www.prekindle.com/event/56886-cannons-the-everything-glows-tour-oklahoma-city",
       "ageLimit": null,
@@ -4772,7 +4842,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-29",
       "time": null,
-      "price": "$25",
+      "price": "$20",
       "description": "REZN",
       "eventUrl": "http://www.prekindle.com/event/77497-rezn-oklahoma-city",
       "ageLimit": null,
@@ -4960,7 +5030,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-13",
       "time": null,
-      "price": "$145",
+      "price": "$40–$145",
       "description": "Switchfoot, Anberlin",
       "eventUrl": "http://www.prekindle.com/event/66517-switchfoot-oklahoma-city",
       "ageLimit": null,
@@ -5097,6 +5167,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454666393",
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Who's Bad (Michael Jackson Tribute)",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-12-11",
+      "time": null,
+      "price": "$20–$60",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/72268-whos-bad-michael-jackson-tribute-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149471864",
+      "dateAdded": "2026-05-15"
     },
     {
       "title": "Scott Bradlee’s Postmodern Jukebox – The Future Is Vintage World Tour",
