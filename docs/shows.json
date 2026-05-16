@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-05-16T08:11:59.280Z",
+  "lastUpdated": "2026-05-16T18:46:11.543Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Live Music All Ages feat: That Sick Feeling, SKINK, & Joe Henderson",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-05-15",
-      "time": "7:30 PM",
-      "price": "$10",
-      "description": "Live music from That Sick Feeling, SKINK, and Joe Henderson.Doors 7:30pm Music 8pmTickets $10",
-      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-that-sick-feeling-skink-joe-henderson",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1778066692510-K0X2O1ORQP7QQ7LMJE93/the+sick+flyer+V2.png",
-      "dateAdded": "2026-05-06"
-    },
     {
       "title": "Godseyes x Actor Observer",
       "venue": "89th Street OKC",
@@ -134,7 +120,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-16",
       "time": null,
-      "price": "$22–$62",
+      "price": "$22–$46",
       "description": "Acid Bath, Chat Pile, Khemmis",
       "eventUrl": "http://www.prekindle.com/event/15796-acid-bath-with-chat-pile-and-khemmis-oklahoma-city",
       "ageLimit": null,
@@ -213,6 +199,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69d926b81be47cfe73422ea1_Vanguard_0915_wlogo.jpeg",
       "dateAdded": "2026-04-11"
+    },
+    {
+      "title": "Bluegrass Brunch with Johnny Mullenax Advance Tickets & Booth Reservations",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-05-17",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148092575",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148092558",
+      "dateAdded": "2026-05-16"
     },
     {
       "title": "Dance With The Dead & Magic Sword",
@@ -703,6 +703,20 @@
       "dateAdded": "2026-05-07"
     },
     {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-05-24",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148091912",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148091895",
+      "dateAdded": "2026-05-16"
+    },
+    {
       "title": "Cole Barnhill",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -1027,6 +1041,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/07/etix-Buckcherry1751986173_3859601751986174.jfif",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-05-31",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148091260",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148091243",
+      "dateAdded": "2026-05-16"
     },
     {
       "title": "Brad Absher & The Superials",
@@ -2413,6 +2441,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-28",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148090658",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148090641",
+      "dateAdded": "2026-05-16"
+    },
+    {
       "title": "The Dust Devils",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -2725,6 +2767,20 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_31f65074821f43b6b23af5643d6a3ede~mv2.jpg",
       "dateAdded": "2026-05-14"
+    },
+    {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-07-12",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148089247",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148089230",
+      "dateAdded": "2026-05-16"
     },
     {
       "title": "Hatebreed",
@@ -3401,6 +3457,20 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-02",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148073893",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148073876",
+      "dateAdded": "2026-05-16"
+    },
+    {
       "title": "Passion Pit - The Pretty Penny Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3541,6 +3611,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949165025252",
       "dateAdded": "2026-04-22"
+    },
+    {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-09",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148073373",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148073356",
+      "dateAdded": "2026-05-16"
     },
     {
       "title": "The Marvelous Miss Gender starring BOSCO",
@@ -3929,6 +4013,20 @@
       "dateAdded": "2026-05-12"
     },
     {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-30",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148072440",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148072423",
+      "dateAdded": "2026-05-16"
+    },
+    {
       "title": "Congress the Band",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4197,6 +4295,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-09-20",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148071235",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148071218",
+      "dateAdded": "2026-05-16"
+    },
+    {
       "title": "Spike Hellis",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -4323,6 +4435,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182081108",
       "dateAdded": "2026-04-01"
+    },
+    {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-09-27",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148070670",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148070653",
+      "dateAdded": "2026-05-16"
     },
     {
       "title": "Bayonne - The ‘Filters’ Tour",
