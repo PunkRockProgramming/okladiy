@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T08:28:47.160Z",
+  "lastUpdated": "2026-05-17T18:50:44.039Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -145,6 +145,20 @@
       "dateAdded": "2026-03-26"
     },
     {
+      "title": "NBA Playoffs Watch Party",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-05-18",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/62223-nba-playoffs-watch-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147609594",
+      "dateAdded": "2026-05-17"
+    },
+    {
       "title": "JILUKA - SOLD OUT**",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -241,6 +255,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158681852",
       "dateAdded": "2026-05-01"
+    },
+    {
+      "title": "NBA Playoffs Watch Party",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-05-20",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/12955-nba-playoffs-watch-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147609487",
+      "dateAdded": "2026-05-17"
     },
     {
       "title": "Brujeria",
@@ -383,6 +411,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949175843464",
       "dateAdded": "2026-04-10"
+    },
+    {
+      "title": "NBA Playoffs Watch Party",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-05-22",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/82795-nba-playoffs-watch-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147609371",
+      "dateAdded": "2026-05-17"
     },
     {
       "title": "Shrek Rave",
@@ -573,6 +615,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469074284",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "NBA Playoffs Watch Party",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-05-24",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/33811-nba-playoffs-watch-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147609242",
+      "dateAdded": "2026-05-17"
     },
     {
       "title": "Toyotuh Tuesday",
@@ -1499,6 +1555,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161055984",
       "dateAdded": "2026-04-01"
+    },
+    {
+      "title": "Vanguard Boiler Club Presents RAVE ON MAIN (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-12",
+      "time": "9:00 PM",
+      "price": "$15",
+      "description": "HeartWerk, Dj Starflyer, Setjjjj",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/vanguard-boiler-club-presents-rave-on-main-18-12-jun",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69fb645894d648da941980c5_open-uri20260506-797-1jy7v3.jpeg",
+      "dateAdded": "2026-05-17"
     },
     {
       "title": "Black Widows: Creatures of the Night Tour 2026",
