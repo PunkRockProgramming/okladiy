@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-05-18T10:17:16.995Z",
+  "lastUpdated": "2026-05-18T19:21:50.303Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "POET the Band & The Almas",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-17",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "POET the Band + The Almas\nDying Poets Tour\nwith Special Guests Embers Rise Plus More TBA\n*All Tickets General Admission",
-      "eventUrl": "https://www.ticketstorm.com/event/dyingpoetstour/89thstreetokc/oklahomacity/32469/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_62c0741ab42c4ad09430abe4ce5bf798~mv2.jpg",
-      "dateAdded": "2026-04-06"
-    },
     {
       "title": "PURITY RING - PLACE OF MY OWN TOUR",
       "venue": "Tower Theatre",
@@ -106,7 +92,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-19",
       "time": "8:00 PM",
-      "price": "$30–$80",
+      "price": "$30",
       "description": "Sports, Ally Evenson",
       "eventUrl": "http://www.prekindle.com/event/19249-sports-oklahoma-city",
       "ageLimit": null,
@@ -283,6 +269,20 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1776962719059-OKRGKXJBDHDDDSFK9SL4/Edith+Flyer.png",
       "dateAdded": "2026-04-23"
+    },
+    {
+      "title": "Wolf Ugly & Friends",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-05-22",
+      "time": "8:00 PM",
+      "price": "$15",
+      "description": "Wolf Ugly, Madame Zeroni, Fading Fast, Memorial Drive",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/wolf-ugly-friends-22-may",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0b378fbf586aa47d9970ab_WOLF_UGLY_PROMO.jpeg",
+      "dateAdded": "2026-05-18"
     },
     {
       "title": "Branjae",
@@ -3113,6 +3113,20 @@
       "dateAdded": "2026-04-12"
     },
     {
+      "title": "54 Ultra",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-26",
+      "time": "8:00 PM",
+      "price": "$30",
+      "description": "54 Ultra",
+      "eventUrl": "http://www.prekindle.com/event/84775-54-ultra-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147127282",
+      "dateAdded": "2026-05-18"
+    },
+    {
       "title": "The Ex-faces (Ex Members Of Mushroomhead Playing Their Hits)",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3319,11 +3333,11 @@
       "date": "2026-08-03",
       "time": null,
       "price": "$35–$70",
-      "description": "Passion Pit",
+      "description": "Passion Pit, Arden Jones",
       "eventUrl": "http://www.prekindle.com/event/35864-passion-pit-the-pretty-penny-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472769290",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147125992",
       "dateAdded": "2026-03-21"
     },
     {
@@ -3397,6 +3411,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/03/chasin-u-the-morgan-wallen-experience.jfif",
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "JOSH TATOFI - LOOKING FOR LOVE TOUR",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-07",
+      "time": "8:00 PM",
+      "price": "$20–$75",
+      "description": "Josh Tatofi",
+      "eventUrl": "http://www.prekindle.com/event/91177-josh-tatofi-looking-for-love-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149645793",
+      "dateAdded": "2026-05-18"
     },
     {
       "title": "Bikini Trill",
@@ -3743,6 +3771,20 @@
       "dateAdded": "2026-04-30"
     },
     {
+      "title": "Southpaw FLHC",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-08-23",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "Southpaw FLHC\nThe Standard 2026 Tour\nwith special guest Arcline\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/86682969/southpaw-flhc-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_15cdc3d2c9f74c8fa37d88abd1e4589d~mv2.jpg",
+      "dateAdded": "2026-05-18"
+    },
+    {
       "title": "DevilDriver",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -3909,6 +3951,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154495932",
       "dateAdded": "2026-05-12"
+    },
+    {
+      "title": "Waylon Wyatt",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-09-04",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/37818115/waylon-wyatt-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-05-18"
     },
     {
       "title": "Danielle Nicole",
@@ -4235,6 +4291,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/12/elefante.jfif",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "In Her Own Words x Every Avenue - Perfectly Unfamiliar Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-24",
+      "time": "8:00 PM",
+      "price": "$79",
+      "description": "In Her Own Words, Every Avenue, Felicity, Public Works",
+      "eventUrl": "http://www.prekindle.com/event/54531-in-her-own-words-x-every-avenue-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149610175",
+      "dateAdded": "2026-05-18"
     },
     {
       "title": "Jim E. Brown",
@@ -5033,6 +5103,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454666393",
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Robby Hoffman: Live On Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-12-10",
+      "time": null,
+      "price": "$30–$55",
+      "description": "Robby Hoffman",
+      "eventUrl": "http://www.prekindle.com/event/93975-robby-hoffman-live-on-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151686593",
+      "dateAdded": "2026-05-18"
     },
     {
       "title": "Who's Bad (Michael Jackson Tribute)",
