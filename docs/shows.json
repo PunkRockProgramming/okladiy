@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T09:57:51.309Z",
+  "lastUpdated": "2026-05-19T19:41:47.408Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,20 +15,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_0dc47dadceac4abd9730bb971546968b~mv2.jpg",
       "dateAdded": "2026-04-09"
-    },
-    {
-      "title": "Sons of Legion - Soul to SØL Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-05-19",
-      "time": null,
-      "price": "$25–$50",
-      "description": "Sons of Legion",
-      "eventUrl": "http://www.prekindle.com/event/54748-sons-of-legion-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648650433646",
-      "dateAdded": "2026-03-21"
     },
     {
       "title": "Sports",
@@ -915,6 +901,20 @@
       "dateAdded": "2026-04-20"
     },
     {
+      "title": "Sons of Legion - Soul to SØL Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-06-03",
+      "time": null,
+      "price": "$25–$50",
+      "description": "Sons of Legion",
+      "eventUrl": "http://www.prekindle.com/event/54748-sons-of-legion-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146462117",
+      "dateAdded": "2026-05-19"
+    },
+    {
       "title": "Bodysnatcher",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1657,6 +1657,20 @@
       "dateAdded": "2026-03-25"
     },
     {
+      "title": "Jason Eady Full Band with special guests Midnight River Choir",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-17",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949146287431",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146282688",
+      "dateAdded": "2026-05-19"
+    },
+    {
       "title": "Dule, Dollpile, Viewfinder, Velvetine, Blue Simmons",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2127,6 +2141,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Gimme Gimme Disco",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-06-27",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "ABBA-inspired dance party \nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/42988861/gimme-gimme-disco-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_9c0a8ad3531d474499b72401fe9ab60a~mv2.jpeg",
+      "dateAdded": "2026-05-19"
+    },
+    {
       "title": "My So Called Band: '90s Tribute",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2153,6 +2181,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69fcb5d90ddeb0aeced030ff_Tulsa__OK_%25281%2529.jpeg",
       "dateAdded": "2026-05-07"
+    },
+    {
+      "title": "Dial Up - 90's tribute (21+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-27",
+      "time": "9:00 PM",
+      "price": "$15",
+      "description": "Dial Up",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/dial-up-90-s-tribute-21-27-jun",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0c9e1dea1faf1b12a48841_Vanguard_6.27_%2528Facebook_Cover%2529.jpeg",
+      "dateAdded": "2026-05-19"
     },
     {
       "title": "The Steppers",
@@ -3071,6 +3113,20 @@
       "dateAdded": "2026-05-18"
     },
     {
+      "title": "Blowupdoll with Bugjuice Blues, Double Violets, Black Magnolia, China Blue",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-26",
+      "time": null,
+      "price": "$15",
+      "description": "Blowupdoll, Bugjuice Blues, Double Violets, Black Magnolia, China Blue",
+      "eventUrl": "http://www.prekindle.com/event/86331-blowupdoll-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146290466",
+      "dateAdded": "2026-05-19"
+    },
+    {
       "title": "The Ex-faces (Ex Members Of Mushroomhead Playing Their Hits)",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3355,6 +3411,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38338-fcc4641c066dee7c85cc8007a8dfd2c7.png",
       "dateAdded": "2026-04-25"
+    },
+    {
+      "title": "United We Dance: Festival Energy. All Night.",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-07",
+      "time": null,
+      "price": "$15–$35",
+      "description": "Breckenridge Presents",
+      "eventUrl": "http://www.prekindle.com/event/94125-united-we-dance-festival-energy-all-night-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146928312",
+      "dateAdded": "2026-05-19"
     },
     {
       "title": "Chasin’ U – The Morgan Wallen Experience",
@@ -3690,7 +3760,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-08-22",
       "time": null,
-      "price": "$28",
+      "price": "$28–$144",
       "description": "Braxton Keith, Cole Phillips",
       "eventUrl": "http://www.prekindle.com/event/68836-braxton-keith-oklahoma-city",
       "ageLimit": null,
@@ -3727,20 +3797,6 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38361-046af9917094e80bfbfe6b3466588f5d.jpeg",
       "dateAdded": "2026-04-30"
-    },
-    {
-      "title": "Southpaw FLHC",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-08-23",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "Southpaw FLHC\nThe Standard 2026 Tour\nwith special guest Arcline\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/86682969/southpaw-flhc-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_15cdc3d2c9f74c8fa37d88abd1e4589d~mv2.jpg",
-      "dateAdded": "2026-05-18"
     },
     {
       "title": "DevilDriver",
@@ -3811,6 +3867,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648457615173",
       "dateAdded": "2026-03-25"
+    },
+    {
+      "title": "Charles Wesley Godwin - The Christian Name Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-08-27",
+      "time": null,
+      "price": "$28–$103",
+      "description": "Charles Wesley Godwin",
+      "eventUrl": "http://www.prekindle.com/event/62427-charles-wesley-godwin-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146447340",
+      "dateAdded": "2026-05-19"
     },
     {
       "title": "Toast to Toby Keith",
@@ -3973,7 +4043,7 @@
       "date": "2026-09-09",
       "time": null,
       "price": "$16",
-      "description": "Sweeping Promises",
+      "description": "Sweeping Promises, Stepmom, Rockstar Nightclub",
       "eventUrl": "http://www.prekindle.com/event/81278-sweeping-promises-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4015,11 +4085,11 @@
       "date": "2026-09-11",
       "time": null,
       "price": "$33–$75",
-      "description": "Molchat Doma",
+      "description": "Molchat Doma, DITZ (UK)",
       "eventUrl": "http://www.prekindle.com/event/53215-molchat-doma-molchat-doma-tour-2026-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166631693",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146398861",
       "dateAdded": "2026-04-21"
     },
     {
@@ -4321,6 +4391,20 @@
       "dateAdded": "2026-04-01"
     },
     {
+      "title": "The Midnight",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-09-26",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/43973092/the-midnight-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-05-19"
+    },
+    {
       "title": "Bluegrass Brunch with Johnny Mullenax",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -4501,6 +4585,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161248997",
       "dateAdded": "2026-04-29"
+    },
+    {
+      "title": "Starbomb",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-10-10",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/40121372/starbomb-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-05-19"
     },
     {
       "title": "Jim Henson’s Labyrinth: In Concert 40th Anniversary",
@@ -4775,6 +4873,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38482-480d9016673d47339c95af8f61260686.jpeg",
       "dateAdded": "2026-05-10"
+    },
+    {
+      "title": "The Red Stripes",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-31",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "The Red Stripes, Groucho",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-red-stripes-31-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0b45aa4d66c8a839b2c5ef_RedStripes2026_Vanguard_2x1.jpeg",
+      "dateAdded": "2026-05-19"
     },
     {
       "title": "PJ Morton - Saturday Night Sunday Morning Tour",
