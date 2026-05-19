@@ -1,63 +1,7 @@
 {
-  "lastUpdated": "2026-05-18T19:21:50.303Z",
+  "lastUpdated": "2026-05-19T09:57:51.309Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "PURITY RING - PLACE OF MY OWN TOUR",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-05-18",
-      "time": null,
-      "price": "$30–$85",
-      "description": "Purity Ring, mmj",
-      "eventUrl": "http://www.prekindle.com/event/62116-purity-ring-place-of-my-own-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166763844",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Archspire: Long Roads Big Loads Tour",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-05-18",
-      "time": "7:00 PM",
-      "price": "$41",
-      "description": "Archspire, Undeath, Crown Magnetar, Mutilation BBQ",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/archspire-long-roads-big-loads-tour-18-may",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/696a885b8ed3a90f5eb93538_Copy_of_archspire_2025_Alex_Morgan_5.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Diva Bleach x Lake Drive",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-05-18",
-      "time": null,
-      "price": "$15",
-      "description": "Diva Bleach, Lake Drive, Sundrift, The Ugly Cowboys",
-      "eventUrl": "http://www.prekindle.com/event/54329-diva-bleach-x-lake-drive-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453306411",
-      "dateAdded": "2026-03-26"
-    },
-    {
-      "title": "NBA Playoffs Watch Party",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-05-18",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/62223-nba-playoffs-watch-party-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147609594",
-      "dateAdded": "2026-05-17"
-    },
     {
       "title": "JILUKA - SOLD OUT**",
       "venue": "89th Street OKC",
@@ -106,7 +50,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-05-19",
       "time": null,
-      "price": "$55",
+      "price": "$60",
       "description": "Mac DeMarco, Tex Crick",
       "eventUrl": "http://www.prekindle.com/event/63851-mac-demarco-oklahoma-city",
       "ageLimit": null,
@@ -939,7 +883,7 @@
       "eventUrl": "http://www.prekindle.com/event/14821-la-witch-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157388626",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146759577",
       "dateAdded": "2026-05-04"
     },
     {
@@ -947,7 +891,7 @@
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
       "date": "2026-06-02",
-      "time": "6:30 pm",
+      "time": "7 pm",
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/30209484/highly-suspect-and-the-tour-of-yellow-roses-tulsa-tulsa-theater?partner_id=100",
@@ -1292,7 +1236,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-09",
       "time": null,
-      "price": "$30–$246",
+      "price": "$22–$246",
       "description": "Big K.R.I.T.",
       "eventUrl": "http://www.prekindle.com/event/79219-big-krit-the-world-is-a-parking-lot-oklahoma-city",
       "ageLimit": null,
@@ -1448,7 +1392,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-12",
       "time": null,
-      "price": "$30–$60",
+      "price": "$22–$60",
       "description": "Between The Buried & Me, Imperial Triumphant, Fallujah",
       "eventUrl": "http://www.prekindle.com/event/93682-between-the-buried-and-me-the-blue-nowhere-us-tour-spring-2026-oklahoma-city",
       "ageLimit": null,
@@ -1504,7 +1448,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-12",
       "time": "8:00 PM",
-      "price": "$18–$75",
+      "price": "$15–$75",
       "description": "Arkansauce, Brody Buster Band",
       "eventUrl": "http://www.prekindle.com/event/52275-arkansauce-oklahoma-city",
       "ageLimit": null,
@@ -3171,6 +3115,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Saidan | Thrä | Barbelith",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-07-29",
+      "time": null,
+      "price": "$15",
+      "description": "Saidan",
+      "eventUrl": "http://www.prekindle.com/event/92783-saidan-thr-barbelith-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146856581",
+      "dateAdded": "2026-05-19"
+    },
+    {
       "title": "Uncle Lucius: The 20th Anniversary Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3655,22 +3613,6 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "Chris Duarte Group",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-08-18",
-      "time": "6:30 PM",
-      "price": "$20 adv / $25 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38504",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38504-15af22427fb4bd5cf958ba542d2bfffb.jpeg",
-      "dateAdded": "2026-05-15"
-    },
-    {
       "title": "Jesse & Joy - El Despecho Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -3683,6 +3625,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949155419370",
       "dateAdded": "2026-05-06"
+    },
+    {
+      "title": "Chris Duarte Group",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-19",
+      "time": "6:30 PM",
+      "price": "$20 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38525",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/12ddfed73551c50e07af8191bd28c937.jpeg",
+      "dateAdded": "2026-05-19"
     },
     {
       "title": "Jayson Arendt",
@@ -3961,7 +3919,7 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/37818115/waylon-wyatt-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
+      "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-18"
@@ -4299,7 +4257,7 @@
       "date": "2026-09-24",
       "time": "8:00 PM",
       "price": "$79",
-      "description": "In Her Own Words, Every Avenue, Felicity, Public Works",
+      "description": "In Her Own Words, Every Avenue, Felicity",
       "eventUrl": "http://www.prekindle.com/event/54531-in-her-own-words-x-every-avenue-oklahoma-city",
       "ageLimit": null,
       "tags": [],
