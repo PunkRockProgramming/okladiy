@@ -2,10 +2,14 @@
  * Scraper for opolis.org/opolisevents (Norman, OK)
  *
  * Structure: server-rendered Squarespace page at /opolisevents (NOT /events).
- * Squarespace marks upcoming vs past with CSS modifier classes.
+ * Squarespace uses a --past modifier for past events. Upcoming events have no
+ * modifier (previously used --upcoming, but that class was dropped).
  *
  * Each event article:
- *   <article class="eventlist-event eventlist-event--upcoming">
+ *   <article class="eventlist-event">                          ← upcoming (no modifier)
+ *   <article class="eventlist-event eventlist-event--past">   ← past
+ *
+ *   Inner structure:
  *     <a href="/opolisevents/slug" class="eventlist-column-thumbnail">
  *     <div class="eventlist-column-info">
  *       <h1 class="eventlist-title">
@@ -39,8 +43,9 @@ export async function scrape() {
 
   const shows = [];
 
-  // Only scrape upcoming events; Squarespace marks them with --upcoming modifier
-  $('.eventlist-event--upcoming').each((_i, el) => {
+  // Only scrape upcoming events: select all eventlist-event articles, exclude --past
+  // (Squarespace dropped the --upcoming modifier; upcoming events now have no modifier)
+  $('article.eventlist-event').not('.eventlist-event--past').each((_i, el) => {
     try {
       const $el = $(el);
 
