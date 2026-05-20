@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T09:46:51.967Z",
+  "lastUpdated": "2026-05-20T20:00:37.036Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1381,9 +1381,9 @@
       "price": "$15",
       "description": "HeartWerk, Dj Starflyer, Setjjjj",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/vanguard-boiler-club-presents-rave-on-main-18-12-jun",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69fb645894d648da941980c5_open-uri20260506-797-1jy7v3.jpeg",
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0df32776de5a219e9ce2a4_RaveOnMain_June2026_Vanguard_2x1.jpeg",
       "dateAdded": "2026-05-17"
     },
     {
@@ -1434,7 +1434,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-06-12",
       "time": null,
-      "price": "$35–$103",
+      "price": "$29–$103",
       "description": "Matt Maeson, Haffway",
       "eventUrl": "http://www.prekindle.com/event/72819-matt-maeson-oklahoma-city",
       "ageLimit": null,
@@ -1478,7 +1478,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-13",
       "time": null,
-      "price": "$30–$100",
+      "price": "$26–$100",
       "description": "Juvenile",
       "eventUrl": "http://www.prekindle.com/event/84815-juveniles-boiling-point-album-release-tour-w-the-400-degreez-band-and-friends-oklahoma-city",
       "ageLimit": null,
@@ -1655,6 +1655,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949175120858",
       "dateAdded": "2026-04-10"
+    },
+    {
+      "title": "David Lewis",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-06-18",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "David Lewis",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/david-lewis-18-jun",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0df6cc127cc817f3cdd0d6_DavidLewis_VG_ConventDesigns_2x1.jpeg",
+      "dateAdded": "2026-05-20"
     },
     {
       "title": "Dallas Burrow",
@@ -2318,7 +2332,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-01",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$25–$75",
       "description": "Black Uhuru, Quantum SoulJahs",
       "eventUrl": "http://www.prekindle.com/event/24821-black-uhuru-oklahoma-city",
       "ageLimit": null,
@@ -3076,7 +3090,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-26",
       "time": "8:00 PM",
-      "price": "$30",
+      "price": "$25–$75",
       "description": "54 Ultra",
       "eventUrl": "http://www.prekindle.com/event/84775-54-ultra-oklahoma-city",
       "ageLimit": null,
@@ -3558,7 +3572,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-13",
       "time": "8:00 PM",
-      "price": "$15–$75",
+      "price": "$8–$75",
       "description": "Honky Tonk Circus",
       "eventUrl": "http://www.prekindle.com/event/13616-honky-tonk-circus-oklahoma-city",
       "ageLimit": null,
@@ -3653,6 +3667,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37928-0ee0c3ecbd88b47bd08d10b13b270efd.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Frozen Soul",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-08-16",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "Frozen Soul, Eternal, Maul , Inside You, Ectospire",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/frozen-soul-16-aug",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0b38b3ae4e4289f3377b6f_Frozen_Soul_-_Promo_Photo.jpeg",
+      "dateAdded": "2026-05-20"
     },
     {
       "title": "Jesse & Joy - El Despecho Tour",
@@ -4061,7 +4089,7 @@
       "eventUrl": "http://www.prekindle.com/event/53215-molchat-doma-molchat-doma-tour-2026-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146398861",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949145839264",
       "dateAdded": "2026-04-21"
     },
     {
@@ -4175,6 +4203,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "A Man Named Cash (Johnny Cash Tribute)",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-18",
+      "time": null,
+      "price": "$18–$45",
+      "description": "A Man Named Cash (johnny Cash Tribute)",
+      "eventUrl": "http://www.prekindle.com/event/47719-a-man-named-cash-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146913405",
+      "dateAdded": "2026-05-20"
     },
     {
       "title": "Buddy Guy 90",
@@ -4298,7 +4340,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-24",
       "time": "8:00 PM",
-      "price": "$79",
+      "price": "$22–$79",
       "description": "In Her Own Words, Every Avenue, Felicity",
       "eventUrl": "http://www.prekindle.com/event/54531-in-her-own-words-x-every-avenue-oklahoma-city",
       "ageLimit": null,
@@ -4447,6 +4489,20 @@
       "dateAdded": "2026-05-08"
     },
     {
+      "title": "Morgan Page - Classics Only",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-01",
+      "time": null,
+      "price": "$25–$65",
+      "description": "Morgan Page",
+      "eventUrl": "http://www.prekindle.com/event/92868-morgan-page-classics-only-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146228282",
+      "dateAdded": "2026-05-20"
+    },
+    {
       "title": "BRIT FLOYD – The Moon, The Wall, and Beyond",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4585,6 +4641,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Indigenous Day at Cain’s Ballroom",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-10-12",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/68389836/indigenous-day-at-cains-ballroom-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-05-20"
     },
     {
       "title": "Leonid & Friends",
