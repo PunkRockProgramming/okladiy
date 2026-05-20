@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-05-19T19:41:47.408Z",
+  "lastUpdated": "2026-05-20T09:46:51.967Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "JILUKA - SOLD OUT**",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-19",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "JILUKA\n2026 World Tour \nwith special guests VCTMS and TSS\n\nGeneral Admission Standing / All Ages\n\n**THIS EVENT IS SOLD OUT**",
-      "eventUrl": "https://www.etix.com/ticket/p/41651115/jiluka-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_0dc47dadceac4abd9730bb971546968b~mv2.jpg",
-      "dateAdded": "2026-04-09"
-    },
-    {
-      "title": "Sports",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-05-19",
-      "time": "8:00 PM",
-      "price": "$30",
-      "description": "Sports, Ally Evenson",
-      "eventUrl": "http://www.prekindle.com/event/19249-sports-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648510601463",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "Mac DeMarco",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-05-19",
-      "time": null,
-      "price": "$60",
-      "description": "Mac DeMarco, Tex Crick",
-      "eventUrl": "http://www.prekindle.com/event/63851-mac-demarco-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2853111880177686461",
-      "dateAdded": "2026-03-21"
-    },
     {
       "title": "COMBAT",
       "venue": "89th Street OKC",
@@ -64,7 +22,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-05-20",
       "time": "8:00 PM",
-      "price": "$25.52",
+      "price": "$28.52",
       "description": "Mac Saturn, The Lonelys",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/mac-saturn-20-may",
       "ageLimit": "ALL AGES",
@@ -1499,6 +1457,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37261-1f9c969ba79cd3a1c07dbe3e0abf7378.jpg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Yosemite In Black",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-06-13",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "Terminus Hate Takeover Tour\nYosemite In Black\nwith Special Guests Powerplant, Tar Creek, Tainted Beef & Splintered\nGeneral Admission Standing / All Ages Welcome",
+      "eventUrl": "https://www.ticketstorm.com/event/terminushatetakeovertour/89thstreetokc/oklahomacity/32813/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_7d5849a5ddb84dad8329972384129401~mv2.jpg",
+      "dateAdded": "2026-05-20"
     },
     {
       "title": "Juvenile’s Boiling Point Album Release Tour ​w /  The 400 Degreez Band​ & Friends",
