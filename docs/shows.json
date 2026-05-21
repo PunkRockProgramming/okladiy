@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-05-21T09:54:47.298Z",
+  "lastUpdated": "2026-05-21T19:41:10.844Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "COMBAT",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-20",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "COMBAT\nwith special guests Semester Abroad & Fair Weather Enemies\n\nGeneral Admission Standing / All Ages Welcome \n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/44015870/combat-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_61b63018e17741be99e758dafd1bd45b~mv2.jpg",
-      "dateAdded": "2026-04-10"
-    },
     {
       "title": "Oxygen Destroyer | Drawn and Quartered | Ecto Spire | Drenched in Ceremony",
       "venue": "The Whittier Bar",
@@ -139,7 +125,7 @@
       "eventUrl": "http://www.prekindle.com/event/42712-the-widdler-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648519298682",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949145207978",
       "dateAdded": "2026-03-21"
     },
     {
@@ -599,7 +585,7 @@
       "dateAdded": "2026-04-11"
     },
     {
-      "title": "Okra & the Universe",
+      "title": "Okra & the Universe with special guest Fat Baby Show",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-05-30",
@@ -610,7 +596,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151380303",
-      "dateAdded": "2026-05-05"
+      "dateAdded": "2026-05-21"
     },
     {
       "title": "Jackie Venson",
@@ -3551,6 +3537,20 @@
       "dateAdded": "2026-04-07"
     },
     {
+      "title": "Travis Bolt",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-13",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949144917072",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949144916914",
+      "dateAdded": "2026-05-21"
+    },
+    {
       "title": "Honky Tonk Circus",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3744,7 +3744,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-08-22",
       "time": null,
-      "price": "$144",
+      "price": "$28–$144",
       "description": "Braxton Keith, Cole Phillips",
       "eventUrl": "http://www.prekindle.com/event/68836-braxton-keith-oklahoma-city",
       "ageLimit": null,
@@ -3781,6 +3781,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38361-046af9917094e80bfbfe6b3466588f5d.jpeg",
       "dateAdded": "2026-04-30"
+    },
+    {
+      "title": "Southpaw FLHC",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-08-23",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "Southpaw FLHC\nThe Standard 2026 Tour\nwith special guest Arcline\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/86682969/southpaw-flhc-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_15cdc3d2c9f74c8fa37d88abd1e4589d~mv2.jpg",
+      "dateAdded": "2026-05-21"
     },
     {
       "title": "DevilDriver",
@@ -5317,6 +5331,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156289027",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "RuPaul’s Drag Race Werq The World News 2027",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2027-02-28",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/40177652/rupauls-drag-race-werq-the-world-news-2027-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": "18+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-05-21"
     },
     {
       "title": "Private Event",
