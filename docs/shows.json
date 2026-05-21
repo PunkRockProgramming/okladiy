@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T20:00:37.036Z",
+  "lastUpdated": "2026-05-21T09:54:47.298Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,64 +15,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_61b63018e17741be99e758dafd1bd45b~mv2.jpg",
       "dateAdded": "2026-04-10"
-    },
-    {
-      "title": "Mac Saturn",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-05-20",
-      "time": "8:00 PM",
-      "price": "$28.52",
-      "description": "Mac Saturn, The Lonelys",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/mac-saturn-20-may",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/699dd0e104118556a795946d_MacSaturn_2025_Maximus_Reid_MAX02006-2_web.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Inferna, Body Farm, Heavenbound, Gutgash, Ectospire",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-05-20",
-      "time": null,
-      "price": "$12",
-      "description": "Inferna, Body Farm, Heavenbound, Gutgash, Ectospire",
-      "eventUrl": "http://www.prekindle.com/event/91276-inferna-body-farm-ectospire-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158681852",
-      "dateAdded": "2026-05-01"
-    },
-    {
-      "title": "NBA Playoffs Watch Party",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-05-20",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/12955-nba-playoffs-watch-party-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147609487",
-      "dateAdded": "2026-05-17"
-    },
-    {
-      "title": "Brujeria",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-05-20",
-      "time": "6:30 PM",
-      "price": "$18 adv / $23 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38170",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38170-85ec766709e93ddf5cce7c2a148e883e.png",
-      "dateAdded": "2026-04-02"
     },
     {
       "title": "Oxygen Destroyer | Drawn and Quartered | Ecto Spire | Drenched in Ceremony",
@@ -108,7 +50,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-05-21",
       "time": "8:00 PM",
-      "price": "$17–$75",
+      "price": "$25–$75",
       "description": "HARBOUR, Fox Royale",
       "eventUrl": "http://www.prekindle.com/event/87862-harbour-oklahoma-city",
       "ageLimit": null,
@@ -467,7 +409,7 @@
       "date": "2026-05-27",
       "time": "8:00 PM",
       "price": "$34",
-      "description": "Carolyn Wonderland",
+      "description": "Carolyn Wonderland, Paul Benjaman Band",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/carolyn-wonderland-27-may",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -803,6 +745,20 @@
       "dateAdded": "2026-05-13"
     },
     {
+      "title": "Poetry for Thee: Open Mic Poetry Swap",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-06-01",
+      "time": "5:30 PM",
+      "price": null,
+      "description": "Open Mic Poetry Swap hosted by Alf. Free to attend and participate. You can just listen to the poetry, you do not have to read!Early Sign up Time 5:30pm Reading 6pm.",
+      "eventUrl": "https://www.noisetowntulsa.com/events/c73rjfmhy94jtekwl8e3ye9bxtfdlp",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1779333624485-P5GV8XF72ALNOB5XEASP/Poetry+Flyer+June+V2.png",
+      "dateAdded": "2026-05-21"
+    },
+    {
       "title": "When Forever Finds Me | Boketto | esc ctrl",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -1057,6 +1013,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949179828124",
       "dateAdded": "2026-04-05"
+    },
+    {
+      "title": "Live Music at Park Grove Rec! Feat: Morris Village, In My Defense, and More!",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-06-06",
+      "time": "7:30 PM",
+      "price": "$104241",
+      "description": "Live music all ages at our neighbors Park Grove Church! Featuring performances by Morris Village, In My Defense, A Wish That Lasts, and Press Badge.Doors 7:30pm Music 8pmTickets $104241 South 37th West Avenue",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-at-park-grove-rec-feat-morris-village-in-my-defense-and-more",
+      "ageLimit": "all ages",
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1779333951713-BY1TMBUFUHDDEWWP7D8F/Park+Grove+Flyer.png",
+      "dateAdded": "2026-05-21"
     },
     {
       "title": "EZ BAND",
@@ -1379,7 +1349,7 @@
       "date": "2026-06-12",
       "time": "9:00 PM",
       "price": "$15",
-      "description": "HeartWerk, Dj Starflyer, Setjjjj",
+      "description": "HeartWerk, Dj Starflyer, Sordelo, Set J",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/vanguard-boiler-club-presents-rave-on-main-18-12-jun",
       "ageLimit": null,
       "tags": [],
@@ -2381,6 +2351,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453929640",
       "dateAdded": "2026-03-25"
+    },
+    {
+      "title": "Queen Caution Black Out Concert",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-05",
+      "time": null,
+      "price": "$5",
+      "description": "Queen Caution",
+      "eventUrl": "http://www.prekindle.com/event/42619-queen-caution-black-out-concert-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949145570632",
+      "dateAdded": "2026-05-21"
     },
     {
       "title": "LABELS | Black Magnolia | Babies On A Halfpipe",
@@ -3760,7 +3744,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-08-22",
       "time": null,
-      "price": "$28–$144",
+      "price": "$144",
       "description": "Braxton Keith, Cole Phillips",
       "eventUrl": "http://www.prekindle.com/event/68836-braxton-keith-oklahoma-city",
       "ageLimit": null,
@@ -3833,7 +3817,7 @@
       "date": "2026-08-23",
       "time": null,
       "price": "$15",
-      "description": "Royale Lynn",
+      "description": "Royale Lynn, Pretty Pity",
       "eventUrl": "http://www.prekindle.com/event/79138-the-royale-pain-in-the-a-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3909,6 +3893,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949155907727",
       "dateAdded": "2026-05-06"
+    },
+    {
+      "title": "The Best of Steely Dan at The Shrine",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-28",
+      "time": "7:00 PM",
+      "price": "$20 ADV   $25 DOOR",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38556",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38556-c496b3898d867d0538c2deae8ac00d69.png",
+      "dateAdded": "2026-05-21"
     },
     {
       "title": "PawPaw Rod: Picture Day Tour",
@@ -4119,6 +4119,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-27"
+    },
+    {
+      "title": "Temple 202: Scott Weiland Tribute",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-09-11",
+      "time": "7:00 PM",
+      "price": "$20 ADV   $25 DOOR",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38557",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38557-d30c457d93d22535ed1bc0022a9f83dc.png",
+      "dateAdded": "2026-05-21"
     },
     {
       "title": "Tig Notaro: Out of Nowhere",
@@ -4585,6 +4601,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183596553",
       "dateAdded": "2026-03-31"
+    },
+    {
+      "title": "Igorrr: North American Tour 2026",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-10-09",
+      "time": "7:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/35113340/igorrrnorth-american-tour-2026-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/05/igorrr-north-american-tour-2026.jfif",
+      "dateAdded": "2026-05-21"
     },
     {
       "title": "Houndmouth",
