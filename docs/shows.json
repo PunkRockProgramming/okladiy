@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T09:40:43.209Z",
+  "lastUpdated": "2026-05-22T19:20:09.221Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -69,7 +69,7 @@
       "eventUrl": "http://www.prekindle.com/event/42712-the-widdler-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949145207978",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949143763403",
       "dateAdded": "2026-03-21"
     },
     {
@@ -1662,7 +1662,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-06-19",
       "time": "9:30 PM",
-      "price": "$22",
+      "price": "$25",
       "description": "Electric Feels Indie Dance Party",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/electric-feels-indie-rock-electronic-dance-party-19-jun",
       "ageLimit": null,
@@ -1683,6 +1683,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156235120",
       "dateAdded": "2026-05-05"
+    },
+    {
+      "title": "CLUB SLAYYY",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-06-19",
+      "time": "9:00 PM",
+      "price": "$15–$75",
+      "description": "What the Sound, The Dance Parties, What the Dance, DJ Isis Payne",
+      "eventUrl": "http://www.prekindle.com/event/87842-club-slayyy-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147041163",
+      "dateAdded": "2026-05-22"
     },
     {
       "title": "BRAT",
@@ -1965,7 +1979,7 @@
       "eventUrl": "https://www.thevanguardtulsa.com/shows/pariah-system-26-jun",
       "ageLimit": "ALL AGES",
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c1c84ce4dd6c459f36a488_open-uri20260323-809-qaghvq.jpeg",
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a10974caf97c6582e1eb0d8_pariah_.jpeg",
       "dateAdded": "2026-05-04"
     },
     {
@@ -2990,7 +3004,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-26",
       "time": "8:00 PM",
-      "price": "$30",
+      "price": "$25–$75",
       "description": "54 Ultra",
       "eventUrl": "http://www.prekindle.com/event/84775-54-ultra-oklahoma-city",
       "ageLimit": null,
@@ -3588,7 +3602,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-16",
       "time": "7:00 PM",
-      "price": null,
+      "price": "$28",
       "description": "Frozen Soul, Eternal, Maul , Inside You, Ectospire",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/frozen-soul-16-aug",
       "ageLimit": "ALL AGES",
@@ -3639,6 +3653,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476526614",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Life.Church Worship Nights",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-20",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/86988409/lifechurch-worship-nights-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-05-22"
     },
     {
       "title": "Sincere Engineer - The Probable Claws Tour",
@@ -4887,6 +4915,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38400-7eef68e96de26d46ae894abc6808a422.jpeg",
       "dateAdded": "2026-05-07"
+    },
+    {
+      "title": "Through Being Cool presents EMO HALLOWEEN with The Dom Telonges (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-30",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "Through Being Cool, The Dom Telonges",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/through-being-cool-presents-emo-halloween-with-the-dom-telonges-18-30-oct",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a1099ad1c283e51b873a79d_TBC_-_EMO_HALLOWEEN.jpeg",
+      "dateAdded": "2026-05-22"
     },
     {
       "title": "Swiftball",
