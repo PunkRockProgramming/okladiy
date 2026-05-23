@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T08:27:39.543Z",
+  "lastUpdated": "2026-05-23T18:52:02.248Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -3739,6 +3739,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151084360",
       "dateAdded": "2026-05-15"
+    },
+    {
+      "title": "Transylvania | Warhog | Blind Oath",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-28",
+      "time": null,
+      "price": "$10",
+      "description": "Transylvania",
+      "eventUrl": "http://www.prekindle.com/event/46771-transylvania-warhog-blind-oath-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949143068041",
+      "dateAdded": "2026-05-23"
     },
     {
       "title": "Velvetine",
