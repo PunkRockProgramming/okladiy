@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-05-24T18:57:43.882Z",
+  "lastUpdated": "2026-05-25T10:21:26.252Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Bluegrass Brunch with Johnny Mullenax",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-05-24",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148091912",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148091895",
-      "dateAdded": "2026-05-16"
-    },
-    {
-      "title": "Cole Barnhill",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-05-24",
-      "time": null,
-      "price": "$16",
-      "description": "Cole Barnhill, Jake Slay",
-      "eventUrl": "http://www.prekindle.com/event/31647-cole-barnhill-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648469074284",
-      "dateAdded": "2026-03-21"
-    },
-    {
-      "title": "NBA Playoffs Watch Party",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-05-24",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/33811-nba-playoffs-watch-party-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147609242",
-      "dateAdded": "2026-05-17"
-    },
     {
       "title": "Toyotuh Tuesday",
       "venue": "The Whittier Bar",
