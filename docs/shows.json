@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T10:09:10.462Z",
+  "lastUpdated": "2026-05-26T19:52:27.906Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -71,6 +71,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949168769504",
       "dateAdded": "2026-04-18"
+    },
+    {
+      "title": "NBA Playoffs Watch Party",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-05-28",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/49532-nba-playoffs-watch-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141496514",
+      "dateAdded": "2026-05-26"
     },
     {
       "title": "House of Heavy ..",
@@ -792,7 +806,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-09",
       "time": null,
-      "price": "$22–$246",
+      "price": "$15–$246",
       "description": "Big K.R.I.T.",
       "eventUrl": "http://www.prekindle.com/event/79219-big-krit-the-world-is-a-parking-lot-oklahoma-city",
       "ageLimit": null,
@@ -1032,7 +1046,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-06-12",
       "time": null,
-      "price": "$35–$103",
+      "price": "$29–$103",
       "description": "Matt Maeson, Haffway",
       "eventUrl": "http://www.prekindle.com/event/72819-matt-maeson-oklahoma-city",
       "ageLimit": null,
@@ -1083,6 +1097,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648513988504",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Auntie Ace | Palazzo | dj noname.",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-06-13",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/74532-auntie-ace-palazzo-dj-no-name-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141514619",
+      "dateAdded": "2026-05-26"
     },
     {
       "title": "Dead Metal Society",
@@ -1162,7 +1190,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-14",
       "time": null,
-      "price": "$30–$55",
+      "price": "$15–$55",
       "description": "Fruit Bats",
       "eventUrl": "http://www.prekindle.com/event/29337-fruit-bats-oklahoma-city",
       "ageLimit": null,
@@ -2577,6 +2605,20 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ae11eaa2f6a24169b88f44cc9e636b6f~mv2.jpg",
       "dateAdded": "2026-05-12"
+    },
+    {
+      "title": "feeble little horse",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-23",
+      "time": null,
+      "price": "$25",
+      "description": "feeble little horse, Touching Ice",
+      "eventUrl": "http://www.prekindle.com/event/99986-feeble-little-horse-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148983742",
+      "dateAdded": "2026-05-26"
     },
     {
       "title": "Ratchet Dolls",
