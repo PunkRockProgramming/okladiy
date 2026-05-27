@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T10:07:03.696Z",
+  "lastUpdated": "2026-05-27T19:56:26.420Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -407,12 +407,26 @@
       "date": "2026-06-02",
       "time": null,
       "price": "$18",
-      "description": "L.A. Witch, Helen Kelter Skelter",
+      "description": "L.A. Witch, Helen Kelter Skelter, Diet Riot",
       "eventUrl": "http://www.prekindle.com/event/14821-la-witch-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146759577",
       "dateAdded": "2026-05-04"
+    },
+    {
+      "title": "Highly Suspect And The Tour Of Yellow Roses",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-06-02",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/30209484/highly-suspect-and-the-tour-of-yellow-roses-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-05-27"
     },
     {
       "title": "RA",
@@ -1105,7 +1119,7 @@
       "date": "2026-06-13",
       "time": null,
       "price": "$15",
-      "description": "Donna",
+      "description": "Donna, Chase Kerby",
       "eventUrl": "http://www.prekindle.com/event/35839-donna-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1191,7 +1205,7 @@
       "date": "2026-06-16",
       "time": null,
       "price": "$17",
-      "description": "Asian Glow, Ivory Days, Some Fear",
+      "description": "Asian Glow, Ivory Daze, Some Fear",
       "eventUrl": "http://www.prekindle.com/event/77946-asian-glow-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1247,7 +1261,7 @@
       "date": "2026-06-18",
       "time": "8:00 PM",
       "price": "$22",
-      "description": "David Lewis",
+      "description": "David Lewis, Boston James",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/david-lewis-18-jun",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -1897,7 +1911,7 @@
       "dateAdded": "2026-05-15"
     },
     {
-      "title": "Red Sun, Fly Over Statres, Ogbert The Nerd, Endswell",
+      "title": "Red Sun, Fly Over States, Ogbert The Nerd, Endswell",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-06-30",
@@ -1908,7 +1922,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154738309",
-      "dateAdded": "2026-05-07"
+      "dateAdded": "2026-05-27"
     },
     {
       "title": "Sparta",
@@ -1959,7 +1973,7 @@
       "date": "2026-07-02",
       "time": "8:00 PM",
       "price": "$20–$75",
-      "description": "Novulent",
+      "description": "Novulent, Baby Teeth",
       "eventUrl": "http://www.prekindle.com/event/46612-novulent-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2853,6 +2867,20 @@
       "dateAdded": "2026-05-06"
     },
     {
+      "title": "Colliding EP Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-31",
+      "time": null,
+      "price": "$12",
+      "description": "Colliding, Powdr, Photocopy",
+      "eventUrl": "http://www.prekindle.com/event/76757-colliding-ep-release-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141093853",
+      "dateAdded": "2026-05-27"
+    },
+    {
       "title": "Haydon Wiginton & Faith Schueler",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3609,6 +3637,20 @@
       "dateAdded": "2026-05-21"
     },
     {
+      "title": "Live Mario Kart",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-29",
+      "time": null,
+      "price": "$15–$18",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/65775-live-mario-kart-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141451418",
+      "dateAdded": "2026-05-27"
+    },
+    {
       "title": "PawPaw Rod: Picture Day Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4273,6 +4315,20 @@
       "dateAdded": "2026-05-11"
     },
     {
+      "title": "The Bobby Lees",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-03",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "The Bobby Lees",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-bobby-lees-03-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a10c62ccf458eec7712a512_bobby_lees.jpeg",
+      "dateAdded": "2026-05-27"
+    },
+    {
       "title": "Suki Waterhouse: The Loveland Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4369,6 +4425,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-19"
+    },
+    {
+      "title": "Sonic: Live In Concert",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-10-11",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/94764-sonic-live-in-concert-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141100140",
+      "dateAdded": "2026-05-27"
     },
     {
       "title": "Jim Henson’s Labyrinth: In Concert 40th Anniversary",
@@ -4757,6 +4827,20 @@
       "dateAdded": "2026-03-31"
     },
     {
+      "title": "Noah Gunderson",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-06",
+      "time": null,
+      "price": "$102",
+      "description": "Noah Gundersen, Runnner, Breakup Shoes",
+      "eventUrl": "http://www.prekindle.com/event/55266-noah-gunderson-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949145264458",
+      "dateAdded": "2026-05-27"
+    },
+    {
       "title": "Shadowgrass",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4957,6 +5041,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38101-1cc2c5a8a9233012e91d6194a08eb647.jpeg",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Catch Your Breath",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-12-05",
+      "time": "7 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/66334766/catch-your-breath-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/05/catch-your-breath.jfif",
+      "dateAdded": "2026-05-27"
     },
     {
       "title": "Blue October",
