@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-05-26T19:52:27.906Z",
+  "lastUpdated": "2026-05-27T10:07:03.696Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Toyotuh Tuesday",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-05-26",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/54558-toyotuh-tuesday-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148002731",
-      "dateAdded": "2026-05-17"
-    },
-    {
-      "title": "NBA Playoffs Watch Party",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-05-26",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/21129-nba-playoffs-watch-party-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949142125654",
-      "dateAdded": "2026-05-25"
-    },
     {
       "title": "The HU and Apocalyptica with Special Guest The Rasmus",
       "venue": "Diamond Ballroom",
@@ -441,20 +413,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146759577",
       "dateAdded": "2026-05-04"
-    },
-    {
-      "title": "Highly Suspect And The Tour Of Yellow Roses",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-06-02",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/30209484/highly-suspect-and-the-tour-of-yellow-roses-tulsa-tulsa-theater?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
     },
     {
       "title": "RA",
@@ -1800,7 +1758,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-06-27",
       "time": "11:00 AM",
-      "price": "$28 to $85.36",
+      "price": "$28 to $92",
       "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/golden-a-k-pop-kids-party-27-jun",
       "ageLimit": "ALL AGES",
@@ -2447,6 +2405,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648691639253",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "Nuns | Nghiems",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-07-18",
+      "time": null,
+      "price": "$10",
+      "description": "Nuns",
+      "eventUrl": "http://www.prekindle.com/event/87735-nuns-nghiems-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141417794",
+      "dateAdded": "2026-05-27"
     },
     {
       "title": "Cliffdiver",
