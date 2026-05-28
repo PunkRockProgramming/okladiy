@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T10:15:01.211Z",
+  "lastUpdated": "2026-05-28T20:01:57.072Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -93,7 +93,7 @@
       "date": "2026-05-29",
       "time": "8:00 PM",
       "price": "$41",
-      "description": "Kottonmouth Kings, A Killer's Confession, Kung Fu Vampire, Mista J, Segan, FLIPCYDE",
+      "description": "Kottonmouth Kings, A Killer's Confession, Kung Fu Vampire, Mista J, Segan, FLIPCYDE, Buried Inside of Us",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/kottonmouth-kings-a-killer-s-confession-kung-fu-vampire-29-may",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -2653,6 +2653,20 @@
       "dateAdded": "2026-04-09"
     },
     {
+      "title": "NASCAR ALOE + JASIAH: Capital Punishment Tour",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-25",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "w/ Special Guests Next April and Dirtybutt\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/88187092/nascar-aloe-jasiah-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_fe8ed2e1e08b40dfa98e4822c270441c~mv2.jpg",
+      "dateAdded": "2026-05-28"
+    },
+    {
       "title": "Bit Brigade Performs \"Mega Man X\" LIVE",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -3551,17 +3565,31 @@
       "dateAdded": "2026-03-25"
     },
     {
+      "title": "Bob Wills' Texas Playboys",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-27",
+      "time": null,
+      "price": "$34–$49",
+      "description": "Bob Wills' Texas Playboys",
+      "eventUrl": "http://www.prekindle.com/event/47242-bob-wills-texas-playboys-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141649155",
+      "dateAdded": "2026-05-28"
+    },
+    {
       "title": "Charles Wesley Godwin - The Christian Name Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
       "date": "2026-08-27",
       "time": null,
       "price": "$28–$103",
-      "description": "Charles Wesley Godwin",
+      "description": "Charles Wesley Godwin, Colby Acuff",
       "eventUrl": "http://www.prekindle.com/event/62427-charles-wesley-godwin-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146447340",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140008980",
       "dateAdded": "2026-05-19"
     },
     {
@@ -3769,26 +3797,12 @@
       "date": "2026-09-09",
       "time": null,
       "price": "$16",
-      "description": "Sweeping Promises, Stepmom, Rockstar Nightclub",
+      "description": "Sweeping Promises, Stepmom",
       "eventUrl": "http://www.prekindle.com/event/81278-sweeping-promises-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151758306",
       "dateAdded": "2026-05-12"
-    },
-    {
-      "title": "Toni Romiti",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-10",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "TONI ROMITI T0n16 Again Tour\n\nGeneral Admission Standing / All Ages / *VIP Packages Available",
-      "eventUrl": "https://www.etix.com/ticket/p/34931911/toni-romiti-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_96cffc4e0b2f491b8e0597bda991f0de~mv2.jpg",
-      "dateAdded": "2026-05-22"
     },
     {
       "title": "Ray Wylie Hubbard",
@@ -3817,6 +3831,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167255344",
       "dateAdded": "2026-04-22"
+    },
+    {
+      "title": "Lunar Vacation",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-10",
+      "time": null,
+      "price": "$18",
+      "description": "Lunar Vacation, Closebye",
+      "eventUrl": "http://www.prekindle.com/event/72836-lunar-vacation-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140870356",
+      "dateAdded": "2026-05-28"
     },
     {
       "title": "Molchat Doma - Molchat Doma Tour 2026",
@@ -3917,6 +3945,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161458942",
       "dateAdded": "2026-04-28"
+    },
+    {
+      "title": "Castle | Medicine Horse | Glorack",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-09-16",
+      "time": null,
+      "price": "$10",
+      "description": "Castle",
+      "eventUrl": "http://www.prekindle.com/event/36464-castle-medicine-horse-glorack-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140052713",
+      "dateAdded": "2026-05-28"
     },
     {
       "title": "Dirty Sound Magnet | Gran Moreno",
@@ -4287,6 +4329,20 @@
       "dateAdded": "2026-05-12"
     },
     {
+      "title": "The Bobby Lees",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-02",
+      "time": null,
+      "price": "$22",
+      "description": "The Bobby Lees",
+      "eventUrl": "http://www.prekindle.com/event/83367-the-bobby-lees-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141313861",
+      "dateAdded": "2026-05-28"
+    },
+    {
       "title": "The Stars Tour featuring Anne Wilson",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4418,7 +4474,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-11",
       "time": null,
-      "price": null,
+      "price": "$20–$85",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/94764-sonic-live-in-concert-oklahoma-city",
       "ageLimit": null,
@@ -4818,7 +4874,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-11-06",
       "time": null,
-      "price": "$102",
+      "price": "$27–$102",
       "description": "Noah Gundersen, Runnner, Breakup Shoes",
       "eventUrl": "http://www.prekindle.com/event/55266-noah-gunderson-oklahoma-city",
       "ageLimit": null,
