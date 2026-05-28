@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-05-27T19:56:26.420Z",
+  "lastUpdated": "2026-05-28T10:15:01.211Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "The HU and Apocalyptica with Special Guest The Rasmus",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-05-27",
-      "time": "7 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/88494074/the-hu-and-apocalyptica-with-special-guest-the-rasmus-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/02/the-hu-and-apocalyptica-with-special-guest-the-rasmus.jfif",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Carolyn Wonderland",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-05-27",
-      "time": "8:00 PM",
-      "price": "$34",
-      "description": "Carolyn Wonderland, Paul Benjaman Band",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/carolyn-wonderland-27-may",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bc387e1c4f113994d25423_CarolynWonderland_6935_byMaryBruton.jpeg",
-      "dateAdded": "2026-04-18"
-    },
     {
       "title": "Likewise | Kings of Sweden | See Me Through",
       "venue": "The Whittier Bar",
@@ -327,6 +299,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/07/etix-Buckcherry1751986173_3859601751986174.jfif",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Firstnamebasis | Sluggnutt | Fajita Fieldtrip",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-05-31",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/49142-firstnamebasis-sluggnutt-fajita-fieldtrip-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140441689",
+      "dateAdded": "2026-05-28"
     },
     {
       "title": "Bluegrass Brunch with Johnny Mullenax",
@@ -859,18 +845,18 @@
       "dateAdded": "2026-04-10"
     },
     {
-      "title": "Posponed - Solya",
+      "title": "POSTPONED - Solya",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
       "date": "2026-06-11",
       "time": "7:00 PM",
       "price": null,
-      "description": "Show has been postponed due to illness. \nNew date will be announced soon.\nSolya \nQueen of Texas Tour 2026\nwith Special Guest Tele  Novella\n*All Tickets General Admission",
-      "eventUrl": "https://www.89thstreetokc.com/events/posponed-solya",
+      "description": "* This Performance Scheduled for June 11th with Solya in Oklahoma City been postponed due to illness. \n*New date will be announced soon\n*Please hold all tickets more information will become available soon.",
+      "eventUrl": "https://www.89thstreetokc.com/events/postponed-solya",
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_89d6580904594b4396f5123be1b0f7b4~mv2.jpg",
-      "dateAdded": "2026-05-23"
+      "dateAdded": "2026-05-28"
     },
     {
       "title": "Living Hollow | Ghost in the Atlantic | Who Will Know",
@@ -2133,7 +2119,7 @@
       "eventUrl": "http://www.prekindle.com/event/19517-slumbering-sun-insomniac-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150838037",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140654217",
       "dateAdded": "2026-04-29"
     },
     {
