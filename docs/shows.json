@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T10:05:01.055Z",
+  "lastUpdated": "2026-05-29T20:05:19.328Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -211,6 +211,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151730780",
       "dateAdded": "2026-05-11"
+    },
+    {
+      "title": "NBA Playoffs Watch Party",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-05-30",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/89529-nba-playoffs-watch-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "http://www.prekindle.com/images/prekindle-logo.png",
+      "dateAdded": "2026-05-29"
     },
     {
       "title": "Kolby Cooper",
@@ -1047,7 +1061,7 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-06-13",
-      "time": "8:00 PM",
+      "time": "9:00 PM",
       "price": "$15",
       "description": "Dead Metal Society",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/dead-metal-society-13-jun",
@@ -1121,11 +1135,11 @@
       "date": "2026-06-14",
       "time": null,
       "price": "$15–$55",
-      "description": "Fruit Bats",
+      "description": "Fruit Bats, Matthew Logan Vasquez",
       "eventUrl": "http://www.prekindle.com/event/29337-fruit-bats-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648457890913",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949138952167",
       "dateAdded": "2026-03-24"
     },
     {
@@ -1413,6 +1427,20 @@
       "dateAdded": "2026-04-28"
     },
     {
+      "title": "Live Music All Ages feat: Phantasmagoria & More!",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-06-20",
+      "time": "7:30 PM",
+      "price": "$10",
+      "description": "Live music featuring performances by Phantasmagoria, Modern View(Joplin), STONESET, and Self-Solution.Doors 7:30pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-phantasmagoria-more",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1780061445286-UP8RTLIM4UD24U2GFL9X/Stone+Set+Flier.jpeg",
+      "dateAdded": "2026-05-29"
+    },
+    {
       "title": "She Hates Me Not & TAKER",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1623,6 +1651,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149639861",
       "dateAdded": "2026-05-14"
+    },
+    {
+      "title": "Live Music All Ages feat: Kikchik, JAM of All Colors & More",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-06-26",
+      "time": "7:30 PM",
+      "price": "$10",
+      "description": "Live Music from Kikchik, JAM of All Colors, Formosa, and Kes.Doors 7:30pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-kikchik-jam-of-all-colors-more",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1780061632324-LKPO0S75DXN2O5RVFN2O/Kikchik+flyer+V2.png",
+      "dateAdded": "2026-05-29"
     },
     {
       "title": "Pariah System",
@@ -2570,7 +2612,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-07-23",
       "time": null,
-      "price": "$30",
+      "price": "$25",
       "description": "feeble little horse, Touching Ice",
       "eventUrl": "http://www.prekindle.com/event/99986-feeble-little-horse-oklahoma-city",
       "ageLimit": null,
@@ -2593,6 +2635,34 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37929-aeb37b3128e65b80d80f4dfdc5c44821.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "House Party - A sweaty love-letter to the 2010s rager",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-07-24",
+      "time": null,
+      "price": "$17–$77",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/68975-house-party-a-sweaty-love-letter-to-the-2010s-rager-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140890493",
+      "dateAdded": "2026-05-29"
+    },
+    {
+      "title": "This Ain't a Scene - 18+ - MTV2 tribute",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-07-24",
+      "time": "8:00 PM",
+      "price": "$15",
+      "description": "A Mixtape Catastrophe",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/this-ain-t-a-scene-18-mtv2-tribute-24-jul",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a19a8c8bbff86defa9957e5_TAAS724_2X1.jpeg",
+      "dateAdded": "2026-05-29"
     },
     {
       "title": "Johnny Manchild and the Poor Bastards",
@@ -2651,6 +2721,20 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/70d2f5_a280479a22c1496093fefaff58c76cba~mv2.jpg",
       "dateAdded": "2026-05-28"
+    },
+    {
+      "title": "Kawaii Rave",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-07-25",
+      "time": null,
+      "price": "$15–$30",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/33638-kawaii-rave-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140894997",
+      "dateAdded": "2026-05-29"
     },
     {
       "title": "Bit Brigade Performs \"Mega Man X\" LIVE",
@@ -3007,6 +3091,20 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_81b46e6aaf334101a045a1c119125a11~mv2.jpg",
       "dateAdded": "2026-05-16"
+    },
+    {
+      "title": "Rome Streetz - \"Sock It To My Pocket Tour\"",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-05",
+      "time": null,
+      "price": "$25",
+      "description": "Rome Streetz, Fergie Baby, $ha Hef",
+      "eventUrl": "http://www.prekindle.com/event/58278-rome-streetz-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949138796524",
+      "dateAdded": "2026-05-29"
     },
     {
       "title": "The Mavericks & Friends",
@@ -3933,7 +4031,7 @@
       "dateAdded": "2026-04-28"
     },
     {
-      "title": "Castle | Medicine Horse | Glorack",
+      "title": "Castle | Medicine Horse | Glorach",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-09-16",
@@ -3944,7 +4042,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140052713",
-      "dateAdded": "2026-05-28"
+      "dateAdded": "2026-05-29"
     },
     {
       "title": "Dirty Sound Magnet | Gran Moreno",
@@ -4348,7 +4446,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-03",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$28",
       "description": "The Bobby Lees",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-bobby-lees-03-oct",
       "ageLimit": "ALL AGES",
@@ -4460,7 +4558,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-11",
       "time": null,
-      "price": null,
+      "price": "$20–$85",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/94764-sonic-live-in-concert-oklahoma-city",
       "ageLimit": null,
