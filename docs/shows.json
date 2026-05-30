@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T08:35:14.763Z",
+  "lastUpdated": "2026-05-30T18:56:13.227Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -2427,7 +2427,7 @@
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-07-19",
-      "time": "4:00 PM",
+      "time": "3:00 PM",
       "price": "$7 adv / $10 door",
       "description": null,
       "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38260",
@@ -4495,6 +4495,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Black Flag - Punk Pioneers",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-11",
+      "time": "7:00 PM",
+      "price": "$22 to $35 ADV   $25 to $40 DAY OF",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38594",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38594-24e45794e41dc7b70e23fa804af134c8.jpg",
+      "dateAdded": "2026-05-30"
     },
     {
       "title": "Indigenous Day at Cain’s Ballroom",
