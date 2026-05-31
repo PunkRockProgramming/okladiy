@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-05-31T08:54:57.866Z",
+  "lastUpdated": "2026-05-31T18:59:41.465Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Gammacide",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-05-30",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "GAMMACIDE \nwith special guests ARKHON and CHEMICAUST\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.ticketstorm.com/event/gammacide/89thstreetokc/oklahomacity/32521/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_87836cb1e35440ff9457715dd5df29ea~mv2.jpg",
-      "dateAdded": "2026-04-18"
-    },
     {
       "title": "Buckcherry",
       "venue": "Diamond Ballroom",
@@ -4525,6 +4511,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177636522",
       "dateAdded": "2026-04-06"
+    },
+    {
+      "title": "The Inspector Cluzo",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-10-23",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "THE INSPECTOR CLUZO\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/98199187/the-inspector-cluzo-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_05876b7ba71347d69925feedea005bde~mv2.jpg",
+      "dateAdded": "2026-05-31"
     },
     {
       "title": "Mom Jeans",
