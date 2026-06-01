@@ -1,65 +1,7 @@
 {
-  "lastUpdated": "2026-05-31T18:59:41.465Z",
+  "lastUpdated": "2026-06-01T11:48:14.495Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Buckcherry",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-05-31",
-      "time": "6:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/87687109/buckcherry-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/07/etix-Buckcherry1751986173_3859601751986174.jfif",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Firstnamebasis | Sluggnutt | Fajita Fieldtrip",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-05-31",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/49142-firstnamebasis-sluggnutt-fajita-fieldtrip-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140441689",
-      "dateAdded": "2026-05-28"
-    },
-    {
-      "title": "Bluegrass Brunch with Johnny Mullenax",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-05-31",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148091260",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148091243",
-      "dateAdded": "2026-05-16"
-    },
-    {
-      "title": "Brad Absher & The Superials",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-05-31",
-      "time": "4:00 PM",
-      "price": "$8 adv / $10 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37575",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37575-821b3a8e3415d474da729d4a7f7d15ab.jpeg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Wraith | Blind Oath",
       "venue": "The Whittier Bar",
@@ -422,7 +364,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-07",
       "time": null,
-      "price": "$35–$124",
+      "price": "$35–$65",
       "description": "The Runarounds, Foxtide",
       "eventUrl": "http://www.prekindle.com/event/87192-the-runarounds-the-minivan-tour-oklahoma-city",
       "ageLimit": null,
@@ -2523,6 +2465,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/3c0699b16019735fce5a8edce04222b6.jpeg",
       "dateAdded": "2026-04-12"
+    },
+    {
+      "title": "SKY RUN ROGER",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-07-25",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/7/25/sky-run-roger",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-06-01"
     },
     {
       "title": "54 Ultra",
