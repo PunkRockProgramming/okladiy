@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T11:48:14.495Z",
+  "lastUpdated": "2026-06-01T21:19:42.413Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -423,7 +423,7 @@
       "date": "2026-06-09",
       "time": null,
       "price": "$15–$246",
-      "description": "Big K.R.I.T.",
+      "description": "Big K.R.I.T., Mister Dj, Scotty ATL",
       "eventUrl": "http://www.prekindle.com/event/79219-big-krit-the-world-is-a-parking-lot-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -445,7 +445,7 @@
       "dateAdded": "2026-04-24"
     },
     {
-      "title": "The Baby Bats Parade: Christian Death + Gene Loves Jezebel & more",
+      "title": "Christian Death + Gene Loves Jezebel & more",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-06-10",
@@ -456,7 +456,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bd6facbdef40ceee8dc930_C.D.-_G.L.J._TOUR_ART.jpeg",
-      "dateAdded": "2026-03-20"
+      "dateAdded": "2026-06-01"
     },
     {
       "title": "Pearly Red Album Release Show",
@@ -634,7 +634,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-12",
       "time": "8:00 PM",
-      "price": "$15–$75",
+      "price": "$10–$75",
       "description": "Arkansauce, Brody Buster Band",
       "eventUrl": "http://www.prekindle.com/event/52275-arkansauce-oklahoma-city",
       "ageLimit": null,
@@ -1467,6 +1467,34 @@
       "dateAdded": "2026-05-19"
     },
     {
+      "title": "Kierston White & the CMGT Band",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-27",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949136994811",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136994772",
+      "dateAdded": "2026-06-01"
+    },
+    {
+      "title": "DANCING ON MY OWN: QUEER POP ICONS NIGHT",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-06-27",
+      "time": "10:00 PM",
+      "price": "$16–$76",
+      "description": "What the Sound",
+      "eventUrl": "http://www.prekindle.com/event/84133-dancing-on-my-own-queer-pop-icons-night-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140730464",
+      "dateAdded": "2026-06-01"
+    },
+    {
       "title": "The Steppers",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -1651,6 +1679,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182573280",
       "dateAdded": "2026-04-02"
+    },
+    {
+      "title": "Cresthaven",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-07-03",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "Cresthaven, Of Wrath And Ruin, Memorial Drive, Kanis Gahenna",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/cresthaven-03-jul",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a1da7d4460749f501d8994c_jkmkjnvd.jpeg",
+      "dateAdded": "2026-06-01"
     },
     {
       "title": "Ebony Dark'ness | Weepcar | China Blue | Blood On The Oilfield",
@@ -1909,6 +1951,20 @@
       "dateAdded": "2026-05-16"
     },
     {
+      "title": "Gash w /  Some Fear, Baby, and Douglas",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-12",
+      "time": null,
+      "price": "$12",
+      "description": "Gash, Some Fear, Baby, Douglas",
+      "eventUrl": "http://www.prekindle.com/event/36892-gash-with-some-fear-baby-and-douglas-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140772494",
+      "dateAdded": "2026-06-01"
+    },
+    {
       "title": "Hatebreed",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -1945,7 +2001,7 @@
       "date": "2026-07-13",
       "time": null,
       "price": "$14",
-      "description": "Septemberistheonlytimeidontthinkofyou, Departmefrombearisland",
+      "description": "Septemberistheonlytimeidontthinkofyou, Departmefrombearisland, Garden Ants, A Wish That Lasts",
       "eventUrl": "http://www.prekindle.com/event/26319-septemberistheonlytimeidontthinkofyou-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3049,6 +3105,20 @@
       "dateAdded": "2026-04-08"
     },
     {
+      "title": "Ookay (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-08-14",
+      "time": "9:00 PM",
+      "price": "$28",
+      "description": "Ookay",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/ookay-18-14-aug",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a1668c4e76960c6f2786f64_DSC06862.jpeg",
+      "dateAdded": "2026-06-01"
+    },
+    {
       "title": "Travis Bolt",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3563,6 +3633,20 @@
       "dateAdded": "2026-04-27"
     },
     {
+      "title": "Bellhead, Mechanical Flesh, Blood Bells, Othering, Later Laine",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-05",
+      "time": null,
+      "price": "$15",
+      "description": "Bellhead, Mechanical Flesh, Blood Bells, Othering, Later Laine",
+      "eventUrl": "http://www.prekindle.com/event/61351-bellhead-mechanical-flesh-blood-bells-othering-later-laine-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949174276029",
+      "dateAdded": "2026-06-01"
+    },
+    {
       "title": "Hermanos Espinoza - LINAJE Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -3719,6 +3803,20 @@
       "dateAdded": "2026-05-21"
     },
     {
+      "title": "Bear Ghost - Tiny Hitman Tour 2026",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-12",
+      "time": "8:00 PM",
+      "price": "$20",
+      "description": "Bear Ghost",
+      "eventUrl": "http://www.prekindle.com/event/61342-bear-ghost-tiny-hitman-tour-2026-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140224479",
+      "dateAdded": "2026-06-01"
+    },
+    {
       "title": "Tig Notaro: Out of Nowhere",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -3731,6 +3829,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486637797",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "The Bison Bash",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-09-12",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/81168299/the-bison-bash-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-01"
     },
     {
       "title": "Me Like Bees",
@@ -3887,6 +3999,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160456042",
       "dateAdded": "2026-04-30"
+    },
+    {
+      "title": "Amy Grant",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-09-20",
+      "time": null,
+      "price": null,
+      "description": "Amy Grant",
+      "eventUrl": "http://www.prekindle.com/event/37148-amy-grant-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949137187360",
+      "dateAdded": "2026-06-01"
     },
     {
       "title": "Shinyribs",
@@ -4197,6 +4323,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161326833",
       "dateAdded": "2026-04-28"
+    },
+    {
+      "title": "LAUREN SANDERSON",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-07",
+      "time": null,
+      "price": "$25",
+      "description": "Lauren Sanderson",
+      "eventUrl": "http://www.prekindle.com/event/36319-lauren-sanderson-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949139936753",
+      "dateAdded": "2026-06-01"
     },
     {
       "title": "Parcels - LOVED Tour 2026",
@@ -4939,7 +5079,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/66334766/catch-your-breath-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/05/catch-your-breath.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/catch-your-breath.jfif",
       "dateAdded": "2026-05-27"
     },
     {
