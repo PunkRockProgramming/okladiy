@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T10:47:17.977Z",
+  "lastUpdated": "2026-06-02T20:33:12.516Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -264,7 +264,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-06-06",
       "time": "8:00 PM",
-      "price": "$34 to $50",
+      "price": "$50",
       "description": "EZ Band, Kate Watson",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/ez-band-06-jun",
       "ageLimit": "ALL AGES",
@@ -394,7 +394,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-09",
       "time": null,
-      "price": "$15–$246",
+      "price": "$15–$75",
       "description": "Big K.R.I.T., Mister Dj, Scotty ATL",
       "eventUrl": "http://www.prekindle.com/event/79219-big-krit-the-world-is-a-parking-lot-oklahoma-city",
       "ageLimit": null,
@@ -1621,7 +1621,7 @@
       "eventUrl": "http://www.prekindle.com/event/24821-black-uhuru-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158525312",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136283626",
       "dateAdded": "2026-05-05"
     },
     {
@@ -1930,7 +1930,7 @@
       "time": null,
       "price": "$12",
       "description": "Gash, Some Fear, Baby, Douglas",
-      "eventUrl": "http://www.prekindle.com/event/36892-gash-with-some-fear-baby-and-douglas-oklahoma-city",
+      "eventUrl": "http://www.prekindle.com/event/44732-gash-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140772494",
@@ -2343,7 +2343,7 @@
       "date": "2026-07-24",
       "time": null,
       "price": "$17–$77",
-      "description": null,
+      "description": "1720 LA",
       "eventUrl": "http://www.prekindle.com/event/68975-house-party-a-sweaty-love-letter-to-the-2010s-rager-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2429,7 +2429,7 @@
       "date": "2026-07-25",
       "time": null,
       "price": "$15–$30",
-      "description": null,
+      "description": "Kawaii Rave",
       "eventUrl": "http://www.prekindle.com/event/33638-kawaii-rave-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3499,7 +3499,7 @@
       "date": "2026-08-29",
       "time": null,
       "price": "$15–$18",
-      "description": null,
+      "description": "Badwagon",
       "eventUrl": "http://www.prekindle.com/event/65775-live-mario-kart-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3987,6 +3987,20 @@
       "dateAdded": "2026-06-01"
     },
     {
+      "title": "Daniel Donato’s Cosmic Country",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-09-20",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/55445503/daniel-donatos-cosmic-country-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-02"
+    },
+    {
       "title": "Shinyribs",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4001,6 +4015,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38222-c0fac9aedfc621129b72b5c266a79210.jpeg",
       "dateAdded": "2026-04-09"
+    },
+    {
+      "title": "Silly Goose – The “Set It Off” Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-22",
+      "time": null,
+      "price": "$18",
+      "description": "Silly Goose, Cheem, Hotbox",
+      "eventUrl": "http://www.prekindle.com/event/13563-silly-goose-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140247650",
+      "dateAdded": "2026-06-02"
     },
     {
       "title": "The Expendables",
@@ -4825,6 +4853,20 @@
       "dateAdded": "2026-03-31"
     },
     {
+      "title": "Dusty Slay: The Neighborhood Guy (Late Show)",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-06",
+      "time": null,
+      "price": null,
+      "description": "Dusty Slay, Outback Presents",
+      "eventUrl": "http://www.prekindle.com/event/95888-dusty-slay-the-neighborhood-guy-late-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949143679564",
+      "dateAdded": "2026-06-02"
+    },
+    {
       "title": "Noah Gunderson",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -4837,6 +4879,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949145264458",
       "dateAdded": "2026-05-27"
+    },
+    {
+      "title": "Rock-N-Folk-N-Chili Cook-Off",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-11-07",
+      "time": "5:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/60249682/rocknfolknchili-cookoff-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-02"
     },
     {
       "title": "Shadowgrass",
@@ -5041,6 +5097,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "A DRAG QUEEN CHRISTMAS",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-30",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/48937-a-drag-queen-christmas-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136578575",
+      "dateAdded": "2026-06-02"
+    },
+    {
       "title": "Catch Your Breath",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -5089,7 +5159,7 @@
       "date": "2026-12-11",
       "time": null,
       "price": "$20–$60",
-      "description": null,
+      "description": "Who's Bad",
       "eventUrl": "http://www.prekindle.com/event/72268-whos-bad-michael-jackson-tribute-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -5153,6 +5223,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-21"
+    },
+    {
+      "title": "DENNY LOVE: SHOW LOVE TOUR",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-03-20",
+      "time": null,
+      "price": null,
+      "description": "Denny Love",
+      "eventUrl": "http://www.prekindle.com/event/52498-denny-love-show-love-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136959165",
+      "dateAdded": "2026-06-02"
     },
     {
       "title": "Private Event",
