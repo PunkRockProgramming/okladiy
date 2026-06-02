@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-06-01T21:19:42.413Z",
+  "lastUpdated": "2026-06-02T10:47:17.977Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Wraith | Blind Oath",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-06-01",
-      "time": null,
-      "price": "$10",
-      "description": "Wraith",
-      "eventUrl": "http://www.prekindle.com/event/95175-wraith-blind-oath-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150877665",
-      "dateAdded": "2026-05-13"
-    },
-    {
-      "title": "Poetry for Thee: Open Mic Poetry Swap",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-06-01",
-      "time": "5:30 PM",
-      "price": null,
-      "description": "Open Mic Poetry Swap hosted by Alf. Free to attend and participate. You can just listen to the poetry, you do not have to read!Early Sign up Time 5:30pm Reading 6pm.",
-      "eventUrl": "https://www.noisetowntulsa.com/events/c73rjfmhy94jtekwl8e3ye9bxtfdlp",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1779333624485-P5GV8XF72ALNOB5XEASP/Poetry+Flyer+June+V2.png",
-      "dateAdded": "2026-05-21"
-    },
     {
       "title": "When Forever Finds Me | Boketto | esc ctrl",
       "venue": "The Whittier Bar",
@@ -509,11 +481,11 @@
       "date": "2026-06-11",
       "time": "7:00 PM",
       "price": null,
-      "description": "* This Performance Scheduled for June 11th with Solya in Oklahoma City been postponed due to illness. \n*New date will be announced soon\n*Please hold all tickets more information will become available soon.",
-      "eventUrl": "https://www.89thstreetokc.com/events/postponed-solya",
+      "description": "This show has been rescheduled to October 2\n\nYour previously purchased tickets for the original date are STILL VALID. You do not need to take any further action to attend the new date.",
+      "eventUrl": "https://www.89thstreetokc.com/events/postponed-solya-1",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_89d6580904594b4396f5123be1b0f7b4~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_f5f280f8815e440ebd291c4200d52030~mv2.jpg",
       "dateAdded": "2026-05-28"
     },
     {
@@ -4255,6 +4227,20 @@
       "dateAdded": "2026-04-06"
     },
     {
+      "title": "Solya",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-10-02",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "w/Special Guest Tele Novella\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nYour previously purchased tickets for the original date are STILL VALID. You do not need to take any further action to attend the new date.",
+      "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_f5f280f8815e440ebd291c4200d52030~mv2.jpg",
+      "dateAdded": "2026-06-02"
+    },
+    {
       "title": "CANNONS - THE EVERYTHING GLOWS TOUR",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4609,20 +4595,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177636522",
       "dateAdded": "2026-04-06"
-    },
-    {
-      "title": "The Inspector Cluzo",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-23",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "THE INSPECTOR CLUZO\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/98199187/the-inspector-cluzo-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_05876b7ba71347d69925feedea005bde~mv2.jpg",
-      "dateAdded": "2026-05-31"
     },
     {
       "title": "Mom Jeans",
