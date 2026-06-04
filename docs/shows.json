@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-06-03T20:44:59.001Z",
+  "lastUpdated": "2026-06-04T10:05:27.578Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "RA",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-06-03",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "RA with special guest TWIST IT \n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.ticketstorm.com/event/rawithtwistit/89thstreetokc/oklahomacity/32582/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_854c6cbabb284eed928bb9b298dae939~mv2.jpg",
-      "dateAdded": "2026-04-20"
-    },
-    {
-      "title": "Sons of Legion - Soul to SØL Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-06-03",
-      "time": null,
-      "price": "$25–$50",
-      "description": "Sons of Legion",
-      "eventUrl": "http://www.prekindle.com/event/54748-sons-of-legion-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146462117",
-      "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "Bodysnatcher",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-06-03",
-      "time": "7:00 PM",
-      "price": "$41",
-      "description": "Bodysnatcher, 200 STAB WOUNDS, Gates to Hell, Bodybox, Squelching",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/bodysnatcher-03-jun",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69949e9d9b070a9a20f439f7_1ST_CHOICE.jpeg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "Evan Hughes Comedy Showcase",
       "venue": "The Whittier Bar",
@@ -78,7 +36,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-04",
       "time": "8:00 PM",
-      "price": "$15–$75",
+      "price": "$25–$75",
       "description": "GRAHAM, Luke Rob",
       "eventUrl": "http://www.prekindle.com/event/58141-graham-oklahoma-city",
       "ageLimit": null,
@@ -385,7 +343,7 @@
       "eventUrl": "http://www.prekindle.com/event/79219-big-krit-the-world-is-a-parking-lot-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453752041",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949135533702",
       "dateAdded": "2026-06-03"
     },
     {
@@ -3759,6 +3717,22 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "title": "Micky And The Motorcars",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-09-10",
+      "time": "7:00 PM",
+      "price": "$17 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38681",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38681-4a4e06bf0a3fb3ada14b6e6a180fa04a.jpeg",
+      "dateAdded": "2026-06-04"
+    },
+    {
       "title": "Molchat Doma - Molchat Doma Tour 2026",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4311,6 +4285,20 @@
       "dateAdded": "2026-04-06"
     },
     {
+      "title": "Solya",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-10-02",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "w/Special Guest Tele Novella\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nYour previously purchased tickets for the original date are STILL VALID. You do not need to take any further action to attend the new date.",
+      "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_f5f280f8815e440ebd291c4200d52030~mv2.jpg",
+      "dateAdded": "2026-06-04"
+    },
+    {
       "title": "CANNONS - THE EVERYTHING GLOWS TOUR",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4577,6 +4565,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476045156",
       "dateAdded": "2026-06-03"
+    },
+    {
+      "title": "The Phantom A.D.",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-16",
+      "time": null,
+      "price": "$15",
+      "description": "The Phantom A.D.",
+      "eventUrl": "http://www.prekindle.com/event/69685-the-phantom-ad-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949135384195",
+      "dateAdded": "2026-06-04"
     },
     {
       "title": "First Train To Tulsa Night One",
