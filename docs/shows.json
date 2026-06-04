@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T10:05:27.578Z",
+  "lastUpdated": "2026-06-04T19:52:42.254Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1060,7 +1060,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-20",
       "time": "9:30 PM",
-      "price": "$15–$75",
+      "price": "$18–$75",
       "description": "Electric Feels",
       "eventUrl": "http://www.prekindle.com/event/99878-electric-feels-indie-rock-and-electronic-dance-party-oklahoma-city",
       "ageLimit": null,
@@ -3177,7 +3177,7 @@
       "tags": [
         "tulsa"
       ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/12ddfed73551c50e07af8191bd28c937.jpeg",
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38525-3974b3a7af4b2793ad25653d0696fe94.jpeg",
       "dateAdded": "2026-05-19"
     },
     {
@@ -3251,12 +3251,26 @@
       "dateAdded": "2026-05-08"
     },
     {
+      "title": "Melissa Villaseñor + Wolves of Glendale",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-21",
+      "time": "9 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/60474892/melissa-villase%C3%B1or-wolves-of-glendale-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-04"
+    },
+    {
       "title": "Loe Shimmy - Pretty Girls Run the World Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-22",
       "time": null,
-      "price": "$142",
+      "price": "$27–$142",
       "description": "LOE SHIMMY",
       "eventUrl": "http://www.prekindle.com/event/79496-loe-shimmy-pretty-girls-run-the-world-tour-oklahoma-city",
       "ageLimit": null,
@@ -3341,7 +3355,7 @@
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-23",
-      "time": "8:00 PM",
+      "time": "7:30 PM",
       "price": "$20–$101",
       "description": "Ella Red​, Zoe Ko",
       "eventUrl": "http://www.prekindle.com/event/69224-ella-red-tours-not-real-part-2-oklahoma-city",
@@ -4602,7 +4616,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-17",
       "time": "8:00 PM",
-      "price": "$20",
+      "price": "$10",
       "description": "The Gringos",
       "eventUrl": "http://www.prekindle.com/event/78345-the-gringos-oklahoma-city",
       "ageLimit": null,
