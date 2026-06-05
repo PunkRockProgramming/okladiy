@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T10:02:55.191Z",
+  "lastUpdated": "2026-06-05T19:28:16.366Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -27,7 +27,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156240770",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156240630",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949133590539",
       "dateAdded": "2026-06-03"
     },
     {
@@ -127,7 +127,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156239411",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156239336",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949133590258",
       "dateAdded": "2026-06-03"
     },
     {
@@ -213,7 +213,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852852648504194325",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648504193880",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949133590040",
       "dateAdded": "2026-06-03"
     },
     {
@@ -453,7 +453,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949157515023",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157514919",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949133589642",
       "dateAdded": "2026-06-03"
     },
     {
@@ -490,7 +490,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-06-12",
       "time": null,
-      "price": "$35–$103",
+      "price": "$35–$65",
       "description": "Matt Maeson, Haffway",
       "eventUrl": "http://www.prekindle.com/event/72819-matt-maeson-oklahoma-city",
       "ageLimit": null,
@@ -3198,7 +3198,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-22",
       "time": null,
-      "price": "$142",
+      "price": "$27–$142",
       "description": "LOE SHIMMY",
       "eventUrl": "http://www.prekindle.com/event/79496-loe-shimmy-pretty-girls-run-the-world-tour-oklahoma-city",
       "ageLimit": null,
@@ -3950,7 +3950,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-20",
       "time": null,
-      "price": null,
+      "price": "$23–$150",
       "description": "Amy Grant",
       "eventUrl": "http://www.prekindle.com/event/37148-amy-grant-oklahoma-city",
       "ageLimit": null,
@@ -4085,6 +4085,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-27"
+    },
+    {
+      "title": "Grungefest: Pearl Gem / Nervana",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-25",
+      "time": "8:00 PM",
+      "price": "$20–$75",
+      "description": "Pearl Gem (Pearl Jam Tribute), Nervana (Nirvana Tribute)",
+      "eventUrl": "http://www.prekindle.com/event/78354-grungefest-pearl-gem-nervana-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136282591",
+      "dateAdded": "2026-06-05"
     },
     {
       "title": "ABRA Cadabra - The Music & Magic of ABBA",
@@ -4544,7 +4558,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-17",
       "time": "8:00 PM",
-      "price": "$10",
+      "price": "$12–$15",
       "description": "The Gringos",
       "eventUrl": "http://www.prekindle.com/event/78345-the-gringos-oklahoma-city",
       "ageLimit": null,
@@ -5102,7 +5116,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-30",
       "time": null,
-      "price": null,
+      "price": "$23–$132",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/48937-a-drag-queen-christmas-oklahoma-city",
       "ageLimit": null,
