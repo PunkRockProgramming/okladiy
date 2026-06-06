@@ -1,86 +1,14 @@
 {
-  "lastUpdated": "2026-06-05T19:28:16.366Z",
+  "lastUpdated": "2026-06-06T08:41:53.603Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Little Image",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-06-05",
-      "time": "8:00 PM",
-      "price": "$28",
-      "description": "Little Image, TWO CAR GARAGE, Boston Busler",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/little-image-05-jun",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/697d3efcafc91270372c7da4_000364800007.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Crow & Gazelle with special guest Chloe-Beth",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-06-05",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156240770",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949133590539",
-      "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "EZ Band",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-06-05",
-      "time": "8:00 PM",
-      "price": "$22–$75",
-      "description": "EZ Band, Kate Watson",
-      "eventUrl": "http://www.prekindle.com/event/56614-ez-band-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949165026256",
-      "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "Stoney LaRue",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-06-05",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/87626002/stoney-larue-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Rock Anthem",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-06-05",
-      "time": "7:00 PM",
-      "price": "$10",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38242",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38242-571965ee2b12e3228cf85f1c91fe649c.jpeg",
-      "dateAdded": "2026-04-09"
-    },
     {
       "title": "Straight Tequila Night: '90s Country Tribute",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-06",
       "time": null,
-      "price": "$15–$35",
+      "price": "$25–$35",
       "description": "Straight Tequila Night",
       "eventUrl": "http://www.prekindle.com/event/66549-straight-tequila-night-oklahoma-city",
       "ageLimit": null,
@@ -4171,6 +4099,20 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "title": "Rolling Quartz 롤링쿼츠",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-29",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "[MY TURN] 2026 TOUR\nGA Doors 6pm / Show 7pm\n*VIP Packages Available \n*All Tickets General Admission / Standing Room Only For the Performance",
+      "eventUrl": "https://www.ticketweb.com/event/rolling-quartz-my-turn-2026-89th-street-okc-tickets/14947543",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_855476cf9bcf498894e05155e661c74c~mv2.png",
+      "dateAdded": "2026-06-06"
+    },
+    {
       "title": "Built To Spill",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4239,20 +4181,6 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-06"
-    },
-    {
-      "title": "Solya",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-02",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "w/Special Guest Tele Novella\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nYour previously purchased tickets for the original date are STILL VALID. You do not need to take any further action to attend the new date.",
-      "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_f5f280f8815e440ebd291c4200d52030~mv2.jpg",
-      "dateAdded": "2026-06-04"
     },
     {
       "title": "CANNONS - THE EVERYTHING GLOWS TOUR",
