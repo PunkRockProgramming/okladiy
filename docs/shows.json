@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T08:41:53.603Z",
+  "lastUpdated": "2026-06-06T19:02:06.817Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -753,6 +753,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949171096836",
       "dateAdded": "2026-06-03"
+    },
+    {
+      "title": "Someone and the Somethings | Interstellar Fellar | Kylie Woyote",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-06-19",
+      "time": null,
+      "price": "$10",
+      "description": "Someone and the Somethings",
+      "eventUrl": "http://www.prekindle.com/event/46362-someone-and-the-somethings-interstellar-fellar-kylie-woyote-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949132906313",
+      "dateAdded": "2026-06-06"
     },
     {
       "title": "Electric Feels: Indie Rock + Electronic Dance Party",
