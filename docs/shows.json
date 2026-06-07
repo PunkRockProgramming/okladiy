@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-06-07T09:25:54.016Z",
+  "lastUpdated": "2026-06-07T19:03:25.605Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Live Music at Park Grove Rec! Feat: Morris Village, In My Defense, and More!",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-06-06",
-      "time": "7:30 PM",
-      "price": "$104241",
-      "description": "Live music all ages at our neighbors Park Grove Church! Featuring performances by Morris Village, In My Defense, A Wish That Lasts, and Press Badge.Doors 7:30pm Music 8pmTickets $104241 South 37th West Avenue",
-      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-at-park-grove-rec-feat-morris-village-in-my-defense-and-more",
-      "ageLimit": "all ages",
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1779333951713-BY1TMBUFUHDDEWWP7D8F/Park+Grove+Flyer.png",
-      "dateAdded": "2026-05-21"
-    },
     {
       "title": "The Runarounds: The Minivan Tour",
       "venue": "Tower Theatre",
