@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-06-08T11:09:15.438Z",
+  "lastUpdated": "2026-06-08T19:58:36.329Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Live Music at Park Grove Rec! Feat: Morris Village, In My Defense, and More!",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-06-06",
-      "time": "7:30 PM",
-      "price": "$104241",
-      "description": "Live music all ages at our neighbors Park Grove Church! Featuring performances by Morris Village, In My Defense, A Wish That Lasts, and Press Badge.Doors 7:30pm Music 8pmTickets $104241 South 37th West Avenue",
-      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-at-park-grove-rec-feat-morris-village-in-my-defense-and-more",
-      "ageLimit": "all ages",
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1779333951713-BY1TMBUFUHDDEWWP7D8F/Park+Grove+Flyer.png",
-      "dateAdded": "2026-06-08"
-    },
     {
       "title": "Big K.R.I.T. - The World is a Parking Lot",
       "venue": "Tower Theatre",
@@ -223,7 +209,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949157515023",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949133589642",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131807069",
       "dateAdded": "2026-06-03"
     },
     {
@@ -3069,11 +3055,11 @@
       "date": "2026-08-23",
       "time": "7:30 PM",
       "price": "$20–$101",
-      "description": "Ella Red​, Zoe Ko",
+      "description": "Ella Red​, Zoe Ko, Remy Reilly",
       "eventUrl": "http://www.prekindle.com/event/69224-ella-red-tours-not-real-part-2-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167198898",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131941379",
       "dateAdded": "2026-06-03"
     },
     {
@@ -3531,6 +3517,20 @@
       "dateAdded": "2026-05-21"
     },
     {
+      "title": "Chat Pile - Who Loves The Sun Tour 2026",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-12",
+      "time": null,
+      "price": "$25–$48",
+      "description": "Chat Pile, Portrayal of Guilt, Nightosphere, Traindodge, Primal Brain",
+      "eventUrl": "http://www.prekindle.com/event/22815-chat-pile-who-loves-the-sun-tour-2026-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949133545850",
+      "dateAdded": "2026-06-08"
+    },
+    {
       "title": "Bear Ghost - Tiny Hitman Tour 2026",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3585,6 +3585,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156099782",
       "dateAdded": "2026-06-03"
+    },
+    {
+      "title": "Thousand Below",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-15",
+      "time": "8:00 PM",
+      "price": "$22–$79",
+      "description": "Thousand Below, Acres, VCTMS, Lost In Separation",
+      "eventUrl": "http://www.prekindle.com/event/57165-thousand-below-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136586211",
+      "dateAdded": "2026-06-08"
     },
     {
       "title": "Shaboozey - Outlaws Never Die Tour",
@@ -4135,6 +4149,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949139936753",
       "dateAdded": "2026-06-03"
+    },
+    {
+      "title": "Ward Davis",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-08",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "Ward Davis",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/ward-davis-08-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a26d31664a9b81da53845db_1920x1080.jpeg",
+      "dateAdded": "2026-06-08"
     },
     {
       "title": "Parcels - LOVED Tour 2026",
@@ -5035,6 +5063,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-21"
+    },
+    {
+      "title": "Wheeler Walker Jr. – Pullin’ Out: The Farewell Tour",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-03-02",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/83455129/wheeler-walker-jrpullinoutthe-farewell-tour-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-08"
     },
     {
       "title": "DENNY LOVE: SHOW LOVE TOUR",
