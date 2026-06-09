@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T09:56:37.371Z",
+  "lastUpdated": "2026-06-09T19:53:42.908Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -120,7 +120,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-11",
       "time": "8:00 PM",
-      "price": "$28–$75",
+      "price": "$32–$75",
       "description": "Kings Kaleidoscope, Hollyn",
       "eventUrl": "http://www.prekindle.com/event/83141-kings-kaleidoscope-oklahoma-city",
       "ageLimit": null,
@@ -246,7 +246,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-06-12",
       "time": null,
-      "price": "$35–$65",
+      "price": "$35",
       "description": "Matt Maeson, Haffway",
       "eventUrl": "http://www.prekindle.com/event/72819-matt-maeson-oklahoma-city",
       "ageLimit": null,
@@ -984,7 +984,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-26",
       "time": "8:00 PM",
-      "price": "$15–$75",
+      "price": "$11–$75",
       "description": "Kiss the Goat",
       "eventUrl": "http://www.prekindle.com/event/71543-kiss-the-goat-the-premier-ghost-tribute-oklahoma-city",
       "ageLimit": null,
@@ -1256,7 +1256,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-01",
       "time": "8:00 PM",
-      "price": "$25–$75",
+      "price": "$18–$75",
       "description": "Black Uhuru, Quantum SoulJahs",
       "eventUrl": "http://www.prekindle.com/event/24821-black-uhuru-oklahoma-city",
       "ageLimit": null,
@@ -2323,6 +2323,20 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "title": "ALL YOUR FRIENDS - The Indie Sleaze Dance Party",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-31",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "All Your Friends is the indie sleaze dance party remixing all your favorite 2010s indie hits from Passion Pit, Grouplove, and LCD Soundsystem and more!  Join the modern underground where bloghouse, post-punk revival, and internet-era club music collide.",
+      "eventUrl": "https://www.89thstreetokc.com/events/all-your-friends-the-indie-sleaze-dance-party",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_c3ee2b3fc3a44f06a37b10003bc844d0~mv2.jpeg",
+      "dateAdded": "2026-06-09"
+    },
+    {
       "title": "Bingo Loco",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2349,6 +2363,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f4d2b4c6d07d2a23fa8f07_UO_V2V_Tour_One_Horizontal.jpeg",
       "dateAdded": "2026-05-06"
+    },
+    {
+      "title": "Annabelle Dinda",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-07-31",
+      "time": "8:00 PM",
+      "price": "$20",
+      "description": "Annabelle Dinda",
+      "eventUrl": "http://www.prekindle.com/event/83125-annabelle-dinda-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131319499",
+      "dateAdded": "2026-06-09"
     },
     {
       "title": "Colliding EP Release Show",
@@ -3189,6 +3217,20 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "title": "Good Terms",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-28",
+      "time": "8:00 PM",
+      "price": "$15–$75",
+      "description": "Good Terms, Stateside, Sunfo",
+      "eventUrl": "http://www.prekindle.com/event/14762-good-terms-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131786181",
+      "dateAdded": "2026-06-09"
+    },
+    {
       "title": "Velvetine",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -3373,6 +3415,20 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "title": "Militarie Gun",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-06",
+      "time": "7:00 PM",
+      "price": "$20",
+      "description": "Militarie Gun, Softcult, Shady Nasty, Dazy",
+      "eventUrl": "http://www.prekindle.com/event/16646-militarie-gun-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136585935",
+      "dateAdded": "2026-06-09"
+    },
+    {
       "title": "MINUS THE BEAR - Menos El Oso 20th Anniversary Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3387,6 +3443,20 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "title": "Peaches – No Lube So Rude Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-08",
+      "time": null,
+      "price": "$121–$167",
+      "description": "Peaches",
+      "eventUrl": "http://www.prekindle.com/event/68425-peaches-no-lube-so-rude-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131925838",
+      "dateAdded": "2026-06-09"
+    },
+    {
       "title": "Sweeping Promises",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -3399,20 +3469,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151758306",
       "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "Toni Romiti",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-10",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "TONI ROMITI T0n16 Again Tour\n\nGeneral Admission Standing / All Ages / *VIP Packages Available",
-      "eventUrl": "https://www.etix.com/ticket/p/34931911/toni-romiti-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_96cffc4e0b2f491b8e0597bda991f0de~mv2.jpg",
-      "dateAdded": "2026-05-30"
     },
     {
       "title": "Ray Wylie Hubbard",
@@ -3625,7 +3681,7 @@
       "eventUrl": "http://www.prekindle.com/event/57165-thousand-below-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136586211",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131213562",
       "dateAdded": "2026-06-08"
     },
     {
@@ -3843,6 +3899,20 @@
       "dateAdded": "2026-05-12"
     },
     {
+      "title": "SWMRS",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-23",
+      "time": null,
+      "price": "$20",
+      "description": "SWMRS",
+      "eventUrl": "http://www.prekindle.com/event/58931-swmrs-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949135373504",
+      "dateAdded": "2026-06-09"
+    },
+    {
       "title": "Liverpool Legends: Beatles Experience",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3869,6 +3939,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/12/elefante.jfif",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "JMSN",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-24",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "JMSN",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/jmsn-24-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a2300aed4744c7da2af7812_APPROVED_PRESS_PHOTO_2_-_JMSN_-_Credit_Cameron_McCool.jpg.jpeg",
+      "dateAdded": "2026-06-09"
     },
     {
       "title": "In Her Own Words x Every Avenue - Perfectly Unfamiliar Tour",
@@ -3939,6 +4023,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514016308",
       "dateAdded": "2026-06-03"
+    },
+    {
+      "title": "Low Gap",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-09-26",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949136987692",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136986832",
+      "dateAdded": "2026-06-09"
     },
     {
       "title": "Artemas - LOVERCORE  /  GETTING UP TO NO GOOD Tour",
@@ -4219,6 +4317,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/05/igorrr-north-american-tour-2026.jfif",
       "dateAdded": "2026-05-21"
+    },
+    {
+      "title": "Levity",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-10-09",
+      "time": null,
+      "price": "$30",
+      "description": "Levity",
+      "eventUrl": "http://www.prekindle.com/event/31745-levity-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131286039",
+      "dateAdded": "2026-06-09"
     },
     {
       "title": "Houndmouth",
@@ -4679,6 +4791,20 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "title": "Neko Case",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-11-04",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/31688468/neko-case-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-09"
+    },
+    {
       "title": "Nurse Blake: But Did You Die? Comedy Tour",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4733,6 +4859,34 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949145264458",
       "dateAdded": "2026-06-03"
+    },
+    {
+      "title": "Underoath - Define the Great Line 20th Anniversary Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-06",
+      "time": null,
+      "price": "$48–$88",
+      "description": "Underoath, August Burns Red, Atreyu, As Cities Burn",
+      "eventUrl": "http://www.prekindle.com/event/41744-underoath-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131316883",
+      "dateAdded": "2026-06-09"
+    },
+    {
+      "title": "Wheel of Fortune LIVE!",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-07",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/32648-wheel-of-fortune-live-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131217366",
+      "dateAdded": "2026-06-09"
     },
     {
       "title": "Rock-N-Folk-N-Chili Cook-Off",
@@ -4849,6 +5003,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37898-a0fa599db228af20ff2ef98949e91875.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "David Nail: Down to the Studs Tour",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-11-15",
+      "time": "7:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949131576653",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131573449",
+      "dateAdded": "2026-06-09"
     },
     {
       "title": "Mojo Brookzz: Outta Pocket Tour",
