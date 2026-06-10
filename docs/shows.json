@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-06-09T19:53:42.908Z",
+  "lastUpdated": "2026-06-10T10:14:11.064Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Big K.R.I.T. - The World is a Parking Lot",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-06-09",
-      "time": null,
-      "price": "$35–$75",
-      "description": "Big K.R.I.T., Mister Dj, Scotty ATL",
-      "eventUrl": "http://www.prekindle.com/event/79219-big-krit-the-world-is-a-parking-lot-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949135533702",
-      "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "KVS Showcase",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-06-09",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/55853-kvs-showcase-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136191040",
-      "dateAdded": "2026-06-03"
-    },
     {
       "title": "Ace Monroe",
       "venue": "89th Street OKC",
@@ -1033,7 +1005,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/42988861/gimme-gimme-disco-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_9c0a8ad3531d474499b72401fe9ab60a~mv2.jpeg",
+      "imageUrl": "https://static.wixstatic.com/media/779716_415b1056ab2a4bb89ed54629da174e53~mv2.jpg",
       "dateAdded": "2026-05-19"
     },
     {
@@ -2333,7 +2305,7 @@
       "eventUrl": "https://www.89thstreetokc.com/events/all-your-friends-the-indie-sleaze-dance-party",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_c3ee2b3fc3a44f06a37b10003bc844d0~mv2.jpeg",
+      "imageUrl": "https://static.wixstatic.com/media/779716_e41594dba1394ff0bb5c4bc8a9b1e9b0~mv2.jpg",
       "dateAdded": "2026-06-09"
     },
     {
@@ -2729,7 +2701,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/84381847/no-cure-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_206d17b498fe42c2b6b7baa7edff6e36~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/779716_77aaba6d19484efdb25f742075fb34af~mv2.jpg",
       "dateAdded": "2026-05-17"
     },
     {
@@ -3271,7 +3243,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/65582901/house-of-heavy-oklahoma-city-89th-street",
       "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_0b6fb2ab5a554a5aa7ca66189a57be41~mv2.jpeg",
+      "imageUrl": "https://static.wixstatic.com/media/779716_9718700ee41c43568da3d8ca68918779~mv2.jpg",
       "dateAdded": "2026-06-03"
     },
     {
@@ -4763,6 +4735,20 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "title": "WAGE WAR – EMERGENCY BROADCAST TOUR",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-11-03",
+      "time": "6:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/95692101/wage-war-emergency-broadcast-tour-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/wage-war-emergency-broadcast-tour.jfif",
+      "dateAdded": "2026-06-10"
+    },
+    {
       "title": "West 22nd",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -5119,6 +5105,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "A Drag Queen Christmas - MEET & GREET UPGRADE",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-30",
+      "time": null,
+      "price": "$99",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/86351-a-drag-queen-christmas-meet-and-greet-upgrade-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949130936708",
+      "dateAdded": "2026-06-10"
+    },
+    {
       "title": "A DRAG QUEEN CHRISTMAS",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -5201,6 +5201,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-05"
+    },
+    {
+      "title": "Whitechapel – 20th Anniversary Tour",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-12-12",
+      "time": "7 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/71227974/whitechapel-20th-anniversary-tour-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/whitechapel-20th-anniversary-tour.jfif",
+      "dateAdded": "2026-06-10"
     },
     {
       "title": "Max Goen",
