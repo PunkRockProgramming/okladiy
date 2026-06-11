@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T20:05:52.581Z",
+  "lastUpdated": "2026-06-11T10:49:01.466Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,48 +15,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_cf1cfe818fdc4a7e96d3614f5581c3ee~mv2.jpg",
       "dateAdded": "2026-04-24"
-    },
-    {
-      "title": "Christian Death + Gene Loves Jezebel & more",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-06-10",
-      "time": "8:00 PM",
-      "price": "$39",
-      "description": "Christian Death, Gene Loves Jezebel, Descartes A Kant, Black Season Witch",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/christian-death-gene-loves-jezebel-descartes-a-kant-black-season-witch-10-jun",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bd6facbdef40ceee8dc930_C.D.-_G.L.J._TOUR_ART.jpeg",
-      "dateAdded": "2026-06-01"
-    },
-    {
-      "title": "Pearly Red Album Release Show",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-06-10",
-      "time": null,
-      "price": "$12",
-      "description": "Pearly Red, A Parting Gaze, Failure To Cope",
-      "eventUrl": "http://www.prekindle.com/event/24776-pearly-red-album-release-show-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949155917354",
-      "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "Mack Geiger",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-06-10",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/56653220/mack-geiger-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-04-28"
     },
     {
       "title": "POSTPONED - Solya",
@@ -2384,7 +2342,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-31",
       "time": "8:00 PM",
-      "price": "$20–$75",
+      "price": "$20",
       "description": "Annabelle Dinda",
       "eventUrl": "http://www.prekindle.com/event/83125-annabelle-dinda-oklahoma-city",
       "ageLimit": null,
@@ -4436,7 +4394,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-09",
       "time": null,
-      "price": "$30",
+      "price": null,
       "description": "Levity",
       "eventUrl": "http://www.prekindle.com/event/31745-levity-oklahoma-city",
       "ageLimit": null,
