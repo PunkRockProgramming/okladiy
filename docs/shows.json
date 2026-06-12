@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T10:24:09.056Z",
+  "lastUpdated": "2026-06-12T19:49:28.416Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -136,7 +136,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-13",
       "time": null,
-      "price": "$29–$57",
+      "price": "$30–$57",
       "description": "Juvenile",
       "eventUrl": "http://www.prekindle.com/event/84815-juveniles-boiling-point-album-release-tour-w-the-400-degreez-band-and-friends-oklahoma-city",
       "ageLimit": null,
@@ -674,7 +674,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-24",
       "time": null,
-      "price": "$19–$144",
+      "price": "$14–$144",
       "description": "TopOppGen, Aziedoesntexist",
       "eventUrl": "http://www.prekindle.com/event/54572-topoppgen-oklahoma-city",
       "ageLimit": null,
@@ -1633,6 +1633,20 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "title": "Live Music All Ages feat: PB&TAT, Belle Riots, and Bugjuice Blues",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-07-17",
+      "time": "8:00 PM",
+      "price": "$10",
+      "description": "Live music from Bugjuice Blues, Belle Riots(OKC), and PB&TAT(Kansas City).Doors 8pm Music 8:30pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-pbtat-belle-riots-and-bugjuice-blues",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1781287618712-LNPTI0M20E2AKFH4PR2O/717.png",
+      "dateAdded": "2026-06-12"
+    },
+    {
       "title": "The Damn Quails",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -2256,12 +2270,12 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-31",
       "time": "8:00 PM",
-      "price": "$20",
+      "price": "$20–$75",
       "description": "Annabelle Dinda",
       "eventUrl": "http://www.prekindle.com/event/83125-annabelle-dinda-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131319499",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949127196858",
       "dateAdded": "2026-06-09"
     },
     {
@@ -2454,7 +2468,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-05",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$20–$75",
       "description": "Luke Borchelt",
       "eventUrl": "http://www.prekindle.com/event/92468-luke-borchelt-the-water-town-tour-oklahoma-city",
       "ageLimit": null,
@@ -3390,7 +3404,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-08",
       "time": null,
-      "price": "$121–$167",
+      "price": "$35–$167",
       "description": "Peaches",
       "eventUrl": "http://www.prekindle.com/event/68425-peaches-no-lube-so-rude-tour-oklahoma-city",
       "ageLimit": null,
@@ -3418,7 +3432,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-09",
       "time": "7:00 PM",
-      "price": null,
+      "price": "$31",
       "description": "Archers, Autumn Kings, pinknoise, Coldstate",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/archers-09-sep",
       "ageLimit": "ALL AGES",
@@ -3639,6 +3653,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-01"
+    },
+    {
+      "title": "American Aquarium",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-09-13",
+      "time": "8 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/54557125/american-aquarium-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/american-aquarium.jfif",
+      "dateAdded": "2026-06-12"
     },
     {
       "title": "Me Like Bees",
@@ -3944,7 +3972,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-24",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$34",
       "description": "JMSN",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/jmsn-24-sep",
       "ageLimit": "ALL AGES",
@@ -4007,6 +4035,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136282591",
       "dateAdded": "2026-06-05"
+    },
+    {
+      "title": "Judah & The Lion",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-09-25",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/43997389/judah-the-lion-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-12"
     },
     {
       "title": "ABRA Cadabra - The Music & Magic of ABBA",
@@ -4266,7 +4308,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-08",
       "time": "7:00 PM",
-      "price": null,
+      "price": "$28 to $41",
       "description": "Ward Davis",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/ward-davis-08-oct",
       "ageLimit": "ALL AGES",
@@ -4631,6 +4673,20 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "title": "American Aquarium",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-10-23",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/33968032/american-aquarium-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-12"
+    },
+    {
       "title": "Palace – USA & Canada Tour 2026",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4803,6 +4859,20 @@
       "dateAdded": "2026-06-03"
     },
     {
+      "title": "LENNY PEARCE - TODDLER RAVE WORLD TOUR",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-03",
+      "time": null,
+      "price": "$30",
+      "description": "Lenny Pearce",
+      "eventUrl": "http://www.prekindle.com/event/71721-lenny-pearce-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949127328890",
+      "dateAdded": "2026-06-12"
+    },
+    {
       "title": "Grateful Shred",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4892,7 +4962,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-06",
       "time": null,
-      "price": "$48",
+      "price": "$48–$88",
       "description": "Underoath, August Burns Red, Atreyu, As Cities Burn",
       "eventUrl": "http://www.prekindle.com/event/41744-underoath-oklahoma-city",
       "ageLimit": null,
@@ -4906,7 +4976,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-07",
       "time": null,
-      "price": "$117–$298",
+      "price": "$15–$298",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/32648-wheel-of-fortune-live-oklahoma-city",
       "ageLimit": null,
