@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T19:05:23.288Z",
+  "lastUpdated": "2026-06-14T09:47:10.585Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -17,112 +17,12 @@
       "dateAdded": "2026-05-20"
     },
     {
-      "title": "Juvenile’s Boiling Point Album Release Tour ​w /  The 400 Degreez Band​ & Friends",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-06-13",
-      "time": null,
-      "price": "$30–$57",
-      "description": "Juvenile",
-      "eventUrl": "http://www.prekindle.com/event/84815-juveniles-boiling-point-album-release-tour-w-the-400-degreez-band-and-friends-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648513988504",
-      "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "Auntie Ace | Palazzo | dj noname.",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-06-13",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/74532-auntie-ace-palazzo-dj-no-name-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141514619",
-      "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "Dead Metal Society",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-06-13",
-      "time": "9:00 PM",
-      "price": "$15",
-      "description": "Dead Metal Society",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/dead-metal-society-13-jun",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f8d1bf806ba378e4d67a5b_679855577_1282526500095572_3447706787682002268_n.jpeg",
-      "dateAdded": "2026-05-04"
-    },
-    {
-      "title": "Matt Mann and the Shinerunners",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-06-13",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156237921",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156237833",
-      "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "Donna",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-06-13",
-      "time": null,
-      "price": "$15",
-      "description": "Donna, Chase Kerby",
-      "eventUrl": "http://www.prekindle.com/event/35839-donna-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949180160496",
-      "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "Kat Hasty",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-06-13",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/64563444/kat-hasty-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Get Leppard",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-06-13",
-      "time": "7:00 PM",
-      "price": "$15 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37582",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37582-4f3e75d971b0782276bd44ad8da5192e.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
       "title": "Fruit Bats",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-14",
       "time": null,
-      "price": "$15–$55",
+      "price": "$35–$55",
       "description": "Fruit Bats, Matthew Logan Vasquez",
       "eventUrl": "http://www.prekindle.com/event/29337-fruit-bats-oklahoma-city",
       "ageLimit": null,
@@ -907,6 +807,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148090641",
       "dateAdded": "2026-06-03"
+    },
+    {
+      "title": "Dale Watson and His Lonestars",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-28",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949126128269",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949126128232",
+      "dateAdded": "2026-06-14"
     },
     {
       "title": "The Dust Devils",
@@ -3213,6 +3127,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-18"
+    },
+    {
+      "title": "FEA",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-09-05",
+      "time": null,
+      "price": "$10",
+      "description": "FEA",
+      "eventUrl": "http://www.prekindle.com/event/31851-fea-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949125980944",
+      "dateAdded": "2026-06-14"
     },
     {
       "title": "Danielle Nicole",
