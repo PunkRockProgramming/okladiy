@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-06-14T09:47:10.585Z",
+  "lastUpdated": "2026-06-14T19:05:46.488Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Yosemite In Black",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-06-13",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Terminus Hate Takeover Tour\nYosemite In Black\nwith Special Guests Powerplay, Tar Creek, Tainted Beef & Splintered\nGeneral Admission Standing / All Ages Welcome",
-      "eventUrl": "https://www.ticketstorm.com/event/terminushatetakeovertour/89thstreetokc/oklahomacity/32813/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_7d5849a5ddb84dad8329972384129401~mv2.jpg",
-      "dateAdded": "2026-05-20"
-    },
     {
       "title": "Fruit Bats",
       "venue": "Tower Theatre",
@@ -3835,6 +3821,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-27"
+    },
+    {
+      "title": "Low Gap",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-25",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nLOW GAP\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/71911145/low-gap-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_cce5ecd66b004dddb7a4939319442bc2~mv2.jpg",
+      "dateAdded": "2026-06-14"
     },
     {
       "title": "Grungefest: Pearl Gem / Nervana",
