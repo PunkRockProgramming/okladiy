@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-06-14T19:05:46.488Z",
+  "lastUpdated": "2026-06-15T12:30:27.484Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Fruit Bats",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-06-14",
-      "time": null,
-      "price": "$35–$55",
-      "description": "Fruit Bats, Matthew Logan Vasquez",
-      "eventUrl": "http://www.prekindle.com/event/29337-fruit-bats-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949138952167",
-      "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "Graveripper | Gravehuffer",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-06-14",
-      "time": null,
-      "price": "$15",
-      "description": "Graveripper",
-      "eventUrl": "http://www.prekindle.com/event/36392-graveripper-gravehuffer-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150805184",
-      "dateAdded": "2026-06-03"
-    },
-    {
-      "title": "Vinyl Williams",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-06-14",
-      "time": null,
-      "price": "$15",
-      "description": "Vinyl Williams, Hott Mt, Jacob Hamilton",
-      "eventUrl": "http://www.prekindle.com/event/47151-vinyl-williams-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648498707687",
-      "dateAdded": "2026-06-03"
-    },
     {
       "title": "Asian Glow",
       "venue": "Resonant Head",
@@ -1503,6 +1461,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38678-07397c15a4d183e60852037a89a7346e.png",
       "dateAdded": "2026-06-03"
+    },
+    {
+      "title": "LUCI w/ GREEN MATTER",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-07-17",
+      "time": "8:00 PM",
+      "price": "$31",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38781",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38781-728d1dec1b54cb7802e69facc35b5ca1.png",
+      "dateAdded": "2026-06-15"
     },
     {
       "title": "Last Podcast on the Left - JK Ultra Tour",
