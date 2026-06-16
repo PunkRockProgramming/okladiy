@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T11:24:15.473Z",
+  "lastUpdated": "2026-06-16T20:34:46.927Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -206,7 +206,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-19",
       "time": "9:00 PM",
-      "price": "$15–$75",
+      "price": "$8–$75",
       "description": "What the Sound, The Dance Parties, What the Dance, DJ Isis Payne",
       "eventUrl": "http://www.prekindle.com/event/87842-club-slayyy-oklahoma-city",
       "ageLimit": null,
@@ -616,7 +616,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-06-27",
       "time": "9:00 PM",
-      "price": "$15",
+      "price": "$22 to $60",
       "description": "Dial Up",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/dial-up-90-s-tribute-21-27-jun",
       "ageLimit": null,
@@ -644,7 +644,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-27",
       "time": "10:00 PM",
-      "price": "$16–$76",
+      "price": "$8–$76",
       "description": "What the Sound",
       "eventUrl": "http://www.prekindle.com/event/84133-dancing-on-my-own-queer-pop-icons-night-oklahoma-city",
       "ageLimit": null,
@@ -780,6 +780,20 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148588838",
+      "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Toyotuh Tuesday",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-06-30",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/37727-toyotuh-tuesday-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949124422353",
       "dateAdded": "2026-06-16"
     },
     {
@@ -2081,6 +2095,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Doubledrag | Sun Vow | Babies on a Halfpipe",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-01",
+      "time": null,
+      "price": "$10",
+      "description": "Doubledrag",
+      "eventUrl": "http://www.prekindle.com/event/17196-doubledrag-sun-vow-babies-on-a-halfpipe-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949123880927",
+      "dateAdded": "2026-06-16"
+    },
+    {
       "title": "Straight Tequila Night ~ a Tribute to '90s Country (21+)",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -2803,6 +2831,20 @@
       "dateAdded": "2026-05-12"
     },
     {
+      "title": "Demetri Martin",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-22",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/73296033/demetri-martin-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-16"
+    },
+    {
       "title": "The Rocklahoma Bitches Show",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3253,6 +3295,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a26da1fcec5c3876666a021_Archers_2026_Press_Photo.jpeg",
       "dateAdded": "2026-06-10"
+    },
+    {
+      "title": "The Record Company - Give It Back To You 10th Anniversary Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-09",
+      "time": "7:00 PM",
+      "price": "$25",
+      "description": "The Record Company",
+      "eventUrl": "http://www.prekindle.com/event/75218-the-record-company-give-it-back-to-you-10th-anniversary-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949127300044",
+      "dateAdded": "2026-06-16"
     },
     {
       "title": "Sweeping Promises",
@@ -4206,7 +4262,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-09",
       "time": "8:00 PM",
-      "price": "$18",
+      "price": "$15–$75",
       "description": "Mountain Grass Unit",
       "eventUrl": "http://www.prekindle.com/event/89929-mountain-grass-unit-appalachian-smoke-tour-oklahoma-city",
       "ageLimit": null,
@@ -4254,6 +4310,20 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161248997",
+      "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Greywind",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-10",
+      "time": null,
+      "price": "$15",
+      "description": "Greywind",
+      "eventUrl": "http://www.prekindle.com/event/85174-greywind-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131266045",
       "dateAdded": "2026-06-16"
     },
     {
@@ -4427,6 +4497,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37987-70450099b4d5ae6cf200147866f9e43c.png",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "DEMOLA LIVE!",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-17",
+      "time": null,
+      "price": "$34–$60",
+      "description": "Demola",
+      "eventUrl": "http://www.prekindle.com/event/24431-demola-live-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949125241860",
+      "dateAdded": "2026-06-16"
     },
     {
       "title": "The Gringos",
@@ -4754,6 +4838,20 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177636782",
+      "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Daughtry - 20 Years Unplugged Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-04",
+      "time": null,
+      "price": null,
+      "description": "Daughtry, Ryan Perdz",
+      "eventUrl": "http://www.prekindle.com/event/36175-daughtry-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949124364385",
       "dateAdded": "2026-06-16"
     },
     {
