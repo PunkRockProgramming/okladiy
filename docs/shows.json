@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T11:08:37.722Z",
+  "lastUpdated": "2026-06-17T19:56:14.515Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -2396,7 +2396,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-10",
       "time": null,
-      "price": "$32",
+      "price": "$32–$57",
       "description": "honestav",
       "eventUrl": "http://www.prekindle.com/event/38898-honestav-oklahoma-city",
       "ageLimit": null,
@@ -2817,20 +2817,6 @@
       "dateAdded": "2026-05-12"
     },
     {
-      "title": "Demetri Martin",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-22",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/73296033/demetri-martin-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-16"
-    },
-    {
       "title": "The Rocklahoma Bitches Show",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3071,6 +3057,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151127089",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "That 90s Party",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-29",
+      "time": "7:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/67638283/that-90s-party-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "21+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-17"
     },
     {
       "title": "The Browning Burn This World (EVOLVED) USA V2",
@@ -3679,6 +3679,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38003-c1745f4821a211be53c4fda787e51ee2.png",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Born Of Osiris",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-09-19",
+      "time": "6:30 PM",
+      "price": "$22 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.tulsashrine.com",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38771-2a0e65b40122be974cf62b7ca1511c23.jpg",
+      "dateAdded": "2026-06-17"
     },
     {
       "title": "Bluegrass Brunch with Johnny Mullenax",
@@ -4460,7 +4476,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-16",
       "time": "8:00 PM",
-      "price": "$73",
+      "price": "$20–$73",
       "description": "Elizabeth Nichols",
       "eventUrl": "http://www.prekindle.com/event/73618-elizabeth-nichols-i-dont-kiss-and-tell-i-kiss-and-tour-oklahoma-city",
       "ageLimit": null,
@@ -4569,6 +4585,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c1b7f2d1a5bfe135a2b089_Kyle_Hume_US_1200_X_628_-_Tulsa.jpeg",
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Ak'chamel",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-21",
+      "time": null,
+      "price": "$18",
+      "description": "Ak'chamel, OAF",
+      "eventUrl": "http://www.prekindle.com/event/53446-akchamel-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949133802287",
+      "dateAdded": "2026-06-17"
     },
     {
       "title": "Prof",
@@ -4846,7 +4876,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-04",
       "time": null,
-      "price": null,
+      "price": "$40–$1042",
       "description": "Daughtry, Ryan Perdz",
       "eventUrl": "http://www.prekindle.com/event/36175-daughtry-oklahoma-city",
       "ageLimit": null,
