@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T10:40:08.909Z",
+  "lastUpdated": "2026-06-18T20:07:58.142Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -683,7 +683,7 @@
       "dateAdded": "2026-06-16"
     },
     {
-      "title": "Dale Watson and His Lonestars",
+      "title": "Dale Watson and His Lonestars with special guest Jacob Tovar",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-06-28",
@@ -694,7 +694,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949126128232",
-      "dateAdded": "2026-06-16"
+      "dateAdded": "2026-06-18"
     },
     {
       "title": "The Dust Devils",
@@ -1565,6 +1565,20 @@
       "dateAdded": "2026-04-29"
     },
     {
+      "title": "Anxious Arms",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-21",
+      "time": null,
+      "price": "$12",
+      "description": "And In the Darkness I Was Free, Anxious Arms, Weepcar, Honduh Daze, SIFR",
+      "eventUrl": "http://www.prekindle.com/event/96311-anxious-arms-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121988544",
+      "dateAdded": "2026-06-18"
+    },
+    {
       "title": "Being As An Ocean",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -1893,8 +1907,22 @@
       "eventUrl": "http://www.prekindle.com/event/92783-saidan-thr-barbelith-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146856581",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121821317",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Brokencyde, WhoKilledXIX, and Oni Inc",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-29",
+      "time": null,
+      "price": "$15",
+      "description": "brokeNCYDE, Whokilledxix, Oni Inc.",
+      "eventUrl": "http://www.prekindle.com/event/41938-brokencyde-whokilledxix-and-oni-inc-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121850835",
+      "dateAdded": "2026-06-18"
     },
     {
       "title": "Uncle Lucius: The 20th Anniversary Tour",
@@ -3064,7 +3092,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-01",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$34",
       "description": "Hazlett",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/hazlett-01-sep",
       "ageLimit": "ALL AGES",
@@ -3093,11 +3121,11 @@
       "date": "2026-09-03",
       "time": null,
       "price": "$15",
-      "description": "Shearling",
+      "description": "Shearling, Bilong",
       "eventUrl": "http://www.prekindle.com/event/68114-shearling-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154495932",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121883766",
       "dateAdded": "2026-06-16"
     },
     {
@@ -3113,6 +3141,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-18"
+    },
+    {
+      "title": "GoldFord – Space of the Heart Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-05",
+      "time": null,
+      "price": "$25",
+      "description": "GoldFord",
+      "eventUrl": "http://www.prekindle.com/event/82518-goldford-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949123360598",
+      "dateAdded": "2026-06-18"
     },
     {
       "title": "FEA",
@@ -3469,6 +3511,20 @@
       "dateAdded": "2026-06-01"
     },
     {
+      "title": "Powerplant",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-13",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "POWERPLANT\nwith Special Guest Net\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/71639137/powerplant-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_58587a78e375450684d1b0e8d97f096c~mv2.jpg",
+      "dateAdded": "2026-06-18"
+    },
+    {
       "title": "American Aquarium",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -3495,6 +3551,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156099782",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Sleep: North America 2026",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-14",
+      "time": null,
+      "price": "$30–$50",
+      "description": "Sleep",
+      "eventUrl": "http://www.prekindle.com/event/42958-sleep-north-america-2026-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949122254323",
+      "dateAdded": "2026-06-18"
     },
     {
       "title": "Thousand Below",
@@ -3867,20 +3937,6 @@
       "dateAdded": "2026-04-27"
     },
     {
-      "title": "Low Gap",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-25",
-      "time": "7:30 PM",
-      "price": null,
-      "description": "DCF Concerts Presents\nLOW GAP\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/71911145/low-gap-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_cce5ecd66b004dddb7a4939319442bc2~mv2.jpg",
-      "dateAdded": "2026-06-14"
-    },
-    {
       "title": "Grungefest: Pearl Gem / Nervana",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4236,7 +4292,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-09",
       "time": "8:00 PM",
-      "price": "$18",
+      "price": "$15–$75",
       "description": "Mountain Grass Unit",
       "eventUrl": "http://www.prekindle.com/event/89929-mountain-grass-unit-appalachian-smoke-tour-oklahoma-city",
       "ageLimit": null,
