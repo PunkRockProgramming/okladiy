@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T10:47:46.054Z",
+  "lastUpdated": "2026-06-19T19:22:39.352Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -78,7 +78,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-06-19",
       "time": null,
-      "price": "$20",
+      "price": "$17",
       "description": "Brat, Taranis, Hollowed Thoughts",
       "eventUrl": "http://www.prekindle.com/event/82215-brat-oklahoma-city",
       "ageLimit": null,
@@ -455,12 +455,26 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Margaret Rabbit | Verdi Money | Emily Woodhull",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-06-27",
+      "time": null,
+      "price": "$10",
+      "description": "Margaret Rabbit",
+      "eventUrl": "http://www.prekindle.com/event/74116-margaret-rabbit-verdi-money-emily-woodhull-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949120498433",
+      "dateAdded": "2026-06-19"
+    },
+    {
       "title": "GOLDEN: A K-Pop Kids Party!",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-06-27",
       "time": "11:00 AM",
-      "price": "$28 to $92",
+      "price": "$31 to $92",
       "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/golden-a-k-pop-kids-party-27-jun",
       "ageLimit": "ALL AGES",
@@ -2310,7 +2324,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-10",
       "time": null,
-      "price": "$32",
+      "price": "$32–$57",
       "description": "honestav",
       "eventUrl": "http://www.prekindle.com/event/38898-honestav-oklahoma-city",
       "ageLimit": null,
@@ -2631,6 +2645,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141410941",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Cole Phillips",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-08-21",
+      "time": "8:00 PM",
+      "price": "$28",
+      "description": "Cole Phillips",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/cole-phillips-21-aug",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a341157547c26ba508a1b6e_cole_phillips_promo.jpeg",
+      "dateAdded": "2026-06-19"
     },
     {
       "title": "Com Truise",
@@ -2957,6 +2985,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141451418",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Dead Metal Society",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-08-29",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "Dead Metal Society",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/dead-metal-society-29-aug",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a358d049693215c5b1d31dc_679693880_1247497944261671_7412441391530546935_n.jpeg",
+      "dateAdded": "2026-06-19"
     },
     {
       "title": "PawPaw Rod: Picture Day Tour",
@@ -3644,7 +3686,7 @@
       "time": "6:30 PM",
       "price": "$22 adv / $25 door",
       "description": null,
-      "eventUrl": "https://www.tulsashrine.com",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38771",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -4081,7 +4123,7 @@
       "date": "2026-10-02",
       "time": null,
       "price": "$22",
-      "description": "The Bobby Lees",
+      "description": "The Bobby Lees, Dolly Creamer, Diet Riot",
       "eventUrl": "http://www.prekindle.com/event/83367-the-bobby-lees-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4413,6 +4455,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "THE SCHIZOPHONICS",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-14",
+      "time": null,
+      "price": "$18",
+      "description": "The Schizophonics, Descartes A Kant, Dale Crover of Melvins",
+      "eventUrl": "http://www.prekindle.com/event/15526-the-schizophonics-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131105369",
+      "dateAdded": "2026-06-19"
+    },
+    {
       "title": "Snarky Puppy",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4432,7 +4488,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-16",
       "time": "8:00 PM",
-      "price": "$73",
+      "price": "$20–$73",
       "description": "Elizabeth Nichols",
       "eventUrl": "http://www.prekindle.com/event/73618-elizabeth-nichols-i-dont-kiss-and-tell-i-kiss-and-tour-oklahoma-city",
       "ageLimit": null,
@@ -4832,7 +4888,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-04",
       "time": null,
-      "price": "$155–$1042",
+      "price": "$40–$1042",
       "description": "Daughtry, Ryan Perdz",
       "eventUrl": "http://www.prekindle.com/event/36175-daughtry-oklahoma-city",
       "ageLimit": null,
