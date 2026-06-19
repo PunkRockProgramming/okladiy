@@ -1,93 +1,7 @@
 {
-  "lastUpdated": "2026-06-18T20:07:58.142Z",
+  "lastUpdated": "2026-06-19T10:47:46.054Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "David Lewis",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-06-18",
-      "time": "8:00 PM",
-      "price": "$22",
-      "description": "David Lewis, Boston James",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/david-lewis-18-jun",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0df6cc127cc817f3cdd0d6_DavidLewis_VG_ConventDesigns_2x1.jpeg",
-      "dateAdded": "2026-05-20"
-    },
-    {
-      "title": "Dallas Burrow with special guest Justin Bloss",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-06-18",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949156236901",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156236531",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Parker Millsap",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-06-18",
-      "time": "8:00 PM",
-      "price": "$23–$75",
-      "description": "Parker Millsap, Caroline Spence",
-      "eventUrl": "http://www.prekindle.com/event/79213-parker-millsap-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949162010364",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "girl so in love an olivia rodrigo night",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-06-18",
-      "time": null,
-      "price": "$15",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/54984-girl-so-in-love-an-olivia-rodrigo-night-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161893495",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "MC Chris W/ Mega Ran",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-06-18",
-      "time": "7:00 PM",
-      "price": "$25 adv / $30 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37262",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37262-a3427e3ff6f31e9ddcfd90e427e36d6b.jpg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Dan Spencer",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-06-19",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "DAN SPENCER LIVES!\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/59622667/dan-spencer-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_571508bec4634dfeb7bb7c21dab31664~mv2.jpg",
-      "dateAdded": "2026-04-28"
-    },
     {
       "title": "Bingo Loco",
       "venue": "Tower Theatre",
@@ -150,7 +64,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-19",
       "time": "9:00 PM",
-      "price": "$18–$75",
+      "price": "$22–$75",
       "description": "What the Sound, The Dance Parties, What the Dance, DJ Isis Payne",
       "eventUrl": "http://www.prekindle.com/event/87842-club-slayyy-oklahoma-city",
       "ageLimit": null,
@@ -164,7 +78,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-06-19",
       "time": null,
-      "price": "$15",
+      "price": "$20",
       "description": "Brat, Taranis, Hollowed Thoughts",
       "eventUrl": "http://www.prekindle.com/event/82215-brat-oklahoma-city",
       "ageLimit": null,
@@ -1995,6 +1909,20 @@
       "dateAdded": "2026-05-06"
     },
     {
+      "title": "Travis Roberts with special guest Brandon Clark",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-07-31",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949121629984",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121621553",
+      "dateAdded": "2026-06-19"
+    },
+    {
       "title": "Annabelle Dinda",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2382,7 +2310,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-10",
       "time": null,
-      "price": "$32–$57",
+      "price": "$32",
       "description": "honestav",
       "eventUrl": "http://www.prekindle.com/event/38898-honestav-oklahoma-city",
       "ageLimit": null,
@@ -3781,7 +3709,7 @@
       "dateAdded": "2026-06-02"
     },
     {
-      "title": "Shinyribs",
+      "title": "Shinyribs with Scott Strickland",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-09-20",
@@ -3794,7 +3722,7 @@
         "tulsa"
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38222-c0fac9aedfc621129b72b5c266a79210.jpeg",
-      "dateAdded": "2026-04-09"
+      "dateAdded": "2026-06-19"
     },
     {
       "title": "Silly Goose – The “Set It Off” Tour",
@@ -3935,6 +3863,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-27"
+    },
+    {
+      "title": "Low Gap",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-25",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nLOW GAP\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/71911145/low-gap-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_cce5ecd66b004dddb7a4939319442bc2~mv2.jpg",
+      "dateAdded": "2026-06-19"
     },
     {
       "title": "Grungefest: Pearl Gem / Nervana",
@@ -4490,7 +4432,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-16",
       "time": "8:00 PM",
-      "price": "$20–$73",
+      "price": "$73",
       "description": "Elizabeth Nichols",
       "eventUrl": "http://www.prekindle.com/event/73618-elizabeth-nichols-i-dont-kiss-and-tell-i-kiss-and-tour-oklahoma-city",
       "ageLimit": null,
@@ -4890,7 +4832,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-04",
       "time": null,
-      "price": "$40–$1042",
+      "price": "$155–$1042",
       "description": "Daughtry, Ryan Perdz",
       "eventUrl": "http://www.prekindle.com/event/36175-daughtry-oklahoma-city",
       "ageLimit": null,
