@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-06-20T19:06:34.097Z",
+  "lastUpdated": "2026-06-21T09:59:05.170Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Please Don’t Destroy: LIVE",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-06-20",
-      "time": null,
-      "price": "$35–$45",
-      "description": "Please Don't Destroy",
-      "eventUrl": "http://www.prekindle.com/event/71715-please-dont-destroy-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949162019630",
-      "dateAdded": "2026-06-16"
-    },
     {
       "title": "Live Music All Ages feat: Phantasmagoria & More!",
       "venue": "Noise Town",
@@ -29,92 +15,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1780061445286-UP8RTLIM4UD24U2GFL9X/Stone+Set+Flier.jpeg",
       "dateAdded": "2026-05-29"
-    },
-    {
-      "title": "She Hates Me Not & TAKER",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-06-20",
-      "time": "7:00 PM",
-      "price": "$22",
-      "description": "She Hates Me Not, Taker, Anerium, Leash, Dirtywork",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/she-hates-me-not-20-jun",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c408ddf59ec45b007f1889_IMG_2467.jpeg",
-      "dateAdded": "2026-03-27"
-    },
-    {
-      "title": "Bottomland",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-06-20",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949157511167",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157508574",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Electric Feels: Indie Rock + Electronic Dance Party",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-06-20",
-      "time": "9:30 PM",
-      "price": "$20–$75",
-      "description": "Electric Feels",
-      "eventUrl": "http://www.prekindle.com/event/99878-electric-feels-indie-rock-and-electronic-dance-party-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158672203",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "CRIMEWAVE: A DARKWAVE PARTY",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-06-20",
-      "time": null,
-      "price": "$15",
-      "description": "La Fantasma, Mr Werewulf",
-      "eventUrl": "http://www.prekindle.com/event/31343-crimewave-a-darkwave-party-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183281069",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Day Shift Party",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-06-20",
-      "time": "5 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/89476603/day-shift-party-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "21+",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Josey Scott: The Original Voice of Saliva RETURNS TO SHRINE",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-06-20",
-      "time": "7:00 PM",
-      "price": "$20 adv / $25 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38335",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38335-17cad759c3f41fca26850662a8ade841.jpeg",
-      "dateAdded": "2026-04-24"
     },
     {
       "title": "Crimson Love & Pageant",
@@ -157,6 +57,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149644521",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Todd Day Wait",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-06-24",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949119249933",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949119249681",
+      "dateAdded": "2026-06-21"
     },
     {
       "title": "Dinner Time",
@@ -1279,6 +1193,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Battle for Kattfest Night #1",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-07-18",
+      "time": "5:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/45421496/battle-for-kattfest-night-1-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/battle-for-kattfest-night-1.jfif",
+      "dateAdded": "2026-06-21"
+    },
+    {
       "title": "Nuns | Nghiems",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -1595,6 +1523,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Battle for Kattfest Night #2",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-07-25",
+      "time": "5:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/85448013/battle-for-kattfest-night-2-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/battle-for-kattfest-night-2.jfif",
+      "dateAdded": "2026-06-21"
+    },
+    {
       "title": "Bit Brigade Performs \"Mega Man X\" LIVE",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1909,6 +1851,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156806569",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Battle for Kattfest Night #3",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-08-01",
+      "time": "5:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/90970277/battle-for-kattfest-night-3-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/battle-for-kattfest-night-3.jfif",
+      "dateAdded": "2026-06-21"
     },
     {
       "title": "Doubledrag | Sun Vow | Babies on a Halfpipe",
@@ -2389,6 +2345,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38395-db9a35bdd3d6480cfc352272b3a359d3.jpeg",
       "dateAdded": "2026-05-03"
+    },
+    {
+      "title": "Battle for Kattfest Finals",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-08-15",
+      "time": "5:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/32861807/battle-for-kattfest-finals-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/battle-for-kattfest-finals.jfif",
+      "dateAdded": "2026-06-21"
     },
     {
       "title": "Nature and Madness | Skink | Reed Burnam",
