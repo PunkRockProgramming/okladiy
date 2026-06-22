@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T12:16:36.130Z",
+  "lastUpdated": "2026-06-22T20:30:16.421Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -546,7 +546,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-02",
       "time": "8:00 PM",
-      "price": "$15–$75",
+      "price": "$10–$75",
       "description": "Novulent, Baby Teeth",
       "eventUrl": "http://www.prekindle.com/event/46612-novulent-oklahoma-city",
       "ageLimit": null,
@@ -567,6 +567,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a1da7d4460749f501d8994c_jkmkjnvd.jpeg",
       "dateAdded": "2026-06-01"
+    },
+    {
+      "title": "The Muffled Siren",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-03",
+      "time": null,
+      "price": "$12",
+      "description": "The Muffled Siren, DROIDA, That Sick Feeling",
+      "eventUrl": "http://www.prekindle.com/event/31752-the-muffled-siren-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118288152",
+      "dateAdded": "2026-06-22"
     },
     {
       "title": "Ebony Dark'ness | Weepcar | China Blue | Blood On The Oilfield",
@@ -644,7 +658,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-09",
       "time": "8:00 PM",
-      "price": "$22–$75",
+      "price": "$16–$75",
       "description": "Devin The Dude",
       "eventUrl": "http://www.prekindle.com/event/47474-devin-the-dude-oklahoma-city",
       "ageLimit": null,
@@ -1198,7 +1212,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-18",
       "time": "8:00 PM",
-      "price": "$19–$75",
+      "price": "$14–$75",
       "description": "Hit The Lights, Action/Adventure, Eternal Boy",
       "eventUrl": "http://www.prekindle.com/event/86984-hit-the-lights-oklahoma-city",
       "ageLimit": null,
@@ -2333,6 +2347,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Noah Bowman",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-08-15",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "Noah Bowman, Mac Hankins and the Moonlighters",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/noah-bowman-15-aug",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a396438942ece6d1297a4b7_noah.jpeg",
+      "dateAdded": "2026-06-22"
+    },
+    {
       "title": "Willow Avalon - Pink Pocket Pistol Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2433,6 +2461,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38525-3974b3a7af4b2793ad25653d0696fe94.jpeg",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "title": "Asleep at the Wheel - Route 66 Centennial",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-20",
+      "time": null,
+      "price": "$30–$75",
+      "description": "Asleep At The Wheel",
+      "eventUrl": "http://www.prekindle.com/event/84158-asleep-at-the-wheel-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118147495",
+      "dateAdded": "2026-06-22"
     },
     {
       "title": "Jayson Arendt",
@@ -2589,6 +2631,20 @@
       "dateAdded": "2026-05-12"
     },
     {
+      "title": "Demetri Martin",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-22",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/73296033/demetri-martin-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-22"
+    },
+    {
       "title": "The Rocklahoma Bitches Show",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -2661,6 +2717,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "ILUKA - The Wings Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-24",
+      "time": null,
+      "price": "$20",
+      "description": "ILUKA",
+      "eventUrl": "http://www.prekindle.com/event/31265-iluka-the-wings-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949123074561",
+      "dateAdded": "2026-06-22"
+    },
+    {
       "title": "BRENN! - AMATEUR AT BEST WORLD TOUR",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2681,7 +2751,7 @@
       "date": "2026-08-26",
       "time": "8:00 PM",
       "price": "$23–$75",
-      "description": "Cheekface, Catbite",
+      "description": "Cheekface, Catbite, Shauna Dean Cokeland",
       "eventUrl": "http://www.prekindle.com/event/33269-cheekface-with-special-guest-catbite-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2771,6 +2841,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141907589",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Asleep At The Wheel",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-28",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/71801582/asleep-at-the-wheel-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-22"
     },
     {
       "title": "The Best of Steely Dan at The Shrine",
@@ -3363,7 +3447,7 @@
       "eventUrl": "http://www.prekindle.com/event/42958-sleep-north-america-2026-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949122254323",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118586291",
       "dateAdded": "2026-06-18"
     },
     {
@@ -3861,6 +3945,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167255157",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "SHAWN JAMES “FLEW TOO CLOSE TO THE SUN TOUR\"",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-29",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Shawn James",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/shawn-james-flew-too-close-to-the-sun-tour-29-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a39423d31116ac00a9b9651_ARGENTINA_SJ_6000x4000.jpeg",
+      "dateAdded": "2026-06-22"
     },
     {
       "title": "Built To Spill",
@@ -4555,6 +4653,20 @@
       "dateAdded": "2026-05-04"
     },
     {
+      "title": "almost monday – THANK GOD IT'S ALMOST MONDAY",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-26",
+      "time": "8:00 PM",
+      "price": "$105",
+      "description": "Almost Monday",
+      "eventUrl": "http://www.prekindle.com/event/42539-almost-monday-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118586918",
+      "dateAdded": "2026-06-22"
+    },
+    {
       "title": "Madeon presents Victory Live",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4697,6 +4809,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949127328890",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "The War And Treaty",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-04",
+      "time": null,
+      "price": "$25–$50",
+      "description": "The War and Treaty",
+      "eventUrl": "http://www.prekindle.com/event/55285-the-war-and-treaty-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949135558136",
+      "dateAdded": "2026-06-22"
     },
     {
       "title": "Grateful Shred",
@@ -4861,7 +4987,7 @@
       "date": "2026-11-08",
       "time": "8:00 PM",
       "price": "$25–$75",
-      "description": "Low Cut Connie",
+      "description": "Low Cut Connie, Laney Jones and the Spirits",
       "eventUrl": "http://www.prekindle.com/event/91988-low-cut-connie-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -5223,6 +5349,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-08"
+    },
+    {
+      "title": "Jeff Arcuri: The Road Trip Tour",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2027-03-13",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/38178688/jeff-arcurithe-road-trip-tour-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-22"
     },
     {
       "title": "DENNY LOVE: SHOW LOVE TOUR",
