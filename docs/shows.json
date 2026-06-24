@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T09:41:55.014Z",
+  "lastUpdated": "2026-06-24T19:24:11.935Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -162,7 +162,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-26",
       "time": "8:00 PM",
-      "price": "$11–$75",
+      "price": null,
       "description": "Kiss the Goat",
       "eventUrl": "http://www.prekindle.com/event/71543-kiss-the-goat-the-premier-ghost-tribute-oklahoma-city",
       "ageLimit": null,
@@ -686,7 +686,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-07-10",
       "time": null,
-      "price": "$15–$30",
+      "price": "$11–$30",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/96243-i-love-randb-party-oklahoma-city",
       "ageLimit": null,
@@ -2253,7 +2253,7 @@
       "date": "2026-08-11",
       "time": null,
       "price": "$15",
-      "description": "The Montvales",
+      "description": "The Montvales, Nathan Evans Fox",
       "eventUrl": "http://www.prekindle.com/event/34438-the-montvales-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2778,7 +2778,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-08-24",
       "time": null,
-      "price": "$20",
+      "price": "$17",
       "description": "ILUKA",
       "eventUrl": "http://www.prekindle.com/event/31265-iluka-the-wings-tour-oklahoma-city",
       "ageLimit": null,
@@ -3025,6 +3025,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148072423",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Bungalow Collect presents Disco Rap: Keep It Honest Across America",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-30",
+      "time": "8:00 PM",
+      "price": "$20–$75",
+      "description": "Bungalow Collect, Gold Lincoln",
+      "eventUrl": "http://www.prekindle.com/event/53252-bungalow-collect-presents-disco-rap-keep-it-honest-across-america-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118071677",
+      "dateAdded": "2026-06-24"
     },
     {
       "title": "Hazlett",
@@ -3485,7 +3499,7 @@
       "date": "2026-09-13",
       "time": null,
       "price": "$15",
-      "description": "Me Like Bees",
+      "description": "Me Like Bees, Fox Royale",
       "eventUrl": "http://www.prekindle.com/event/27651-me-like-bees-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3505,6 +3519,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118586291",
       "dateAdded": "2026-06-18"
+    },
+    {
+      "title": "Hail the Sun & A Lot Like Birds",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-14",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "Hail the Sun, A Lot Like Birds, Blight Town, murals",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/hail-the-sun-a-lot-like-birds-14-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a3ac4f57d3ab230ac10b3c6_HTS-2025Promos-AlexBemis-04280_1_.jpeg",
+      "dateAdded": "2026-06-24"
     },
     {
       "title": "Thousand Below",
@@ -3751,6 +3779,20 @@
       "dateAdded": "2026-06-23"
     },
     {
+      "title": "VOID | Phantom",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-09-22",
+      "time": null,
+      "price": "$15",
+      "description": "Void",
+      "eventUrl": "http://www.prekindle.com/event/64398-void-phantom-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949116090288",
+      "dateAdded": "2026-06-24"
+    },
+    {
       "title": "Silly Goose – The “Set It Off” Tour",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -3903,6 +3945,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-27"
+    },
+    {
+      "title": "The Obsessed | Dust Lord",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-09-25",
+      "time": null,
+      "price": "$20",
+      "description": "The Obsessed",
+      "eventUrl": "http://www.prekindle.com/event/12578-the-obsessed-dust-lord-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949116098551",
+      "dateAdded": "2026-06-24"
     },
     {
       "title": "Grungefest: Pearl Gem / Nervana",
@@ -4171,6 +4227,20 @@
       "dateAdded": "2026-05-27"
     },
     {
+      "title": "FIGHTMASTER",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-04",
+      "time": null,
+      "price": "$25",
+      "description": "FIGHTMASTER",
+      "eventUrl": "http://www.prekindle.com/event/12397-fightmaster-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949117661837",
+      "dateAdded": "2026-06-24"
+    },
+    {
       "title": "Suki Waterhouse: The Loveland Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4190,7 +4260,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-07",
       "time": "8:00 PM",
-      "price": "$27",
+      "price": "$23",
       "description": "Bad Nerves",
       "eventUrl": "http://www.prekindle.com/event/92852-bad-nerves-oklahoma-city",
       "ageLimit": null,
@@ -4602,7 +4672,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-17",
       "time": null,
-      "price": null,
+      "price": "$27–$127",
       "description": "Indigo Girls, Linda Perry",
       "eventUrl": "http://www.prekindle.com/event/29947-indigo-girls-oklahoma-city",
       "ageLimit": null,
@@ -4786,13 +4856,27 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-26",
       "time": "8:00 PM",
-      "price": "$105",
+      "price": "$24–$105",
       "description": "Almost Monday",
       "eventUrl": "http://www.prekindle.com/event/42539-almost-monday-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118586918",
       "dateAdded": "2026-06-22"
+    },
+    {
+      "title": "The Robert Cray Band",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-27",
+      "time": null,
+      "price": "$29–$151",
+      "description": "The Robert Cray Band",
+      "eventUrl": "http://www.prekindle.com/event/59182-the-robert-cray-band-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118585923",
+      "dateAdded": "2026-06-24"
     },
     {
       "title": "Madeon presents Victory Live",
@@ -5179,6 +5263,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Rival Sons",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-11-10",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/53436374/rival-sons-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-06-24"
+    },
+    {
       "title": "ICON FOR HIRE SCRIPTED 15 YEAR ALBUM ANNIVERSARY TOUR",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -5270,7 +5368,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-16",
       "time": null,
-      "price": "$30",
+      "price": "$26–$81",
       "description": "Mannequin Pussy, Wednesday, Snõõper",
       "eventUrl": "http://www.prekindle.com/event/44766-mannequin-pussy-oklahoma-city",
       "ageLimit": null,
