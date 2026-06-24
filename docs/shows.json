@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T19:47:41.096Z",
+  "lastUpdated": "2026-06-24T09:41:55.014Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -8,7 +8,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-06-24",
       "time": null,
-      "price": "$14–$45",
+      "price": "$23–$45",
       "description": "TopOppGen, Aziedoesntexist",
       "eventUrl": "http://www.prekindle.com/event/54572-topoppgen-oklahoma-city",
       "ageLimit": null,
@@ -1041,7 +1041,7 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-07-16",
-      "time": "8:00 PM",
+      "time": "7:30 PM",
       "price": "$14.15",
       "description": "LaserEye, Jam on Toast, KikChik",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/summer-good-summer-bad-year-two-lasereye-friends-16-jul",
@@ -1487,7 +1487,7 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/57128825/the-tulsey-town-twostep-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "21+",
+      "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-23"
@@ -1949,6 +1949,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-27"
+    },
+    {
+      "title": "fallfiftyfeet",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-08-02",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "with Special Guests\nEyeless, Tar Creek, deathbyathousandcuts & A Parting Gaze\nAll Tickets General Admission / Standing Room Only",
+      "eventUrl": "https://www.ticketstorm.com/event/fallfiftyfeet89thst/89thstreetokc/oklahomacity/32936/",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_189e49a56d1a44b8b10e73ed200c1339~mv2.jpg",
+      "dateAdded": "2026-06-24"
     },
     {
       "title": "Killer Queen - A Tribute To Queen ft Patrick Myers as Freddie Mercury",
@@ -3891,20 +3905,6 @@
       "dateAdded": "2026-04-27"
     },
     {
-      "title": "Low Gap",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-25",
-      "time": "7:30 PM",
-      "price": null,
-      "description": "DCF Concerts Presents\nLOW GAP\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/71911145/low-gap-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_cce5ecd66b004dddb7a4939319442bc2~mv2.jpg",
-      "dateAdded": "2026-06-23"
-    },
-    {
       "title": "Grungefest: Pearl Gem / Nervana",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4875,7 +4875,7 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/66897228/pop-punk-nitebyvan-full-of-nuns-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
+      "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-23"
