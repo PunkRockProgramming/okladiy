@@ -1,61 +1,19 @@
 {
-  "lastUpdated": "2026-06-24T19:24:11.935Z",
+  "lastUpdated": "2026-06-25T09:34:26.698Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "TopOppGen",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-06-24",
-      "time": null,
-      "price": "$23–$45",
-      "description": "TopOppGen, Aziedoesntexist",
-      "eventUrl": "http://www.prekindle.com/event/54572-topoppgen-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149644521",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Todd Day Wait",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-06-24",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949119249933",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949119249681",
-      "dateAdded": "2026-06-21"
-    },
-    {
-      "title": "Dinner Time",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-06-24",
-      "time": null,
-      "price": "$15",
-      "description": "Dinner Time, Easier, Douglas",
-      "eventUrl": "http://www.prekindle.com/event/69851-dinner-time-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648468636995",
-      "dateAdded": "2026-06-16"
-    },
     {
       "title": "RayBurger",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-25",
       "time": "8:00 PM",
-      "price": "$25–$75",
+      "price": "$30–$75",
       "description": "Rayburger, JNZO",
       "eventUrl": "http://www.prekindle.com/event/26424-rayburger-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183367863",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949115535056",
       "dateAdded": "2026-06-16"
     },
     {
@@ -290,7 +248,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-06-27",
       "time": "10:00 PM",
-      "price": "$8–$76",
+      "price": "$16–$76",
       "description": "What the Sound",
       "eventUrl": "http://www.prekindle.com/event/84133-dancing-on-my-own-queer-pop-icons-night-oklahoma-city",
       "ageLimit": null,
@@ -555,13 +513,27 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Plastic Psalms | Ivory Tusk",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-07-03",
+      "time": null,
+      "price": "$10",
+      "description": "Plastic Psalms",
+      "eventUrl": "http://www.prekindle.com/event/37362-plastic-psalms-ivory-tusk-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949115768105",
+      "dateAdded": "2026-06-25"
+    },
+    {
       "title": "Cresthaven",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-07-03",
       "time": "8:00 PM",
       "price": "$20.72",
-      "description": "Cresthaven, Memorial Drive, Kanis Gahenna",
+      "description": "Cresthaven, Memorial Drive, Kanis Gahenna, PROJEKT ECLIPSE",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/cresthaven-03-jul",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -2811,7 +2783,7 @@
       "eventUrl": "http://www.prekindle.com/event/33269-cheekface-with-special-guest-catbite-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648457615173",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949115530307",
       "dateAdded": "2026-06-16"
     },
     {
@@ -3209,6 +3181,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "When The Sun Sets",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-09",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nWHEN THE SUN SETS\nw/ Special Guest Gold Steps\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nDoors: 7p // Show: 8p",
+      "eventUrl": "https://www.etix.com/ticket/p/92912251/when-the-sun-sets-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_b2f4b87db501486992ebfb9559ee3372~mv2.jpg",
+      "dateAdded": "2026-06-25"
+    },
+    {
       "title": "Madison Ryann Ward - The Standing Tall Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3512,7 +3498,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-14",
       "time": null,
-      "price": "$30–$50",
+      "price": "$40",
       "description": "Sleep",
       "eventUrl": "http://www.prekindle.com/event/42958-sleep-north-america-2026-oklahoma-city",
       "ageLimit": null,
@@ -3847,20 +3833,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949117753078",
       "dateAdded": "2026-06-23"
-    },
-    {
-      "title": "The Callous Daoboys",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-24",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "DCF Concerts Presents\nTHE CALLOUS DAOBOYS\nwith Special Guests Kaonashi, Girl Of Glass, and Wielded Steel\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/63351411/the-callous-daoboys-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_af1f34a2567f4f9f80213dd2053d6d19~mv2.jpg",
-      "dateAdded": "2026-06-12"
     },
     {
       "title": "Liverpool Legends: Beatles Experience",
@@ -5329,7 +5301,7 @@
       "eventUrl": "http://www.prekindle.com/event/95391-lily-rose-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118123452",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949115746311",
       "dateAdded": "2026-06-23"
     },
     {
