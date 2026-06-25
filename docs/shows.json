@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T09:34:26.698Z",
+  "lastUpdated": "2026-06-25T19:43:10.540Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -29,6 +29,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150563056",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "PONYOKE W/ KJ DJ BEEF JERKEY",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-06-25",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/6/25/ponyoke-w-kj-dj-beef-jerkey",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-06-25"
     },
     {
       "title": "BOP TO THE TOP TOUR",
@@ -112,20 +128,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156214352",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Kiss the Goat - The Premier GHOST Tribute",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-06-26",
-      "time": "8:00 PM",
-      "price": null,
-      "description": "Kiss the Goat",
-      "eventUrl": "http://www.prekindle.com/event/71543-kiss-the-goat-the-premier-ghost-tribute-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156192444",
       "dateAdded": "2026-06-16"
     },
     {
@@ -867,6 +869,22 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "DRENCHED IN CEREMONY",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-07-11",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/7/11/drenched-in-ceremony",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-06-25"
+    },
+    {
       "title": "Ghoul's Ball: Ghost Stories",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -1551,6 +1569,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Idiot Mile Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-25",
+      "time": null,
+      "price": "$12",
+      "description": "Red Sun, Idiot Mile, Cryhard, Losing Connection",
+      "eventUrl": "http://www.prekindle.com/event/26285-idiot-mile-release-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949114834398",
+      "dateAdded": "2026-06-25"
+    },
+    {
       "title": "My So Called Band",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -1639,6 +1671,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37795-a3378052ac5ea21ed7b70e1b53de0a20.jpg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "SOME HEARTS // BADZY (NOLA)",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-07-27",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/7/27/some-hearts-badzy-nola",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-06-25"
     },
     {
       "title": "Anyone Awake: I Meant What I Said Tour",
@@ -1823,6 +1871,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38505-5f32b6ea064ad6acd30de0474368c643.jpeg",
       "dateAdded": "2026-05-15"
+    },
+    {
+      "title": "Rock & Roll Camp for Girls Showcase",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-01",
+      "time": null,
+      "price": "$12",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/27494-rock-and-roll-camp-for-girls-showcase-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949115115891",
+      "dateAdded": "2026-06-25"
     },
     {
       "title": "Journey of a Lifetime",
@@ -2403,6 +2465,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Jimmy Ate Me, Delica, Veranda Bandits",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-15",
+      "time": null,
+      "price": "$12",
+      "description": "Jimmy Ate Me, Delica, Veranda Bandits",
+      "eventUrl": "http://www.prekindle.com/event/42575-jimmy-ate-me-delica-veranda-bandits-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949114942333",
+      "dateAdded": "2026-06-25"
+    },
+    {
       "title": "Ghostland Observatory",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -2853,7 +2929,7 @@
       "eventUrl": "http://www.prekindle.com/event/14762-good-terms-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131786181",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949115111776",
       "dateAdded": "2026-06-16"
     },
     {
@@ -3039,6 +3115,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156174480",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Atta Boy",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-01",
+      "time": null,
+      "price": "$25",
+      "description": "Atta Boy",
+      "eventUrl": "http://www.prekindle.com/event/94117-atta-boy-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949115987757",
+      "dateAdded": "2026-06-25"
     },
     {
       "title": "Shearling",
@@ -3498,7 +3588,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-14",
       "time": null,
-      "price": "$40",
+      "price": "$30–$50",
       "description": "Sleep",
       "eventUrl": "http://www.prekindle.com/event/42958-sleep-north-america-2026-oklahoma-city",
       "ageLimit": null,
@@ -4204,7 +4294,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-04",
       "time": null,
-      "price": "$25",
+      "price": "$20",
       "description": "FIGHTMASTER",
       "eventUrl": "http://www.prekindle.com/event/12397-fightmaster-oklahoma-city",
       "ageLimit": null,
@@ -4623,6 +4713,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949125241860",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Cody Hibbard",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-17",
+      "time": "8:00 PM",
+      "price": "$25.34",
+      "description": "Cody Hibbard, Autumn Ragland",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/cody-hibbard-17-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a1dd205ef8c356c0848f678_Cody_Hibbard_-_Promo_%2528Photo_Cred__Brooke_Stevens%2529.jpeg",
+      "dateAdded": "2026-06-25"
     },
     {
       "title": "The Gringos",
