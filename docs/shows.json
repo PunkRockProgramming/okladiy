@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-06-27T08:44:37.538Z",
+  "lastUpdated": "2026-06-27T19:00:09.215Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Live Music All Ages feat: Kikchik, JAM of All Colors & More",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-06-26",
-      "time": "7:30 PM",
-      "price": "$10",
-      "description": "Live Music from Kikchik, JAM of All Colors, Formosa, and Kes.Doors 7:30pm Music 8pmTickets $10",
-      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-kikchik-jam-of-all-colors-more",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1780061632324-LKPO0S75DXN2O5RVFN2O/Kikchik+flyer+V2.png",
-      "dateAdded": "2026-05-29"
-    },
     {
       "title": "Gimme Gimme Disco",
       "venue": "89th Street OKC",
@@ -57,20 +43,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949120498433",
       "dateAdded": "2026-06-19"
-    },
-    {
-      "title": "GOLDEN: A K-Pop Kids Party!",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-06-27",
-      "time": "11:00 AM",
-      "price": "$31.87 to $85.61",
-      "description": null,
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/golden-a-k-pop-kids-party-27-jun",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69fcb5d90ddeb0aeced030ff_Tulsa__OK_%25281%2529.jpeg",
-      "dateAdded": "2026-05-07"
     },
     {
       "title": "Dial Up - 90's tribute (21+)",
