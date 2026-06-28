@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-06-28T09:20:16.319Z",
+  "lastUpdated": "2026-06-28T18:59:03.856Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Gimme Gimme Disco",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-06-27",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "ABBA-inspired dance party \nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/42988861/gimme-gimme-disco-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_415b1056ab2a4bb89ed54629da174e53~mv2.jpg",
-      "dateAdded": "2026-05-19"
-    },
     {
       "title": "Shordie Shordie",
       "venue": "Tower Theatre",
@@ -3679,6 +3665,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949117753078",
       "dateAdded": "2026-06-23"
+    },
+    {
+      "title": "The Callous Daoboys",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-24",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nTHE CALLOUS DAOBOYS\nwith Special Guests Kaonashi, Girl Of Glass, and Wielded Steel\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/63351411/the-callous-daoboys-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_af1f34a2567f4f9f80213dd2053d6d19~mv2.jpg",
+      "dateAdded": "2026-06-28"
     },
     {
       "title": "Liverpool Legends: Beatles Experience",
