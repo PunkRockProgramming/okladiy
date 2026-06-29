@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T11:12:39.438Z",
+  "lastUpdated": "2026-06-29T19:30:19.608Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -280,20 +280,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648451272390",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Nether Hour",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-09",
-      "time": null,
-      "price": "$18",
-      "description": "Nether Hour",
-      "eventUrl": "http://www.prekindle.com/event/15468-nether-hour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949130288386",
       "dateAdded": "2026-06-16"
     },
     {
@@ -767,18 +753,18 @@
       "dateAdded": "2026-06-16"
     },
     {
-      "title": "Moon Fever",
+      "title": "Dead Sugar",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-07-17",
       "time": null,
       "price": "$15",
-      "description": "Moon Fever, Dead Sugar, DIVA",
+      "description": "Dead Sugar, DIVA",
       "eventUrl": "http://www.prekindle.com/event/65942-moon-fever-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150770210",
-      "dateAdded": "2026-06-16"
+      "dateAdded": "2026-06-29"
     },
     {
       "title": "Last Podcast on the Left",
@@ -1009,6 +995,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161446653",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Nether Hour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-07-22",
+      "time": null,
+      "price": "$18",
+      "description": "Nether Hour",
+      "eventUrl": "http://www.prekindle.com/event/15468-nether-hour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949130288386",
+      "dateAdded": "2026-06-29"
     },
     {
       "title": "In The Company Of Serpents",
@@ -3039,6 +3039,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Fox N’ Vead",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-10",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Fox N’ Vead, Jaxon Malone Band",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/fox-n-vead-10-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a3d8413d32fa84e1eae54ec_Photo_Feb_27_2026__5_15_58_AM.jpeg",
+      "dateAdded": "2026-06-29"
+    },
+    {
       "title": "Briscoe",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3565,6 +3579,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69fe1a1865c2230d18068b58_expendables_promo.jpeg",
       "dateAdded": "2026-05-12"
+    },
+    {
+      "title": "Kylie Morgan - Healed Cowgirl Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-23",
+      "time": "8:00 PM",
+      "price": "$25",
+      "description": "Kylie Morgan",
+      "eventUrl": "http://www.prekindle.com/event/48795-kylie-morgan-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949116074172",
+      "dateAdded": "2026-06-29"
     },
     {
       "title": "SWMRS",
@@ -4693,6 +4721,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949123383422",
       "dateAdded": "2026-06-23"
+    },
+    {
+      "title": "Dylan Wheeler",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-29",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Dylan Wheeler",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/dylan-wheeler-29-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a396563942ece6d1297d8a8_DW_LR_12.jpeg",
+      "dateAdded": "2026-06-29"
     },
     {
       "title": "REZN",
