@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-06-29T19:30:19.608Z",
+  "lastUpdated": "2026-06-30T09:52:36.735Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Jesus Christ Taxi Driver | Manta Rays | Some Hearts",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-06-29",
-      "time": null,
-      "price": "$10",
-      "description": "Jesus Christ Taxi Driver",
-      "eventUrl": "http://www.prekindle.com/event/76719-jesus-christ-taxi-driver-manta-rays-some-hearts-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148588838",
-      "dateAdded": "2026-06-16"
-    },
     {
       "title": "Toyotuh Tuesday",
       "venue": "The Whittier Bar",
@@ -1422,7 +1408,7 @@
       "time": "7:30 PM",
       "price": null,
       "description": "All Your Friends is the indie sleaze dance party remixing all your favorite 2010s indie hits from Passion Pit, Grouplove, and LCD Soundsystem and more!  Join the modern underground where bloghouse, post-punk revival, and internet-era club music collide.",
-      "eventUrl": "https://www.89thstreetokc.com/events/all-your-friends-the-indie-sleaze-dance-party",
+      "eventUrl": "https://www.etix.com/ticket/p/75248832/all-your-friends-oklahoma-city-89th-street",
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_e41594dba1394ff0bb5c4bc8a9b1e9b0~mv2.jpg",
@@ -2661,18 +2647,18 @@
       "dateAdded": "2026-06-03"
     },
     {
-      "title": "Live Mario Kart",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
+      "title": "Kolby Cooper",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
       "date": "2026-08-29",
-      "time": null,
-      "price": "$15–$18",
-      "description": "Badwagon",
-      "eventUrl": "http://www.prekindle.com/event/65775-live-mario-kart-oklahoma-city",
+      "time": "8 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/82756193/kolby-cooper-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141451418",
-      "dateAdded": "2026-06-16"
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/kolby-cooper.jfif",
+      "dateAdded": "2026-06-30"
     },
     {
       "title": "Dead Metal Society",
@@ -2813,6 +2799,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121883766",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Live Mario Kart",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-04",
+      "time": null,
+      "price": "$15–$18",
+      "description": "Badwagon",
+      "eventUrl": "http://www.prekindle.com/event/65775-live-mario-kart-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111116451",
+      "dateAdded": "2026-06-30"
     },
     {
       "title": "Waylon Wyatt",
@@ -4447,7 +4447,7 @@
       "date": "2026-10-17",
       "time": "8:00 PM",
       "price": "$25.34",
-      "description": "Cody Hibbard, Autumn Ragland",
+      "description": "Cody Hibbard",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/cody-hibbard-17-oct",
       "ageLimit": "ALL AGES",
       "tags": [],
