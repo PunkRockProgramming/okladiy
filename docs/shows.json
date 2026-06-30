@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T09:52:36.735Z",
+  "lastUpdated": "2026-06-30T19:28:53.038Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1408,7 +1408,7 @@
       "time": "7:30 PM",
       "price": null,
       "description": "All Your Friends is the indie sleaze dance party remixing all your favorite 2010s indie hits from Passion Pit, Grouplove, and LCD Soundsystem and more!  Join the modern underground where bloghouse, post-punk revival, and internet-era club music collide.",
-      "eventUrl": "https://www.etix.com/ticket/p/75248832/all-your-friends-oklahoma-city-89th-street",
+      "eventUrl": "https://www.89thstreetokc.com/events/all-your-friends-the-indie-sleaze-dance-party",
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_e41594dba1394ff0bb5c4bc8a9b1e9b0~mv2.jpg",
@@ -1665,7 +1665,7 @@
       "eventUrl": "http://www.prekindle.com/event/35864-passion-pit-the-pretty-penny-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147125992",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109949701",
       "dateAdded": "2026-06-16"
     },
     {
@@ -1797,6 +1797,20 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "BDay Bash with Instant Death Spike, Garden Ants, In My Defense, & Pearly Red",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-08-07",
+      "time": "10:30 PM",
+      "price": "$10",
+      "description": "Bday Bash with Instant Death Spike, Garden Ants, In My Defense, & Pearly Red. Every door tickets will enter you into a DREAMCAST giveaway. Doors 7pm Music 7:30pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/bday-bash-with-instant-death-spike-garden-ants-in-my-defense-pearly-red",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1782835595535-JLQ148FI2O0W47ZTR2B0/Aug+7th+Flyer.jpg",
+      "dateAdded": "2026-06-30"
+    },
+    {
       "title": "JOSH TATOFI - LOOKING FOR LOVE TOUR",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1817,7 +1831,7 @@
       "date": "2026-08-07",
       "time": null,
       "price": "$15",
-      "description": "Bikini Trill",
+      "description": "Bikini Trill, Sundrift, Skylily",
       "eventUrl": "http://www.prekindle.com/event/57424-bikini-trill-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2503,6 +2517,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158699087",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Drivin N Cryin",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-25",
+      "time": null,
+      "price": "$25",
+      "description": "Drivin N Cryin",
+      "eventUrl": "http://www.prekindle.com/event/63172-drivin-n-cryin-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949110215718",
+      "dateAdded": "2026-06-30"
     },
     {
       "title": "Cheekface w /  special guest Catbite",
@@ -4209,7 +4237,7 @@
       "eventUrl": "http://www.prekindle.com/event/86625-lp-all-is-not-lost-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161248997",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949110586977",
       "dateAdded": "2026-06-16"
     },
     {
@@ -4651,6 +4679,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Lords of Acid",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-25",
+      "time": "7:30 PM",
+      "price": "$38.44 to $91.18",
+      "description": "Lords of Acid, Princess Superstar, Tony & the Kiki, MZ NEON",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/lords-of-acid-25-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a42816fc4461d3878aaa54b_CARLA_1920X1080_credit_Mike_Stone_%2528_musicfrommypov_on_IG%2529.jpeg",
+      "dateAdded": "2026-06-30"
     },
     {
       "title": "AFI",
@@ -5235,6 +5277,20 @@
       "dateAdded": "2026-04-07"
     },
     {
+      "title": "Mama's Broke Reunion Album Release Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-21",
+      "time": null,
+      "price": "$20",
+      "description": "Mama's Broke",
+      "eventUrl": "http://www.prekindle.com/event/21216-mamas-broke-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949110675169",
+      "dateAdded": "2026-06-30"
+    },
+    {
       "title": "Jimmy Failla",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -5431,6 +5487,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a340efd21ab5c62d6d0f7e2_HARBOUR_Preferred_Promo_Jun_26.jpeg",
       "dateAdded": "2026-06-23"
+    },
+    {
+      "title": "Yheti B2B Toadface - Sleight of Sound Tour (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-12-19",
+      "time": "9:00 PM",
+      "price": "$26.30",
+      "description": "Yheti, Toadface, Flintwick",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/yheti-toadface-19-dec",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a43ef0f89181ff01a994b12_Yheti_b2b_Toadface_Untz_Photo_%25281%2529.jpeg",
+      "dateAdded": "2026-06-30"
     },
     {
       "title": "Max Goen",
