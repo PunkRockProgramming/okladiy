@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-06-30T19:28:53.038Z",
+  "lastUpdated": "2026-07-01T10:00:59.769Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Toyotuh Tuesday",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-06-30",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/37727-toyotuh-tuesday-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949124422353",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Red Sun, Fly Over States, Ogbert The Nerd, Endswell",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-06-30",
-      "time": null,
-      "price": "$15",
-      "description": "Red Sun, Fly Over States, Ogbert the Nerd, Endswell",
-      "eventUrl": "http://www.prekindle.com/event/32884-red-sun-fly-over-statres-ogbert-the-nerd-endswell-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154738309",
-      "dateAdded": "2026-06-16"
-    },
     {
       "title": "Sparta",
       "venue": "89th Street OKC",
@@ -37,11 +9,11 @@
       "date": "2026-07-01",
       "time": "6:30 PM",
       "price": null,
-      "description": "SPARTA\nCut A Silhouette World Tour 2026\n\nGeneral Admission Standing / All Ages\nVIP PACKAGE AVAILABLE",
+      "description": "SPARTA\nCut A Silhouette World Tour 2026\nwith special guests War on Women\n\nDoors 6:30 // Show: 7:30\nGeneral Admission Standing / All Ages\nVIP PACKAGE AVAILABLE",
       "eventUrl": "https://www.etix.com/ticket/p/62147862/sparta-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_3d4a3b9f966442afabe20ad8cc0d90c8~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_ea0db3cdffb34f33950347fca7ee3450~mv2.jpg",
       "dateAdded": "2026-04-29"
     },
     {
@@ -50,7 +22,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-01",
       "time": "8:00 PM",
-      "price": "$18–$75",
+      "price": "$30–$75",
       "description": "Black Uhuru, Quantum SoulJahs",
       "eventUrl": "http://www.prekindle.com/event/24821-black-uhuru-oklahoma-city",
       "ageLimit": null,
@@ -361,11 +333,11 @@
       "date": "2026-07-11",
       "time": "7:00 PM",
       "price": null,
-      "description": "DCF Concerts Presents\nCLIFFDIVER\nwith Special Guest\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "description": "DCF Concerts Presents\nCLIFFDIVER\nwith Special Guests with Limp Wizurds & S. Reidy\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
       "eventUrl": "https://bit.ly/cliffdiver26",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_2bf601adc1a247f2a1ef29f21fef9163~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_56fd9d1f8786429cbae2b33feb1e791e~mv2.jpg",
       "dateAdded": "2026-05-12"
     },
     {
@@ -1146,7 +1118,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-07-25",
       "time": null,
-      "price": "$15–$30",
+      "price": "$11–$30",
       "description": "Kawaii Rave",
       "eventUrl": "http://www.prekindle.com/event/33638-kawaii-rave-oklahoma-city",
       "ageLimit": null,
@@ -1408,7 +1380,7 @@
       "time": "7:30 PM",
       "price": null,
       "description": "All Your Friends is the indie sleaze dance party remixing all your favorite 2010s indie hits from Passion Pit, Grouplove, and LCD Soundsystem and more!  Join the modern underground where bloghouse, post-punk revival, and internet-era club music collide.",
-      "eventUrl": "https://www.89thstreetokc.com/events/all-your-friends-the-indie-sleaze-dance-party",
+      "eventUrl": "https://www.etix.com/ticket/p/75248832/all-your-friends-oklahoma-city-89th-street",
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_e41594dba1394ff0bb5c4bc8a9b1e9b0~mv2.jpg",
@@ -2179,6 +2151,22 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "HAPPY BIRTHDAY TO H.E.R. W/ MARCEL P. BLACK",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-08-15",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/8/15/happy-birthday-to-her-w-marcel-p-black",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-07-01"
+    },
+    {
       "title": "Frozen Soul",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -2575,6 +2563,22 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "SOME HEARTS // SWEET NOTHIN’ (ABQ)",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-08-27",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/8/27/some-hearts-sweet-nothin-abq",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-07-01"
+    },
+    {
       "title": "Toast to Toby Keith",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2729,6 +2733,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-17"
+    },
+    {
+      "title": "SKY RUN ROGER",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-08-29",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/8/29/sky-run-roger",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-07-01"
     },
     {
       "title": "The Browning Burn This World (EVOLVED) USA V2",
@@ -4546,7 +4566,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-21",
       "time": null,
-      "price": "$26–$112",
+      "price": "$112",
       "description": "Medium Build, Bella White",
       "eventUrl": "http://www.prekindle.com/event/61618-medium-build-presents-the-king-of-having-fun-on-tour-oklahoma-city",
       "ageLimit": null,
