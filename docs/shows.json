@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T10:00:59.769Z",
+  "lastUpdated": "2026-07-01T19:27:10.398Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -717,7 +717,7 @@
       "date": "2026-07-17",
       "time": null,
       "price": "$15",
-      "description": "Dead Sugar, DIVA",
+      "description": "DIVA, Dead Sugar, DREAMSICKLE, Sacred Rose",
       "eventUrl": "http://www.prekindle.com/event/65942-moon-fever-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1141,6 +1141,20 @@
       "dateAdded": "2026-06-21"
     },
     {
+      "title": "Tulsa Swim Meet Vol. 3!",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-07-25",
+      "time": "5:30 PM",
+      "price": null,
+      "description": "A Live Recording Event featuring performances by Earl Hazard, Earslips, Hey Judy, Nature & Madness, Rubyland, and Skink! At Chimera Ballroom downtown Tulsa.Doors 5:30pm Music 6pmEvent is Free and All Ages!",
+      "eventUrl": "https://www.noisetowntulsa.com/events/tulsa-swim-meet-vol-3",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1782923263502-I1OG9MF9YAMDH4CTO8HE/FMAC+-+Swim+Meet+Poster+2026.jpg",
+      "dateAdded": "2026-07-01"
+    },
+    {
       "title": "Bit Brigade Performs \"Mega Man X\" LIVE",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1350,7 +1364,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-30",
       "time": "8:00 PM",
-      "price": "$22",
+      "price": "$22–$75",
       "description": "Uncle Lucius, Keyland",
       "eventUrl": "http://www.prekindle.com/event/21699-uncle-lucius-the-20th-anniversary-tour-oklahoma-city",
       "ageLimit": null,
@@ -2033,6 +2047,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166480610",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Riott Rockette Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-14",
+      "time": null,
+      "price": "$12–$15",
+      "description": "Riott Rockette, Labadie House, Prom Mom",
+      "eventUrl": "http://www.prekindle.com/event/67956-riott-rockette-release-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107944043",
+      "dateAdded": "2026-07-01"
     },
     {
       "title": "Front Porch",
@@ -2721,6 +2749,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Inside Again - Jacob Beesley and Call Me Sparrow Performing Bo Burnham's \"Inside\"",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-29",
+      "time": null,
+      "price": "$15",
+      "description": "Jacob Beesley, Call Me Sparrow",
+      "eventUrl": "http://www.prekindle.com/event/74541-inside-again-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949108274093",
+      "dateAdded": "2026-07-01"
+    },
+    {
       "title": "That 90s Party",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -3092,7 +3134,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-10",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$23.47",
       "description": "Fox N’ Vead, Jaxon Malone Band",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/fox-n-vead-10-sep",
       "ageLimit": "ALL AGES",
@@ -3634,7 +3676,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-23",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$20–$75",
       "description": "Kylie Morgan",
       "eventUrl": "http://www.prekindle.com/event/48795-kylie-morgan-oklahoma-city",
       "ageLimit": null,
@@ -4012,7 +4054,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-02",
       "time": null,
-      "price": "$20–$90",
+      "price": "$18–$90",
       "description": "Anne Wilson, Aodhan King",
       "eventUrl": "http://www.prekindle.com/event/39612-anne-wilson-oklahoma-city",
       "ageLimit": null,
@@ -4101,7 +4143,7 @@
       "eventUrl": "http://www.prekindle.com/event/92852-bad-nerves-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118072169",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949108743324",
       "dateAdded": "2026-06-23"
     },
     {
@@ -4566,7 +4608,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-21",
       "time": null,
-      "price": "$112",
+      "price": "$26–$112",
       "description": "Medium Build, Bella White",
       "eventUrl": "http://www.prekindle.com/event/61618-medium-build-presents-the-king-of-having-fun-on-tour-oklahoma-city",
       "ageLimit": null,
@@ -4706,7 +4748,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-25",
       "time": "7:30 PM",
-      "price": "$38.44 to $91.18",
+      "price": "$38.44",
       "description": "Lords of Acid, Princess Superstar, Tony & the Kiki, MZ NEON",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/lords-of-acid-25-oct",
       "ageLimit": "ALL AGES",
@@ -5537,6 +5579,34 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38394-cb30b0ce5d547505a4213cd127881022.jpeg",
       "dateAdded": "2026-05-03"
+    },
+    {
+      "title": "Dad Rock Night",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2027-01-29",
+      "time": "8 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/97085368/dad-rock-night-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/dad-rock-night.jfif",
+      "dateAdded": "2026-07-01"
+    },
+    {
+      "title": "Dad Rock Night (2000s Rock Tribute)",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-01-30",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/52164121/dad-rock-night-2000s-rock-tribute-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-01"
     },
     {
       "title": "Public Image Ltd - THIS IS NOT THE LAST TOUR",
