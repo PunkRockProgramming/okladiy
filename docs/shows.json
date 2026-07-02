@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T09:24:19.914Z",
+  "lastUpdated": "2026-07-02T19:05:44.403Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -141,6 +141,34 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949145570632",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Free World Cup Knockout Watch Party",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-07-05",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/53243-free-world-cup-knockout-watch-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949105993267",
+      "dateAdded": "2026-07-02"
+    },
+    {
+      "title": "Free World Cup Knockout Watch Party",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-07-06",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/49873-free-world-cup-knockout-watch-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949105985654",
+      "dateAdded": "2026-07-02"
     },
     {
       "title": "Labels | Black Magnolia | In My Defense",
@@ -4133,6 +4161,22 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "The Redemption Tour Part 2 Featuring Silent Theory",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-07",
+      "time": "6:30 PM",
+      "price": "$22 to $32 ADV   $25 to $35 DAY OF",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38982",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38982-4c226fa084ecfc27942b45fe2830a03c.png",
+      "dateAdded": "2026-07-02"
+    },
+    {
       "title": "Ward Davis",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4301,6 +4345,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-19"
+    },
+    {
+      "title": "Bragolin | Carrellee",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-11",
+      "time": null,
+      "price": "$15",
+      "description": "Bragolin",
+      "eventUrl": "http://www.prekindle.com/event/48144-bragolin-carrellee-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949106285964",
+      "dateAdded": "2026-07-02"
     },
     {
       "title": "Joe Jordan - The Heart Sessions Tour",
@@ -4503,6 +4561,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Coolzey | Schaffer The Darklord",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-17",
+      "time": null,
+      "price": "$10",
+      "description": "Coolzey",
+      "eventUrl": "http://www.prekindle.com/event/13559-coolzey-schaffer-the-darklord-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949106277048",
+      "dateAdded": "2026-07-02"
+    },
+    {
       "title": "Cody Hibbard",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4523,11 +4595,11 @@
       "date": "2026-10-17",
       "time": "8:00 PM",
       "price": "$12–$15",
-      "description": "The Gringos",
+      "description": "The Gringos, The John Wood Band",
       "eventUrl": "http://www.prekindle.com/event/78345-the-gringos-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949135865491",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949105598367",
       "dateAdded": "2026-06-16"
     },
     {
