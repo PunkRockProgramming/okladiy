@@ -1,63 +1,7 @@
 {
-  "lastUpdated": "2026-07-02T19:05:44.403Z",
+  "lastUpdated": "2026-07-03T09:28:47.948Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "KatyWentMissing",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-07-02",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "KatyWent Missing\nPlus Special Guests Get Me The Knife, In Search of Statues, MayThisSundayBeMyLast, Slugterra & A Parting Gaze\nDoors Open at 6:30pm / Show Starts at 7pm",
-      "eventUrl": "https://www.ticketstorm.com/event/katywentmissing/89thstreetokc/oklahomacity/32880/",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_f5de854a03ce4a88a93bd5fbaa859658~mv2.jpg",
-      "dateAdded": "2026-06-09"
-    },
-    {
-      "title": "Merlin Mason | Buffalo Shivers",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-07-02",
-      "time": null,
-      "price": "$10",
-      "description": "RR Williams",
-      "eventUrl": "http://www.prekindle.com/event/39846-rr-williams-band-buffalo-shivers-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949135678423",
-      "dateAdded": "2026-06-23"
-    },
-    {
-      "title": "National Park Radio",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-07-02",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949130307819",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949130305610",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Novulent",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-07-02",
-      "time": "8:00 PM",
-      "price": "$23–$75",
-      "description": "Novulent, Baby Teeth",
-      "eventUrl": "http://www.prekindle.com/event/46612-novulent-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182573280",
-      "dateAdded": "2026-06-16"
-    },
     {
       "title": "Plastic Psalms | Ivory Tusk",
       "venue": "The Whittier Bar",
@@ -1702,7 +1646,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-06",
       "time": null,
-      "price": "$40–$105",
+      "price": "$43–$105",
       "description": "The Mavericks & Friends",
       "eventUrl": "http://www.prekindle.com/event/24567-the-mavericks-and-friends-oklahoma-city",
       "ageLimit": null,
@@ -2419,6 +2363,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-22"
+    },
+    {
+      "title": "Chris Fleming",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-22",
+      "time": "9 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/35074960/chris-fleming-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-03"
     },
     {
       "title": "The Rocklahoma Bitches Show",
@@ -3667,7 +3625,7 @@
       "eventUrl": "http://www.prekindle.com/event/48795-kylie-morgan-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949116074172",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949104747414",
       "dateAdded": "2026-06-29"
     },
     {
@@ -3935,6 +3893,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167255157",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Rolling Quartz 롤링쿼츠",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-29",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "[MY TURN] 2026 TOUR\nGA Doors 6pm / Show 7pm\n*VIP Packages Available \n*All Tickets General Admission / Standing Room Only For the Performance",
+      "eventUrl": "https://www.ticketweb.com/event/rolling-quartz-my-turn-2026-89th-street-okc-tickets/14947543",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_855476cf9bcf498894e05155e661c74c~mv2.png",
+      "dateAdded": "2026-07-03"
     },
     {
       "title": "SHAWN JAMES “FLEW TOO CLOSE TO THE SUN TOUR\"",
