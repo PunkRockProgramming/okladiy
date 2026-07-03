@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T09:28:47.948Z",
+  "lastUpdated": "2026-07-03T18:58:17.881Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -760,12 +760,12 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-07-18",
       "time": null,
-      "price": "$35",
+      "price": "$25",
       "description": "North End, HalftimeShow, Monte, Speak, Memory, Channel Changer, Plastic Smile, Loudfoxcult, Celebration Guns, Fighting Sleep, Bugjuice Blues, A Date with Iris",
       "eventUrl": "http://www.prekindle.com/event/35136-math-rock-times-presents-math-rock-vs-midwest-emo-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160465881",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949103379912",
       "dateAdded": "2026-06-16"
     },
     {
@@ -2493,6 +2493,20 @@
       "dateAdded": "2026-06-30"
     },
     {
+      "title": "Drivin N Cryin",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-08-26",
+      "time": "8:00 PM",
+      "price": "$31.87",
+      "description": "Drivin N Cryin",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/drivin-n-cryin-26-aug",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a457b24aa08a2965ad4431d_DNC_B_W_pref.jpeg",
+      "dateAdded": "2026-07-03"
+    },
+    {
       "title": "Cheekface w /  special guest Catbite",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3471,6 +3485,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Soul Freq | Stutter | Mellosplat",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-09-19",
+      "time": null,
+      "price": "$10",
+      "description": "Soul Freq",
+      "eventUrl": "http://www.prekindle.com/event/87835-soul-freq-stutter-mellosplat-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949103479097",
+      "dateAdded": "2026-07-03"
+    },
+    {
       "title": "Born Of Osiris",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3769,7 +3797,7 @@
       "dateAdded": "2026-07-02"
     },
     {
-      "title": "The Obsessed | Dust Lord",
+      "title": "The Obsessed | Dust Lord | Medicine Horse",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-09-25",
@@ -3779,8 +3807,8 @@
       "eventUrl": "http://www.prekindle.com/event/12578-the-obsessed-dust-lord-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949116098551",
-      "dateAdded": "2026-06-24"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949103482677",
+      "dateAdded": "2026-07-03"
     },
     {
       "title": "Grungefest: Pearl Gem / Nervana",
@@ -4848,7 +4876,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-29",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$26.30",
       "description": "Dylan Wheeler",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/dylan-wheeler-29-oct",
       "ageLimit": "ALL AGES",
