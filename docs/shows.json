@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-07-04T18:52:27.038Z",
+  "lastUpdated": "2026-07-05T09:14:20.681Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Ebony Dark'ness | Weepcar | China Blue | Blood On The Oilfield",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-07-04",
-      "time": null,
-      "price": "$10",
-      "description": "Ebony Dark'ness, China Blue, Weepcar, Blood On the Oilfield",
-      "eventUrl": "http://www.prekindle.com/event/16834-ebony-darkness-weepcar-china-blue-blood-on-the-oilfield-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648453929640",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Travis Roberts with special guest Brandon Clark",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-07-04",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949121629984",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121621553",
-      "dateAdded": "2026-06-20"
-    },
     {
       "title": "Queen Caution Black Out Concert",
       "venue": "Resonant Head",
@@ -1219,7 +1191,7 @@
       "dateAdded": "2026-06-16"
     },
     {
-      "title": "Saidan | Thrä | Barbelith",
+      "title": "Saidan | Thrä | Barbelith | Cra",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-07-29",
@@ -1230,7 +1202,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121821317",
-      "dateAdded": "2026-06-16"
+      "dateAdded": "2026-07-05"
     },
     {
       "title": "Brokencyde, WhoKilledXIX, and Oni Inc",
@@ -3455,6 +3427,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949103479097",
       "dateAdded": "2026-07-03"
+    },
+    {
+      "title": "Day Shift Party",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-09-19",
+      "time": "5 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/42284954/day-shift-party-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "21+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-05"
     },
     {
       "title": "Born Of Osiris",
