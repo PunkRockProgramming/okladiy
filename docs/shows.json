@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-07-05T18:56:49.969Z",
+  "lastUpdated": "2026-07-06T10:50:51.865Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Queen Caution Black Out Concert",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-05",
-      "time": null,
-      "price": "$5",
-      "description": "Queen Caution",
-      "eventUrl": "http://www.prekindle.com/event/42619-queen-caution-black-out-concert-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949145570632",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Free World Cup Knockout Watch Party",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-07-05",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/53243-free-world-cup-knockout-watch-party-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949105993267",
-      "dateAdded": "2026-07-02"
-    },
     {
       "title": "Free World Cup Knockout Watch Party",
       "venue": "The Criterion",
