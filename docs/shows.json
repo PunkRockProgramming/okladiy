@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T10:50:51.865Z",
+  "lastUpdated": "2026-07-06T19:28:40.656Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -31,18 +31,32 @@
       "dateAdded": "2026-06-16"
     },
     {
-      "title": "John Baumann",
+      "title": "John Baumann Happy Hour!",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-07-09",
-      "time": "8:00 PM",
+      "time": "5:00 PM",
       "price": null,
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949131543804",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131543743",
-      "dateAdded": "2026-06-16"
+      "dateAdded": "2026-07-06"
+    },
+    {
+      "title": "Kalyn Fay + Labrys",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-07-09",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100588743",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100588479",
+      "dateAdded": "2026-07-06"
     },
     {
       "title": "Devin The Dude",
@@ -643,6 +657,20 @@
       "dateAdded": "2026-05-12"
     },
     {
+      "title": "Dance Monkey Dance!",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-07-18",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100582057",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100582019",
+      "dateAdded": "2026-07-06"
+    },
+    {
       "title": "Hit The Lights",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -663,7 +691,7 @@
       "date": "2026-07-18",
       "time": null,
       "price": "$25",
-      "description": "North End, HalftimeShow, Monte, Speak, Memory, Channel Changer, Plastic Smile, Loudfoxcult, Celebration Guns, Fighting Sleep, Bugjuice Blues, A Date with Iris",
+      "description": "North End, HalftimeShow, Monte, Speak, Memory, Channel Changer, Plastic Smile, Loudfoxcult, Celebration Guns, Fighting Sleep, Bugjuice Blues, A Date with Iris, Letters To Part",
       "eventUrl": "http://www.prekindle.com/event/35136-math-rock-times-presents-math-rock-vs-midwest-emo-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1615,6 +1643,20 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "LATCH FEST",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-07",
+      "time": null,
+      "price": "$10",
+      "description": "Latch Fest",
+      "eventUrl": "http://www.prekindle.com/event/98354-latch-fest-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100425785",
+      "dateAdded": "2026-07-06"
+    },
+    {
       "title": "BDay Bash with Instant Death Spike, Garden Ants, In My Defense, & Pearly Red",
       "venue": "Noise Town",
       "venueUrl": "https://www.noisetowntulsa.com",
@@ -1627,6 +1669,20 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1782835595535-JLQ148FI2O0W47ZTR2B0/Aug+7th+Flyer.jpg",
       "dateAdded": "2026-06-30"
+    },
+    {
+      "title": "Tom Kenny and the Hi-Seas",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-08-07",
+      "time": "9:30 PM",
+      "price": "$26.30 to $55.17",
+      "description": "Tom Kenny & The Hi-Seas",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/tom-kenny-and-the-hi-seas-07-aug",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a4ae57930a41748fa177f43_tkhs-band-2025-b.jpeg",
+      "dateAdded": "2026-07-06"
     },
     {
       "title": "JOSH TATOFI - LOOKING FOR LOVE TOUR",
@@ -1685,6 +1741,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "LATCH FEST (Day 2)",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-08",
+      "time": null,
+      "price": "$10",
+      "description": "Latch Fest",
+      "eventUrl": "http://www.prekindle.com/event/16177-latch-fest-day-2-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100423546",
+      "dateAdded": "2026-07-06"
+    },
+    {
       "title": "Jabee - Black Future 10 Year Anniversary",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1711,6 +1781,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949165025252",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "LATCH FEST (Day 3)",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-09",
+      "time": null,
+      "price": "$10",
+      "description": "Latch Fest",
+      "eventUrl": "http://www.prekindle.com/event/21325-latch-fest-day-3-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100421992",
+      "dateAdded": "2026-07-06"
     },
     {
       "title": "Bluegrass Brunch with Johnny Mullenax",
@@ -2863,6 +2947,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Cheerleader Roadkill",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-06",
+      "time": null,
+      "price": "$20",
+      "description": "Cheerleader Roadkill, Appleseed, Sap",
+      "eventUrl": "http://www.prekindle.com/event/39626-cheerleader-roadkill-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949117531274",
+      "dateAdded": "2026-07-06"
+    },
+    {
       "title": "MINUS THE BEAR - Menos El Oso 20th Anniversary Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3613,6 +3711,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949117753078",
       "dateAdded": "2026-06-23"
+    },
+    {
+      "title": "PRIMER 55 - Shattered Schemes & Broken Dreams",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-09-23",
+      "time": "6:30 PM",
+      "price": "$20 to $30 ADV   $25 to $35 DAY OF",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39010",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39010-68c45b0368411e73df9cfd8313a3a511.png",
+      "dateAdded": "2026-07-06"
     },
     {
       "title": "The Callous Daoboys",
@@ -4703,6 +4817,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Jackie Evans",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-24",
+      "time": null,
+      "price": "$25",
+      "description": "Jackie Evans",
+      "eventUrl": "http://www.prekindle.com/event/26756--oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949114104407",
+      "dateAdded": "2026-07-06"
+    },
+    {
       "title": "BLUE OCTOBER",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -5013,6 +5141,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-09"
+    },
+    {
+      "title": "Southall",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-11-05",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/79812288/southall-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-06"
     },
     {
       "title": "Nurse Blake: But Did You Die? Comedy Tour",
