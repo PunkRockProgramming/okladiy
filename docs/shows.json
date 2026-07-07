@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T09:53:08.255Z",
+  "lastUpdated": "2026-07-07T19:30:33.630Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -529,12 +529,26 @@
       "dateAdded": "2026-05-13"
     },
     {
+      "title": "Ronnie and The Redwoods",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-07-17",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949099588821",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099579996",
+      "dateAdded": "2026-07-07"
+    },
+    {
       "title": "ELIJAH SCOTT",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-17",
       "time": "8:00 PM",
-      "price": "$19–$25",
+      "price": "$19–$75",
       "description": "Elijah Scott, DEVORA",
       "eventUrl": "http://www.prekindle.com/event/92612-elijah-scott-oklahoma-city",
       "ageLimit": null,
@@ -885,6 +899,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a19a8c8bbff86defa9957e5_TAAS724_2X1.jpeg",
       "dateAdded": "2026-05-29"
+    },
+    {
+      "title": "The Jonas Adrian Group CD Release Party",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-07-24",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949099547505",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099546777",
+      "dateAdded": "2026-07-07"
     },
     {
       "title": "Johnny Manchild and the Poor Bastards",
@@ -1415,6 +1443,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bf08012b62d1897a35a0cb_STN_May26_Vanguard_2x1.jpeg",
       "dateAdded": "2026-05-31"
+    },
+    {
+      "title": "Joey Frendo",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-01",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949099484781",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099484366",
+      "dateAdded": "2026-07-07"
     },
     {
       "title": "Locust Grove",
@@ -1975,7 +2017,7 @@
       "eventUrl": "http://www.prekindle.com/event/67956-riott-rockette-release-show-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107944043",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099348334",
       "dateAdded": "2026-07-01"
     },
     {
@@ -3231,6 +3273,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Goodbye June - TROUBLE FOR ALL 2026 TOUR",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-12",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Goodbye June, Trippp",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/goodbye-june-trouble-for-all-2026-tour-12-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a42e05861f35b9101c92c22_L1013001.jpeg",
+      "dateAdded": "2026-07-07"
+    },
+    {
       "title": "Bear Ghost - Tiny Hitman Tour 2026",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3453,6 +3509,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949123754031",
       "dateAdded": "2026-06-17"
+    },
+    {
+      "title": "Coat with Likewise and Attic Society",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-18",
+      "time": null,
+      "price": "$12",
+      "description": "Coat, Likewise, Attic Society",
+      "eventUrl": "http://www.prekindle.com/event/78158-coat-with-likewise-and-attic-society-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107507698",
+      "dateAdded": "2026-07-07"
     },
     {
       "title": "Buddy Guy 90",
@@ -4175,6 +4245,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161326833",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "The Beths - By Request Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-07",
+      "time": null,
+      "price": "$30",
+      "description": "The Beths",
+      "eventUrl": "http://www.prekindle.com/event/28168-the-beths-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100007510",
+      "dateAdded": "2026-07-07"
     },
     {
       "title": "Bad Nerves",
