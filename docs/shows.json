@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-07-06T19:28:40.656Z",
+  "lastUpdated": "2026-07-07T09:53:08.255Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Free World Cup Knockout Watch Party",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-07-06",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/49873-free-world-cup-knockout-watch-party-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949105985654",
-      "dateAdded": "2026-07-02"
-    },
     {
       "title": "Labels | Black Magnolia | In My Defense",
       "venue": "The Whittier Bar",
@@ -234,7 +220,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-07-11",
       "time": "1:00 PM",
-      "price": "$31.87",
+      "price": "$38.44",
       "description": "Adjust the Sails, Upon your Dead Body, HummusVacuum, Cinema Stare, Stereosity, Worlds Greatest Dad, Women in Peril, SUNFO, Garden Ants, In My Defense, Ultra Deluxe, babies on a halfpipe, Khamsin, Feverest, Me Too, Thanks.",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/gnargaritaville-year-five-dead-butterflies-adjust-the-sails-more-11-jul",
       "ageLimit": "ALL AGES",
@@ -557,18 +543,18 @@
       "dateAdded": "2026-06-16"
     },
     {
-      "title": "Dead Sugar",
+      "title": "DIVA, DREAMSICKLE, Sacred Rose",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-07-17",
       "time": null,
       "price": "$15",
-      "description": "DIVA, Dead Sugar, DREAMSICKLE, Sacred Rose",
+      "description": "DIVA, DREAMSICKLE, Sacred Rose",
       "eventUrl": "http://www.prekindle.com/event/65942-moon-fever-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150770210",
-      "dateAdded": "2026-06-29"
+      "dateAdded": "2026-07-07"
     },
     {
       "title": "Last Podcast on the Left",
@@ -999,6 +985,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/battle-for-kattfest-night-2.jfif",
       "dateAdded": "2026-06-21"
+    },
+    {
+      "title": "Greenhorn Saints | Fat Dracula | Sid Vesuvius",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-07-25",
+      "time": null,
+      "price": "$10",
+      "description": "Greenhorn Saints",
+      "eventUrl": "http://www.prekindle.com/event/86342-greenhorn-saints-fat-dracula-sid-vesuvius-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099935638",
+      "dateAdded": "2026-07-07"
     },
     {
       "title": "Tulsa Swim Meet Vol. 3!",
@@ -1648,7 +1648,7 @@
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-08-07",
       "time": null,
-      "price": "$10",
+      "price": "$10–$25",
       "description": "Latch Fest",
       "eventUrl": "http://www.prekindle.com/event/98354-latch-fest-tulsa",
       "ageLimit": null,
@@ -4098,7 +4098,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-02",
       "time": null,
-      "price": "$18–$90",
+      "price": "$20–$90",
       "description": "Anne Wilson, Aodhan King",
       "eventUrl": "http://www.prekindle.com/event/39612-anne-wilson-oklahoma-city",
       "ageLimit": null,
