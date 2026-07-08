@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T08:38:07.424Z",
+  "lastUpdated": "2026-07-08T19:02:33.782Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1741,6 +1741,20 @@
       "dateAdded": "2026-07-06"
     },
     {
+      "title": "Tyler Halverson",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-07",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100395305",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100394738",
+      "dateAdded": "2026-07-08"
+    },
+    {
       "title": "JOSH TATOFI - LOOKING FOR LOVE TOUR",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1809,6 +1823,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100423546",
       "dateAdded": "2026-07-06"
+    },
+    {
+      "title": "Dark Water Project",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-08",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949098021421",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949098018704",
+      "dateAdded": "2026-07-08"
     },
     {
       "title": "Jabee - Black Future 10 Year Anniversary",
@@ -2067,6 +2095,20 @@
       "dateAdded": "2026-07-08"
     },
     {
+      "title": "My So Called Band",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-15",
+      "time": null,
+      "price": "$15–$40",
+      "description": "My So Called Band",
+      "eventUrl": "http://www.prekindle.com/event/47695-my-so-called-band-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099458473",
+      "dateAdded": "2026-07-08"
+    },
+    {
       "title": "Battle for Kattfest Finals",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -2195,6 +2237,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0b38b3ae4e4289f3377b6f_Frozen_Soul_-_Promo_Photo.jpeg",
       "dateAdded": "2026-05-20"
+    },
+    {
+      "title": "Primo Danger  /  Phantomelo",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-16",
+      "time": null,
+      "price": "$10",
+      "description": "Primo Danger, Phantomelo, Peripheral, Colliding",
+      "eventUrl": "http://www.prekindle.com/event/33118-primo-danger-phantomelo-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949098140524",
+      "dateAdded": "2026-07-08"
     },
     {
       "title": "Surely Tempo",
@@ -3615,6 +3671,20 @@
       "dateAdded": "2026-07-03"
     },
     {
+      "title": "Stiff Bizkit & Testify",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-19",
+      "time": "8:00 PM",
+      "price": "$15–$75",
+      "description": "Stiff Bizkit (Limp Bizkit Tribute), Testify (Rage Against The Machine Tribute)",
+      "eventUrl": "http://www.prekindle.com/event/23322-stiff-bizkit-and-testify-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121671458",
+      "dateAdded": "2026-07-08"
+    },
+    {
       "title": "Day Shift Party",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4298,7 +4368,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-07",
       "time": null,
-      "price": "$30",
+      "price": null,
       "description": "The Beths",
       "eventUrl": "http://www.prekindle.com/event/28168-the-beths-oklahoma-city",
       "ageLimit": null,
@@ -4663,6 +4733,20 @@
       "dateAdded": "2026-06-19"
     },
     {
+      "title": "The Wildwoods",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-15",
+      "time": null,
+      "price": "$25",
+      "description": "The Wildwoods",
+      "eventUrl": "http://www.prekindle.com/event/41356-the-wildwoods-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099417520",
+      "dateAdded": "2026-07-08"
+    },
+    {
       "title": "Snarky Puppy",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4952,7 +5036,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-24",
       "time": null,
-      "price": "$25",
+      "price": "$18",
       "description": "Jackie Evans",
       "eventUrl": "http://www.prekindle.com/event/26756--oklahoma-city",
       "ageLimit": null,
@@ -5115,6 +5199,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a1099ad1c283e51b873a79d_TBC_-_EMO_HALLOWEEN.jpeg",
       "dateAdded": "2026-05-22"
+    },
+    {
+      "title": "Dylan Wheeler",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-30",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "Dylan Wheeler",
+      "eventUrl": "http://www.prekindle.com/event/81551-dylan-wheeler-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111607779",
+      "dateAdded": "2026-07-08"
     },
     {
       "title": "Pop Punk Nite! by: Van Full of Nuns",
@@ -5513,6 +5611,20 @@
       "dateAdded": "2026-06-23"
     },
     {
+      "title": "Gully Boys",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-14",
+      "time": null,
+      "price": "$25",
+      "description": "Gully Boys, Pollyanna, Colliding",
+      "eventUrl": "http://www.prekindle.com/event/99314-gully-boys-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111470172",
+      "dateAdded": "2026-07-08"
+    },
+    {
       "title": "Henry Zoellner",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -5697,6 +5809,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136578575",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Vienna Light Orchestra Christmas Tour 2026",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-12-04",
+      "time": "2 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/92372792/vienna-light-orchestra-christmas-tour-2026-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-08"
     },
     {
       "title": "Catch Your Breath",
