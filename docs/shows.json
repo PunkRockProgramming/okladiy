@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T19:30:33.630Z",
+  "lastUpdated": "2026-07-08T08:38:07.424Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -415,6 +415,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160478672",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Evan Hughes Comedy Showcase",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-07-15",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/98935-evan-hughes-comedy-showcase-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949098905642",
+      "dateAdded": "2026-07-08"
     },
     {
       "title": "High Fade",
@@ -2037,6 +2051,22 @@
       "dateAdded": "2026-05-03"
     },
     {
+      "title": "BOOF // MOONROCK BANDITZ // STALLONE COBRAS",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-08-14",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/8/14/boof-moonrock-banditz-stallone-cobras",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-07-08"
+    },
+    {
       "title": "Battle for Kattfest Finals",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -2973,6 +3003,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172896814",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Wayne Gottstine of Split Lip Rayfield",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-09-05",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39024",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39024-5dc21380a7f65eaa40dd201b0746c009.jpeg",
+      "dateAdded": "2026-07-08"
     },
     {
       "title": "Militarie Gun",
