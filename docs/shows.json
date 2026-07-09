@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-07-08T19:02:33.782Z",
+  "lastUpdated": "2026-07-09T09:50:41.310Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Labels | Black Magnolia | In My Defense",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-07-08",
-      "time": null,
-      "price": "$10",
-      "description": "Labels",
-      "eventUrl": "http://www.prekindle.com/event/84856-labels-black-magnolia-in-my-defense-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949125020150",
-      "dateAdded": "2026-06-16"
-    },
     {
       "title": "John Baumann Happy Hour!",
       "venue": "Mercury Lounge",
@@ -165,11 +151,11 @@
       "date": "2026-07-11",
       "time": "7:00 PM",
       "price": null,
-      "description": "DCF Concerts Presents\nCLIFFDIVER\nwith Special Guests with Limp Wizurds & S. Reidy\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "description": "DCF Concerts Presents\nCLIFFDIVER\nSpecial Guests Red Sun, Limp Wizurds, & S. Reidy\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
       "eventUrl": "https://bit.ly/cliffdiver26",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_56fd9d1f8786429cbae2b33feb1e791e~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_d71c30d090514baeb79f3bbbffcfee1e~mv2.jpg",
       "dateAdded": "2026-05-12"
     },
     {
