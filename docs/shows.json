@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T09:50:41.310Z",
+  "lastUpdated": "2026-07-09T19:17:31.197Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -13,7 +13,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949131543804",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131543743",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096801861",
       "dateAdded": "2026-07-06"
     },
     {
@@ -36,7 +36,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-09",
       "time": "8:00 PM",
-      "price": "$16–$75",
+      "price": "$25–$75",
       "description": "Devin The Dude",
       "eventUrl": "http://www.prekindle.com/event/47474-devin-the-dude-oklahoma-city",
       "ageLimit": null,
@@ -691,7 +691,7 @@
       "date": "2026-07-18",
       "time": null,
       "price": "$25",
-      "description": "North End, HalftimeShow, Monte, Speak, Memory, Channel Changer, Plastic Smile, Loudfoxcult, Celebration Guns, Fighting Sleep, Bugjuice Blues, A Date with Iris, Letters To Part",
+      "description": "Monte, A Date with Iris, Letters To Part, Lilac Kings, Celebration Guns, Speak, Memory, Plastic Smile, Fighting Sleep, HalftimeShow, Channel Changer, Bugjuice Blues, Painted Light",
       "eventUrl": "http://www.prekindle.com/event/35136-math-rock-times-presents-math-rock-vs-midwest-emo-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2021,6 +2021,20 @@
       "dateAdded": "2026-06-01"
     },
     {
+      "title": "The Wiry Fifes",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-14",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949096788562",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096787878",
+      "dateAdded": "2026-07-09"
+    },
+    {
       "title": "Travis Bolt",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2295,6 +2309,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118147495",
       "dateAdded": "2026-06-22"
+    },
+    {
+      "title": "Joshua Quimby",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-20",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949096757498",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096757235",
+      "dateAdded": "2026-07-09"
     },
     {
       "title": "Jayson Arendt",
@@ -3529,6 +3557,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Jake Shimabukuro",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-17",
+      "time": null,
+      "price": "$25–$50",
+      "description": "Jake Shimabukuro",
+      "eventUrl": "http://www.prekindle.com/event/91353-jake-shimabukuro-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100134616",
+      "dateAdded": "2026-07-09"
+    },
+    {
       "title": "Dirty Sound Magnet | Gran Moreno",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -3785,6 +3827,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949120427453",
       "dateAdded": "2026-06-23"
+    },
+    {
+      "title": "Mr. Phylzzz",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-22",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nMR. PHYLZZZ - The Killer Set Tour\nw/ special guests Honduh Daze & Ivory Tusk\nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/51123299/mrphylzzz-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_c5d1f2abf1a34627a85119ceddde08f1~mv2.jpg",
+      "dateAdded": "2026-07-09"
     },
     {
       "title": "VOID | Phantom",
@@ -4137,20 +4193,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167255157",
       "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Rolling Quartz 롤링쿼츠",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-29",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "[MY TURN] 2026 TOUR\nGA Doors 6pm / Show 7pm\n*VIP Packages Available \n*All Tickets General Admission / Standing Room Only For the Performance",
-      "eventUrl": "https://www.ticketweb.com/event/rolling-quartz-my-turn-2026-89th-street-okc-tickets/14947543",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_855476cf9bcf498894e05155e661c74c~mv2.png",
-      "dateAdded": "2026-07-03"
     },
     {
       "title": "SHAWN JAMES “FLEW TOO CLOSE TO THE SUN TOUR\"",
@@ -4724,7 +4766,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-15",
       "time": null,
-      "price": "$25",
+      "price": "$18",
       "description": "The Wildwoods",
       "eventUrl": "http://www.prekindle.com/event/41356-the-wildwoods-oklahoma-city",
       "ageLimit": null,
@@ -5567,6 +5609,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167219721",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "On Cinema - The Certified “Five Bags of Popcorn” Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-13",
+      "time": null,
+      "price": "$27–$160",
+      "description": "On Cinema Live",
+      "eventUrl": "http://www.prekindle.com/event/85124-on-cinema-the-certified-five-bags-of-popcorn-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111607582",
+      "dateAdded": "2026-07-09"
     },
     {
       "title": "Switchfoot with special guest Anberlin - Forever Now Tour",
