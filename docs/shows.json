@@ -1,56 +1,14 @@
 {
-  "lastUpdated": "2026-07-09T19:17:31.197Z",
+  "lastUpdated": "2026-07-10T09:46:53.552Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "John Baumann Happy Hour!",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-07-09",
-      "time": "5:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949131543804",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096801861",
-      "dateAdded": "2026-07-06"
-    },
-    {
-      "title": "Kalyn Fay + Labrys",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-07-09",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100588743",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100588479",
-      "dateAdded": "2026-07-06"
-    },
-    {
-      "title": "Devin The Dude",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-07-09",
-      "time": "8:00 PM",
-      "price": "$25–$75",
-      "description": "Devin The Dude",
-      "eventUrl": "http://www.prekindle.com/event/47474-devin-the-dude-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648451272390",
-      "dateAdded": "2026-06-16"
-    },
     {
       "title": "I LOVE R&B Party",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-07-10",
       "time": null,
-      "price": "$11–$30",
+      "price": "$25–$30",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/96243-i-love-randb-party-oklahoma-city",
       "ageLimit": null,
@@ -92,7 +50,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-10",
       "time": "8:00 PM",
-      "price": "$11–$75",
+      "price": "$18–$75",
       "description": "American Slang, Avery Stinnett",
       "eventUrl": "http://www.prekindle.com/event/26684-american-slang-oklahoma-city",
       "ageLimit": null,
@@ -173,7 +131,7 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "Slumbering Sun | Insomniac",
+      "title": "Slumbering Sun | Insomniac | Dust Lord",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-07-11",
@@ -183,8 +141,8 @@
       "eventUrl": "http://www.prekindle.com/event/19517-slumbering-sun-insomniac-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140654217",
-      "dateAdded": "2026-06-16"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096277013",
+      "dateAdded": "2026-07-10"
     },
     {
       "title": "Live Music All Ages feat: Aurora, Lilium & More",
@@ -226,20 +184,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150350783",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Chris Travis - The Prefix Tour",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-07-11",
-      "time": "8:00 PM",
-      "price": "$80–$125",
-      "description": "Chris Travis",
-      "eventUrl": "http://www.prekindle.com/event/59796-chris-travis-the-prefix-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183370428",
       "dateAdded": "2026-06-16"
     },
     {
@@ -471,6 +415,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486932059",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Pavel Checkov",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-17",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "with Rockstar Nightclub, Animal Body Part & Controlled Hugging\nGeneral Admission / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/86760326/pavel-checkov-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_8d45a36d270e44c9ae66f429e575b3ef~mv2.jpg",
+      "dateAdded": "2026-07-10"
     },
     {
       "title": "Steel Pulse - Reggae Against Racism Tour",
@@ -1508,7 +1466,7 @@
       "time": "6:30 PM",
       "price": null,
       "description": "with Special Guests\nEyeless, Tar Creek, deathbyathousandcuts & A Parting Gaze\nAll Tickets General Admission / Standing Room Only",
-      "eventUrl": "https://www.ticketstorm.com/event/fallfiftyfeet89thst/89thstreetokc/oklahomacity/32936/",
+      "eventUrl": "https://www.etix.com/ticket/p/58974624/fallfiftyfeet-oklahoma-city-89th-street",
       "ageLimit": "All ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_189e49a56d1a44b8b10e73ed200c1339~mv2.jpg",
@@ -2237,6 +2195,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0b38b3ae4e4289f3377b6f_Frozen_Soul_-_Promo_Photo.jpeg",
       "dateAdded": "2026-05-20"
+    },
+    {
+      "title": "Chris Travis - The Prefix Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-08-16",
+      "time": "8:00 PM",
+      "price": "$80–$125",
+      "description": "Chris Travis",
+      "eventUrl": "http://www.prekindle.com/event/59796-chris-travis-the-prefix-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183370428",
+      "dateAdded": "2026-07-10"
     },
     {
       "title": "Primo Danger  /  Phantomelo",
@@ -4055,20 +4027,6 @@
       "dateAdded": "2026-04-27"
     },
     {
-      "title": "Low Gap",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-25",
-      "time": "7:30 PM",
-      "price": null,
-      "description": "DCF Concerts Presents\nLOW GAP\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/71911145/low-gap-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_cce5ecd66b004dddb7a4939319442bc2~mv2.jpg",
-      "dateAdded": "2026-07-02"
-    },
-    {
       "title": "The Obsessed | Dust Lord | Medicine Horse",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -4109,6 +4067,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-12"
+    },
+    {
+      "title": "Vader - Reign Forever In Kingdom Of Blood Tour",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-09-25",
+      "time": "6:00 PM",
+      "price": "$25 to $35 ADV   $30 to $40 DAY OF",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39035",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39035-78c9becda38d6eab0c5822ce1a14d537.png",
+      "dateAdded": "2026-07-10"
     },
     {
       "title": "ABRA Cadabra - The Music & Magic of ABBA",
@@ -4396,7 +4370,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-07",
       "time": null,
-      "price": null,
+      "price": "$30",
       "description": "The Beths",
       "eventUrl": "http://www.prekindle.com/event/28168-the-beths-oklahoma-city",
       "ageLimit": null,
@@ -5064,7 +5038,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-24",
       "time": null,
-      "price": "$18",
+      "price": "$25",
       "description": "Jackie Evans",
       "eventUrl": "http://www.prekindle.com/event/26756--oklahoma-city",
       "ageLimit": null,
