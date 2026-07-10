@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T09:46:53.552Z",
+  "lastUpdated": "2026-07-10T19:13:25.781Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -22,7 +22,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-07-10",
       "time": "9:30 PM",
-      "price": "$29.13 to $85.61",
+      "price": "$31.87 to $85.61",
       "description": "Kawaii Rave",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/kawaii-rave-18-10-jul",
       "ageLimit": null,
@@ -751,11 +751,11 @@
       "date": "2026-07-22",
       "time": "6:00 PM",
       "price": null,
-      "description": "BEING AS AN OCEAN\nOnly Light Fills the Frame Tour\nwith special guest Upon Your Dead Body & lowheaven\n\nGeneral Admission Standing / All Ages Welcome",
+      "description": "BEING AS AN OCEAN\nOnly Light Fills the Frame Tour\nwith special guest Upon Your Dead Body, lowheaven, & Dreamsickle\n\nGeneral Admission Standing / All Ages Welcome",
       "eventUrl": "https://www.etix.com/ticket/p/76015897/being-as-an-ocean-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_d26eb8ed86404f158f956617211102e0~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_08191b9e0f294e8da010dfefc5afe8b6~mv2.jpg",
       "dateAdded": "2026-05-08"
     },
     {
@@ -1095,11 +1095,11 @@
       "date": "2026-07-26",
       "time": "8:00 PM",
       "price": "$25–$75",
-      "description": "54 Ultra",
+      "description": "54 Ultra, Orca",
       "eventUrl": "http://www.prekindle.com/event/84775-54-ultra-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949147127282",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949095335689",
       "dateAdded": "2026-06-16"
     },
     {
@@ -1499,6 +1499,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148073876",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Antediluvia EP Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-02",
+      "time": null,
+      "price": "$10",
+      "description": "Antediluvia, Cryptidd",
+      "eventUrl": "http://www.prekindle.com/event/28939-antediluvia-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949094845152",
+      "dateAdded": "2026-07-10"
     },
     {
       "title": "Passion Pit - The Pretty Penny Tour",
@@ -3366,7 +3380,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-12",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$26.30",
       "description": "Goodbye June, Trippp",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/goodbye-june-trouble-for-all-2026-tour-12-sep",
       "ageLimit": "ALL AGES",
@@ -3451,7 +3465,7 @@
       "date": "2026-09-13",
       "time": null,
       "price": "$15",
-      "description": "Me Like Bees, Fox Royale",
+      "description": "Me Like Bees, Fox Royale, Wet Muscles",
       "eventUrl": "http://www.prekindle.com/event/27651-me-like-bees-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3583,6 +3597,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Suitable Miss",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-18",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nSUITABLE MISS\nwith special guests The Burn Notice and Sacred Rose\nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages\n\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/52750940/suitable-miss-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ccd7ef4317664c02bd2dab3243839f88~mv2.jpg",
+      "dateAdded": "2026-07-10"
     },
     {
       "title": "A Man Named Cash (Johnny Cash Tribute)",
@@ -3929,20 +3957,6 @@
       "dateAdded": "2026-07-06"
     },
     {
-      "title": "The Callous Daoboys",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-24",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "DCF Concerts Presents\nTHE CALLOUS DAOBOYS\nwith Special Guests Kaonashi, Girl Of Glass, and Wielded Steel\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/63351411/the-callous-daoboys-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_af1f34a2567f4f9f80213dd2053d6d19~mv2.jpg",
-      "dateAdded": "2026-06-28"
-    },
-    {
       "title": "Liverpool Legends: Beatles Experience",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4203,11 +4217,11 @@
       "date": "2026-09-30",
       "time": "8:00 PM",
       "price": "$22–$76",
-      "description": "Gable Price and Friends",
+      "description": "Gable Price and Friends, Stephen Stanley",
       "eventUrl": "http://www.prekindle.com/event/27799-gable-price-and-friends-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949168973044",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949095319007",
       "dateAdded": "2026-06-16"
     },
     {
@@ -4370,7 +4384,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-07",
       "time": null,
-      "price": "$30",
+      "price": "$25–$55",
       "description": "The Beths",
       "eventUrl": "http://www.prekindle.com/event/28168-the-beths-oklahoma-city",
       "ageLimit": null,
@@ -4735,6 +4749,20 @@
       "dateAdded": "2026-06-19"
     },
     {
+      "title": "Nicholas Jamerson x The Droptines",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-15",
+      "time": "8:00 PM",
+      "price": "$23–$75",
+      "description": "Nicholas Jamerson, The Droptines",
+      "eventUrl": "http://www.prekindle.com/event/41883-nicholas-jamerson-x-the-droptines-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099075703",
+      "dateAdded": "2026-07-10"
+    },
+    {
       "title": "The Wildwoods",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -5038,7 +5066,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-24",
       "time": null,
-      "price": "$25",
+      "price": "$18",
       "description": "Jackie Evans",
       "eventUrl": "http://www.prekindle.com/event/26756--oklahoma-city",
       "ageLimit": null,
@@ -5571,20 +5599,6 @@
       "dateAdded": "2026-04-28"
     },
     {
-      "title": "Mohanad Elshieky",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-11-12",
-      "time": null,
-      "price": "$25–$35",
-      "description": "Mohanad Elshieky",
-      "eventUrl": "http://www.prekindle.com/event/97782-mohanad-elshieky-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167219721",
-      "dateAdded": "2026-06-16"
-    },
-    {
       "title": "On Cinema - The Certified “Five Bags of Popcorn” Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -5632,7 +5646,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-11-14",
       "time": null,
-      "price": "$25",
+      "price": "$18",
       "description": "Gully Boys, Pollyanna, Colliding",
       "eventUrl": "http://www.prekindle.com/event/99314-gully-boys-oklahoma-city",
       "ageLimit": null,
