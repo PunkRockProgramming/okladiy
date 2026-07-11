@@ -33,6 +33,7 @@ import { scrape as scrapeCainsBallroom } from './scrapers/cainsballroom.js';
 import { scrape as scrapeTulsaTheater }  from './scrapers/tulsatheater.js';
 import { scrape as scrapeShrine }        from './scrapers/shrine.js';
 import { scrape as scrapeSoundpony }     from './scrapers/soundpony.js';
+import { scrape as scrapeGrandRoyale }   from './scrapers/grandroyale.js';
 
 export const SCRAPERS = [
   // { name: 'noladiy', fn: scrapeNolaDIY },
@@ -52,6 +53,7 @@ export const SCRAPERS = [
   { name: 'tulsatheater', fn: scrapeTulsaTheater },
   { name: 'shrine',       fn: scrapeShrine },
   { name: 'soundpony',    fn: scrapeSoundpony },
+  { name: 'grandroyale',  fn: scrapeGrandRoyale },
 ];
 
 // ── Paths ─────────────────────────────────────────────────────────────────────
