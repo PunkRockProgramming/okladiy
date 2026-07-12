@@ -1,115 +1,20 @@
 {
-  "lastUpdated": "2026-07-11T19:28:02.763Z",
-  "scraperErrors": [
-    {
-      "scraper": "89thstreet",
-      "error": "browserType.launch: Executable doesn't exist at /Users/mm/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝"
-    },
-    {
-      "scraper": "soundpony",
-      "error": "browserType.launch: Executable doesn't exist at /Users/mm/Library/Caches/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-mac-arm64/chrome-headless-shell\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝"
-    }
-  ],
+  "lastUpdated": "2026-07-12T08:25:58.675Z",
+  "scraperErrors": [],
   "shows": [
     {
-      "title": "Cinderella’s Tom Keifer Band",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-07-11",
-      "time": "8 PM",
+      "title": "Ghoul's Ball: Ghost Stories",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-12",
+      "time": "6:30 PM",
       "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/76236221/cinderellas-tom-keifer-band-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
+      "description": "GHOUL'S BALL Feat. Ghost Stories\nRitual: 003 - A Celebration of the Music of Ghost\nImmersive & Live Entertainment - Bringing Lore to Life\nUnholy Communion • Burlesque • Costume Contest \n\nGeneral Admission Standing / Ages 18+ Only",
+      "eventUrl": "https://www.etix.com/ticket/p/57036930/ghouls-ball-oklahoma-city-89th-street",
+      "ageLimit": "All ages",
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/01/tom-keifer.jfif",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Slumbering Sun | Insomniac | Dust Lord",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-07-11",
-      "time": null,
-      "price": "$15",
-      "description": "Insomniac",
-      "eventUrl": "http://www.prekindle.com/event/19517-slumbering-sun-insomniac-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096277013",
-      "dateAdded": "2026-07-10"
-    },
-    {
-      "title": "Live Music All Ages feat: Aurora, Lilium & More",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-07-11",
-      "time": "7:30 PM",
-      "price": "$10",
-      "description": "Live Music from Aurora(AR), Lilium, Double Violets(Stillwater), and Little League Champs(MO).Doors 7:30pm Music 8pmTickets $10",
-      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-from-aurora-lilium-more",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1781189778020-6JNPA608PRGJ12ZV9IJ2/Aurora+Flyer.jpg",
-      "dateAdded": "2026-06-11"
-    },
-    {
-      "title": "Kanton Teen & the Penny Pickers",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-07-11",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949150351504",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150350783",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Traindodge 30th Anniversary Show!",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-11",
-      "time": null,
-      "price": "$15",
-      "description": "Traindodge, Self-Evident, Sky Creature",
-      "eventUrl": "http://www.prekindle.com/event/37843-traindodge-30th-anniversary-show-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148548262",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Shakedown Strings",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-07-11",
-      "time": "7:00 PM",
-      "price": "$15 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37833",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37833-e7df985afa02611e43bb6215a61ff3ed.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "THE EFFIGIES (Chicago punk)  /  /  THE RUMBLE  /  /  NUKE RAGE",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-07-11",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852852648451887763",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648451881548",
-      "dateAdded": "2026-07-11"
+      "imageUrl": "https://static.wixstatic.com/media/779716_31f65074821f43b6b23af5643d6a3ede~mv2.jpg",
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "Bluegrass Brunch with Johnny Mullenax",
@@ -196,6 +101,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161155713",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "DED",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-14",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "DED : Anti-Everything Tour \nwith special guests Dropout Kings, VRSTY, and Kicked Hopeless\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.ticketstorm.com/event/dedwithguestsdropoutkings/89thstreetokc/oklahomacity/32555/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_91037df02ee54c1f8d0f2cf020d49d57~mv2.jpg",
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "Velvet, Foam, Shielding, Winder",
@@ -308,6 +227,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107246225",
       "dateAdded": "2026-07-11"
+    },
+    {
+      "title": "Pavel Checkov",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-17",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "with Rockstar Nightclub, Animal Body Part & Controlled Hugging\nGeneral Admission / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/86760326/pavel-checkov-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_8d45a36d270e44c9ae66f429e575b3ef~mv2.jpg",
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "Steel Pulse - Reggae Against Racism Tour",
@@ -680,6 +613,20 @@
       "dateAdded": "2026-07-11"
     },
     {
+      "title": "Being As An Ocean",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-22",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "BEING AS AN OCEAN\nOnly Light Fills the Frame Tour\nwith special guest Upon Your Dead Body, lowheaven, & Dreamsickle\n\nGeneral Admission Standing / All Ages Welcome",
+      "eventUrl": "https://www.etix.com/ticket/p/76015897/being-as-an-ocean-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_08191b9e0f294e8da010dfefc5afe8b6~mv2.jpg",
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "Dying Wish",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -720,6 +667,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107238818",
       "dateAdded": "2026-07-11"
+    },
+    {
+      "title": "In The Company Of Serpents",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-23",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "IN THE COMPANY OF SERPENTS \n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/61068590/in-the-company-of-serpents-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ae11eaa2f6a24169b88f44cc9e636b6f~mv2.jpg",
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "feeble little horse",
@@ -866,6 +827,20 @@
       "dateAdded": "2026-07-11"
     },
     {
+      "title": "NASCAR ALOE + JASIAH: Capital Punishment Tour",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-25",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "w/ Special Guests rejectedreyna\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/88187092/nascar-aloe-jasiah-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_a280479a22c1496093fefaff58c76cba~mv2.jpg",
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "Kawaii Rave",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -994,6 +969,22 @@
       "dateAdded": "2026-04-12"
     },
     {
+      "title": "SKY RUN ROGER",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-07-25",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/7/25/sky-run-roger",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "WAXWORX: VINYL NIGHT featuring TREK  /  /  SOLDIERX  /  /  + more",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
@@ -1050,6 +1041,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37795-a3378052ac5ea21ed7b70e1b53de0a20.jpg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "SOME HEARTS // BADZY (NOLA)",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-07-27",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/7/27/some-hearts-badzy-nola",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "Anyone Awake: I Meant What I Said Tour",
@@ -1162,6 +1169,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160592068",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "ALL YOUR FRIENDS - The Indie Sleaze Dance Party",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-07-31",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "All Your Friends is the indie sleaze dance party remixing all your favorite 2010s indie hits from Passion Pit, Grouplove, and LCD Soundsystem and more!  Join the modern underground where bloghouse, post-punk revival, and internet-era club music collide.",
+      "eventUrl": "https://www.etix.com/ticket/p/75248832/all-your-friends-oklahoma-city-89th-street",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_e41594dba1394ff0bb5c4bc8a9b1e9b0~mv2.jpg",
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "Bingo Loco",
@@ -1404,6 +1425,20 @@
       "dateAdded": "2026-07-11"
     },
     {
+      "title": "fallfiftyfeet",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-08-02",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "with Special Guests\nEyeless, Tar Creek, deathbyathousandcuts & A Parting Gaze\nAll Tickets General Admission / Standing Room Only",
+      "eventUrl": "https://www.etix.com/ticket/p/58974624/fallfiftyfeet-oklahoma-city-89th-street",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_189e49a56d1a44b8b10e73ed200c1339~mv2.jpg",
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "Killer Queen - A Tribute To Queen ft Patrick Myers as Freddie Mercury",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1415,20 +1450,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182668358",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Bluegrass Brunch with Johnny Mullenax",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-08-02",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148073893",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148073876",
       "dateAdded": "2026-06-16"
     },
     {
@@ -1500,6 +1521,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949112922004",
       "dateAdded": "2026-07-11"
+    },
+    {
+      "title": "Good Boy Daisy",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-08-05",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "GOOD BOY DAISY\nThe Summer Love Tour\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/33786446/good-boy-daisy-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_81b46e6aaf334101a045a1c119125a11~mv2.jpg",
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "Luke Borchelt  /  The Water Town Tour",
@@ -1868,6 +1903,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "NO CURE",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-08-11",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "NO CURE\n A Darkness is Spreading Across North America \nwith Special Guests  BAYWAY NJ, BOLTCUTTER & CAUSTIC\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/84381847/no-cure-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_77aaba6d19484efdb25f742075fb34af~mv2.jpg",
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "The Montvales",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2038,6 +2087,22 @@
       "dateAdded": "2026-05-03"
     },
     {
+      "title": "BOOF // MOONROCK BANDITZ // STALLONE COBRAS",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-08-14",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/8/14/boof-moonrock-banditz-stallone-cobras",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "My So Called Band",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2150,6 +2215,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37928-0ee0c3ecbd88b47bd08d10b13b270efd.jpeg",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "HAPPY BIRTHDAY TO H.E.R. W/ MARCEL P. BLACK",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-08-15",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/8/15/happy-birthday-to-her-w-marcel-p-black",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "Frozen Soul",
@@ -2506,6 +2587,20 @@
       "dateAdded": "2026-07-11"
     },
     {
+      "title": "Southpaw FLHC",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-08-23",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "Southpaw FLHC\nThe Standard 2026 Tour\nwith special guest Arcline\n\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/86682969/southpaw-flhc-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_15cdc3d2c9f74c8fa37d88abd1e4589d~mv2.jpg",
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "DevilDriver",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -2674,6 +2769,22 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "SOME HEARTS // SWEET NOTHIN’ (ABQ)",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-08-27",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/8/27/some-hearts-sweet-nothin-abq",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "Toast to Toby Keith",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2774,6 +2885,20 @@
       "dateAdded": "2026-07-11"
     },
     {
+      "title": "House of Heavy",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-08-29",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "HOUSE OF HEAVY\nGeneral Admission / All Ages\nDoors @ 7P / Show @ 7:30P\nHouse of Heavy is a DJ-driven metal party built for the fans who crave the pit, the riffs, the breakdowns, and the chaos, but are tired of waiting for the next tour. Come scream along, throw down with friends, and lose yourself.",
+      "eventUrl": "https://www.etix.com/ticket/p/65582901/house-of-heavy-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_9718700ee41c43568da3d8ca68918779~mv2.jpg",
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "Kolby Cooper",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -2842,6 +2967,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-17"
+    },
+    {
+      "title": "SKY RUN ROGER",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-08-29",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/8/29/sky-run-roger",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "The Browning Burn This World (EVOLVED) USA V2",
@@ -3154,6 +3295,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "When The Sun Sets",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-09",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nWHEN THE SUN SETS\nw/ Special Guest Gold Steps\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nDoors: 7p // Show: 8p",
+      "eventUrl": "https://www.etix.com/ticket/p/92912251/when-the-sun-sets-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_b2f4b87db501486992ebfb9559ee3372~mv2.jpg",
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "Madison Ryann Ward - The Standing Tall Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3208,6 +3363,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151758306",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Toni Romiti",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-10",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "TONI ROMITI T0n16 Again Tour\n\nGeneral Admission Standing / All Ages / *VIP Packages Available",
+      "eventUrl": "https://www.etix.com/ticket/p/34931911/toni-romiti-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_96cffc4e0b2f491b8e0597bda991f0de~mv2.jpg",
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "Ray Wylie Hubbard",
@@ -3438,6 +3607,20 @@
       "dateAdded": "2026-07-11"
     },
     {
+      "title": "Powerplant",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-13",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "POWERPLANT\nwith Special Guest Net\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/71639137/powerplant-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_58587a78e375450684d1b0e8d97f096c~mv2.jpg",
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "American Aquarium",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -3590,6 +3773,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Suitable Miss",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-18",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nSUITABLE MISS\nwith special guests The Burn Notice and Sacred Rose\nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages\n\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/52750940/suitable-miss-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ccd7ef4317664c02bd2dab3243839f88~mv2.jpg",
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "A Man Named Cash (Johnny Cash Tribute)",
@@ -3808,6 +4005,20 @@
       "dateAdded": "2026-06-23"
     },
     {
+      "title": "Mr. Phylzzz",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-22",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nMR. PHYLZZZ - The Killer Set Tour\nw/ special guests Honduh Daze & Ivory Tusk\nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/51123299/mrphylzzz-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_c5d1f2abf1a34627a85119ceddde08f1~mv2.jpg",
+      "dateAdded": "2026-07-12"
+    },
+    {
       "title": "VOID | Phantom",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -3920,6 +4131,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39010-68c45b0368411e73df9cfd8313a3a511.png",
       "dateAdded": "2026-07-06"
+    },
+    {
+      "title": "The Callous Daoboys",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-24",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nTHE CALLOUS DAOBOYS\nwith Special Guests Kaonashi, Girl Of Glass, and Wielded Steel\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/63351411/the-callous-daoboys-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_af1f34a2567f4f9f80213dd2053d6d19~mv2.jpg",
+      "dateAdded": "2026-07-12"
     },
     {
       "title": "Liverpool Legends: Beatles Experience",
