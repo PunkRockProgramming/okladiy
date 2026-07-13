@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T18:45:39.657Z",
+  "lastUpdated": "2026-07-13T09:38:42.309Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -17,84 +17,12 @@
       "dateAdded": "2026-07-12"
     },
     {
-      "title": "Bluegrass Brunch with Johnny Mullenax",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-07-12",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148089247",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148089230",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Gash w /  Some Fear, Baby, and Douglas",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-12",
-      "time": null,
-      "price": "$12",
-      "description": "Gash, Some Fear, Baby, Douglas",
-      "eventUrl": "http://www.prekindle.com/event/44732-gash-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140772494",
-      "dateAdded": "2026-06-16"
-    },
-    {
-      "title": "Hatebreed",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-07-12",
-      "time": "4 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/64635738/hatebreed-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-24"
-    },
-    {
-      "title": "One Way Truckin'",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-07-12",
-      "time": "4:00 PM",
-      "price": "$15",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37986",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37986-4624bbc17846967ed3edca7c3c689f90.jpeg",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "THE SOAPGIRLS (South African alt rock)  /  /  VERANDA BANDITS  /  /  BELLE RIOTS",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-07-12",
-      "time": "8:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949121816243",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107248379",
-      "dateAdded": "2026-07-11"
-    },
-    {
       "title": "septemberistheonlytimeidontthinkofyou",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-07-13",
       "time": null,
-      "price": "$14",
+      "price": "$17",
       "description": "Septemberistheonlytimeidontthinkofyou, Departmefrombearisland, Garden Ants, A Wish That Lasts",
       "eventUrl": "http://www.prekindle.com/event/26319-septemberistheonlytimeidontthinkofyou-oklahoma-city",
       "ageLimit": null,
@@ -327,18 +255,18 @@
       "dateAdded": "2026-06-16"
     },
     {
-      "title": "DIVA, DREAMSICKLE, Sacred Rose",
+      "title": "DIVA, Sacred Rose",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-07-17",
       "time": null,
-      "price": "$15",
-      "description": "DIVA, DREAMSICKLE, Sacred Rose",
+      "price": "$8–$12",
+      "description": "DIVA, Sacred Rose",
       "eventUrl": "http://www.prekindle.com/event/65942-moon-fever-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150770210",
-      "dateAdded": "2026-07-07"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949093320318",
+      "dateAdded": "2026-07-13"
     },
     {
       "title": "Last Podcast on the Left",
@@ -390,7 +318,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-07-18",
       "time": null,
-      "price": "$35–$100",
+      "price": "$35–$70",
       "description": "Last Podcast On the Left",
       "eventUrl": "http://www.prekindle.com/event/43445-last-podcast-on-the-left-jk-ultra-tour-oklahoma-city",
       "ageLimit": null,
