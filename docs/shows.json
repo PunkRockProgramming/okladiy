@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-07-13T09:38:42.309Z",
+  "lastUpdated": "2026-07-13T19:08:22.538Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Ghoul's Ball: Ghost Stories",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-07-12",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "GHOUL'S BALL Feat. Ghost Stories\nRitual: 003 - A Celebration of the Music of Ghost\nImmersive & Live Entertainment - Bringing Lore to Life\nUnholy Communion • Burlesque • Costume Contest \n\nGeneral Admission Standing / Ages 18+ Only",
-      "eventUrl": "https://www.etix.com/ticket/p/57036930/ghouls-ball-oklahoma-city-89th-street",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_31f65074821f43b6b23af5643d6a3ede~mv2.jpg",
-      "dateAdded": "2026-07-12"
-    },
     {
       "title": "septemberistheonlytimeidontthinkofyou",
       "venue": "Resonant Head",
@@ -1049,7 +1035,7 @@
       "date": "2026-07-29",
       "time": null,
       "price": "$15",
-      "description": "brokeNCYDE, Whokilledxix, Oni Inc.",
+      "description": "brokeNCYDE, Whokilledxix, Oni Inc., Vitamjn",
       "eventUrl": "http://www.prekindle.com/event/41938-brokencyde-whokilledxix-and-oni-inc-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1302,7 +1288,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-01",
       "time": "8:00 PM",
-      "price": "$17–$125",
+      "price": "$13–$125",
       "description": "Locust Grove, Nevermind the Embers, Taranis",
       "eventUrl": "http://www.prekindle.com/event/34321-locust-grove-oklahoma-city",
       "ageLimit": null,
@@ -1372,7 +1358,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-02",
       "time": null,
-      "price": "$33–$68",
+      "price": "$24–$68",
       "description": "Killer Queen",
       "eventUrl": "http://www.prekindle.com/event/63954-killer-queen-a-tribute-to-queen-ft-patrick-myers-as-freddie-mercury-oklahoma-city",
       "ageLimit": null,
@@ -3647,6 +3633,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Twin Temple",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-16",
+      "time": "8:00 PM",
+      "price": "$30",
+      "description": "Twin Temple",
+      "eventUrl": "http://www.prekindle.com/event/29343-twin-temple-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949095317708",
+      "dateAdded": "2026-07-13"
+    },
+    {
       "title": "Jake Shimabukuro",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3789,7 +3789,7 @@
       "dateAdded": "2026-03-18"
     },
     {
-      "title": "Soul Freq | Stutter | Mellosplat",
+      "title": "Soul Freq | Rabbitt and the Roses | Mellosplat",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-09-19",
@@ -3799,8 +3799,8 @@
       "eventUrl": "http://www.prekindle.com/event/87835-soul-freq-stutter-mellosplat-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949103479097",
-      "dateAdded": "2026-07-03"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949092704677",
+      "dateAdded": "2026-07-13"
     },
     {
       "title": "Stiff Bizkit & Testify",
@@ -4157,6 +4157,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-27"
+    },
+    {
+      "title": "Low Gap",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-25",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nLOW GAP\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/71911145/low-gap-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_cce5ecd66b004dddb7a4939319442bc2~mv2.jpg",
+      "dateAdded": "2026-07-13"
     },
     {
       "title": "The Obsessed | Dust Lord | Medicine Horse",
@@ -5403,6 +5417,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156038480",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Tauren Wells – Air1 Worship Now Tour",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-10-29",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/56831490/tauren-wells-air1-worship-now-tour-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-13"
     },
     {
       "title": "Rachel Ammons w/ Knipple",
