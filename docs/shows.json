@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-07-13T19:08:22.538Z",
+  "lastUpdated": "2026-07-14T08:18:52.627Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "septemberistheonlytimeidontthinkofyou",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-13",
-      "time": null,
-      "price": "$17",
-      "description": "Septemberistheonlytimeidontthinkofyou, Departmefrombearisland, Garden Ants, A Wish That Lasts",
-      "eventUrl": "http://www.prekindle.com/event/26319-septemberistheonlytimeidontthinkofyou-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161155713",
-      "dateAdded": "2026-06-16"
-    },
     {
       "title": "DED",
       "venue": "89th Street OKC",
@@ -121,7 +107,7 @@
       "date": "2026-07-16",
       "time": null,
       "price": "$40–$90",
-      "description": "Ari Matti, Hans Kim, Martin Phillips, David Jolly",
+      "description": "David Lucas, Hans Kim, Martin Phillips, David Jolly",
       "eventUrl": "http://www.prekindle.com/event/49663-the-killers-of-kill-tony-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1218,7 +1204,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-01",
       "time": null,
-      "price": "$15–$40",
+      "price": "$11–$40",
       "description": "Journey of A Lifetime, Deja Blues",
       "eventUrl": "http://www.prekindle.com/event/95711-journey-of-a-lifetime-oklahoma-city",
       "ageLimit": null,
@@ -1626,7 +1612,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-07",
       "time": "8:00 PM",
-      "price": "$20–$75",
+      "price": "$15–$75",
       "description": "Josh Tatofi",
       "eventUrl": "http://www.prekindle.com/event/91177-josh-tatofi-looking-for-love-tour-oklahoma-city",
       "ageLimit": null,
@@ -2359,6 +2345,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Blue Whale Comedy Festival Friday Pass",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-21",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/61832577/blue-whale-comedy-festival-friday-pass-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-14"
+    },
+    {
       "title": "Jay Jurden",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -2371,6 +2371,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-08"
+    },
+    {
+      "title": "Blue Whale Comedy Festival Blue Ballroom Bundle",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-21",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/72359216/blue-whale-comedy-festival-blue-ballroom-bundle-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-14"
     },
     {
       "title": "Melissa Villaseñor + Wolves of Glendale",
@@ -2427,6 +2441,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148804952",
       "dateAdded": "2026-06-16"
+    },
+    {
+      "title": "Blue Whale Comedy Festival Saturday Pass",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-22",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/60048858/blue-whale-comedy-festival-saturday-pass-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-14"
     },
     {
       "title": "Ehsan Ahmad",
@@ -3881,7 +3909,7 @@
       "date": "2026-09-20",
       "time": null,
       "price": "$23–$150",
-      "description": "Amy Grant",
+      "description": "Amy Grant, Franni Cash",
       "eventUrl": "http://www.prekindle.com/event/37148-amy-grant-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -5865,7 +5893,7 @@
       "date": "2026-11-14",
       "time": null,
       "price": "$25–$75",
-      "description": "Lily Rose",
+      "description": "Lily Rose, Erin Kinsey",
       "eventUrl": "http://www.prekindle.com/event/95391-lily-rose-oklahoma-city",
       "ageLimit": null,
       "tags": [],
