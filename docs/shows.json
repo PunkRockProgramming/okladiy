@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T08:18:52.627Z",
+  "lastUpdated": "2026-07-14T18:58:15.319Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -262,7 +262,7 @@
       "time": "8:00 PM",
       "price": "$31",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38781",
+      "eventUrl": "https://www.tulsashrine.com",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -360,7 +360,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-18",
       "time": "8:00 PM",
-      "price": "$14–$75",
+      "price": null,
       "description": "Hit The Lights, Action/Adventure, Eternal Boy",
       "eventUrl": "http://www.prekindle.com/event/86984-hit-the-lights-oklahoma-city",
       "ageLimit": null,
@@ -2755,6 +2755,20 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "Kimmi Bitter",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-28",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949091787232",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949091786709",
+      "dateAdded": "2026-07-14"
+    },
+    {
       "title": "Good Terms",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2839,6 +2853,20 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_9718700ee41c43568da3d8ca68918779~mv2.jpg",
       "dateAdded": "2026-07-12"
+    },
+    {
+      "title": "Mike Sherm",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-29",
+      "time": null,
+      "price": "$30–$109",
+      "description": "Mike Sherm",
+      "eventUrl": "http://www.prekindle.com/event/29993-mike-sherm-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949092650374",
+      "dateAdded": "2026-07-14"
     },
     {
       "title": "Kolby Cooper",
@@ -3666,7 +3694,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-16",
       "time": "8:00 PM",
-      "price": "$30",
+      "price": "$25",
       "description": "Twin Temple",
       "eventUrl": "http://www.prekindle.com/event/29343-twin-temple-oklahoma-city",
       "ageLimit": null,
@@ -4539,6 +4567,20 @@
       "dateAdded": "2026-06-24"
     },
     {
+      "title": "Łaszewo - ROAD TO BREAKAWAY TOUR",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-06",
+      "time": null,
+      "price": "$25",
+      "description": "Łaszewo",
+      "eventUrl": "http://www.prekindle.com/event/49644-aszewo-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949092906026",
+      "dateAdded": "2026-07-14"
+    },
+    {
       "title": "Fai Laci",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4559,7 +4601,7 @@
       "date": "2026-10-06",
       "time": null,
       "price": "$45–$95",
-      "description": "Suki Waterhouse, Rochelle Jordan",
+      "description": "Suki Waterhouse, Rochelle Jordan, EMMMA",
       "eventUrl": "http://www.prekindle.com/event/46244-suki-waterhouse-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4579,6 +4621,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100007510",
       "dateAdded": "2026-07-07"
+    },
+    {
+      "title": "Brigitte Calls Me Baby - IRREVERSIBLE TOUR",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-07",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Brigitte Calls Me Baby, Common People",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/brigitte-calls-me-baby-irreversible-tour-07-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a500d0263cb8b1736ea958b_BCMB_official_photo_Lance_Bangs.jpeg",
+      "dateAdded": "2026-07-14"
     },
     {
       "title": "Bad Nerves",
@@ -5857,6 +5913,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69ea814cab439b9ebc36c265_Banner.jpeg",
       "dateAdded": "2026-04-28"
+    },
+    {
+      "title": "Thundercat: Distracted AF Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-12",
+      "time": null,
+      "price": "$35",
+      "description": "Thundercat",
+      "eventUrl": "http://www.prekindle.com/event/16541-thundercat-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949091677311",
+      "dateAdded": "2026-07-14"
     },
     {
       "title": "On Cinema - The Certified “Five Bags of Popcorn” Tour",
