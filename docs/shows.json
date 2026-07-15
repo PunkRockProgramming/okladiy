@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T08:24:24.141Z",
+  "lastUpdated": "2026-07-15T18:51:43.397Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -5039,6 +5039,20 @@
       "dateAdded": "2026-06-19"
     },
     {
+      "title": "I See Stars",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-15",
+      "time": null,
+      "price": "$35",
+      "description": "I See Stars, Nate Vickers",
+      "eventUrl": "http://www.prekindle.com/event/87555-i-see-stars-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096496478",
+      "dateAdded": "2026-07-15"
+    },
+    {
       "title": "Nicholas Jamerson x The Droptines",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -5966,7 +5980,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-11-13",
       "time": null,
-      "price": "$27–$160",
+      "price": "$27–$60",
       "description": "On Cinema Live",
       "eventUrl": "http://www.prekindle.com/event/85124-on-cinema-the-certified-five-bags-of-popcorn-tour-oklahoma-city",
       "ageLimit": null,
@@ -6229,6 +6243,22 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/catch-your-breath.jfif",
       "dateAdded": "2026-05-27"
+    },
+    {
+      "title": "OZZOLUTION Venue Shrine 12/5/2026",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-12-05",
+      "time": "7:00 PM / Support 7:30 PM",
+      "price": "$18.50 to $30 ADV   $23.25 to $40 DOOR",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38870",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38870-2ecc0434b522248b273c47c939f0ba42.png",
+      "dateAdded": "2026-07-15"
     },
     {
       "title": "Blue October",
