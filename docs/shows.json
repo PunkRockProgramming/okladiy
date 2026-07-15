@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-07-14T18:58:15.319Z",
+  "lastUpdated": "2026-07-15T08:24:24.141Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "DED",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-07-14",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "DED : Anti-Everything Tour \nwith special guests Dropout Kings, VRSTY, and Kicked Hopeless\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.ticketstorm.com/event/dedwithguestsdropoutkings/89thstreetokc/oklahomacity/32555/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_91037df02ee54c1f8d0f2cf020d49d57~mv2.jpg",
-      "dateAdded": "2026-07-12"
-    },
-    {
-      "title": "Velvet, Foam, Shielding, Winder",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-14",
-      "time": null,
-      "price": "$12",
-      "description": "Velvet, Foam, Shielding, Winder",
-      "eventUrl": "http://www.prekindle.com/event/46812-velvet-foam-shielding-winder-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160478672",
-      "dateAdded": "2026-06-16"
-    },
     {
       "title": "Evan Hughes Comedy Showcase",
       "venue": "The Whittier Bar",
@@ -992,7 +964,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-07-29",
       "time": null,
-      "price": "$30–$180",
+      "price": "$30–$65",
       "description": "Matt Fraser",
       "eventUrl": "http://www.prekindle.com/event/89253-matt-fraser-oklahoma-city",
       "ageLimit": null,
@@ -1365,6 +1337,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949094845152",
       "dateAdded": "2026-07-10"
+    },
+    {
+      "title": "One Way Truckin'",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-02",
+      "time": "4:00 PM",
+      "price": "$12 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39072",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39072-cb4d9a80c2088c3a5091335c78df51dd.jpeg",
+      "dateAdded": "2026-07-15"
     },
     {
       "title": "BOOF (TX queerpunk)  /  /  FREE THE WITNESS (NJ punk)  /  /  LOW DOWN WEASEL",
@@ -2897,6 +2885,20 @@
       "dateAdded": "2026-06-19"
     },
     {
+      "title": "Matt Moran & the Palomino's",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-29",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949091718567",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949091398492",
+      "dateAdded": "2026-07-15"
+    },
+    {
       "title": "PawPaw Rod: Picture Day Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3619,6 +3621,22 @@
       "dateAdded": "2026-06-16"
     },
     {
+      "title": "One Way Truckin'",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-09-13",
+      "time": "4:00 PM",
+      "price": "$12 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39073",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39073-7848e49d12af8fcf188e0f02068b78a9.jpeg",
+      "dateAdded": "2026-07-15"
+    },
+    {
       "title": "Sleep: North America 2026",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3901,6 +3919,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38771-2a0e65b40122be974cf62b7ca1511c23.jpg",
       "dateAdded": "2026-06-17"
+    },
+    {
+      "title": "Ryman Leon",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-20",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nRYMAN LEON\nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/45989724/ryman-leon-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_3289d68769d643eab74510bebf9fd6ea~mv2.jpg",
+      "dateAdded": "2026-07-15"
     },
     {
       "title": "Bluegrass Brunch with Johnny Mullenax",
