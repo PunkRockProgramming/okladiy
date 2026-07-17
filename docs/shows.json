@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T08:19:55.908Z",
+  "lastUpdated": "2026-07-17T18:49:41.544Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -101,7 +101,7 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "DIVA, Sacred Rose",
+      "title": "DIVA, Sacred Rose, Kennedy Fine",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-07-17",
@@ -112,7 +112,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949093320318",
-      "dateAdded": "2026-07-16"
+      "dateAdded": "2026-07-17"
     },
     {
       "title": "Last Podcast on the Left",
@@ -833,6 +833,20 @@
       "dateAdded": "2026-07-12"
     },
     {
+      "title": "Toyotuh Tuesday",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-07-28",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/41448-toyotuh-tuesday-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949087843677",
+      "dateAdded": "2026-07-17"
+    },
+    {
       "title": "Anyone Awake: I Meant What I Said Tour",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -915,6 +929,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107231587",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Penta | l.a.z.i.e. | Tristan Wright | Josie Winett",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-07-30",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/85771-penta-lazie-tristan-wright-josie-winett-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949087720370",
+      "dateAdded": "2026-07-17"
     },
     {
       "title": "Uncle Lucius: The 20th Anniversary Tour",
@@ -1332,7 +1360,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-05",
       "time": "8:00 PM",
-      "price": "$20–$75",
+      "price": "$15–$75",
       "description": "Luke Borchelt",
       "eventUrl": "http://www.prekindle.com/event/92468-luke-borchelt-the-water-town-tour-oklahoma-city",
       "ageLimit": null,
@@ -1503,7 +1531,7 @@
       "date": "2026-08-07",
       "time": "8:00 PM",
       "price": "$15–$75",
-      "description": "Josh Tatofi",
+      "description": "Josh Tatofi, Sophia Scott",
       "eventUrl": "http://www.prekindle.com/event/91177-josh-tatofi-looking-for-love-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2275,6 +2303,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-04"
+    },
+    {
+      "title": "The Moody Dudes",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-21",
+      "time": "7:00 PM",
+      "price": "$12 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39085",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39085-10231ad451ce0562f92f240e3b374562.jpeg",
+      "dateAdded": "2026-07-17"
     },
     {
       "title": "HOPELESS OTIS (NYC punk)",
@@ -3233,7 +3277,7 @@
       "date": "2026-09-09",
       "time": null,
       "price": "$16",
-      "description": "Sweeping Promises, Stepmom",
+      "description": "Sweeping Promises, Stepmom, Lust Online",
       "eventUrl": "http://www.prekindle.com/event/81278-sweeping-promises-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3616,7 +3660,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-16",
       "time": "8:00 PM",
-      "price": "$30",
+      "price": "$25",
       "description": "Twin Temple",
       "eventUrl": "http://www.prekindle.com/event/29343-twin-temple-oklahoma-city",
       "ageLimit": null,
@@ -4578,7 +4622,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-07",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$29.13",
       "description": "Brigitte Calls Me Baby, Common People",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/brigitte-calls-me-baby-irreversible-tour-07-oct",
       "ageLimit": "ALL AGES",
@@ -4643,6 +4687,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a26d31664a9b81da53845db_1920x1080.jpeg",
       "dateAdded": "2026-06-08"
+    },
+    {
+      "title": "BLITZKID: Modern Hel Tour 2026 with Special Guests",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-08",
+      "time": "8:00 PM",
+      "price": "$20–$63",
+      "description": "Blitzkid",
+      "eventUrl": "http://www.prekindle.com/event/45577-blitzkid-modern-hel-tour-2026-with-special-guests-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949090786898",
+      "dateAdded": "2026-07-17"
     },
     {
       "title": "Girl In A Coma",
@@ -4962,7 +5020,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-15",
       "time": null,
-      "price": "$35",
+      "price": "$27–$50",
       "description": "I See Stars, Nate Vickers",
       "eventUrl": "http://www.prekindle.com/event/87555-i-see-stars-oklahoma-city",
       "ageLimit": null,
@@ -5291,7 +5349,7 @@
       "date": "2026-10-24",
       "time": null,
       "price": "$28–$57",
-      "description": "Palace",
+      "description": "Palace, Rollo Doherty",
       "eventUrl": "http://www.prekindle.com/event/41591-palace-usa-and-canada-tour-2026-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -5885,7 +5943,7 @@
       "date": "2026-11-12",
       "time": null,
       "price": "$35–$166",
-      "description": "Thundercat",
+      "description": "Thundercat, Blu DeTiger",
       "eventUrl": "http://www.prekindle.com/event/16541-thundercat-oklahoma-city",
       "ageLimit": null,
       "tags": [],
