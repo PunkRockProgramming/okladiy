@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-07-18T08:02:07.829Z",
+  "lastUpdated": "2026-07-18T18:43:14.608Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Pavel Checkov",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-07-17",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "with Rockstar Nightclub, Animal Body Part & Controlled Hugging\nGeneral Admission / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/86760326/pavel-checkov-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_8d45a36d270e44c9ae66f429e575b3ef~mv2.jpg",
-      "dateAdded": "2026-07-12"
-    },
     {
       "title": "Live Music All Ages feat: PB&TAT, Belle Riots, and Bugjuice Blues",
       "venue": "Noise Town",
@@ -4249,6 +4235,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167255157",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Rolling Quartz 롤링쿼츠",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-29",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "[MY TURN] 2026 TOUR\nGA Doors 6pm / Show 7pm\n*VIP Packages Available \n*All Tickets General Admission / Standing Room Only For the Performance",
+      "eventUrl": "https://www.ticketweb.com/event/rolling-quartz-my-turn-2026-89th-street-okc-tickets/14947543",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_855476cf9bcf498894e05155e661c74c~mv2.png",
+      "dateAdded": "2026-07-18"
     },
     {
       "title": "SHAWN JAMES “FLEW TOO CLOSE TO THE SUN TOUR\"",
