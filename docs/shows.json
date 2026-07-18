@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T18:49:41.544Z",
+  "lastUpdated": "2026-07-18T08:02:07.829Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -17,34 +17,6 @@
       "dateAdded": "2026-07-12"
     },
     {
-      "title": "Steel Pulse - Reggae Against Racism Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-07-17",
-      "time": null,
-      "price": "$39–$74",
-      "description": "Steel Pulse",
-      "eventUrl": "http://www.prekindle.com/event/68925-steel-pulse-reggae-against-racism-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154885420",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Oceanaut | Sun Vow",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-07-17",
-      "time": null,
-      "price": "$10",
-      "description": "Oceanaut",
-      "eventUrl": "http://www.prekindle.com/event/92563-oceanaut-sun-vow-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118094221",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "Live Music All Ages feat: PB&TAT, Belle Riots, and Bugjuice Blues",
       "venue": "Noise Town",
       "venueUrl": "https://www.noisetowntulsa.com",
@@ -57,106 +29,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1781287618712-LNPTI0M20E2AKFH4PR2O/717.png",
       "dateAdded": "2026-06-12"
-    },
-    {
-      "title": "The Damn Quails",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-07-17",
-      "time": "8:00 PM",
-      "price": "$26.30",
-      "description": "The Damn Quails, Osage County",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-damn-quails-17-jul",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c1c979306713e8c459444f_open-uri20260323-804-xeswjg.jpeg",
-      "dateAdded": "2026-05-13"
-    },
-    {
-      "title": "Ronnie and The Redwoods",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-07-17",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949099588821",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099579996",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "ELIJAH SCOTT",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-07-17",
-      "time": "8:00 PM",
-      "price": "$30–$75",
-      "description": "Elijah Scott, DEVORA",
-      "eventUrl": "http://www.prekindle.com/event/92612-elijah-scott-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148804968",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "DIVA, Sacred Rose, Kennedy Fine",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-17",
-      "time": null,
-      "price": "$8–$12",
-      "description": "DIVA, Sacred Rose, Kennedy Fine",
-      "eventUrl": "http://www.prekindle.com/event/65942-moon-fever-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949093320318",
-      "dateAdded": "2026-07-17"
-    },
-    {
-      "title": "Last Podcast on the Left",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-07-17",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/53271931/last-podcast-on-the-left-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "LUCI w/ GREEN MATTER",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-07-17",
-      "time": "8:00 PM",
-      "price": "$31",
-      "description": null,
-      "eventUrl": "https://www.tulsashrine.com",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38781-728d1dec1b54cb7802e69facc35b5ca1.png",
-      "dateAdded": "2026-06-15"
-    },
-    {
-      "title": "KAZHA (Japan rock)  /  /  TRAFFICKING MELODIES (Little Rock punk)  /  /  GHOUL A.D.",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-07-17",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949120897416",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107245631",
-      "dateAdded": "2026-07-16"
     },
     {
       "title": "Last Podcast on the Left - JK Ultra Tour",
@@ -201,7 +73,7 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Cliffdiver",
+      "title": "LOW TICKET WARNING - Cliffdiver",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-07-18",
@@ -212,7 +84,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69fe3638671c01ed0957497c_2.jpeg",
-      "dateAdded": "2026-05-12"
+      "dateAdded": "2026-07-18"
     },
     {
       "title": "Dance Monkey Dance!",
@@ -2347,6 +2219,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949138760312",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Brother Rabbit Album Release",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-08-22",
+      "time": "8:00 PM",
+      "price": "$20.72",
+      "description": "Brother Rabbit, Fiawna Forté, Sun Vow",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/brother-rabbit-album-release-22-aug",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a5a7bc0fa2f60ea77e2aad0__F1A7378.jpeg",
+      "dateAdded": "2026-07-18"
     },
     {
       "title": "Braxton Keith",
