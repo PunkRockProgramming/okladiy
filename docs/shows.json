@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T08:27:19.268Z",
+  "lastUpdated": "2026-07-19T18:45:18.237Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -81,7 +81,7 @@
       "date": "2026-07-21",
       "time": "7:00 PM",
       "price": "$38.44",
-      "description": "Upon a Burning Body, Norma Jean, Fox Lake",
+      "description": "Upon a Burning Body, Norma Jean, Fox Lake, Zero Signal",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/upon-a-burning-body-norma-jean-21-jul",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -187,7 +187,7 @@
       "dateAdded": "2026-07-12"
     },
     {
-      "title": "feeble little horse",
+      "title": "SOLD OUT feeble little horse",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-07-23",
@@ -198,7 +198,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148983742",
-      "dateAdded": "2026-07-16"
+      "dateAdded": "2026-07-19"
     },
     {
       "title": "Ratchet Dolls",
