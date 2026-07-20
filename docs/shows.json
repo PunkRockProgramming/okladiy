@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T09:26:25.273Z",
+  "lastUpdated": "2026-07-20T19:22:27.166Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -71,6 +71,20 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_08191b9e0f294e8da010dfefc5afe8b6~mv2.jpg",
       "dateAdded": "2026-07-12"
+    },
+    {
+      "title": "Rabbitt & the Roses | Odie & I | Kind Coyote",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-07-22",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/58959-rabbitt-and-the-roses-odie-and-i-kind-coyote-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085609760",
+      "dateAdded": "2026-07-20"
     },
     {
       "title": "Dying Wish",
@@ -255,22 +269,6 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-23"
-    },
-    {
-      "title": "Lincoln Swanzy",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-07-24",
-      "time": "7:00 PM",
-      "price": "$15 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38240",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38240-64cc733d2535517cc33a1c904e49b1e5.jpeg",
-      "dateAdded": "2026-04-09"
     },
     {
       "title": "GOTH NITE: THE HOWLING",
@@ -2783,7 +2781,7 @@
       "eventUrl": "http://www.prekindle.com/event/31851-fea-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949125980944",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085457122",
       "dateAdded": "2026-07-16"
     },
     {
@@ -2949,7 +2947,7 @@
       "date": "2026-09-09",
       "time": "7:00 PM",
       "price": "$29.08",
-      "description": "Archers, Autumn Kings, pinknoise, Coldstate",
+      "description": "Archers, Autumn Kings, pinknoise, Coldstate, Zero Signal",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/archers-09-sep",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -3731,7 +3729,7 @@
       "date": "2026-09-23",
       "time": "7:30 PM",
       "price": "$29.13",
-      "description": "The Expendables",
+      "description": "The Expendables, Chad Tepper, Matt & Zack",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-expendables-23-sep",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -4205,6 +4203,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Jackyl",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-10-02",
+      "time": "8:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/76223072/jackyl-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/jackyl.jfif",
+      "dateAdded": "2026-07-20"
+    },
+    {
       "title": "Lawrence Rothman",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -4273,6 +4285,22 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a10c62ccf458eec7712a512_bobby_lees.jpeg",
       "dateAdded": "2026-05-27"
+    },
+    {
+      "title": "Lincoln Swanzy",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-03",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38240",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38240-64cc733d2535517cc33a1c904e49b1e5.jpeg",
+      "dateAdded": "2026-07-20"
     },
     {
       "title": "FIGHTMASTER",
@@ -4999,20 +5027,6 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39061-989ff415379f34abd1ffbdfee1f847e6.jpeg",
       "dateAdded": "2026-07-11"
-    },
-    {
-      "title": "Prof",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-22",
-      "time": null,
-      "price": "$33–$57",
-      "description": "Prof, Norman Sann, Khantrast, Willie Wonka",
-      "eventUrl": "http://www.prekindle.com/event/46835-prof-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160599318",
-      "dateAdded": "2026-07-16"
     },
     {
       "title": "Culture Wars",
