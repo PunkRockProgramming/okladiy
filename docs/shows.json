@@ -1,65 +1,7 @@
 {
-  "lastUpdated": "2026-07-19T18:45:18.237Z",
+  "lastUpdated": "2026-07-20T09:26:25.273Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Live Music All Ages feat: PB&TAT, Belle Riots, and Bugjuice Blues",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-07-17",
-      "time": "8:00 PM",
-      "price": "$10",
-      "description": "Live music from Bugjuice Blues, Belle Riots(OKC), and PB&TAT(Kansas City).Doors 8pm Music 8:30pmTickets $10",
-      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-pbtat-belle-riots-and-bugjuice-blues",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1781287618712-LNPTI0M20E2AKFH4PR2O/717.png",
-      "dateAdded": "2026-06-12"
-    },
-    {
-      "title": "Sun Kil Moon",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-07-19",
-      "time": null,
-      "price": "$20–$60",
-      "description": "Sun Kil Moon",
-      "eventUrl": "http://www.prekindle.com/event/51456-sun-kil-moon-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183337177",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Slow Joy",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-19",
-      "time": null,
-      "price": "$22",
-      "description": "Slow Joy, The High Curbs, Glom",
-      "eventUrl": "http://www.prekindle.com/event/33381-slow-joy-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157353859",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Cobi Lalas",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-07-19",
-      "time": "3:00 PM",
-      "price": "$7 adv / $10 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38260",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38260-ddb0743b38645b593d4fbdb5ab393fb8.jpeg",
-      "dateAdded": "2026-04-12"
-    },
     {
       "title": "L.A.M.P. (Iowa ska-punk)  /  /  BATHTUB FISHING",
       "venue": "Grand Royale",
@@ -151,7 +93,7 @@
       "date": "2026-07-22",
       "time": null,
       "price": "$18",
-      "description": "Nether Hour",
+      "description": "Nether Hour, Vaneza Saint Luz, Beau Turrentine",
       "eventUrl": "http://www.prekindle.com/event/15468-nether-hour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
