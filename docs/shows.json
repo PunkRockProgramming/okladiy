@@ -1,28 +1,14 @@
 {
-  "lastUpdated": "2026-07-20T19:22:27.166Z",
+  "lastUpdated": "2026-07-21T08:38:09.011Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "L.A.M.P. (Iowa ska-punk)  /  /  BATHTUB FISHING",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-07-20",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949116983632",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107243767",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "Norma Jean and Upon A Burning Body - Southern Domination",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-07-21",
       "time": "7:00 PM",
-      "price": "$38.44",
+      "price": "$41.19",
       "description": "Upon a Burning Body, Norma Jean, Fox Lake, Zero Signal",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/upon-a-burning-body-norma-jean-21-jul",
       "ageLimit": "ALL AGES",
@@ -141,6 +127,20 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ae11eaa2f6a24169b88f44cc9e636b6f~mv2.jpg",
       "dateAdded": "2026-07-12"
+    },
+    {
+      "title": "Evan Hughes Comedy Showcase",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-07-23",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/26843-evan-hughes-comedy-showcase-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949084789497",
+      "dateAdded": "2026-07-21"
     },
     {
       "title": "SOLD OUT feeble little horse",
@@ -369,6 +369,20 @@
       "dateAdded": "2026-04-21"
     },
     {
+      "title": "Jim Bauchmann",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-07-25",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949084806800",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949084806187",
+      "dateAdded": "2026-07-21"
+    },
+    {
       "title": "DWLLRS: One of Those Nights Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -409,22 +423,6 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-06"
-    },
-    {
-      "title": "Jackson Tillman",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-07-25",
-      "time": "7:00 PM",
-      "price": "$18 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38261",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/3c0699b16019735fce5a8edce04222b6.jpeg",
-      "dateAdded": "2026-04-12"
     },
     {
       "title": "SKY RUN ROGER",
@@ -1565,11 +1563,11 @@
       "date": "2026-08-14",
       "time": null,
       "price": "$12–$15",
-      "description": "Riott Rockette, Labadie House, Prom Mom",
+      "description": "Riott Rockette, The Removers, Prom Mom",
       "eventUrl": "http://www.prekindle.com/event/67956-riott-rockette-release-show-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099348334",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949084650033",
       "dateAdded": "2026-07-16"
     },
     {
@@ -2515,7 +2513,7 @@
       "dateAdded": "2026-06-19"
     },
     {
-      "title": "Matt Moran & the Palomino's",
+      "title": "Matt Moran & the Palomino's with special guest Emily Woodhull",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-08-29",
@@ -2526,7 +2524,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949091398492",
-      "dateAdded": "2026-07-16"
+      "dateAdded": "2026-07-21"
     },
     {
       "title": "PawPaw Rod: Picture Day Tour",
@@ -2569,6 +2567,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-17"
+    },
+    {
+      "title": "Jackson Tillman",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-29",
+      "time": "7:00 PM",
+      "price": "$18 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38261",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/3c0699b16019735fce5a8edce04222b6.jpeg",
+      "dateAdded": "2026-07-21"
     },
     {
       "title": "SKY RUN ROGER",
@@ -2919,11 +2933,11 @@
       "date": "2026-09-09",
       "time": "8:00 PM",
       "price": null,
-      "description": "DCF Concerts Presents\nWHEN THE SUN SETS\nw/ Special Guest Gold Steps\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nDoors: 7p // Show: 8p",
+      "description": "DCF Concerts Presents\nWHEN THE SUN SETS\nw/ Special Guest Gold Steps, daychaser. & Dreamsickle\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nDoors: 7p // Show: 8p",
       "eventUrl": "https://www.etix.com/ticket/p/92912251/when-the-sun-sets-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_b2f4b87db501486992ebfb9559ee3372~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/779716_52b2e3b5005e4894828a070c361290cd~mv2.jpg",
       "dateAdded": "2026-07-12"
     },
     {
@@ -3017,7 +3031,7 @@
       "date": "2026-09-10",
       "time": "8:00 PM",
       "price": "$23.47",
-      "description": "Fox N’ Vead, Jaxon Malone Band",
+      "description": "Fox N’ Vead, Jaxon Malone Band, Emily Hollingshed",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/fox-n-vead-10-sep",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -3681,7 +3695,7 @@
       "dateAdded": "2026-07-12"
     },
     {
-      "title": "VOID | Phantom",
+      "title": "VOID | Phantom | Blind Oath",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-09-22",
@@ -3692,7 +3706,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107004479",
-      "dateAdded": "2026-07-16"
+      "dateAdded": "2026-07-21"
     },
     {
       "title": "Silly Goose – The “Set It Off” Tour",
@@ -3821,20 +3835,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461830808",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Elefante",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-09-24",
-      "time": "8 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/92657760/elefante-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2025/12/elefante.jfif",
-      "dateAdded": "2026-03-18"
     },
     {
       "title": "JMSN",
@@ -4005,6 +4005,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136986832",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "DANCE… 4 U: SLAYYYTER x CHARLI XCX NIGHT",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-26",
+      "time": null,
+      "price": "$15",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/11891-dance-4-u-slayyyter-x-charli-xcx-night-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949084610565",
+      "dateAdded": "2026-07-21"
     },
     {
       "title": "Artemas - LOVERCORE  /  GETTING UP TO NO GOOD Tour",
@@ -4287,6 +4301,20 @@
       "dateAdded": "2026-05-27"
     },
     {
+      "title": "CRIMEWAVE: A GOTH, POST-PUNK & DARKWAVE PARTY",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-03",
+      "time": null,
+      "price": "$15",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/54444-crimewave-a-goth-post-punk-and-darkwave-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949084622006",
+      "dateAdded": "2026-07-21"
+    },
+    {
       "title": "Lincoln Swanzy",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4465,7 +4493,7 @@
       "date": "2026-10-08",
       "time": null,
       "price": "$15",
-      "description": "Girl In A Coma",
+      "description": "Girl In A Coma, Kennedy Fine",
       "eventUrl": "http://www.prekindle.com/event/42296-girl-in-a-coma-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4847,7 +4875,7 @@
       "date": "2026-10-16",
       "time": null,
       "price": "$15",
-      "description": "The Phantom A.D.",
+      "description": "The Phantom A.D., Filth Hounds",
       "eventUrl": "http://www.prekindle.com/event/69685-the-phantom-ad-oklahoma-city",
       "ageLimit": null,
       "tags": [],
