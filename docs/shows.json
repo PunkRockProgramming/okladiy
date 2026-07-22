@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-07-21T19:10:21.280Z",
+  "lastUpdated": "2026-07-22T08:37:14.729Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Norma Jean and Upon A Burning Body - Southern Domination",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-07-21",
-      "time": "7:00 PM",
-      "price": "$44",
-      "description": "Upon a Burning Body, Norma Jean, Fox Lake, Zero Signal",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/upon-a-burning-body-norma-jean-21-jul",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f2139cc2182b41646acd0c_FB_BANNER_copy.jpeg",
-      "dateAdded": "2026-04-29"
-    },
-    {
-      "title": "Anxious Arms",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-21",
-      "time": null,
-      "price": "$12",
-      "description": "And In the Darkness I Was Free, Anxious Arms, Weepcar, Honduh Daze, SIFR",
-      "eventUrl": "http://www.prekindle.com/event/96311-anxious-arms-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121988544",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "TUESDAY TRIVIA",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-07-21",
-      "time": "7:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949116977686",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949116977669",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "Being As An Ocean",
       "venue": "89th Street OKC",
@@ -78,7 +36,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-22",
       "time": "7:00 PM",
-      "price": "$23",
+      "price": "$25",
       "description": "Dying Wish, Guilt Trip, Contention",
       "eventUrl": "http://www.prekindle.com/event/24658-dying-wish-oklahoma-city",
       "ageLimit": null,
@@ -525,7 +483,7 @@
       "eventUrl": "http://www.prekindle.com/event/41448-toyotuh-tuesday-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949087843677",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949083314134",
       "dateAdded": "2026-07-17"
     },
     {
@@ -1761,6 +1719,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Dr. G & The Tall Man",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-16",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/46597751/drg-the-tall-man-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-22"
+    },
+    {
       "title": "Surely Tempo",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2918,7 +2890,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-08",
       "time": null,
-      "price": "$35–$167",
+      "price": "$26–$167",
       "description": "Peaches",
       "eventUrl": "http://www.prekindle.com/event/68425-peaches-no-lube-so-rude-tour-oklahoma-city",
       "ageLimit": null,
@@ -2933,11 +2905,11 @@
       "date": "2026-09-09",
       "time": "8:00 PM",
       "price": null,
-      "description": "DCF Concerts Presents\nWHEN THE SUN SETS\nw/ Special Guest Gold Steps\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nDoors: 7p // Show: 8p",
+      "description": "DCF Concerts Presents\nWHEN THE SUN SETS\nw/ Special Guest Gold Steps, daychaser. & Dreamsickle\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nDoors: 7p // Show: 8p",
       "eventUrl": "https://www.etix.com/ticket/p/92912251/when-the-sun-sets-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_b2f4b87db501486992ebfb9559ee3372~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/779716_52b2e3b5005e4894828a070c361290cd~mv2.jpg",
       "dateAdded": "2026-07-12"
     },
     {
@@ -5789,6 +5761,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111607582",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "North By North | Zapruder Film School | Renell Mae",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-11-13",
+      "time": null,
+      "price": "$10",
+      "description": "North By North",
+      "eventUrl": "http://www.prekindle.com/event/55637-north-by-north-zapruder-film-school-renell-mae-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949083363698",
+      "dateAdded": "2026-07-22"
     },
     {
       "title": "Switchfoot with special guest Anberlin - Forever Now Tour",
