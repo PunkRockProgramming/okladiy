@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T08:37:14.729Z",
+  "lastUpdated": "2026-07-22T18:53:59.957Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -207,7 +207,7 @@
       "date": "2026-07-24",
       "time": null,
       "price": "$15",
-      "description": "Lord Buffalo",
+      "description": "Lord Buffalo, World Peace Death Ray",
       "eventUrl": "http://www.prekindle.com/event/76173-lord-buffalo-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -327,7 +327,7 @@
       "dateAdded": "2026-04-21"
     },
     {
-      "title": "Jim Bauchmann",
+      "title": "Jim Bachmann",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-07-25",
@@ -337,8 +337,8 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949084806800",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949084806187",
-      "dateAdded": "2026-07-21"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949082992739",
+      "dateAdded": "2026-07-22"
     },
     {
       "title": "DWLLRS: One of Those Nights Tour",
@@ -365,7 +365,7 @@
       "eventUrl": "http://www.prekindle.com/event/26285-idiot-mile-release-show-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949114834398",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949082480623",
       "dateAdded": "2026-07-16"
     },
     {
@@ -704,7 +704,7 @@
       "time": "7:00 PM",
       "price": "$20 adv / $25 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38505",
+      "eventUrl": "https://www.tulsashrine.com",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -1000,26 +1000,12 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-05",
       "time": "8:00 PM",
-      "price": "$15–$75",
+      "price": "$4–$75",
       "description": "Luke Borchelt",
       "eventUrl": "http://www.prekindle.com/event/92468-luke-borchelt-the-water-town-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949130404250",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Rome Streetz - \"Sock It To My Pocket Tour\"",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-08-05",
-      "time": null,
-      "price": "$25–$85",
-      "description": "Rome Streetz, Fergie Baby, $ha Hef",
-      "eventUrl": "http://www.prekindle.com/event/58278-rome-streetz-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949138796524",
       "dateAdded": "2026-07-16"
     },
     {
@@ -1727,7 +1713,7 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/46597751/drg-the-tall-man-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
+      "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-07-22"
@@ -2811,6 +2797,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172896814",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Punchis Punchis: Banda Rave Experience",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-09-05",
+      "time": "9 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/45680038/punchis-punchisbanda-rave-experience-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "21+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-22"
     },
     {
       "title": "Wayne Gottstine of Split Lip Rayfield",
@@ -4345,6 +4345,20 @@
       "dateAdded": "2026-06-26"
     },
     {
+      "title": "Rome Streetz - \"Sock It To My Pocket Tour\"",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-06",
+      "time": null,
+      "price": "$25–$85",
+      "description": "Rome Streetz, Fergie Baby, $ha Hef",
+      "eventUrl": "http://www.prekindle.com/event/58278-rome-streetz-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949138796524",
+      "dateAdded": "2026-07-22"
+    },
+    {
       "title": "Suki Waterhouse: The Loveland Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4465,7 +4479,7 @@
       "date": "2026-10-08",
       "time": null,
       "price": "$15",
-      "description": "Girl In A Coma, Kennedy Fine",
+      "description": "Girl In A Coma, DIVA, Kennedy Fine",
       "eventUrl": "http://www.prekindle.com/event/42296-girl-in-a-coma-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4620,7 +4634,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-11",
       "time": null,
-      "price": "$156",
+      "price": "$30–$156",
       "description": "Demon Hunter, Wolves At the Gate, Bloodlines",
       "eventUrl": "http://www.prekindle.com/event/85444-demon-hunter-storm-the-gates-of-hell-20th-anniversary-tour-oklahoma-city",
       "ageLimit": null,
@@ -5430,7 +5444,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-01",
       "time": null,
-      "price": "$30",
+      "price": "$30–$237",
       "description": "Ryan Bingham and the Texas Gentlemen",
       "eventUrl": "http://www.prekindle.com/event/68385-ryan-bingham-oklahoma-city",
       "ageLimit": null,
