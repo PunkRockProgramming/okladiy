@@ -1,77 +1,7 @@
 {
-  "lastUpdated": "2026-07-22T18:53:59.957Z",
+  "lastUpdated": "2026-07-23T08:39:18.119Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Being As An Ocean",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-07-22",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "BEING AS AN OCEAN\nOnly Light Fills the Frame Tour\nwith special guest Upon Your Dead Body, lowheaven, & Dreamsickle\n\nGeneral Admission Standing / All Ages Welcome",
-      "eventUrl": "https://www.etix.com/ticket/p/76015897/being-as-an-ocean-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_08191b9e0f294e8da010dfefc5afe8b6~mv2.jpg",
-      "dateAdded": "2026-07-12"
-    },
-    {
-      "title": "Rabbitt & the Roses | Odie & I | Kind Coyote",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-07-22",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/58959-rabbitt-and-the-roses-odie-and-i-kind-coyote-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085609760",
-      "dateAdded": "2026-07-20"
-    },
-    {
-      "title": "Dying Wish",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-07-22",
-      "time": "7:00 PM",
-      "price": "$25",
-      "description": "Dying Wish, Guilt Trip, Contention",
-      "eventUrl": "http://www.prekindle.com/event/24658-dying-wish-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161446653",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Nether Hour",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-22",
-      "time": null,
-      "price": "$18",
-      "description": "Nether Hour, Vaneza Saint Luz, Beau Turrentine",
-      "eventUrl": "http://www.prekindle.com/event/15468-nether-hour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949130288386",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "#WASTEDHOURS ft. CLINT NIOSI  /  /  WARREN JACKSON HEARNE",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-07-22",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949132146729",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107238818",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "In The Company Of Serpents",
       "venue": "89th Street OKC",
@@ -501,7 +431,7 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "SLUMBERING SUN (ATX melodic doom)  /  /  SCISSORTAIL",
+      "title": "SLUMBERING SUN (ATX melodic doom)  /  /  MEDICINE HORSE  /  /  SCISSORTAIL",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-07-28",
@@ -512,7 +442,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107232579",
-      "dateAdded": "2026-07-16"
+      "dateAdded": "2026-07-23"
     },
     {
       "title": "Matt Fraser",
@@ -713,7 +643,7 @@
       "dateAdded": "2026-05-15"
     },
     {
-      "title": "THE ROCKETZ (LA rockabilly)  /  /  THE RIO GRAND TRIO  /  /  THE HIGH GAIN DRIFTERS",
+      "title": "THE ROCKETZ (LA rockabilly)  /  /  THE RIO GRAND TRIO  /  /  HIGH GAIN DRIFTERS",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-07-31",
@@ -724,7 +654,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107224034",
-      "dateAdded": "2026-07-16"
+      "dateAdded": "2026-07-23"
     },
     {
       "title": "Rock & Roll Camp for Girls Showcase",
@@ -851,6 +781,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-27"
+    },
+    {
+      "title": "Agalisiga Mackey",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-01",
+      "time": "7:00 PM",
+      "price": "$7 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39121",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39121-4b4642df2e40784369206b3f19209c3b.jpeg",
+      "dateAdded": "2026-07-23"
     },
     {
       "title": "INTERNATIONAL CLOWN DAY ft. MR. SPLITFOOT  /  /  THE SILLY GOOSES  /  /  DIRTY REGGAE PUNX  /  /  AND MORE",
@@ -1009,7 +955,7 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "CAIRO JAG (Indianapolis psych-punk)",
+      "title": "CAIRO JAG (Indianapolis psych-punk)  /  /  THE REMOVERS",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-08-05",
@@ -1020,7 +966,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949112919845",
-      "dateAdded": "2026-07-16"
+      "dateAdded": "2026-07-23"
     },
     {
       "title": "The Mavericks & Friends",
@@ -1677,6 +1623,20 @@
       "dateAdded": "2026-07-12"
     },
     {
+      "title": "BANGBANG QUEERPUNK VARIETY SHOW",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-08-15",
+      "time": "9:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112883291",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949081881923",
+      "dateAdded": "2026-07-23"
+    },
+    {
       "title": "Chris Travis - The Prefix Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1961,7 +1921,7 @@
       "dateAdded": "2026-07-17"
     },
     {
-      "title": "HOPELESS OTIS (NYC punk)",
+      "title": "HOPELESS OTIS (NYC punk)  /  /  CUTTHROAT BASTARDS",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-08-21",
@@ -1972,7 +1932,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111867538",
-      "dateAdded": "2026-07-16"
+      "dateAdded": "2026-07-23"
     },
     {
       "title": "Loe Shimmy - Pretty Girls Run the World Tour",
@@ -4147,6 +4107,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "The Final Encore – A Mayo Family Tribute",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-10-01",
+      "time": "5 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.eventcreate.com/e/mayofinalencore",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-23"
+    },
+    {
       "title": "BRIT FLOYD – The Moon, The Wall, and Beyond",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4173,6 +4147,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100865978",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Solya",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-10-02",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "w/Special Guest Tele Novella\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nYour previously purchased tickets for the original date are STILL VALID. You do not need to take any further action to attend the new date.",
+      "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_daa9ff43f92b4e8bafb43d1ebb438e5f~mv2.jpg",
+      "dateAdded": "2026-07-23"
     },
     {
       "title": "CANNONS - THE EVERYTHING GLOWS TOUR",
@@ -4245,6 +4233,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "The Final Encore – A Mayo Family Tribute",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-10-02",
+      "time": "5:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.eventcreate.com/e/mayofinalencore",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-23"
+    },
+    {
       "title": "Straight Tequila Night: '90s Country Tribute",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4285,6 +4287,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949084622006",
       "dateAdded": "2026-07-21"
+    },
+    {
+      "title": "The Final Encore – A Mayo Family Tribute",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-10-03",
+      "time": "2:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.eventcreate.com/e/mayofinalencore",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-23"
     },
     {
       "title": "Lincoln Swanzy",
@@ -5099,6 +5115,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Prof",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-10-22",
+      "time": null,
+      "price": "$15",
+      "description": "Prof, Norman Sann, Khantrast, Willie Wonka",
+      "eventUrl": "http://www.prekindle.com/event/17555-prof-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085074086",
+      "dateAdded": "2026-07-23"
+    },
+    {
       "title": "Mom Jeans",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -5181,6 +5211,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-03-24"
+    },
+    {
+      "title": "Rittz",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-24",
+      "time": "6:30 PM",
+      "price": "$25 to $35 ADV   $30 to $40 DAY OF",
+      "description": null,
+      "eventUrl": "https://www.tulsashrine.com",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39120-366e9f06d2f81ba58345de1a6ef2889f.jpg",
+      "dateAdded": "2026-07-23"
     },
     {
       "title": "DEAD DON’T DIE (Des Moines horror punk)",
