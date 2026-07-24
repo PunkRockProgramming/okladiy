@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T08:35:16.832Z",
+  "lastUpdated": "2026-07-24T19:08:48.796Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -35,7 +35,7 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-07-24",
-      "time": "8:00 PM",
+      "time": "9:00 PM",
       "price": "$15",
       "description": "A Mixtape Catastrophe",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/this-ain-t-a-scene-18-mtv2-tribute-24-jul",
@@ -841,6 +841,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Failure to Cope, Semester Abroad, Vandalia, Piehole",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-03",
+      "time": null,
+      "price": "$10",
+      "description": "Failure To Cope, Semester Abroad, Vandalia, Piehole",
+      "eventUrl": "http://www.prekindle.com/event/88997-failure-to-cope-semester-abroad-piehole-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949079096779",
+      "dateAdded": "2026-07-24"
+    },
+    {
       "title": "Driveways",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1121,6 +1135,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100423546",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Vanguard Boiler Club presents RAVE ON MAIN (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-08-08",
+      "time": "9:00 PM",
+      "price": "$15",
+      "description": "Dj Katnip, Dj Kylie, Dj Faye",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/vanguard-boiler-club-presents-rave-on-main-18-08-aug",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a63acd8519420f815103fbf_RaveOnMain_Aug2026_Vanguard_2x1.jpeg",
+      "dateAdded": "2026-07-24"
     },
     {
       "title": "Dark Water Project",
@@ -1440,7 +1468,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-15",
       "time": null,
-      "price": "$15–$40",
+      "price": "$8–$40",
       "description": "My So Called Band",
       "eventUrl": "http://www.prekindle.com/event/47695-my-so-called-band-oklahoma-city",
       "ageLimit": null,
@@ -1905,6 +1933,20 @@
       "dateAdded": "2026-07-18"
     },
     {
+      "title": "Bloombox",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-22",
+      "time": null,
+      "price": "$10",
+      "description": "Flash Jordan, Y!KES, Cieratonin, Twiinception",
+      "eventUrl": "http://www.prekindle.com/event/26744-bloombox-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949080601221",
+      "dateAdded": "2026-07-24"
+    },
+    {
       "title": "Braxton Keith",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -2117,6 +2159,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Maisy Owen | Jordan Day | Amber Watson",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-26",
+      "time": null,
+      "price": "$10",
+      "description": "Maisy Owen",
+      "eventUrl": "http://www.prekindle.com/event/91458-maisy-owen-jordan-day-amber-watson-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949079441454",
+      "dateAdded": "2026-07-24"
+    },
+    {
       "title": "Drivin N Cryin",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -2229,6 +2285,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949143068041",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "The Burnt CDs - 00's tribute",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-08-28",
+      "time": "9:00 PM",
+      "price": "$15",
+      "description": "The Burnt CDs",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-burnt-cds-00-s-tribute-28-aug",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a620ba6175dd9d6117662fb_Vanguard_8.28_TBCD_FB_%25281300_x_600_px%2529.jpeg",
+      "dateAdded": "2026-07-24"
     },
     {
       "title": "Kimmi Bitter",
@@ -2599,6 +2669,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111116451",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Boston Busler EP Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-04",
+      "time": null,
+      "price": "$12",
+      "description": "Boston Busler, Wet Muscles, Spencer Christian",
+      "eventUrl": "http://www.prekindle.com/event/93531-boston-busler-ep-release-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949079315582",
+      "dateAdded": "2026-07-24"
     },
     {
       "title": "Waylon Wyatt",
@@ -3139,6 +3223,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/american-aquarium.jfif",
       "dateAdded": "2026-06-12"
+    },
+    {
+      "title": "Davvn",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-09-13",
+      "time": null,
+      "price": "$17",
+      "description": "Davvn",
+      "eventUrl": "http://www.prekindle.com/event/29342-davvn-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949079450752",
+      "dateAdded": "2026-07-24"
     },
     {
       "title": "Me Like Bees",
@@ -4217,6 +4315,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "It Kills You | Apples of Eden | Soul Freq",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-03",
+      "time": null,
+      "price": "$10",
+      "description": "It kills you",
+      "eventUrl": "http://www.prekindle.com/event/14264-it-kills-you-apples-of-eden-soul-freq-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949079295627",
+      "dateAdded": "2026-07-24"
+    },
+    {
       "title": "The Bobby Lees",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4606,7 +4718,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-11",
       "time": null,
-      "price": "$156",
+      "price": "$30–$156",
       "description": "Demon Hunter, Wolves At the Gate, Bloodlines",
       "eventUrl": "http://www.prekindle.com/event/85444-demon-hunter-storm-the-gates-of-hell-20th-anniversary-tour-oklahoma-city",
       "ageLimit": null,
@@ -4783,6 +4895,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096496478",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Belmont",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-15",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Belmont, Super Sometimes, Public Works",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/belmont-super-sometimes-15-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a5ee56a316c827d2e37cf36_IMG_1871.jpeg",
+      "dateAdded": "2026-07-24"
     },
     {
       "title": "Nicholas Jamerson x The Droptines",
@@ -5176,7 +5302,7 @@
       "time": "6:30 PM",
       "price": "$25 to $35 ADV   $30 to $40 DAY OF",
       "description": null,
-      "eventUrl": "https://www.tulsashrine.com",
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39120",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -5446,7 +5572,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-01",
       "time": null,
-      "price": "$140–$237",
+      "price": "$30–$237",
       "description": "Ryan Bingham and the Texas Gentlemen",
       "eventUrl": "http://www.prekindle.com/event/68385-ryan-bingham-oklahoma-city",
       "ageLimit": null,
