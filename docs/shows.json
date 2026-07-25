@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T08:15:43.733Z",
+  "lastUpdated": "2026-07-25T18:46:25.939Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -4221,13 +4221,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-03",
-      "time": "8:00 PM",
-      "price": "$28",
-      "description": "The Bobby Lees",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-bobby-lees-03-oct",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a10c62ccf458eec7712a512_bobby_lees.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-05-27"
     },
     {
