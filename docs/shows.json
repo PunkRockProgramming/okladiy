@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-07-26T08:34:32.608Z",
+  "lastUpdated": "2026-07-26T18:52:11.007Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "NASCAR ALOE + JASIAH: Capital Punishment Tour",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-07-25",
-      "time": "7:30 PM",
-      "price": null,
-      "description": "w/ Special Guests rejectedreyna\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/88187092/nascar-aloe-jasiah-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_a280479a22c1496093fefaff58c76cba~mv2.jpg",
-      "dateAdded": "2026-07-12"
-    },
-    {
-      "title": "Tulsa Swim Meet Vol. 3!",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-07-25",
-      "time": "5:30 PM",
-      "price": null,
-      "description": "A Live Recording Event featuring performances by Earl Hazard, Earslips, Hey Judy, Nature & Madness, Rubyland, and Skink! At Chimera Ballroom downtown Tulsa.Doors 5:30pm Music 6pmEvent is Free and All Ages!",
-      "eventUrl": "https://www.noisetowntulsa.com/events/tulsa-swim-meet-vol-3",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1782923263502-I1OG9MF9YAMDH4CTO8HE/FMAC+-+Swim+Meet+Poster+2026.jpg",
-      "dateAdded": "2026-07-01"
-    },
     {
       "title": "54 Ultra",
       "venue": "Beer City Music Hall",
@@ -1401,7 +1373,7 @@
       "date": "2026-08-18",
       "time": null,
       "price": "$18",
-      "description": "Surely Tempo",
+      "description": "Surely Tempo, The Sweet Talkers",
       "eventUrl": "http://www.prekindle.com/event/43637-surely-tempo-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4301,6 +4273,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38982-4c226fa084ecfc27942b45fe2830a03c.png",
       "dateAdded": "2026-07-02"
+    },
+    {
+      "title": "Wind Walkers - SOLD OUT!**",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-10-08",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "WIND WALKERS\nThe \"I Don't Belong Here\" Tour\nwith Special Guests If Not For Me and True North\nDoors @ 6:30P / Show @ 7:30P\nTHIS EVENT IS SOLD OUT!\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/62199542/wind-walkers-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_958039bcf4874157aa7b2d649daed09d~mv2.jpg",
+      "dateAdded": "2026-07-26"
     },
     {
       "title": "Ward Davis",
