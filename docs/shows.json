@@ -1,51 +1,7 @@
 {
-  "lastUpdated": "2026-07-26T18:52:11.007Z",
+  "lastUpdated": "2026-07-27T10:02:06.554Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "54 Ultra",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-07-26",
-      "time": "8:00 PM",
-      "price": "$30–$75",
-      "description": "54 Ultra, Orca",
-      "eventUrl": "http://www.prekindle.com/event/84775-54-ultra-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949095335689",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Blowupdoll with Bugjuice Blues, Double Violets, Black Magnolia, China Blue",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-26",
-      "time": null,
-      "price": "$15",
-      "description": "Blowupdoll, Bugjuice Blues, Double Violets, Black Magnolia, China Blue",
-      "eventUrl": "http://www.prekindle.com/event/86331-blowupdoll-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146290466",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "The Ex-faces (Ex Members Of Mushroomhead Playing Their Hits)",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-07-26",
-      "time": "6:00 PM",
-      "price": "$25 adv / $30 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37795",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37795-a3378052ac5ea21ed7b70e1b53de0a20.jpg",
-      "dateAdded": "2026-03-18"
-    },
     {
       "title": "SOME HEARTS // BADZY (NOLA)",
       "venue": "Soundpony",
@@ -535,13 +491,13 @@
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-08-02",
-      "time": "8:00 PM",
+      "time": "8:30 PM",
       "price": null,
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949164825017",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949164820923",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949077492925",
       "dateAdded": "2026-07-16"
     },
     {
@@ -1365,6 +1321,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-07-22"
+    },
+    {
+      "title": "Holy Wave",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-17",
+      "time": null,
+      "price": "$18",
+      "description": "Holy Wave",
+      "eventUrl": "http://www.prekindle.com/event/26198-holy-wave-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949077486879",
+      "dateAdded": "2026-07-27"
     },
     {
       "title": "Surely Tempo",
@@ -4097,7 +4067,7 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/56499362/my-so-called-band-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
+      "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-07-26"
@@ -4471,6 +4441,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-19"
+    },
+    {
+      "title": "Rolling and the 80\"s Wave",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-10",
+      "time": "7:00 PM",
+      "price": "$8 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39175",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39175-c85e5115197adcab8e33d41ec31d0da4.png",
+      "dateAdded": "2026-07-27"
     },
     {
       "title": "Demon Hunter - Storm the Gates of Hell 20th Anniversary Tour",
@@ -6077,6 +6063,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38394-cb30b0ce5d547505a4213cd127881022.jpeg",
       "dateAdded": "2026-05-03"
+    },
+    {
+      "title": "Magoo",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-12-30",
+      "time": "7:00 PM",
+      "price": "$20 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39174",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39174-11f93e497bdf2301d09cc54fd3209b75.jpeg",
+      "dateAdded": "2026-07-27"
     },
     {
       "title": "Dad Rock Night",
