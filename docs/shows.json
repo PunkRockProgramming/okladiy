@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T10:02:06.554Z",
+  "lastUpdated": "2026-07-27T19:07:25.423Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -45,6 +45,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949157518603",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Oklahoma Music Academy Summer Jam",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-07-28",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/31451889/oklahoma-music-academy-summer-jam-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-27"
     },
     {
       "title": "SLUMBERING SUN (ATX melodic doom)  /  /  MEDICINE HORSE  /  /  SCISSORTAIL",
@@ -825,7 +839,7 @@
       "dateAdded": "2026-07-24"
     },
     {
-      "title": "Dark Water Project",
+      "title": "Dark Water Project with special guest Colin Babb",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-08-08",
@@ -836,7 +850,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949098018704",
-      "dateAdded": "2026-07-16"
+      "dateAdded": "2026-07-27"
     },
     {
       "title": "Jabee - Black Future 10 Year Anniversary",
@@ -1179,6 +1193,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Live All Ages Music feat: Hypnosis, Modern View, Vandalia, STONESET",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-08-15",
+      "time": "7:30 PM",
+      "price": "$10",
+      "description": "Live Music from Hypnosis, Modern View, Vandalia, and STONESET.Saturday August 15thDoors 7:30pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-all-ages-music-feat-hypnosis-modern-view-vandalia-stoneset",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1785176443772-KA7R5M2NB7C2RO2N74NU/Vandalia+Flyer.jpg",
+      "dateAdded": "2026-07-27"
+    },
+    {
       "title": "Noah Bowman",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1463,6 +1491,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141410941",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Girls Rock! Camp Fundraiser!",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-08-21",
+      "time": "8:00 PM",
+      "price": "$10",
+      "description": "Girls Rock! Camp Fundraiser featuring performances from China Blue, EZ4U2SEY, & Horse!Doors 8pm Suggested Donation $10All funds will go the Girls Rock Camp Tulsa for next year’s camp!",
+      "eventUrl": "https://www.noisetowntulsa.com/events/girls-rock-camp-fundraiser",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1785176610804-MJMH2GM1EXC65I8KD44R/Girls+Rock+Flyer+V2.png",
+      "dateAdded": "2026-07-27"
     },
     {
       "title": "Cole Phillips",
@@ -2443,6 +2485,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085457122",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Tulsa Experimental Showcase!",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-09-05",
+      "time": "6:00 PM",
+      "price": "$10",
+      "description": "Tulsa Experimental Music Showcase featuring performances by:Angel, Safe Word, Open Casket Sound System, Gabraxas Compendium, Unicornhunted, Stalking, Tick-Suck, The Black Star Experience.Doors 6pm Sounds 7pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/tulsa-experimental-showxcase",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1785178649035-3WSEACI2MQMF3EDRGMHU/Safeword+Flyer.jpg",
+      "dateAdded": "2026-07-27"
     },
     {
       "title": "Danielle Nicole",
@@ -4587,6 +4643,20 @@
       "dateAdded": "2026-05-20"
     },
     {
+      "title": "Left Lane Cruiser | RedWitch Johnny",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-13",
+      "time": null,
+      "price": "$15",
+      "description": "Left Lane Cruiser",
+      "eventUrl": "http://www.prekindle.com/event/94739-left-lane-cruiser-redwitch-johnny-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949076808248",
+      "dateAdded": "2026-07-27"
+    },
+    {
       "title": "Leonid & Friends",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4697,6 +4767,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648476045156",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Desperate Electric | The Suzzies | Donny Vinn",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-16",
+      "time": null,
+      "price": "$10",
+      "description": "Desperate electric",
+      "eventUrl": "http://www.prekindle.com/event/92671-desperate-electric-the-suzzies-donny-vinn-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949076826570",
+      "dateAdded": "2026-07-27"
     },
     {
       "title": "Elizabeth Nichols - I Don't Kiss & Tell, I Kiss & Tour",
@@ -5749,6 +5833,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949117591640",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Signs of the Swarm",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-18",
+      "time": "7:00 PM",
+      "price": "$28",
+      "description": "Signs of the Swarm",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/signs-of-the-swarm-18-nov",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a6771487c39bd737dd17a7a_Signs_of_the_Swarm_Promo_by_Alberto_Villalobos_1_%25281%2529.jpeg",
+      "dateAdded": "2026-07-27"
     },
     {
       "title": "Mojo Brookzz: Outta Pocket Tour",
