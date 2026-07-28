@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T08:44:43.741Z",
+  "lastUpdated": "2026-07-28T19:02:45.379Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -2067,7 +2067,7 @@
       "date": "2026-08-28",
       "time": "9:00 PM",
       "price": "$15",
-      "description": "The Burnt CDs",
+      "description": "The Burnt CDs, Outkast, Kesha, Justin Timberlake, T Pain, Ludacris, Panic! at the Disco, Avril Lavigne",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-burnt-cds-00-s-tribute-28-aug",
       "ageLimit": null,
       "tags": [],
@@ -3837,6 +3837,20 @@
       "dateAdded": "2026-05-19"
     },
     {
+      "title": "Kidd G",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-27",
+      "time": null,
+      "price": "$146",
+      "description": "Kidd G, Carv, Grey Oakes",
+      "eventUrl": "http://www.prekindle.com/event/36318-kidd-g-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949077089481",
+      "dateAdded": "2026-07-28"
+    },
+    {
       "title": "Bluegrass Brunch with Johnny Mullenax",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -4808,7 +4822,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-15",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$34",
       "description": "Belmont, Super Sometimes, Public Works",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/belmont-super-sometimes-15-oct",
       "ageLimit": "ALL AGES",
@@ -5478,7 +5492,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-11-01",
       "time": null,
-      "price": "$27–$75",
+      "price": "$23–$75",
       "description": "PJ Morton",
       "eventUrl": "http://www.prekindle.com/event/97535-pj-morton-saturday-night-sunday-morning-tour-oklahoma-city",
       "ageLimit": null,
@@ -5811,6 +5825,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Hayes Carll",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-11-12",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/83288689/hayes-carll-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-28"
+    },
+    {
       "title": "On Cinema - The Certified “Five Bags of Popcorn” Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -6037,6 +6065,20 @@
       "dateAdded": "2026-03-19"
     },
     {
+      "title": "Silverstein & Story Of The Year: CAMP SCREAMO TOUR",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-25",
+      "time": null,
+      "price": "$30–$80",
+      "description": "Silverstein, Story of the Year, Stand Atlantic, Footballhead",
+      "eventUrl": "http://www.prekindle.com/event/89197-silverstein-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949075900475",
+      "dateAdded": "2026-07-28"
+    },
+    {
       "title": "Black Friday: Steely Dan Experience",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -6079,6 +6121,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136578575",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Kendall Street Company: Yodeling Astroman Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-12-02",
+      "time": null,
+      "price": "$25",
+      "description": "Kendall Street Company",
+      "eventUrl": "http://www.prekindle.com/event/92561-kendall-street-company-yodeling-astroman-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949078955476",
+      "dateAdded": "2026-07-28"
     },
     {
       "title": "Vienna Light Orchestra Christmas Tour 2026",
@@ -6235,6 +6291,22 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a43ef0f89181ff01a994b12_Yheti_b2b_Toadface_Untz_Photo_%25281%2529.jpeg",
       "dateAdded": "2026-06-30"
+    },
+    {
+      "title": "Zingo",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-12-19",
+      "time": "7:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39208",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39208-d0dd19924b176ae62af5e7e66bf3c8c0.jpeg",
+      "dateAdded": "2026-07-28"
     },
     {
       "title": "Max Goen",
