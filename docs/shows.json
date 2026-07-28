@@ -1,23 +1,7 @@
 {
-  "lastUpdated": "2026-07-27T19:07:25.423Z",
+  "lastUpdated": "2026-07-28T08:44:43.741Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "SOME HEARTS // BADZY (NOLA)",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-07-27",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/7/27/some-hearts-badzy-nola",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-07-12"
-    },
     {
       "title": "Toyotuh Tuesday",
       "venue": "The Whittier Bar",
@@ -529,6 +513,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Poetry for Thee: Open Mic Poetry Swap",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-08-03",
+      "time": "5:30 PM",
+      "price": null,
+      "description": "Open Mic Poetry Swap hosted by Alf. Free to attend and participate. You can just listen to the poetry, you do not have to read!Early Sign up Time 5:30pm Reading 6pm.",
+      "eventUrl": "https://www.noisetowntulsa.com/events/658w3x7haypxggrf7zt85aa7fjtr9s",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1785181093265-DHL2Y9Z0L5ZCCGTD6KVY/Poetry+August.png",
+      "dateAdded": "2026-07-28"
+    },
+    {
       "title": "Failure to Cope, Semester Abroad, Vandalia, Piehole",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -865,6 +863,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151670276",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Shadowcasters",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-08",
+      "time": "7:00 PM",
+      "price": "$7 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39190",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39190-575b288b4febc3e6a8c118c991bc8e5e.jpeg",
+      "dateAdded": "2026-07-28"
     },
     {
       "title": "ANALOG DAYDREAM (Alabama ska)  /  /  LEFT HAND HOTDOG  /  /  THE BIG NEWS",
@@ -1477,6 +1491,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-22"
+    },
+    {
+      "title": "Phil Hamilton",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-20",
+      "time": "7:00 PM",
+      "price": "$10 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39191",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39191-cea362e5959cf87195b4e33c4133536d.jpeg",
+      "dateAdded": "2026-07-28"
     },
     {
       "title": "Soft Hands: Purple Faith",
@@ -2371,6 +2401,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109419410",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Grandmaster",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-02",
+      "time": null,
+      "price": "$15",
+      "description": "Grandmaster",
+      "eventUrl": "http://www.prekindle.com/event/42329-grandmaster-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949076239784",
+      "dateAdded": "2026-07-28"
     },
     {
       "title": "IV AND THE STRANGE BAND with CLOWNVIS",
@@ -3403,11 +3447,11 @@
       "date": "2026-09-21",
       "time": null,
       "price": "$17",
-      "description": "Pearl & the Oysters",
+      "description": "Pearl & the Oysters, Burl",
       "eventUrl": "http://www.prekindle.com/event/56192-pearl-and-the-oysters-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949120427453",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949076222157",
       "dateAdded": "2026-07-16"
     },
     {
@@ -4059,6 +4103,22 @@
       "dateAdded": "2026-07-23"
     },
     {
+      "title": "Rock Anthem",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-02",
+      "time": "7:00 PM",
+      "price": "$10",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39189",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39189-ad3c29d95b5ba6b4c6b875843a71cde1.jpeg",
+      "dateAdded": "2026-07-28"
+    },
+    {
       "title": "Straight Tequila Night: '90s Country Tribute",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4071,6 +4131,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136345476",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "The LefTobers",
+      "venue": "Diamond Ballroom",
+      "venueUrl": "https://www.diamondballroom.com",
+      "date": "2026-10-03",
+      "time": "8 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/81144414/the-leftobers-oklahoma-city-diamond-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/the-leftobers.jfif",
+      "dateAdded": "2026-07-28"
     },
     {
       "title": "It Kills You | Apples of Eden | Soul Freq",
@@ -4641,6 +4715,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-20"
+    },
+    {
+      "title": "Halloween Tour GreatDaeg, BankBoi Money",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-12",
+      "time": "7:00 PM",
+      "price": "$12 ADV   $15 DOOR",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39188",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39188-847f4a7ac8eb56d535011e9aba059690.jpg",
+      "dateAdded": "2026-07-28"
     },
     {
       "title": "Left Lane Cruiser | RedWitch Johnny",
@@ -5273,7 +5363,7 @@
       "date": "2026-10-29",
       "time": null,
       "price": "$20",
-      "description": "REZN, Bliss",
+      "description": "REZN, Lowheaven, Bliss",
       "eventUrl": "http://www.prekindle.com/event/77497-rezn-oklahoma-city",
       "ageLimit": null,
       "tags": [],
