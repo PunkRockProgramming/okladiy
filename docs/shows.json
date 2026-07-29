@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T08:49:25.543Z",
+  "lastUpdated": "2026-07-29T18:50:01.319Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -525,20 +525,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_81b46e6aaf334101a045a1c119125a11~mv2.jpg",
       "dateAdded": "2026-07-12"
-    },
-    {
-      "title": "Luke Borchelt  /  The Water Town Tour",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-08-05",
-      "time": "8:00 PM",
-      "price": "$4–$75",
-      "description": "Luke Borchelt",
-      "eventUrl": "http://www.prekindle.com/event/92468-luke-borchelt-the-water-town-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949130404250",
-      "dateAdded": "2026-07-16"
     },
     {
       "title": "CAIRO JAG (Indianapolis psych-punk)  /  /  THE REMOVERS",
@@ -1428,7 +1414,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-08-20",
       "time": null,
-      "price": "$15–$50",
+      "price": "$10–$50",
       "description": "Jayson Arendt",
       "eventUrl": "http://www.prekindle.com/event/67359-jayson-arendt-oklahoma-city",
       "ageLimit": null,
@@ -2305,12 +2291,26 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "holdmebackformyownsafety EP Release",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-30",
+      "time": null,
+      "price": "$10",
+      "description": "holdmebackformyownsafety, Pelt, Sebby Ellison",
+      "eventUrl": "http://www.prekindle.com/event/82797-holdmebackformyownsafety-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949074535071",
+      "dateAdded": "2026-07-29"
+    },
+    {
       "title": "Hazlett",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-01",
       "time": "8:00 PM",
-      "price": "$34",
+      "price": "$34 to $53",
       "description": "Hazlett",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/hazlett-01-sep",
       "ageLimit": "ALL AGES",
@@ -2643,6 +2643,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131925838",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "The Glorious Sons",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-08",
+      "time": "8:00 PM",
+      "price": "$20",
+      "description": "The Glorious Sons",
+      "eventUrl": "http://www.prekindle.com/event/87122-the-glorious-sons-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949078959634",
+      "dateAdded": "2026-07-29"
     },
     {
       "title": "When The Sun Sets",
@@ -3517,7 +3531,7 @@
       "date": "2026-09-23",
       "time": "8:00 PM",
       "price": "$20–$75",
-      "description": "Kylie Morgan",
+      "description": "Kylie Morgan, Harper Grace",
       "eventUrl": "http://www.prekindle.com/event/48795-kylie-morgan-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3828,7 +3842,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-27",
       "time": null,
-      "price": "$146",
+      "price": "$25–$146",
       "description": "Kidd G, Carv, Grey Oakes",
       "eventUrl": "http://www.prekindle.com/event/36318-kidd-g-oklahoma-city",
       "ageLimit": null,
@@ -4531,6 +4545,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "United We Dance: Festival Energy. All Night. (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-10",
+      "time": "9:00 PM",
+      "price": "$24",
+      "description": "United We Dance",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/united-we-dance-festival-energy-all-night-18-10-oct",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a62256c5eb88d690eb09d5f_UWD_TSA_10.10.26_HOR.jpeg",
+      "dateAdded": "2026-07-29"
+    },
+    {
       "title": "Greywind",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -5015,6 +5043,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156371061",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Blaze Ya Dead Homie & ABK",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-20",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Blaze Ya Dead Homie, ABK, Bake Lo",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/blaze-ya-dead-homie-abk-20-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a6a212db5f78d0cff4205e7_Blaze---Dead-Serious-Tour-16x9_local.jpeg",
+      "dateAdded": "2026-07-29"
     },
     {
       "title": "Medium Build Presents The King of Having Fun on Tour",
@@ -5526,20 +5568,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949127328890",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "The War And Treaty",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-11-04",
-      "time": null,
-      "price": "$25–$50",
-      "description": "The War and Treaty",
-      "eventUrl": "http://www.prekindle.com/event/55285-the-war-and-treaty-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949135558136",
       "dateAdded": "2026-07-16"
     },
     {
@@ -6100,7 +6128,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-12-02",
       "time": null,
-      "price": "$25",
+      "price": "$20",
       "description": "Kendall Street Company",
       "eventUrl": "http://www.prekindle.com/event/92561-kendall-street-company-yodeling-astroman-tour-oklahoma-city",
       "ageLimit": null,
@@ -6311,6 +6339,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39174-11f93e497bdf2301d09cc54fd3209b75.jpeg",
       "dateAdded": "2026-07-27"
+    },
+    {
+      "title": "Logan Ryan Band",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-01-22",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/68730686/logan-ryan-band-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-29"
     },
     {
       "title": "Dad Rock Night",
