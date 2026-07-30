@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T08:37:26.162Z",
+  "lastUpdated": "2026-07-30T19:06:58.160Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -36,7 +36,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-07-30",
       "time": null,
-      "price": "$15–$18",
+      "price": "$18",
       "description": "First Day Back, gapyear",
       "eventUrl": "http://www.prekindle.com/event/88739-first-day-back-oklahoma-city",
       "ageLimit": null,
@@ -197,7 +197,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/90970277/battle-for-kattfest-night-3-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/battle-for-kattfest-night-3.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/battle-for-kattfest-night-3.jpeg",
       "dateAdded": "2026-06-21"
     },
     {
@@ -415,18 +415,18 @@
       "dateAdded": "2026-07-28"
     },
     {
-      "title": "Failure to Cope, Semester Abroad, Vandalia, Piehole",
+      "title": "Failure to Cope, Semester Abroad, Vandalia",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-08-03",
       "time": null,
       "price": "$10",
-      "description": "Failure To Cope, Semester Abroad, Vandalia, Piehole",
+      "description": "Failure To Cope, Semester Abroad, Vandalia",
       "eventUrl": "http://www.prekindle.com/event/88997-failure-to-cope-semester-abroad-piehole-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949079096779",
-      "dateAdded": "2026-07-24"
+      "dateAdded": "2026-07-30"
     },
     {
       "title": "Driveways",
@@ -440,20 +440,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648455255444",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "TRIVIA TUESDAY",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-08-04",
-      "time": "7:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112922021",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949112922004",
       "dateAdded": "2026-07-16"
     },
     {
@@ -553,7 +539,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/67480661/chasinu-the-morgan-wallen-experience-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/03/chasin-u-the-morgan-wallen-experience.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/chasin-u-the-morgan-wallen-experience.jpeg",
       "dateAdded": "2026-03-24"
     },
     {
@@ -589,13 +575,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-07",
-      "time": "9:30 PM",
-      "price": "$28 to $59",
-      "description": "Tom Kenny & The Hi-Seas",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/tom-kenny-and-the-hi-seas-07-aug",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a4ae57930a41748fa177f43_tkhs-band-2025-b.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-07-06"
     },
     {
@@ -701,13 +687,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-08",
-      "time": "9:00 PM",
-      "price": "$15",
-      "description": "Dj Katnip, Dj Kylie, Dj Faye",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/vanguard-boiler-club-presents-rave-on-main-18-08-aug",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a63acd8519420f815103fbf_RaveOnMain_Aug2026_Vanguard_2x1.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-07-24"
     },
     {
@@ -825,6 +811,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Horse Bitch | Carl Carbonell | The Ugly Cowboys",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-10",
+      "time": null,
+      "price": "$10",
+      "description": "Horse Bitch",
+      "eventUrl": "http://www.prekindle.com/event/24637-horse-bitch-carl-carbonell-the-ugly-cowboys-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073431271",
+      "dateAdded": "2026-07-30"
+    },
+    {
       "title": "The Marvelous Miss Gender starring BOSCO",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -865,6 +865,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156048839",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "TRIVIA TUESDAY",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-08-11",
+      "time": "7:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112922021",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949112922004",
+      "dateAdded": "2026-07-30"
     },
     {
       "title": "Hulvey – “Could Be Tonight” Tour",
@@ -909,18 +923,18 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "CLOVERS CURFEW (NY folk punk)  /  /  BRAIN ROT",
+      "title": "CLOVERS CURFEW (NY anti-folk)  /  /  BRAIN ROT  /  /  CHRIS ALAN COX",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-08-13",
-      "time": "9:00 PM",
+      "time": "8:30 PM",
       "price": null,
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112890061",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949112885653",
-      "dateAdded": "2026-07-16"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073257660",
+      "dateAdded": "2026-07-30"
     },
     {
       "title": "NINE VICIOUS – A TOUR",
@@ -1063,7 +1077,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/32861807/battle-for-kattfest-finals-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/battle-for-kattfest-finals.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/battle-for-kattfest-finals.jpeg",
       "dateAdded": "2026-06-21"
     },
     {
@@ -1293,6 +1307,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111872616",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "The BOMB Pulse | Fat Dracula | Moon",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-19",
+      "time": null,
+      "price": "$10",
+      "description": "The BOMB Pulse",
+      "eventUrl": "http://www.prekindle.com/event/16752-the-bomb-pulse-fat-dracula-moon-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073434306",
+      "dateAdded": "2026-07-30"
     },
     {
       "title": "Jesse & Joy - El Despecho Tour",
@@ -1585,13 +1613,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-22",
-      "time": "8:00 PM",
-      "price": "$22",
-      "description": "Brother Rabbit, Fiawna Forté, Sun Vow",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/brother-rabbit-album-release-22-aug",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a5a7bc0fa2f60ea77e2aad0__F1A7378.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-07-18"
     },
     {
@@ -1733,7 +1761,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/70424191/devildriver-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/04/devildriver.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/devildriver.jpeg",
       "dateAdded": "2026-04-16"
     },
     {
@@ -1953,13 +1981,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-28",
-      "time": "9:00 PM",
-      "price": "$15",
-      "description": "The Burnt CDs, Outkast, Kesha, Justin Timberlake, T Pain, Ludacris, Panic! at the Disco, Avril Lavigne",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-burnt-cds-00-s-tribute-28-aug",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a620ba6175dd9d6117662fb_Vanguard_8.28_TBCD_FB_%25281300_x_600_px%2529.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-07-24"
     },
     {
@@ -2087,7 +2115,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/82756193/kolby-cooper-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/kolby-cooper.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/kolby-cooper.jpeg",
       "dateAdded": "2026-06-30"
     },
     {
@@ -2095,13 +2123,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-29",
-      "time": "8:00 PM",
-      "price": "$22",
-      "description": "Dead Metal Society",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/dead-metal-society-29-aug",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a358d049693215c5b1d31dc_679693880_1247497944261671_7412441391530546935_n.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-06-19"
     },
     {
@@ -2197,13 +2225,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-30",
-      "time": "7:00 PM",
-      "price": "$32",
-      "description": "The Browning, Deadlands, The Crimson Armada, Blind Equation",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-browning-burn-this-world-evolved-usa-v2-30-aug",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f3919f54dad1f78b0812e3_The_Browning_NEW_Band_Photo.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-05-12"
     },
     {
@@ -2451,13 +2479,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-05",
-      "time": "8:00 PM",
-      "price": "$41",
-      "description": "Danielle Nicole, Seth Lee Jones",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/danielle-nicole-05-sep",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69e66045bc0d7ccfb6c1154d_9_5_26_png-8.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-04-27"
     },
     {
@@ -2635,13 +2663,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-09",
-      "time": "7:00 PM",
-      "price": "$31",
-      "description": "Archers, Autumn Kings, pinknoise, Coldstate, Zero Signal",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/archers-09-sep",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a26da1fcec5c3876666a021_Archers_2026_Press_Photo.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-06-10"
     },
     {
@@ -2777,13 +2805,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-11",
-      "time": "9:00 PM",
-      "price": "$22",
-      "description": "Hairitage",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/hairitage-18-11-sep",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a18af2fcbb52fb8b4503659_DSC03223-Enhanced-NR.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-06-03"
     },
     {
@@ -2953,7 +2981,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/54557125/american-aquarium-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/american-aquarium.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/american-aquarium.jpeg",
       "dateAdded": "2026-06-12"
     },
     {
@@ -3019,13 +3047,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-14",
-      "time": "7:00 PM",
-      "price": "$44",
-      "description": "Hail the Sun, A Lot Like Birds, Blight Town, murals",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/hail-the-sun-a-lot-like-birds-14-sep",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a3ac4f57d3ab230ac10b3c6_HTS-2025Promos-AlexBemis-04280_1_.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-06-24"
     },
     {
@@ -3459,13 +3487,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-23",
-      "time": "7:30 PM",
-      "price": "$31",
-      "description": "The Expendables, Chad Tepper, Matt & Zack",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-expendables-23-sep",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69fe1a1865c2230d18068b58_expendables_promo.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-05-12"
     },
     {
@@ -4001,7 +4029,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/76223072/jackyl-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/jackyl.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/jackyl.jpeg",
       "dateAdded": "2026-07-20"
     },
     {
@@ -4101,7 +4129,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/81144414/the-leftobers-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/the-leftobers.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/the-leftobers.jpeg",
       "dateAdded": "2026-07-28"
     },
     {
@@ -4223,13 +4251,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-06",
-      "time": "8:00 PM",
-      "price": "$28",
-      "description": "Fai Laci",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/fai-laci-06-oct",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a3da86ba00160cb0c61dfb3_Fai_Laci_Pic_%25281%2529.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-06-26"
     },
     {
@@ -4429,7 +4457,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/35113340/igorrrnorth-american-tour-2026-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/05/igorrr-north-american-tour-2026.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/igorrr-north-american-tour-2026.jpeg",
       "dateAdded": "2026-05-21"
     },
     {
@@ -4657,7 +4685,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/55689710/sleeping-with-sirensan-ending-in-itself-tour-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/sleeping-with-sirens-an-ending-in-itself-tour.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/sleeping-with-sirens-an-ending-in-itself-tour.jpeg",
       "dateAdded": "2026-06-15"
     },
     {
@@ -4765,13 +4793,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-15",
-      "time": "8:00 PM",
-      "price": "$34",
-      "description": "Belmont, Super Sometimes, Public Works",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/belmont-super-sometimes-15-oct",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a5ee56a316c827d2e37cf36_IMG_1871.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-07-24"
     },
     {
@@ -4907,13 +4935,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-17",
-      "time": "8:00 PM",
-      "price": "$27",
-      "description": "Cody Hibbard",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/cody-hibbard-17-oct",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a1dd205ef8c356c0848f678_Cody_Hibbard_-_Promo_%2528Photo_Cred__Brooke_Stevens%2529.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-06-25"
     },
     {
@@ -5483,7 +5511,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/95692101/wage-war-emergency-broadcast-tour-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/wage-war-emergency-broadcast-tour.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/wage-war-emergency-broadcast-tour.jpeg",
       "dateAdded": "2026-06-10"
     },
     {
@@ -6105,7 +6133,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/66334766/catch-your-breath-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/catch-your-breath.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/catch-your-breath.jpeg",
       "dateAdded": "2026-05-27"
     },
     {
@@ -6191,7 +6219,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/71227974/whitechapel-20th-anniversary-tour-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/06/whitechapel-20th-anniversary-tour.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/whitechapel-20th-anniversary-tour.jpeg",
       "dateAdded": "2026-06-10"
     },
     {
@@ -6227,13 +6255,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-12-19",
-      "time": "9:00 PM",
-      "price": "$28",
-      "description": "Yheti, Toadface, Flintwick",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/yheti-toadface-19-dec",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a43ef0f89181ff01a994b12_Yheti_b2b_Toadface_Untz_Photo_%25281%2529.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-06-30"
     },
     {
@@ -6309,7 +6337,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/97085368/dad-rock-night-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/dad-rock-night.jfif",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/dad-rock-night.jpeg",
       "dateAdded": "2026-07-01"
     },
     {
