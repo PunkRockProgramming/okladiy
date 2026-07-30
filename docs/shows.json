@@ -1,63 +1,7 @@
 {
-  "lastUpdated": "2026-07-29T18:50:01.319Z",
+  "lastUpdated": "2026-07-30T08:37:26.162Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Matt Fraser",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-07-29",
-      "time": null,
-      "price": "$30–$65",
-      "description": "Matt Fraser",
-      "eventUrl": "http://www.prekindle.com/event/89253-matt-fraser-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648489048633",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Saidan | Thrä | Barbelith | Cra",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-07-29",
-      "time": null,
-      "price": "$15",
-      "description": "Saidan",
-      "eventUrl": "http://www.prekindle.com/event/92783-saidan-thr-barbelith-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121821317",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Brokencyde, WhoKilledXIX, and Oni Inc",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-29",
-      "time": null,
-      "price": "$15",
-      "description": "brokeNCYDE, Whokilledxix, Oni Inc., Vitamjn",
-      "eventUrl": "http://www.prekindle.com/event/41938-brokencyde-whokilledxix-and-oni-inc-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121850835",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "#WASTEDHOURS ft. THEMBI JOY",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-07-29",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949132146200",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107231587",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "Penta | l.a.z.i.e. | Tristan Wright | Josie Winett",
       "venue": "The Whittier Bar",
@@ -78,7 +22,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-07-30",
       "time": "8:00 PM",
-      "price": "$22–$75",
+      "price": "$25–$75",
       "description": "Uncle Lucius, Keyland",
       "eventUrl": "http://www.prekindle.com/event/21699-uncle-lucius-the-20th-anniversary-tour-oklahoma-city",
       "ageLimit": null,
@@ -92,7 +36,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-07-30",
       "time": null,
-      "price": "$15",
+      "price": "$15–$18",
       "description": "First Day Back, gapyear",
       "eventUrl": "http://www.prekindle.com/event/88739-first-day-back-oklahoma-city",
       "ageLimit": null,
@@ -537,7 +481,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112921071",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949112919845",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949074013261",
       "dateAdded": "2026-07-23"
     },
     {
@@ -546,7 +490,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-06",
       "time": null,
-      "price": "$43–$105",
+      "price": "$21–$105",
       "description": "The Mavericks & Friends",
       "eventUrl": "http://www.prekindle.com/event/24567-the-mavericks-and-friends-oklahoma-city",
       "ageLimit": null,
@@ -721,7 +665,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112918501",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949112911614",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073986055",
       "dateAdded": "2026-07-16"
     },
     {
@@ -821,7 +765,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112907972",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949112896087",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073943725",
       "dateAdded": "2026-07-16"
     },
     {
@@ -6349,7 +6293,7 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/68730686/logan-ryan-band-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
+      "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-07-29"
