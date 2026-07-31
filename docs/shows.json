@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T08:58:05.015Z",
+  "lastUpdated": "2026-07-31T19:03:44.701Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -761,7 +761,7 @@
       "date": "2026-08-10",
       "time": null,
       "price": "$32–$57",
-      "description": "honestav",
+      "description": "honestav, Untitled",
       "eventUrl": "http://www.prekindle.com/event/38898-honestav-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1431,7 +1431,7 @@
       "date": "2026-08-21",
       "time": "8:00 PM",
       "price": "$20–$75",
-      "description": "Com Truise, Shapeshifter",
+      "description": "Com Truise, Softaware",
       "eventUrl": "http://www.prekindle.com/event/86944-com-truise-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1875,6 +1875,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141649155",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Virginia Creeper w /  Charlotte Bumgarner, Powdr, Douglas",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-27",
+      "time": null,
+      "price": "$12",
+      "description": "Virginia Creeper, Charlotte Bumgarner, Powdr, Douglas",
+      "eventUrl": "http://www.prekindle.com/event/94871-virginia-creeper-with-charlotte-bumgarner-powdr-douglas-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949071495418",
+      "dateAdded": "2026-07-31"
     },
     {
       "title": "Charles Wesley Godwin - The Christian Name Tour",
@@ -3029,6 +3043,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Judiciary",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-16",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "JUDICIARY\n\nDoors @ 6PM / Show @ 7PM \nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/93729997/judiciary-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_3952362e6b634870ac85e41fd85ee545~mv2.jpg",
+      "dateAdded": "2026-07-31"
+    },
+    {
       "title": "Castle | Medicine Horse | Glorach",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -3153,6 +3181,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949123754031",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Goodfella & When The Clock Strikes",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-18",
+      "time": "8:00 PM",
+      "price": "$15",
+      "description": "Goodfella, When The Clock Strikes, Lilac Kings, babies on a halfpipe",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/goodfella-when-the-clock-strikes-18-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a6c2e2f1a41d684c347cb39_756132797_1024687566844551_8493362297300846088_n.jpeg",
+      "dateAdded": "2026-07-31"
     },
     {
       "title": "Coat with Likewise and Attic Society",
@@ -3461,7 +3503,7 @@
       "date": "2026-09-23",
       "time": null,
       "price": "$20",
-      "description": "SWMRS",
+      "description": "SWMRS, The Happy Return",
       "eventUrl": "http://www.prekindle.com/event/58931-swmrs-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3758,7 +3800,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-27",
       "time": null,
-      "price": "$146",
+      "price": "$25–$146",
       "description": "Kidd G, Carv, Grey Oakes",
       "eventUrl": "http://www.prekindle.com/event/36318-kidd-g-oklahoma-city",
       "ageLimit": null,
@@ -3933,20 +3975,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100865978",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Solya",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-02",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "w/Special Guest Tele Novella\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nYour previously purchased tickets for the original date are STILL VALID. You do not need to take any further action to attend the new date.",
-      "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_daa9ff43f92b4e8bafb43d1ebb438e5f~mv2.jpg",
-      "dateAdded": "2026-07-23"
     },
     {
       "title": "CANNONS - THE EVERYTHING GLOWS TOUR",
@@ -4966,7 +4994,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-20",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$34",
       "description": "Blaze Ya Dead Homie, ABK, Bake Lo",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/blaze-ya-dead-homie-abk-20-oct",
       "ageLimit": "ALL AGES",
@@ -5401,6 +5429,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38482-480d9016673d47339c95af8f61260686.jpeg",
       "dateAdded": "2026-05-10"
+    },
+    {
+      "title": "Bingo Loco",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-31",
+      "time": null,
+      "price": "$27–$43",
+      "description": "Bingo Loco",
+      "eventUrl": "http://www.prekindle.com/event/61915-bingo-loco-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949074796745",
+      "dateAdded": "2026-07-31"
     },
     {
       "title": "The Red Stripes",
@@ -6000,7 +6042,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-25",
       "time": null,
-      "price": "$30",
+      "price": "$30–$80",
       "description": "Silverstein, Story of the Year, Stand Atlantic, Footballhead",
       "eventUrl": "http://www.prekindle.com/event/89197-silverstein-oklahoma-city",
       "ageLimit": null,
@@ -6269,6 +6311,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39174-11f93e497bdf2301d09cc54fd3209b75.jpeg",
       "dateAdded": "2026-07-27"
+    },
+    {
+      "title": "Wyatt Flores",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-12-31",
+      "time": "8 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/61652772/wyatt-flores-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-07-31"
     },
     {
       "title": "Logan Ryan Band",
