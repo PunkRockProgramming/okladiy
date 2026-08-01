@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-08-01T08:28:54.534Z",
+  "lastUpdated": "2026-08-01T18:49:25.088Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "ALL YOUR FRIENDS - The Indie Sleaze Dance Party",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-07-31",
-      "time": "7:30 PM",
-      "price": null,
-      "description": "All Your Friends is the indie sleaze dance party remixing all your favorite 2010s indie hits from Passion Pit, Grouplove, and LCD Soundsystem and more!  Join the modern underground where bloghouse, post-punk revival, and internet-era club music collide.",
-      "eventUrl": "https://www.etix.com/ticket/p/75248832/all-your-friends-oklahoma-city-89th-street",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_e41594dba1394ff0bb5c4bc8a9b1e9b0~mv2.jpg",
-      "dateAdded": "2026-07-12"
-    },
     {
       "title": "Rock & Roll Camp for Girls Showcase",
       "venue": "Tower Theatre",
@@ -201,6 +187,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-02",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148073893",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148073876",
+      "dateAdded": "2026-08-01"
+    },
+    {
       "title": "Antediluvia EP Release Show",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -285,6 +285,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949079096779",
       "dateAdded": "2026-07-30"
+    },
+    {
+      "title": "Sister Paul | The Ramone",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-04",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/29232-sister-paul-the-ramone-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070402192",
+      "dateAdded": "2026-08-01"
     },
     {
       "title": "Driveways",
@@ -971,13 +985,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-15",
-      "time": "8:00 PM",
-      "price": "$22",
-      "description": "Noah Bowman, Mac Hankins and the Moonlighters",
+      "time": null,
+      "price": null,
+      "description": null,
       "eventUrl": "https://www.thevanguardtulsa.com/shows/noah-bowman-15-aug",
-      "ageLimit": "ALL AGES",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a396438942ece6d1297a4b7_noah.jpeg",
+      "imageUrl": null,
       "dateAdded": "2026-06-22"
     },
     {
@@ -1465,6 +1479,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949071075109",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "ForEachLoop | KIKCHIK | Peyton Aston",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-22",
+      "time": null,
+      "price": "$10",
+      "description": "Foreachloop",
+      "eventUrl": "http://www.prekindle.com/event/43158-foreachloop-kikchik-peyton-aston-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070382927",
+      "dateAdded": "2026-08-01"
     },
     {
       "title": "Brother Rabbit Album Release",
@@ -3893,6 +3921,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Solya",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-10-02",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "w/Special Guest Tele Novella\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nYour previously purchased tickets for the original date are STILL VALID. You do not need to take any further action to attend the new date.",
+      "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_daa9ff43f92b4e8bafb43d1ebb438e5f~mv2.jpg",
+      "dateAdded": "2026-08-01"
+    },
+    {
       "title": "CANNONS - THE EVERYTHING GLOWS TOUR",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4403,6 +4445,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949110586977",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Billy Bonney | Odie & I | Unlikely Roll",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-10",
+      "time": null,
+      "price": "$10",
+      "description": "Billy Bonney",
+      "eventUrl": "http://www.prekindle.com/event/35438-billy-bonney-odie-and-i-unlikely-roll-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070381636",
+      "dateAdded": "2026-08-01"
     },
     {
       "title": "United We Dance: Festival Energy. All Night. (18+)",
@@ -5825,6 +5881,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131573449",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "AJJ",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-16",
+      "time": null,
+      "price": "$30",
+      "description": "AJJ, Greet Death",
+      "eventUrl": "http://www.prekindle.com/event/54131-ajj-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949072423118",
+      "dateAdded": "2026-08-01"
     },
     {
       "title": "Bitch Cabal feat. Mannequin Pussy & Wednesday",
