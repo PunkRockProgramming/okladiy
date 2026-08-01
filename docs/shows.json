@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T19:03:44.701Z",
+  "lastUpdated": "2026-08-01T08:28:54.534Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,106 +15,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_e41594dba1394ff0bb5c4bc8a9b1e9b0~mv2.jpg",
       "dateAdded": "2026-07-12"
-    },
-    {
-      "title": "Bingo Loco",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-07-31",
-      "time": null,
-      "price": "$27–$43",
-      "description": "Bingo Loco",
-      "eventUrl": "http://www.prekindle.com/event/27632-bingo-loco-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949155276677",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "UNDEROATH: THE VAN TOUR TO VANS WARPED TOUR",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-07-31",
-      "time": "8:00 PM",
-      "price": "$41",
-      "description": "Underoath, Held.",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/underoath-the-van-tour-to-vans-warped-tour-31-jul",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69f4d2b4c6d07d2a23fa8f07_UO_V2V_Tour_One_Horizontal.jpeg",
-      "dateAdded": "2026-05-06"
-    },
-    {
-      "title": "Annabelle Dinda",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-07-31",
-      "time": "8:00 PM",
-      "price": "$29–$75",
-      "description": "Annabelle Dinda",
-      "eventUrl": "http://www.prekindle.com/event/83125-annabelle-dinda-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949127196858",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Colliding EP Release Show",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-07-31",
-      "time": null,
-      "price": "$12",
-      "description": "Colliding, Powdr, Photocopy",
-      "eventUrl": "http://www.prekindle.com/event/76757-colliding-ep-release-show-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141093853",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "The Floozies",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-07-31",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/64600368/the-floozies-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-10"
-    },
-    {
-      "title": "Haydon Wiginton & Faith Schueler",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-07-31",
-      "time": "7:00 PM",
-      "price": "$20 adv / $25 door",
-      "description": null,
-      "eventUrl": "https://www.tulsashrine.com",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38505-5f32b6ea064ad6acd30de0474368c643.jpeg",
-      "dateAdded": "2026-05-15"
-    },
-    {
-      "title": "THE ROCKETZ (LA rockabilly)  /  /  THE RIO GRAND TRIO  /  /  HIGH GAIN DRIFTERS",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-07-31",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112962236",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107224034",
-      "dateAdded": "2026-07-23"
     },
     {
       "title": "Rock & Roll Camp for Girls Showcase",
@@ -136,7 +36,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-01",
       "time": null,
-      "price": "$11–$40",
+      "price": "$20–$40",
       "description": "Journey of A Lifetime, Deja Blues",
       "eventUrl": "http://www.prekindle.com/event/95711-journey-of-a-lifetime-oklahoma-city",
       "ageLimit": null,
@@ -178,7 +78,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-01",
       "time": "9:00 PM",
-      "price": "$31",
+      "price": "$34",
       "description": "Straight Tequila Night",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/straight-tequila-night-a-tribute-to-90s-country-21-01-aug",
       "ageLimit": null,
@@ -206,7 +106,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-01",
       "time": "8:00 PM",
-      "price": "$13–$125",
+      "price": "$20–$125",
       "description": "Locust Grove, Nevermind the Embers, Taranis",
       "eventUrl": "http://www.prekindle.com/event/34321-locust-grove-oklahoma-city",
       "ageLimit": null,
@@ -1559,11 +1459,11 @@
       "date": "2026-08-22",
       "time": null,
       "price": "$27–$142",
-      "description": "LOE SHIMMY",
+      "description": "LOE SHIMMY, Lakeyah",
       "eventUrl": "http://www.prekindle.com/event/79496-loe-shimmy-pretty-girls-run-the-world-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949138760312",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949071075109",
       "dateAdded": "2026-07-16"
     },
     {
@@ -3383,6 +3283,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38222-c0fac9aedfc621129b72b5c266a79210.jpeg",
       "dateAdded": "2026-06-19"
+    },
+    {
+      "title": "THE REACHOUTS (MI) // TOASTER GHOULS (WI) // STALLONE COBRAS",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-09-20",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/20/the-reachouts-mi-toaster-ghouls-wi-stallone-cobras",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-08-01"
     },
     {
       "title": "Pearl & the Oysters",
