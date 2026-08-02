@@ -1,163 +1,7 @@
 {
-  "lastUpdated": "2026-08-01T18:49:25.088Z",
+  "lastUpdated": "2026-08-02T08:32:02.589Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Rock & Roll Camp for Girls Showcase",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-08-01",
-      "time": null,
-      "price": "$12",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/27494-rock-and-roll-camp-for-girls-showcase-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949115115891",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Journey of a Lifetime",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-08-01",
-      "time": null,
-      "price": "$20–$40",
-      "description": "Journey of A Lifetime, Deja Blues",
-      "eventUrl": "http://www.prekindle.com/event/95711-journey-of-a-lifetime-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156806569",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Battle for Kattfest Night #3",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-08-01",
-      "time": "5:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/90970277/battle-for-kattfest-night-3-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/battle-for-kattfest-night-3.jpeg",
-      "dateAdded": "2026-06-21"
-    },
-    {
-      "title": "Doubledrag | Sun Vow | Babies on a Halfpipe",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-08-01",
-      "time": null,
-      "price": "$10",
-      "description": "Doubledrag",
-      "eventUrl": "http://www.prekindle.com/event/17196-doubledrag-sun-vow-babies-on-a-halfpipe-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949123880927",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Straight Tequila Night ~ a Tribute to '90s Country (21+)",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-08-01",
-      "time": "9:00 PM",
-      "price": "$34",
-      "description": "Straight Tequila Night",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/straight-tequila-night-a-tribute-to-90s-country-21-01-aug",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bf08012b62d1897a35a0cb_STN_May26_Vanguard_2x1.jpeg",
-      "dateAdded": "2026-05-31"
-    },
-    {
-      "title": "Joey Frendo",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-08-01",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949099484781",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099484366",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Locust Grove",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-08-01",
-      "time": "8:00 PM",
-      "price": "$20–$125",
-      "description": "Locust Grove, Nevermind the Embers, Taranis",
-      "eventUrl": "http://www.prekindle.com/event/34321-locust-grove-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154884967",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "The Technicolors",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-08-01",
-      "time": null,
-      "price": "$20",
-      "description": "The Technicolors, Labrys",
-      "eventUrl": "http://www.prekindle.com/event/18547-the-technicolors-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949153318555",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "K·POP Superstars",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-01",
-      "time": "4 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/97440896/kpop-superstars-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-27"
-    },
-    {
-      "title": "Agalisiga Mackey",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-08-01",
-      "time": "7:00 PM",
-      "price": "$7 adv / $10 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39121",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39121-4b4642df2e40784369206b3f19209c3b.jpeg",
-      "dateAdded": "2026-07-23"
-    },
-    {
-      "title": "INTERNATIONAL CLOWN DAY ft. MR. SPLITFOOT  /  /  THE SILLY GOOSES  /  /  DIRTY REGGAE PUNX  /  /  AND MORE",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-08-01",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112954530",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949112930417",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "fallfiftyfeet",
       "venue": "89th Street OKC",
@@ -178,7 +22,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-02",
       "time": null,
-      "price": "$24–$68",
+      "price": "$35–$68",
       "description": "Killer Queen",
       "eventUrl": "http://www.prekindle.com/event/63954-killer-queen-a-tribute-to-queen-ft-patrick-myers-as-freddie-mercury-oklahoma-city",
       "ageLimit": null,
@@ -749,7 +593,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112922021",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949112922004",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070277307",
       "dateAdded": "2026-07-30"
     },
     {
@@ -985,13 +829,13 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-15",
-      "time": null,
-      "price": null,
-      "description": null,
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "Noah Bowman, Mac Hankins and the Moonlighters",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/noah-bowman-15-aug",
-      "ageLimit": null,
+      "ageLimit": "ALL AGES",
       "tags": [],
-      "imageUrl": null,
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a396438942ece6d1297a4b7_noah.jpeg",
       "dateAdded": "2026-06-22"
     },
     {
@@ -1463,7 +1307,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949111871367",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111867538",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070279543",
       "dateAdded": "2026-07-23"
     },
     {
@@ -1731,7 +1575,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949111858477",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111858459",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070277468",
       "dateAdded": "2026-07-16"
     },
     {
@@ -1963,7 +1807,7 @@
       "dateAdded": "2026-05-21"
     },
     {
-      "title": "MR. SOFISTICATION (Ada cold wave)  /  /  VERANDA BANDITS (OKC punk garage)",
+      "title": "MR. SOFISTICATION (Ada cold wave)  /  /  VERANDA BANDITS  /  /  KING WITCH MOTHER",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-08-28",
@@ -1973,8 +1817,8 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949111855088",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111852739",
-      "dateAdded": "2026-07-16"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070276852",
+      "dateAdded": "2026-08-02"
     },
     {
       "title": "House of Heavy",
@@ -3595,6 +3439,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949103482677",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Straight Tequila Night ~ a Tribute to '90s Country (21+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-25",
+      "time": "9:00 PM",
+      "price": "$31",
+      "description": "Straight Tequila Night",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/straight-tequila-night-a-tribute-to-90s-country-21-25-sep",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bf08012b62d1897a35a0cb_STN_May26_Vanguard_2x1.jpeg",
+      "dateAdded": "2026-08-02"
     },
     {
       "title": "Grungefest: Pearl Gem / Nervana",
