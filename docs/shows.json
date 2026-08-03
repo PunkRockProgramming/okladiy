@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T18:49:51.105Z",
+  "lastUpdated": "2026-08-03T09:57:05.425Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -17,84 +17,12 @@
       "dateAdded": "2026-07-12"
     },
     {
-      "title": "Killer Queen - A Tribute To Queen ft Patrick Myers as Freddie Mercury",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-08-02",
-      "time": null,
-      "price": "$35–$68",
-      "description": "Killer Queen",
-      "eventUrl": "http://www.prekindle.com/event/63954-killer-queen-a-tribute-to-queen-ft-patrick-myers-as-freddie-mercury-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182668358",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Bluegrass Brunch with Johnny Mullenax",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-08-02",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148073893",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148073876",
-      "dateAdded": "2026-08-01"
-    },
-    {
-      "title": "Antediluvia EP Release Show",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-08-02",
-      "time": null,
-      "price": "$10",
-      "description": "Antediluvia, Cryptidd",
-      "eventUrl": "http://www.prekindle.com/event/28939-antediluvia-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949094845152",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "One Way Truckin'",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-08-02",
-      "time": "4:00 PM",
-      "price": "$12 adv / $15 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39072",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39072-cb4d9a80c2088c3a5091335c78df51dd.jpeg",
-      "dateAdded": "2026-07-15"
-    },
-    {
-      "title": "BOOF (TX queerpunk)  /  /  FREE THE WITNESS (NJ punk)  /  /  LOW DOWN WEASEL",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-08-02",
-      "time": "8:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949164825017",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949077492925",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "Passion Pit - The Pretty Penny Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-03",
       "time": null,
-      "price": "$35–$70",
+      "price": "$38–$70",
       "description": "Passion Pit, Arden Jones",
       "eventUrl": "http://www.prekindle.com/event/35864-passion-pit-the-pretty-penny-tour-oklahoma-city",
       "ageLimit": null,
@@ -376,7 +304,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-08",
       "time": null,
-      "price": "$30–$143",
+      "price": "$30–$60",
       "description": "Little Stranger, Tropidelic, Jarv, Damn Skippy",
       "eventUrl": "http://www.prekindle.com/event/76728-little-stranger-oklahoma-city",
       "ageLimit": null,
@@ -2091,7 +2019,7 @@
       "dateAdded": "2026-07-28"
     },
     {
-      "title": "IV AND THE STRANGE BAND with CLOWNVIS",
+      "title": "IV AND THE STRANGE BAND with CLOWNVIS  /  /  BILLY IRWIN & THE TAMBITS",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-09-02",
@@ -2101,8 +2029,8 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949153889225",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949153886994",
-      "dateAdded": "2026-07-16"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949069784049",
+      "dateAdded": "2026-08-03"
     },
     {
       "title": "Shearling",
