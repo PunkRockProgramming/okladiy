@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T09:57:05.425Z",
+  "lastUpdated": "2026-08-03T19:15:05.549Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -550,20 +550,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949144916914",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Honky Tonk Circus",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-08-13",
-      "time": "8:00 PM",
-      "price": "$8–$75",
-      "description": "Honky Tonk Circus",
-      "eventUrl": "http://www.prekindle.com/event/13616-honky-tonk-circus-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949178467559",
       "dateAdded": "2026-07-16"
     },
     {
@@ -1413,7 +1399,7 @@
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
       "date": "2026-08-23",
-      "time": "7 PM",
+      "time": "6:30 PM",
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/70424191/devildriver-oklahoma-city-diamond-ballroom?partner_id=100",
@@ -1471,11 +1457,11 @@
       "date": "2026-08-25",
       "time": "8:00 PM",
       "price": "$20–$75",
-      "description": "Brenn!",
+      "description": "Brenn!, Tom Siletto",
       "eventUrl": "http://www.prekindle.com/event/96492-brenn-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949158699087",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949069028082",
       "dateAdded": "2026-07-16"
     },
     {
@@ -2571,6 +2557,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140224479",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "OAF EP Release",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-12",
+      "time": null,
+      "price": "$12",
+      "description": "OAF",
+      "eventUrl": "http://www.prekindle.com/event/85313-oaf-ep-release-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949068882729",
+      "dateAdded": "2026-08-03"
     },
     {
       "title": "Tig Notaro: Out of Nowhere",
@@ -5625,6 +5625,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Paige Fish on tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-11-14",
+      "time": "8:00 PM",
+      "price": "$101",
+      "description": "Paige Fish",
+      "eventUrl": "http://www.prekindle.com/event/88623-paige-fish-the-midnight-crisis-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949069223462",
+      "dateAdded": "2026-08-03"
+    },
+    {
       "title": "Gully Boys",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -5930,7 +5944,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-06",
       "time": null,
-      "price": "$33–$115",
+      "price": "$28–$115",
       "description": "Blue October",
       "eventUrl": "http://www.prekindle.com/event/79771-blue-october-oklahoma-city",
       "ageLimit": null,
