@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T08:47:54.686Z",
+  "lastUpdated": "2026-08-04T19:16:28.382Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -391,7 +391,7 @@
       "date": "2026-08-10",
       "time": null,
       "price": "$32–$57",
-      "description": "honestav, Untitled",
+      "description": "honestav, Miscellaneous Department",
       "eventUrl": "http://www.prekindle.com/event/38898-honestav-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1457,7 +1457,7 @@
       "date": "2026-08-26",
       "time": "8:00 PM",
       "price": "$34",
-      "description": "Drivin N Cryin",
+      "description": "Drivin N Cryin, BC & The Big Rig",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/drivin-n-cryin-26-aug",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -1725,7 +1725,7 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-29",
-      "time": "8:00 PM",
+      "time": "9:00 PM",
       "price": "$22",
       "description": "Dead Metal Society",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/dead-metal-society-29-aug",
@@ -2659,6 +2659,20 @@
       "dateAdded": "2026-06-24"
     },
     {
+      "title": "Grivo",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-14",
+      "time": null,
+      "price": "$15",
+      "description": "Grivo, Some Fear, Autumn Child",
+      "eventUrl": "http://www.prekindle.com/event/23484-grivo-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949068096725",
+      "dateAdded": "2026-08-04"
+    },
+    {
       "title": "Thousand Below",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2713,6 +2727,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140052713",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Vincent Neil Emerson",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-16",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Vincent Neil Emerson",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/vincent-neil-emerson-16-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a714427403b35c3953bbac8_Photo_2025-07-27__15_42_50.jpeg",
+      "dateAdded": "2026-08-04"
     },
     {
       "title": "Twin Temple",
@@ -2883,6 +2911,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38003-c1745f4821a211be53c4fda787e51ee2.png",
       "dateAdded": "2026-03-18"
+    },
+    {
+      "title": "Index Paradox",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-19",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "INDEX PARADOX\nwith Moon Rock Bandits & Kanbatsu\nDoors @ 7PM / Show @ 8PM\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/56547009/index-paradox-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_855879c86e7e47a4a08abd922cbb81ff~mv2.jpg",
+      "dateAdded": "2026-08-04"
     },
     {
       "title": "Soul Freq | Rabbitt and the Roses | Mellosplat",
@@ -3503,7 +3545,7 @@
       "date": "2026-09-27",
       "time": "8:00 PM",
       "price": "$19–$75",
-      "description": "Bayonne",
+      "description": "Bayonne, Bad Snacks",
       "eventUrl": "http://www.prekindle.com/event/31329-bayonne-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3663,20 +3705,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100865978",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Solya",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-02",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "w/Special Guest Tele Novella\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nYour previously purchased tickets for the original date are STILL VALID. You do not need to take any further action to attend the new date.",
-      "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_daa9ff43f92b4e8bafb43d1ebb438e5f~mv2.jpg",
-      "dateAdded": "2026-08-01"
     },
     {
       "title": "CANNONS - THE EVERYTHING GLOWS TOUR",
@@ -4791,6 +4819,20 @@
       "dateAdded": "2026-07-21"
     },
     {
+      "title": "Authority Zero - Apocalyptour 2026 with Special Guests Counterpunch",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-22",
+      "time": "8:00 PM",
+      "price": "$24",
+      "description": "Authority Zero, Counterpunch",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/authority-zero-apocalyptour-2026-with-special-guests-counterpunch-22-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a628b695bd64153ce2768a6_AuthorityZero-20240123-HA3A5775-JimLouvau.jpeg",
+      "dateAdded": "2026-08-04"
+    },
+    {
       "title": "Culture Wars",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -5639,20 +5681,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131573449",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "AJJ",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-11-16",
-      "time": null,
-      "price": "$30",
-      "description": "AJJ, Greet Death",
-      "eventUrl": "http://www.prekindle.com/event/54131-ajj-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949072423118",
-      "dateAdded": "2026-08-01"
     },
     {
       "title": "Bitch Cabal feat. Mannequin Pussy & Wednesday",
