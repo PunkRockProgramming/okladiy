@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T08:44:57.604Z",
+  "lastUpdated": "2026-08-05T19:09:50.445Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1013,6 +1013,20 @@
       "dateAdded": "2026-06-19"
     },
     {
+      "title": "A Tribute to Turnpike Troubadours on Strings by Lantern Light Quartet",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-21",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949075456918",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949066671982",
+      "dateAdded": "2026-08-05"
+    },
+    {
       "title": "Com Truise",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1181,6 +1195,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a5a7bc0fa2f60ea77e2aad0__F1A7378.jpeg",
       "dateAdded": "2026-07-18"
+    },
+    {
+      "title": "A Tribute to Turnpike Troubadours by Lantern Light Quartet",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-22",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949075448649",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949066672876",
+      "dateAdded": "2026-08-05"
     },
     {
       "title": "Bloombox",
@@ -1353,6 +1381,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Route 66 Family Movie Night: Cars",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-08-24",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/12214-route-66-family-movie-night-cars-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949066807395",
+      "dateAdded": "2026-08-05"
+    },
+    {
       "title": "ILUKA - The Wings Tour",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -1449,6 +1491,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949115530307",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Evan Felker & Charley Crockett",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-26",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/84511859/evan-felker-charley-crockett-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-08-05"
     },
     {
       "title": "#WASTEDHOURS ft. TORSO MAN",
@@ -2182,7 +2238,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-08",
       "time": null,
-      "price": "$26–$167",
+      "price": "$25–$167",
       "description": "Peaches",
       "eventUrl": "http://www.prekindle.com/event/68425-peaches-no-lube-so-rude-tour-oklahoma-city",
       "ageLimit": null,
@@ -2571,6 +2627,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949079450752",
       "dateAdded": "2026-07-24"
+    },
+    {
+      "title": "JD Simo",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-13",
+      "time": "8:00 PM",
+      "price": "$34",
+      "description": "JD Simo",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/jd-simo-13-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a723334a19cb763c3cdb34c_JD_Simo_%2528Doug_Hardesty%2529.jpeg",
+      "dateAdded": "2026-08-05"
     },
     {
       "title": "Me Like Bees",
@@ -3735,6 +3805,20 @@
       "dateAdded": "2026-07-19"
     },
     {
+      "title": "Silverada",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-02",
+      "time": "8:00 PM",
+      "price": "$18–$75",
+      "description": "Silverada",
+      "eventUrl": "http://www.prekindle.com/event/29328-silverada-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949069350591",
+      "dateAdded": "2026-08-05"
+    },
+    {
       "title": "The Bobby Lees",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -4705,6 +4789,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "Exitwounds & Nailed Shut",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-18",
+      "time": "7:00 PM",
+      "price": "$22",
+      "description": "Exitwounds, Nailed Shut, Taker, Spare None",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/exitwounds-nailed-shut-18-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a7361888faa662b792508fa_EW_PROMO.jpeg",
+      "dateAdded": "2026-08-05"
+    },
+    {
       "title": "Michigander",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -4995,7 +5093,7 @@
       "date": "2026-10-26",
       "time": "8:00 PM",
       "price": "$24–$105",
-      "description": "Almost Monday",
+      "description": "Almost Monday, Rec Hall",
       "eventUrl": "http://www.prekindle.com/event/42539-almost-monday-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -5315,6 +5413,34 @@
       "dateAdded": "2026-06-09"
     },
     {
+      "title": "trsh - Gone Fishin' Tour",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-05",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "trsh, Adjust the Sails, Dear Maryanne, Dear Cincinnati",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/trsh-05-nov",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a5e692e90ac054a9bc39c39_Alt_1.jpeg",
+      "dateAdded": "2026-08-05"
+    },
+    {
+      "title": "West Texas Exiles",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-11-05",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949068035476",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949068034438",
+      "dateAdded": "2026-08-05"
+    },
+    {
       "title": "DAMAG3",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -5616,7 +5742,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-14",
       "time": "8:00 PM",
-      "price": "$101",
+      "price": "$22–$101",
       "description": "Paige Fish",
       "eventUrl": "http://www.prekindle.com/event/88623-paige-fish-the-midnight-crisis-tour-oklahoma-city",
       "ageLimit": null,
@@ -5695,6 +5821,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a6771487c39bd737dd17a7a_Signs_of_the_Swarm_Promo_by_Alberto_Villalobos_1_%25281%2529.jpeg",
       "dateAdded": "2026-07-27"
+    },
+    {
+      "title": "Cat Clyde & Dean Johnson",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-19",
+      "time": null,
+      "price": "$28",
+      "description": "Cat Clyde, Dean Johnson",
+      "eventUrl": "http://www.prekindle.com/event/15543-cat-clyde-and-dean-johnson-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949068952174",
+      "dateAdded": "2026-08-05"
     },
     {
       "title": "Mojo Brookzz: Outta Pocket Tour",
