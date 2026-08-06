@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-08-05T19:09:50.445Z",
+  "lastUpdated": "2026-08-06T08:46:50.113Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Good Boy Daisy",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-08-05",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "GOOD BOY DAISY\nThe Summer Love Tour\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/33786446/good-boy-daisy-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_81b46e6aaf334101a045a1c119125a11~mv2.jpg",
-      "dateAdded": "2026-07-12"
-    },
-    {
-      "title": "CAIRO JAG (Indianapolis psych-punk)  /  /  THE REMOVERS",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-08-05",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112921071",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949074013261",
-      "dateAdded": "2026-07-23"
-    },
     {
       "title": "The Mavericks & Friends",
       "venue": "Tower Theatre",
@@ -50,7 +22,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-06",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$28",
       "description": "Advents, Between the Broken, PROJEKT ECLIPSE",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/advents-06-aug",
       "ageLimit": "ALL AGES",
@@ -785,7 +757,7 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Primo Danger  /  Phantomelo",
+      "title": "Primo Danger, Phantomelo, Colliding, Peripheral",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-08-16",
@@ -796,7 +768,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949098140524",
-      "dateAdded": "2026-07-16"
+      "dateAdded": "2026-08-06"
     },
     {
       "title": "Dr. G & The Tall Man",
@@ -819,7 +791,7 @@
       "date": "2026-08-17",
       "time": null,
       "price": "$18",
-      "description": "Holy Wave",
+      "description": "Holy Wave, Helen Kelter Skelter, Rubes",
       "eventUrl": "http://www.prekindle.com/event/26198-holy-wave-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1067,6 +1039,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-07-14"
+    },
+    {
+      "title": "Blue Whale Comedy Festival Sketches N’ Laughs Pass",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-08-21",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/51973228/blue-whale-comedy-festival-sketches-nlaughs-pass-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-08-06"
     },
     {
       "title": "Jay Jurden",
@@ -3763,6 +3749,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Solya",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-10-02",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "w/Special Guest Tele Novella\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nYour previously purchased tickets for the original date are STILL VALID. You do not need to take any further action to attend the new date.",
+      "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_daa9ff43f92b4e8bafb43d1ebb438e5f~mv2.jpg",
+      "dateAdded": "2026-08-06"
+    },
+    {
       "title": "CANNONS - THE EVERYTHING GLOWS TOUR",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4323,7 +4323,7 @@
       "date": "2026-10-10",
       "time": null,
       "price": "$15",
-      "description": "Greywind",
+      "description": "Greywind, It Kills You, Morris Villiage, Rodeo",
       "eventUrl": "http://www.prekindle.com/event/85174-greywind-oklahoma-city",
       "ageLimit": null,
       "tags": [],
