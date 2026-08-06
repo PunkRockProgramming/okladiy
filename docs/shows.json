@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T08:46:50.113Z",
+  "lastUpdated": "2026-08-06T23:46:56.353Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1009,7 +1009,7 @@
       "eventUrl": "http://www.prekindle.com/event/86944-com-truise-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136245371",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949065636316",
       "dateAdded": "2026-07-16"
     },
     {
@@ -1339,6 +1339,20 @@
       "dateAdded": "2026-04-16"
     },
     {
+      "title": "Academy Order | DJ Ordo Amoris",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-23",
+      "time": null,
+      "price": "$10",
+      "description": "Academy Order",
+      "eventUrl": "http://www.prekindle.com/event/89796-academy-order-dj-ordo-amoris-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949064628312",
+      "dateAdded": "2026-08-06"
+    },
+    {
       "title": "ELLA RED - TOUR’S NOT REAL: PART 2",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1477,6 +1491,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949115530307",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Kate Angel",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-08-26",
+      "time": null,
+      "price": "$15",
+      "description": "Kate Angel, Stutter, The Removers",
+      "eventUrl": "http://www.prekindle.com/event/75296-kate-angel-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949065505860",
+      "dateAdded": "2026-08-06"
     },
     {
       "title": "Evan Felker & Charley Crockett",
@@ -3423,6 +3451,34 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136282591",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "PILATES + SHOW | Pilates In The Club x Teenage Mutants",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-09-25",
+      "time": null,
+      "price": "$67",
+      "description": "Pilates In the Club",
+      "eventUrl": "http://www.prekindle.com/event/51195-pilates-and-show-pilates-in-the-club-x-teenage-mutants-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949077401586",
+      "dateAdded": "2026-08-06"
+    },
+    {
+      "title": "SHOW ONLY | Teenage Mutants",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-09-25",
+      "time": null,
+      "price": "$40",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/51441-show-only-pilates-in-the-club-x-teenage-mutants-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949066553037",
+      "dateAdded": "2026-08-06"
     },
     {
       "title": "Judah & The Lion",
@@ -5583,6 +5639,20 @@
       "dateAdded": "2026-04-09"
     },
     {
+      "title": "Adelitas Way – 15th Anniversary of Home School Valedictorian Tour wsg Aranda & Kingdom Collapse",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-08",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "Adelitas Way, Aranda, Kingdom Collapse",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/adelitas-way-15th-anniversary-of-home-school-valedictorian-tour-wsg-kingdom-collapse-and-aranda-08-nov",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a72621207fb4396163142ed_Adelitas_Way_-_Photo.jpeg",
+      "dateAdded": "2026-08-06"
+    },
+    {
       "title": "Low Cut Connie",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -5793,6 +5863,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131573449",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "AJJ",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-16",
+      "time": null,
+      "price": "$27",
+      "description": "AJJ, Greet Death",
+      "eventUrl": "http://www.prekindle.com/event/54131-ajj-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949072423118",
+      "dateAdded": "2026-08-06"
     },
     {
       "title": "Bitch Cabal feat. Mannequin Pussy & Wednesday",
