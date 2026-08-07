@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T07:25:29.197Z",
+  "lastUpdated": "2026-08-07T18:36:45.176Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1357,7 +1357,7 @@
       "date": "2026-08-24",
       "time": null,
       "price": "$17",
-      "description": "ILUKA",
+      "description": "ILUKA, VANITY",
       "eventUrl": "http://www.prekindle.com/event/31265-iluka-the-wings-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2415,6 +2415,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Alan Edward Murphy, Joshua Blaine, Electron Cloud Orchestra",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-11",
+      "time": null,
+      "price": "$12",
+      "description": "Alan Edward Murphy, Joshua Blaine, Electron Cloud Orchestra",
+      "eventUrl": "http://www.prekindle.com/event/55561-alan-edward-murphy-joshua-blaine-electron-cloud-orchestra-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949062562358",
+      "dateAdded": "2026-08-07"
+    },
+    {
       "title": "Ray Wylie Hubbard",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -2746,7 +2760,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-16",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$28",
       "description": "Vincent Neil Emerson",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/vincent-neil-emerson-16-sep",
       "ageLimit": "ALL AGES",
@@ -3507,6 +3521,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648514016308",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Esseks (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-26",
+      "time": "9:00 PM",
+      "price": "$28",
+      "description": "Esseks",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/esseks-18-26-sep",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a1dd20623605b122fbaa728_Esseks_35mm_July_2023--7.jpeg",
+      "dateAdded": "2026-08-07"
     },
     {
       "title": "Low Gap",
@@ -4373,18 +4401,18 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Starbomb",
+      "title": "Starbomb featuring DJ Commander Meouch",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
       "date": "2026-10-10",
       "time": "6:30 pm",
       "price": null,
       "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/40121372/starbomb-tulsa-cains-ballroom?partner_id=100",
+      "eventUrl": "https://www.etix.com/ticket/p/40121372/starbomb-featuring-dj-commander-meouch-tulsa-cains-ballroom?partner_id=100",
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-05-19"
+      "dateAdded": "2026-08-07"
     },
     {
       "title": "Rolling and the 80\"s Wave",
@@ -5390,7 +5418,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-03",
       "time": "7:00 PM",
-      "price": "$15–$75",
+      "price": "$22–$75",
       "description": "West 22nd",
       "eventUrl": "http://www.prekindle.com/event/54832-west-22nd-oklahoma-city",
       "ageLimit": null,
@@ -5460,7 +5488,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-05",
       "time": "7:00 PM",
-      "price": null,
+      "price": "$28",
       "description": "trsh, Adjust the Sails, Dear Maryanne, Dear Cincinnati",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/trsh-05-nov",
       "ageLimit": "ALL AGES",
@@ -5630,7 +5658,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-08",
       "time": "7:00 PM",
-      "price": null,
+      "price": "$34",
       "description": "Adelitas Way, Aranda, Kingdom Collapse",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/adelitas-way-15th-anniversary-of-home-school-valedictorian-tour-wsg-kingdom-collapse-and-aranda-08-nov",
       "ageLimit": "ALL AGES",
@@ -5779,6 +5807,20 @@
       "dateAdded": "2026-07-22"
     },
     {
+      "title": "halocene",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-13",
+      "time": "8:00 PM",
+      "price": "$34",
+      "description": "halocene",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/halocene-13-nov",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a75fb290d57bc6d6ce3a8dc_Halocene_US_Tour_26_Poster_VG.jpeg",
+      "dateAdded": "2026-08-07"
+    },
+    {
       "title": "Switchfoot with special guest Anberlin - Forever Now Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -5812,7 +5854,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-14",
       "time": "8:00 PM",
-      "price": "$101",
+      "price": "$22–$101",
       "description": "Paige Fish",
       "eventUrl": "http://www.prekindle.com/event/88623-paige-fish-the-midnight-crisis-tour-oklahoma-city",
       "ageLimit": null,
@@ -5912,7 +5954,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-11-19",
       "time": null,
-      "price": "$35",
+      "price": "$28",
       "description": "Cat Clyde, Dean Johnson",
       "eventUrl": "http://www.prekindle.com/event/15543-cat-clyde-and-dean-johnson-oklahoma-city",
       "ageLimit": null,
@@ -6133,6 +6175,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38870-2ecc0434b522248b273c47c939f0ba42.png",
       "dateAdded": "2026-07-15"
+    },
+    {
+      "title": "LETDOWN. - The Happy Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-12-06",
+      "time": null,
+      "price": "$20",
+      "description": "Letdown., LUCHIANO, Sikarus",
+      "eventUrl": "http://www.prekindle.com/event/98542-letdown-the-happy-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949072369609",
+      "dateAdded": "2026-08-07"
     },
     {
       "title": "Blue October",
