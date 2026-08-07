@@ -1,58 +1,14 @@
 {
-  "lastUpdated": "2026-08-06T23:46:56.353Z",
+  "lastUpdated": "2026-08-07T07:25:29.197Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "The Mavericks & Friends",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-08-06",
-      "time": null,
-      "price": "$21–$105",
-      "description": "The Mavericks & Friends",
-      "eventUrl": "http://www.prekindle.com/event/24567-the-mavericks-and-friends-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160146593",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Advents",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-08-06",
-      "time": "8:00 PM",
-      "price": "$28",
-      "description": "Advents, Between the Broken, PROJEKT ECLIPSE",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/advents-06-aug",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a3d6cb50aaffbd3f1d83736_bridge_horizontal_1.jpeg",
-      "dateAdded": "2026-06-26"
-    },
-    {
-      "title": "System of A Clown",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-08-06",
-      "time": "7:00 PM",
-      "price": "$15 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38338",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38338-fcc4641c066dee7c85cc8007a8dfd2c7.png",
-      "dateAdded": "2026-04-25"
-    },
     {
       "title": "United We Dance: Festival Energy. All Night.",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-07",
       "time": null,
-      "price": "$15–$35",
+      "price": "$25–$35",
       "description": "Breckenridge Presents",
       "eventUrl": "http://www.prekindle.com/event/94125-united-we-dance-festival-energy-all-night-oklahoma-city",
       "ageLimit": null,
@@ -136,7 +92,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-07",
       "time": "8:00 PM",
-      "price": "$15–$75",
+      "price": "$25–$75",
       "description": "Josh Tatofi, Sophia Scott",
       "eventUrl": "http://www.prekindle.com/event/91177-josh-tatofi-looking-for-love-tour-oklahoma-city",
       "ageLimit": null,
@@ -343,7 +299,7 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Horse Bitch | Carl Carbonell | The Ugly Cowboys",
+      "title": "Horse Bitch | Carl Carbonell | The Suzzies",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-08-10",
@@ -353,8 +309,8 @@
       "eventUrl": "http://www.prekindle.com/event/24637-horse-bitch-carl-carbonell-the-ugly-cowboys-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073431271",
-      "dateAdded": "2026-07-30"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949063743566",
+      "dateAdded": "2026-08-07"
     },
     {
       "title": "The Marvelous Miss Gender starring BOSCO",
@@ -3609,6 +3565,22 @@
       "dateAdded": "2026-05-19"
     },
     {
+      "title": "Music Healz",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-09-26",
+      "time": "7:00 PM",
+      "price": "$10",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39287",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39287-ce5acbba60a4a708b35e68fe93c6a322.png",
+      "dateAdded": "2026-08-07"
+    },
+    {
       "title": "Kidd G",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4187,6 +4159,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38982-4c226fa084ecfc27942b45fe2830a03c.png",
       "dateAdded": "2026-07-02"
+    },
+    {
+      "title": "Aseethe | Reversal Cell | Surus",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-08",
+      "time": null,
+      "price": "$10",
+      "description": "Aseethe",
+      "eventUrl": "http://www.prekindle.com/event/74624-aseethe-reversal-cell-surus-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949063679215",
+      "dateAdded": "2026-08-07"
     },
     {
       "title": "Ward Davis",
@@ -5723,6 +5709,20 @@
       "dateAdded": "2026-04-28"
     },
     {
+      "title": "Big Bill | The Ugly Cowboys | Diet Riot",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-11-12",
+      "time": null,
+      "price": "$10",
+      "description": "Big Bill",
+      "eventUrl": "http://www.prekindle.com/event/66622-big-bill-the-ugly-cowboys-diet-riot-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949063739782",
+      "dateAdded": "2026-08-07"
+    },
+    {
       "title": "Thundercat: Distracted AF Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -5812,7 +5812,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-14",
       "time": "8:00 PM",
-      "price": "$22–$101",
+      "price": "$101",
       "description": "Paige Fish",
       "eventUrl": "http://www.prekindle.com/event/88623-paige-fish-the-midnight-crisis-tour-oklahoma-city",
       "ageLimit": null,
@@ -5912,7 +5912,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-11-19",
       "time": null,
-      "price": "$28",
+      "price": "$35",
       "description": "Cat Clyde, Dean Johnson",
       "eventUrl": "http://www.prekindle.com/event/15543-cat-clyde-and-dean-johnson-oklahoma-city",
       "ageLimit": null,
