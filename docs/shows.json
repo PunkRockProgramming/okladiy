@@ -1,107 +1,7 @@
 {
-  "lastUpdated": "2026-08-08T18:19:52.651Z",
+  "lastUpdated": "2026-08-09T07:04:57.017Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Little Stranger",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-08-08",
-      "time": null,
-      "price": "$35–$60",
-      "description": "Little Stranger, Tropidelic, Jarv, Damn Skippy",
-      "eventUrl": "http://www.prekindle.com/event/76728-little-stranger-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172726763",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "LATCH FEST (Day 2)",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-08-08",
-      "time": null,
-      "price": "$10",
-      "description": "Latch Fest",
-      "eventUrl": "http://www.prekindle.com/event/16177-latch-fest-day-2-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100423546",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Vanguard Boiler Club presents RAVE ON MAIN (18+)",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-08-08",
-      "time": "9:00 PM",
-      "price": "$15",
-      "description": "Dj Katnip, Dj Kylie, Dj Faye",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/vanguard-boiler-club-presents-rave-on-main-18-08-aug",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a63acd8519420f815103fbf_RaveOnMain_Aug2026_Vanguard_2x1.jpeg",
-      "dateAdded": "2026-07-24"
-    },
-    {
-      "title": "Dark Water Project with special guest Colin Babb",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-08-08",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949098021421",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949098018704",
-      "dateAdded": "2026-07-27"
-    },
-    {
-      "title": "Jabee - Black Future 10 Year Anniversary",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-08-08",
-      "time": "8:00 PM",
-      "price": "$18–$75",
-      "description": "Jabee, Pwap, Meant 2 B, Trip G, Chloe Hart",
-      "eventUrl": "http://www.prekindle.com/event/38519-jabee-black-future-10-year-anniversary-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151670276",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Shadowcasters",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-08-08",
-      "time": "7:00 PM",
-      "price": "$7 adv / $10 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39190",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39190-575b288b4febc3e6a8c118c991bc8e5e.jpeg",
-      "dateAdded": "2026-07-28"
-    },
-    {
-      "title": "ANALOG DAYDREAM (Alabama ska)  /  /  LEFT HAND HOTDOG  /  /  THE BIG NEWS",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-08-08",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112907972",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073943725",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "The Sword  /  Red Fang",
       "venue": "Tower Theatre",
@@ -1125,20 +1025,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949107217527",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Southpaw FLHC",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-08-23",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "Southpaw FLHC\nThe Standard 2026 Tour\nwith special guest Arcline\n\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/86682969/southpaw-flhc-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_15cdc3d2c9f74c8fa37d88abd1e4589d~mv2.jpg",
-      "dateAdded": "2026-07-12"
     },
     {
       "title": "DevilDriver",
@@ -4063,6 +3949,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38982-4c226fa084ecfc27942b45fe2830a03c.png",
       "dateAdded": "2026-07-02"
+    },
+    {
+      "title": "Wind Walkers - SOLD OUT!**",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-10-08",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "WIND WALKERS\nThe \"I Don't Belong Here\" Tour\nwith Special Guests If Not For Me and True North\nDoors @ 6:30P / Show @ 7:30P\nTHIS EVENT IS SOLD OUT!\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.etix.com/ticket/p/62199542/wind-walkers-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_958039bcf4874157aa7b2d649daed09d~mv2.jpg",
+      "dateAdded": "2026-08-09"
     },
     {
       "title": "Aseethe | Reversal Cell | Surus",
