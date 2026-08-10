@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-08-10T07:52:02.929Z",
-  "scraperErrors": [],
+  "lastUpdated": "2026-08-10T18:39:33.463Z",
+  "scraperErrors": [
+    {
+      "scraper": "cainsballroom",
+      "error": "HTTP 502 fetching https://www.cainsballroom.com/events/"
+    }
+  ],
   "shows": [
     {
       "title": "honestav - The Sweet American Boy Tour",
@@ -31,20 +36,6 @@
       "dateAdded": "2026-08-07"
     },
     {
-      "title": "The Marvelous Miss Gender starring BOSCO",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-10",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/76849402/the-marvelous-miss-gender-starring-bosco-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "18+",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
       "title": "NO CURE",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -65,7 +56,7 @@
       "date": "2026-08-11",
       "time": null,
       "price": "$15",
-      "description": "The Montvales, Nathan Evans Fox",
+      "description": "The Montvales, Nathan Evans Fox, Vaneza Saint Luz",
       "eventUrl": "http://www.prekindle.com/event/34438-the-montvales-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -357,20 +348,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Ghostland Observatory",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-15",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/75354601/ghostland-observatory-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-05-13"
-    },
-    {
       "title": "Kiss the Goat ( Premiere Ghost Tribute )",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -443,20 +420,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949098140524",
       "dateAdded": "2026-08-06"
-    },
-    {
-      "title": "Dr. G & The Tall Man",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-16",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/46597751/drg-the-tall-man-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-22"
     },
     {
       "title": "Holy Wave",
@@ -587,20 +550,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Life.Church Worship Nights",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-20",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/86988409/lifechurch-worship-nights-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-05-22"
-    },
-    {
       "title": "Phil Hamilton",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -699,90 +648,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648460849254",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Blue Whale Comedy Festival Friday Pass",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/61832577/blue-whale-comedy-festival-friday-pass-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-14"
-    },
-    {
-      "title": "Blue Whale Comedy Festival Sketches N’ Laughs Pass",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/51973228/blue-whale-comedy-festival-sketches-nlaughs-pass-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-06"
-    },
-    {
-      "title": "Jay Jurden",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/96127341/jay-jurden-tulsa-cains-side-stage?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-05-08"
-    },
-    {
-      "title": "The Next Wave: Top 5 Submission Comics",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": "7:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/65145480/the-next-wavetop-5-submission-comics-tulsa-cains-side-stage?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-26"
-    },
-    {
-      "title": "Blue Whale Comedy Festival Blue Ballroom Bundle",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/72359216/blue-whale-comedy-festival-blue-ballroom-bundle-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-14"
-    },
-    {
-      "title": "Melissa Villaseñor + Wolves of Glendale",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": "9 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/60474892/melissa-villase%C3%B1or-wolves-of-glendale-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-04"
     },
     {
       "title": "The Moody Dudes",
@@ -890,69 +755,13 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-08-22",
       "time": null,
-      "price": "$28–$144",
+      "price": "$33–$144",
       "description": "Braxton Keith, Cole Phillips",
       "eventUrl": "http://www.prekindle.com/event/68836-braxton-keith-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148804952",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Blue Whale Comedy Festival Saturday Pass",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-22",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/60048858/blue-whale-comedy-festival-saturday-pass-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-14"
-    },
-    {
-      "title": "Ehsan Ahmad",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-22",
-      "time": "4:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/33929610/ehsan-ahmad-tulsa-cains-side-stage?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-05-12"
-    },
-    {
-      "title": "Demetri Martin",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-22",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/73296033/demetri-martin-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-22"
-    },
-    {
-      "title": "Chris Fleming",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-22",
-      "time": "9 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/35074960/chris-fleming-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-03"
     },
     {
       "title": "The Rocklahoma Bitches Show",
@@ -1167,20 +976,6 @@
       "dateAdded": "2026-08-06"
     },
     {
-      "title": "Evan Felker & Charley Crockett",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-26",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/84511859/evan-felker-charley-crockett-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-05"
-    },
-    {
       "title": "#WASTEDHOURS ft. TORSO MAN",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
@@ -1337,20 +1132,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Asleep At The Wheel",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-28",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/71801582/asleep-at-the-wheel-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-22"
-    },
-    {
       "title": "The Best of Steely Dan at The Shrine",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -1477,20 +1258,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949108274093",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "That 90s Party",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-29",
-      "time": "7:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/67638283/that-90s-party-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "21+",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-17"
     },
     {
       "title": "Jackson Tillman",
@@ -1723,20 +1490,6 @@
       "dateAdded": "2026-07-24"
     },
     {
-      "title": "Waylon Wyatt",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-04",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/37818115/waylon-wyatt-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-05-18"
-    },
-    {
       "title": "The Malcontentz",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -1835,20 +1588,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172896814",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Punchis Punchis: Banda Rave Experience",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-05",
-      "time": "9 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/45680038/punchis-punchisbanda-rave-experience-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "21+",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-22"
     },
     {
       "title": "Wayne Gottstine of Split Lip Rayfield",
@@ -2149,20 +1888,6 @@
       "dateAdded": "2026-08-07"
     },
     {
-      "title": "Ray Wylie Hubbard",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-11",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/94962944/ray-wylie-hubbard-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-04-27"
-    },
-    {
       "title": "Temple 202: Scott Weiland Tribute",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -2261,20 +1986,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648486637797",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "The Bison Bash",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-12",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/81168299/the-bison-bash-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-01"
     },
     {
       "title": "DOOM SCROLL (Colorado folk punk)  /  /  VICTIM OF DOUG (Memphis post-punk)",
@@ -2715,18 +2426,18 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Day Shift Party",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
+      "title": "DEATH Presents: RITUAL",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
       "date": "2026-09-19",
-      "time": "5 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/42284954/day-shift-party-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "21+",
+      "time": null,
+      "price": "$10",
+      "description": "Kat Cemetery, Virtue, Maxx Latour, Lilith, Beef, Mileena the Kween, Anastasia Euthanasia, Cardinal Juno, Raeganomic$, Olive Aina Michaels",
+      "eventUrl": "http://www.prekindle.com/event/37718-death-presents-ritual-oklahoma-city",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-05"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949059796078",
+      "dateAdded": "2026-08-10"
     },
     {
       "title": "Born Of Osiris",
@@ -2799,20 +2510,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949137187360",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Daniel Donato’s Cosmic Country",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-20",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/55445503/daniel-donatos-cosmic-country-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-02"
     },
     {
       "title": "Shinyribs with Scott Strickland",
@@ -3073,20 +2770,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Toadies: The Charmer Tour",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-24",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/72553338/toadiesthe-charmer-tour-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-04-27"
-    },
-    {
       "title": "Low Gap",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -3169,20 +2852,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949066553037",
       "dateAdded": "2026-08-06"
-    },
-    {
-      "title": "Judah & The Lion",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-25",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/43997389/judah-the-lion-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-12"
     },
     {
       "title": "Vader - Reign Forever In Kingdom Of Blood Tour",
@@ -3297,20 +2966,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949182081108",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "The Midnight",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-26",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/43973092/the-midnight-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-05-19"
     },
     {
       "title": "Music Healz",
@@ -3439,20 +3094,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949090083023",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Cameron Whitcomb",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-30",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/57064530/cameron-whitcomb-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-05-08"
     },
     {
       "title": "Extortionist",
@@ -3721,20 +3362,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949084622006",
       "dateAdded": "2026-07-21"
-    },
-    {
-      "title": "My So Called Band",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-10-03",
-      "time": "8 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/56499362/my-so-called-band-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-26"
     },
     {
       "title": "The Final Encore – A Mayo Family Tribute",
@@ -4065,20 +3692,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Houndmouth",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-10-09",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/70950984/houndmouth-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-20"
-    },
-    {
       "title": "LP - All Is Not Lost Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4133,20 +3746,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131266045",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Starbomb featuring DJ Commander Meouch",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-10-10",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/40121372/starbomb-featuring-dj-commander-meouch-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-07"
     },
     {
       "title": "Rolling and the 80\"s Wave",
@@ -4277,20 +3876,6 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/sleeping-with-sirens-an-ending-in-itself-tour.jpeg",
       "dateAdded": "2026-06-15"
-    },
-    {
-      "title": "Indigenous Day at Cain’s Ballroom",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-10-12",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/68389836/indigenous-day-at-cains-ballroom-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-05-20"
     },
     {
       "title": "Halloween Tour GreatDaeg, BankBoi Money",
@@ -4777,18 +4362,18 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "American Aquarium",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
+      "title": "Basic Printer & Spirit Of The Bear",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-23",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/33968032/american-aquarium-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
+      "time": null,
+      "price": "$15",
+      "description": "Basic Printer, Spirit of the Bear",
+      "eventUrl": "http://www.prekindle.com/event/47939-basic-printer-and-spirit-of-the-bear-oklahoma-city",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-12"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949059777004",
+      "dateAdded": "2026-08-10"
     },
     {
       "title": "Palace – USA & Canada Tour 2026",
@@ -4875,20 +4460,6 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a42816fc4461d3878aaa54b_CARLA_1920X1080_credit_Mike_Stone_%2528_musicfrommypov_on_IG%2529.jpeg",
       "dateAdded": "2026-06-30"
-    },
-    {
-      "title": "AFI",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-10-25",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/43791759/afi-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-05-04"
     },
     {
       "title": "almost monday – THANK GOD IT'S ALMOST MONDAY",
@@ -5047,20 +4618,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Pop Punk Nite! by: Van Full of Nuns",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-10-30",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/66897228/pop-punk-nitebyvan-full-of-nuns-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-23"
-    },
-    {
       "title": "Swiftball",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -5133,6 +4690,20 @@
       "dateAdded": "2026-07-21"
     },
     {
+      "title": "The Election Night Show",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-03",
+      "time": null,
+      "price": "$28",
+      "description": "Let's Fix This",
+      "eventUrl": "http://www.prekindle.com/event/39559-the-election-night-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949075342630",
+      "dateAdded": "2026-08-10"
+    },
+    {
       "title": "WAGE WAR – EMERGENCY BROADCAST TOUR",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -5175,6 +4746,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "The War And Treaty",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-04",
+      "time": null,
+      "price": "$25–$50",
+      "description": "The War and Treaty",
+      "eventUrl": "http://www.prekindle.com/event/55285-the-war-and-treaty-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949135558136",
+      "dateAdded": "2026-08-10"
+    },
+    {
       "title": "Grateful Shred",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -5201,20 +4786,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949124364385",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Neko Case",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-11-04",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/31688468/neko-case-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-09"
     },
     {
       "title": "trsh - Gone Fishin' Tour",
@@ -5257,20 +4828,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073032418",
       "dateAdded": "2026-07-31"
-    },
-    {
-      "title": "Southall",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-11-05",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/79812288/southall-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-06"
     },
     {
       "title": "Nurse Blake: But Did You Die? Comedy Tour",
@@ -5357,20 +4914,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Rock-N-Folk-N-Chili Cook-Off",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-11-07",
-      "time": "5:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/60249682/rocknfolknchili-cookoff-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-02"
-    },
-    {
       "title": "Shadowgrass",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -5443,20 +4986,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Rival Sons",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-11-10",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/53436374/rival-sons-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-24"
-    },
-    {
       "title": "ICON FOR HIRE SCRIPTED 15 YEAR ALBUM ANNIVERSARY TOUR",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -5497,20 +5026,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949091677311",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Hayes Carll",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-11-12",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/83288689/hayes-carll-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-28"
     },
     {
       "title": "On Cinema - The Certified “Five Bags of Popcorn” Tour",
@@ -6007,7 +5522,7 @@
       "tags": [
         "tulsa"
       ],
-      "imageUrl": null,
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39292-bb8abac694db2edf11041848e2f7c944.png",
       "dateAdded": "2026-08-08"
     },
     {
@@ -6101,34 +5616,6 @@
       "dateAdded": "2026-07-27"
     },
     {
-      "title": "Wyatt Flores",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-12-31",
-      "time": "8 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/61652772/wyatt-flores-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-31"
-    },
-    {
-      "title": "Logan Ryan Band",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2027-01-22",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/68730686/logan-ryan-band-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-29"
-    },
-    {
       "title": "Dad Rock Night",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -6140,20 +5627,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/dad-rock-night.jpeg",
-      "dateAdded": "2026-07-01"
-    },
-    {
-      "title": "Dad Rock Night (2000s Rock Tribute)",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2027-01-30",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/52164121/dad-rock-night-2000s-rock-tribute-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
       "dateAdded": "2026-07-01"
     },
     {
@@ -6185,18 +5658,18 @@
       "dateAdded": "2026-05-21"
     },
     {
-      "title": "Wheeler Walker Jr. – Pullin’ Out: The Farewell Tour",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2027-03-02",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/83455129/wheeler-walker-jrpullinoutthe-farewell-tour-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
+      "title": "Matt Stone as Elvis in Person",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-03-06",
+      "time": null,
+      "price": "$20–$59",
+      "description": "Matt Stone",
+      "eventUrl": "http://www.prekindle.com/event/68249-matt-stone-as-elvis-in-person-oklahoma-city",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-06-08"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949067196853",
+      "dateAdded": "2026-08-10"
     },
     {
       "title": "Jeff Arcuri: The Road Trip Tour",
