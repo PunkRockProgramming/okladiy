@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T07:43:16.699Z",
+  "lastUpdated": "2026-08-13T18:44:28.835Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -251,11 +251,11 @@
       "date": "2026-08-15",
       "time": "8:00 PM",
       "price": "$25–$100",
-      "description": "Willow Avalon, JD Clayton, Slater Nalley",
+      "description": "Willow Avalon, JD Clayton",
       "eventUrl": "http://www.prekindle.com/event/44467-willow-avalon-pink-pocket-pistol-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949125269449",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949054658567",
       "dateAdded": "2026-07-16"
     },
     {
@@ -450,7 +450,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-08-19",
       "time": null,
-      "price": "$30–$115",
+      "price": "$25–$115",
       "description": "Jesse & Joy",
       "eventUrl": "http://www.prekindle.com/event/91189-jesse-and-joy-el-despecho-tour-oklahoma-city",
       "ageLimit": null,
@@ -1839,6 +1839,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Auntie Ace | ThunderWof. | djnoname. | Michael Palazzo",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-09-06",
+      "time": null,
+      "price": "$10",
+      "description": "Auntie Ace",
+      "eventUrl": "http://www.prekindle.com/event/49513-auntie-ace-thunderwof-dj-noname-michael-palazzo-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949055295846",
+      "dateAdded": "2026-08-13"
+    },
+    {
       "title": "Militarie Gun",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2291,7 +2305,7 @@
       "dateAdded": "2026-06-12"
     },
     {
-      "title": "Davvn",
+      "title": "Davvn | China Blue",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-09-13",
@@ -2301,8 +2315,8 @@
       "eventUrl": "http://www.prekindle.com/event/29342-davvn-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949079450752",
-      "dateAdded": "2026-07-24"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949055151201",
+      "dateAdded": "2026-08-13"
     },
     {
       "title": "JD Simo",
@@ -3623,20 +3637,6 @@
       "dateAdded": "2026-08-05"
     },
     {
-      "title": "The Bobby Lees",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-10-02",
-      "time": null,
-      "price": "$22",
-      "description": "The Bobby Lees, Dolly Creamer, Diet Riot",
-      "eventUrl": "http://www.prekindle.com/event/83367-the-bobby-lees-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141313861",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "The Stars Tour featuring Anne Wilson",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -3857,11 +3857,11 @@
       "date": "2026-10-07",
       "time": null,
       "price": "$25–$55",
-      "description": "The Beths",
+      "description": "The Beths, Chelsea Jade",
       "eventUrl": "http://www.prekindle.com/event/28168-the-beths-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100007510",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949055001698",
       "dateAdded": "2026-07-16"
     },
     {
@@ -4207,7 +4207,7 @@
       "dateAdded": "2026-07-21"
     },
     {
-      "title": "Bragolin | Carrellee",
+      "title": "Bragolin | Carrellee | Red Red Groove | DJ Majda",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-10-11",
@@ -4217,8 +4217,8 @@
       "eventUrl": "http://www.prekindle.com/event/48144-bragolin-carrellee-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949106285964",
-      "dateAdded": "2026-07-16"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949055160953",
+      "dateAdded": "2026-08-13"
     },
     {
       "title": "Joe Jordan - The Heart Sessions Tour",
@@ -4845,6 +4845,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "Gringo the MC & Friends LIVE in TULSA",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-23",
+      "time": "7:00 PM",
+      "price": "$20 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39316",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39316-35aa6cee874c3a3005c4d26ed1d1b75c.png",
+      "dateAdded": "2026-08-13"
     },
     {
       "title": "Palace – USA & Canada Tour 2026",
@@ -5561,7 +5577,7 @@
       "date": "2026-11-11",
       "time": "7:00 PM",
       "price": "$34",
-      "description": "Icon For Hire, Elijah, Lauren Babic",
+      "description": "Icon For Hire, Elijah, Lauren Babic, Stutter",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/icon-for-hire-scripted-15-year-album-anniversary-tour-11-nov",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -5588,7 +5604,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-12",
       "time": "8:00 PM",
-      "price": "$20",
+      "price": "$20–$75",
       "description": "Post Animal, Gift",
       "eventUrl": "http://www.prekindle.com/event/82951-post-animal-maybe-you-have-to-tour-oklahoma-city",
       "ageLimit": null,
@@ -5658,7 +5674,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-13",
       "time": "8:00 PM",
-      "price": "$34",
+      "price": "$34 to $126",
       "description": "halocene",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/halocene-13-nov",
       "ageLimit": "ALL AGES",
@@ -5807,6 +5823,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949068952174",
       "dateAdded": "2026-08-05"
+    },
+    {
+      "title": "The Wilder Blue",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-11-20",
+      "time": "8:00 PM",
+      "price": "$20–$100",
+      "description": "The Wilder Blue",
+      "eventUrl": "http://www.prekindle.com/event/39653-the-wilder-blue-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949055891209",
+      "dateAdded": "2026-08-13"
     },
     {
       "title": "Mojo Brookzz: Outta Pocket Tour",
