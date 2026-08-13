@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T18:44:00.315Z",
+  "lastUpdated": "2026-08-13T07:43:16.699Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -8,7 +8,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-13",
       "time": null,
-      "price": "$25–$75",
+      "price": "$30–$75",
       "description": "Hulvey, Indie Tribe, Kijan Boone",
       "eventUrl": "http://www.prekindle.com/event/53534-hulvey-could-be-tonight-tour-oklahoma-city",
       "ageLimit": null,
@@ -333,6 +333,20 @@
       "dateAdded": "2026-07-23"
     },
     {
+      "title": "Bluegrass Brunch with Lance Roark",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-08-16",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949055964164",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949055961624",
+      "dateAdded": "2026-08-13"
+    },
+    {
       "title": "Chris Travis - The Prefix Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -494,7 +508,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-08-20",
       "time": null,
-      "price": "$10–$50",
+      "price": null,
       "description": "Jayson Arendt",
       "eventUrl": "http://www.prekindle.com/event/67359-jayson-arendt-oklahoma-city",
       "ageLimit": null,
@@ -4213,7 +4227,7 @@
       "date": "2026-10-11",
       "time": "8:00 PM",
       "price": "$28 to $64",
-      "description": "Joe Jordan",
+      "description": "Joe Jordan, Jon Bullard",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/joe-jordan-the-heart-sessions-tour-11-oct",
       "ageLimit": "ALL AGES",
       "tags": [],
