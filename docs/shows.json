@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-08-13T18:44:28.835Z",
+  "lastUpdated": "2026-08-14T07:41:04.112Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Hulvey – “Could Be Tonight” Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-08-13",
-      "time": null,
-      "price": "$30–$75",
-      "description": "Hulvey, Indie Tribe, Kijan Boone",
-      "eventUrl": "http://www.prekindle.com/event/53534-hulvey-could-be-tonight-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949178247055",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Travis Bolt",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-08-13",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949144917072",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949144916914",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "CLOVERS CURFEW (NY anti-folk)  /  /  BRAIN ROT  /  /  CHRIS ALAN COX",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-08-13",
-      "time": "8:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949112890061",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073257660",
-      "dateAdded": "2026-07-30"
-    },
     {
       "title": "NINE VICIOUS – A TOUR",
       "venue": "Tower Theatre",
@@ -106,7 +64,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-14",
       "time": "8:00 PM",
-      "price": "$11–$75",
+      "price": "$18–$75",
       "description": "Travis Bolt, Casper Wade",
       "eventUrl": "http://www.prekindle.com/event/32917-travis-bolt-oklahoma-city",
       "ageLimit": null,
@@ -2191,6 +2149,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949075448425",
       "dateAdded": "2026-07-29"
+    },
+    {
+      "title": "Outsiders Fest #2 at Chimera!!! Our 3rd Anniversay!!!",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-09-12",
+      "time": "7:00 PM",
+      "price": "$20",
+      "description": "Come celebrate our 3rd Anniversary at Outsiders Fest #2 at Chimera featuring performances by Dreamsickle, In My Defense, Fighting Sleep, A Wish That Lasts, Garden Ants, Adjacent to the Fall, & Morris Village.Tickets $20Doors 7pm Music 7:30pm",
+      "eventUrl": "https://www.noisetowntulsa.com/events/outsiders-fest-2-at-chimera",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1786665791789-WEHRVJDL8JYAONS3WUO6/outsider+1.png",
+      "dateAdded": "2026-08-14"
     },
     {
       "title": "Goodbye June - TROUBLE FOR ALL 2026 TOUR",
@@ -4384,7 +4356,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-14",
       "time": "8:00 PM",
-      "price": "$20–$75",
+      "price": "$25",
       "description": "Beauty School Dropout",
       "eventUrl": "http://www.prekindle.com/event/43682-beauty-school-dropout-oklahoma-city",
       "ageLimit": null,
@@ -5604,7 +5576,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-12",
       "time": "8:00 PM",
-      "price": "$20–$75",
+      "price": "$25",
       "description": "Post Animal, Gift",
       "eventUrl": "http://www.prekindle.com/event/82951-post-animal-maybe-you-have-to-tour-oklahoma-city",
       "ageLimit": null,
@@ -6211,6 +6183,22 @@
       "dateAdded": "2026-07-28"
     },
     {
+      "title": "Hosty Holiday Celebration",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-12-22",
+      "time": "7:00 PM",
+      "price": "$7 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39338",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39338-36934a05a4cf57198a2e706ecb9d8643.jpeg",
+      "dateAdded": "2026-08-14"
+    },
+    {
       "title": "Max Goen",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -6367,6 +6355,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-22"
+    },
+    {
+      "title": "Big Jim & The Twins",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-03-14",
+      "time": "4:00 PM",
+      "price": "$8 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39339",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39339-2e2767cc4c0a71140fa8c385c85e964a.jpeg",
+      "dateAdded": "2026-08-14"
     },
     {
       "title": "DENNY LOVE: SHOW LOVE TOUR",
