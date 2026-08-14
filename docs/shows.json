@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T07:41:04.112Z",
+  "lastUpdated": "2026-08-14T18:37:54.657Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1339,6 +1339,20 @@
       "dateAdded": "2026-06-30"
     },
     {
+      "title": "The Fighting Side | Merlin Mason",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-08-29",
+      "time": null,
+      "price": "$10",
+      "description": "The Fighting Side",
+      "eventUrl": "http://www.prekindle.com/event/98724-the-fighting-side-merlin-mason-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949051848430",
+      "dateAdded": "2026-08-14"
+    },
+    {
       "title": "Dead Metal Society",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1511,6 +1525,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949074535071",
       "dateAdded": "2026-07-29"
+    },
+    {
+      "title": "The Arrows / The Hi-Fi Hillbillies",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-08-30",
+      "time": "4:15 PM",
+      "price": "$10",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39342",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39342-9cda4778f5f7bfa3b715825b1943c83b.jpeg",
+      "dateAdded": "2026-08-14"
     },
     {
       "title": "Hazlett",
@@ -2396,7 +2426,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-15",
       "time": null,
-      "price": "$31–$723",
+      "price": "$21–$723",
       "description": "Shaboozey, Brittany Spencer",
       "eventUrl": "http://www.prekindle.com/event/59817-shaboozey-oklahoma-city",
       "ageLimit": null,
@@ -2671,6 +2701,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949092704677",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Vinyl Ranch 19th Anniversary Tour (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-19",
+      "time": "9:00 PM",
+      "price": "$22",
+      "description": "Disko Cowboy",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/disko-cowboy-19-sep",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a7e744b8353ce7215630979_VR_FB_BANNER_TULSA.jpeg",
+      "dateAdded": "2026-08-14"
     },
     {
       "title": "Stiff Bizkit & Testify",
@@ -4356,7 +4400,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-14",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$20–$75",
       "description": "Beauty School Dropout",
       "eventUrl": "http://www.prekindle.com/event/43682-beauty-school-dropout-oklahoma-city",
       "ageLimit": null,
@@ -4633,6 +4677,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156371061",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Skinnerfest",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-18",
+      "time": "1:00 PM",
+      "price": "$25",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39343",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39343-5cc801b498a1b1cf9d720eee48d5cd67.jpeg",
+      "dateAdded": "2026-08-14"
     },
     {
       "title": "Blaze Ya Dead Homie & ABK",
@@ -5576,7 +5636,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-12",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$20–$75",
       "description": "Post Animal, Gift",
       "eventUrl": "http://www.prekindle.com/event/82951-post-animal-maybe-you-have-to-tour-oklahoma-city",
       "ageLimit": null,
