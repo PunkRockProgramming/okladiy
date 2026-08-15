@@ -1,130 +1,14 @@
 {
-  "lastUpdated": "2026-08-14T18:37:54.657Z",
+  "lastUpdated": "2026-08-15T06:47:42.249Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "NINE VICIOUS – A TOUR",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-08-14",
-      "time": null,
-      "price": "$30–$70",
-      "description": "Nine Vicious",
-      "eventUrl": "http://www.prekindle.com/event/61729-nine-vicious-a-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177637314",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Some Hearts | Ryan Kidd & the Kobras | Puncher",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-08-14",
-      "time": null,
-      "price": "$10",
-      "description": "Some Hearts",
-      "eventUrl": "http://www.prekindle.com/event/43821-some-hearts-ryan-kidd-and-the-kobras-puncher-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949125032541",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Ookay (18+)",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-08-14",
-      "time": "9:00 PM",
-      "price": "$28",
-      "description": "Ookay, Feel Suite, Set J",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/ookay-18-14-aug",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a1668c4e76960c6f2786f64_DSC06862.jpeg",
-      "dateAdded": "2026-06-01"
-    },
-    {
-      "title": "The Wiry Fifes",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-08-14",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949096788562",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096787878",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Travis Bolt",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-08-14",
-      "time": "8:00 PM",
-      "price": "$18–$75",
-      "description": "Travis Bolt, Casper Wade",
-      "eventUrl": "http://www.prekindle.com/event/32917-travis-bolt-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166480610",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Riott Rockette Release Show",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-08-14",
-      "time": null,
-      "price": "$12",
-      "description": "Riott Rockette, The Removers, Prom Mom",
-      "eventUrl": "http://www.prekindle.com/event/67956-riott-rockette-release-show-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949084650033",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Front Porch",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-08-14",
-      "time": "7:00 PM",
-      "price": "$15 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38395",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38395-db9a35bdd3d6480cfc352272b3a359d3.jpeg",
-      "dateAdded": "2026-05-03"
-    },
-    {
-      "title": "BOOF // MOONROCK BANDITZ // STALLONE COBRAS",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-08-14",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/8/14/boof-moonrock-banditz-stallone-cobras",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-07-12"
-    },
     {
       "title": "My So Called Band: '90s Tribute",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-15",
       "time": null,
-      "price": "$8–$40",
+      "price": "$20–$40",
       "description": "My So Called Band",
       "eventUrl": "http://www.prekindle.com/event/47695-my-so-called-band-oklahoma-city",
       "ageLimit": null,
@@ -208,7 +92,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-15",
       "time": "8:00 PM",
-      "price": "$25–$100",
+      "price": "$30–$100",
       "description": "Willow Avalon, JD Clayton",
       "eventUrl": "http://www.prekindle.com/event/44467-willow-avalon-pink-pocket-pistol-tour-oklahoma-city",
       "ageLimit": null,
@@ -303,20 +187,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949055961624",
       "dateAdded": "2026-08-13"
-    },
-    {
-      "title": "Chris Travis - The Prefix Tour",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-08-16",
-      "time": "8:00 PM",
-      "price": "$80–$125",
-      "description": "Chris Travis",
-      "eventUrl": "http://www.prekindle.com/event/59796-chris-travis-the-prefix-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183370428",
-      "dateAdded": "2026-07-16"
     },
     {
       "title": "Primo Danger, Phantomelo, Colliding, Peripheral",
@@ -778,7 +648,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-08-22",
       "time": null,
-      "price": "$33–$144",
+      "price": "$33–$103",
       "description": "Braxton Keith, Cole Phillips",
       "eventUrl": "http://www.prekindle.com/event/68836-braxton-keith-oklahoma-city",
       "ageLimit": null,
@@ -1349,7 +1219,7 @@
       "eventUrl": "http://www.prekindle.com/event/98724-the-fighting-side-merlin-mason-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949051848430",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949051187492",
       "dateAdded": "2026-08-14"
     },
     {
@@ -4707,6 +4577,22 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a6a212db5f78d0cff4205e7_Blaze---Dead-Serious-Tour-16x9_local.jpeg",
       "dateAdded": "2026-07-29"
+    },
+    {
+      "title": "Chasen Wayne & The Honky Tonk Machine",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-20",
+      "time": "7:00 PM",
+      "price": "$7 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39352",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39352-0fbb708ddc299273315ee88bae58f474.jpeg",
+      "dateAdded": "2026-08-15"
     },
     {
       "title": "Medium Build Presents The King of Having Fun on Tour",
