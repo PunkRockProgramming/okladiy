@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T06:47:42.249Z",
+  "lastUpdated": "2026-08-15T18:11:10.735Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -655,20 +655,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148804952",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Blue Whale Comedy Festival Saturday Pass",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-22",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/60048858/blue-whale-comedy-festival-saturday-pass-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
     },
     {
       "title": "Ehsan Ahmad",
@@ -6231,6 +6217,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "Nude Art Show",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-02-13",
+      "time": "8 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/37462226/nude-art-show-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "21+",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-08-15"
     },
     {
       "title": "Public Image Ltd - THIS IS NOT THE LAST TOUR",
