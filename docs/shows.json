@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-08-16T18:11:01.499Z",
+  "lastUpdated": "2026-08-17T07:05:53.290Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Bluegrass Brunch with Lance Roark",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-08-16",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949055964164",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949055961624",
-      "dateAdded": "2026-08-13"
-    },
-    {
-      "title": "Primo Danger, Phantomelo, Colliding, Peripheral",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-08-16",
-      "time": null,
-      "price": "$10",
-      "description": "Primo Danger, Phantomelo, Peripheral, Colliding",
-      "eventUrl": "http://www.prekindle.com/event/33118-primo-danger-phantomelo-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949098140524",
-      "dateAdded": "2026-08-06"
-    },
-    {
-      "title": "Dr. G & The Tall Man",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-16",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/46597751/drg-the-tall-man-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
     {
       "title": "Holy Wave",
       "venue": "Resonant Head",
