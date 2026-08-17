@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T07:05:53.290Z",
+  "lastUpdated": "2026-08-17T18:19:45.731Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -3557,7 +3557,7 @@
       "date": "2026-10-07",
       "time": null,
       "price": "$24–$110",
-      "description": "Lauren Sanderson",
+      "description": "Lauren Sanderson, XKYLER",
       "eventUrl": "http://www.prekindle.com/event/36319-lauren-sanderson-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -5247,6 +5247,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Worst Party Ever x Equipment",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-10",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "Worst party ever, Equipment, Ogbert the Nerd, Pomfret",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/worst-party-ever-x-equipment-10-nov",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a8327cf7cd3b8a2a9798417_WPE_QUIPPY_FALL_TOUR_VG.jpeg",
+      "dateAdded": "2026-08-17"
+    },
+    {
       "title": "OCT — On Company Time: The PTO Tour",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -5515,6 +5529,20 @@
       "dateAdded": "2026-07-27"
     },
     {
+      "title": "Don Trip",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-11-19",
+      "time": "8:00 PM",
+      "price": "$28–$80",
+      "description": "Don Trip",
+      "eventUrl": "http://www.prekindle.com/event/44761-don-trip-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949054875806",
+      "dateAdded": "2026-08-17"
+    },
+    {
       "title": "Cat Clyde & Dean Johnson",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -5527,6 +5555,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949068952174",
       "dateAdded": "2026-08-05"
+    },
+    {
+      "title": "2000s Rave (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-20",
+      "time": "9:00 PM",
+      "price": "$25",
+      "description": "2000s Rave",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/2000s-rave-18-20-nov",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a7e7c8106b81985e99372a5_2000s_rave_wide_1920__flyer_%25281%2529.jpeg",
+      "dateAdded": "2026-08-17"
     },
     {
       "title": "The Wilder Blue",
@@ -5625,6 +5667,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949181403168",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Backwoods & Friends",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-11-22",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/49297232/backwoods-friends-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-08-17"
     },
     {
       "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
@@ -5739,6 +5795,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/catch-your-breath.jpeg",
       "dateAdded": "2026-05-27"
+    },
+    {
+      "title": "Yolanda Del Rio",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-12-05",
+      "time": null,
+      "price": null,
+      "description": "Yolanda Del Rio",
+      "eventUrl": "http://www.prekindle.com/event/38764-yolanda-del-rio-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949048528118",
+      "dateAdded": "2026-08-17"
     },
     {
       "title": "OZZOLUTION Venue Shrine 12/5/2026",
