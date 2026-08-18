@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-08-17T18:19:45.731Z",
+  "lastUpdated": "2026-08-18T06:53:08.489Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Holy Wave",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-08-17",
-      "time": null,
-      "price": "$18",
-      "description": "Holy Wave, Helen Kelter Skelter, Rubes",
-      "eventUrl": "http://www.prekindle.com/event/26198-holy-wave-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949077486879",
-      "dateAdded": "2026-07-27"
-    },
     {
       "title": "Surely Tempo",
       "venue": "Resonant Head",
@@ -143,22 +129,6 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "Phil Hamilton",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-08-20",
-      "time": "7:00 PM",
-      "price": "$10 adv / $15 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39191",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39191-cea362e5959cf87195b4e33c4133536d.jpeg",
-      "dateAdded": "2026-07-28"
     },
     {
       "title": "Soft Hands: Purple Faith",
@@ -1079,22 +1049,6 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38261-e7315fb9f43b7d40f0dc35bc984f1108.jpeg",
       "dateAdded": "2026-07-21"
-    },
-    {
-      "title": "Next Halen at The Shrine",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-08-29",
-      "time": "7:00 PM",
-      "price": "$20 adv / $25 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39294",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39294-2eb5ca1fe47871052bee5f9ef162b15e.jpg",
-      "dateAdded": "2026-08-08"
     },
     {
       "title": "SKY RUN ROGER",
@@ -5953,6 +5907,22 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a340efd21ab5c62d6d0f7e2_HARBOUR_Preferred_Promo_Jun_26.jpeg",
       "dateAdded": "2026-06-23"
+    },
+    {
+      "title": "Next Halen at The Shrine",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-12-18",
+      "time": "7:00 PM",
+      "price": "$20 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39294",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39294-2eb5ca1fe47871052bee5f9ef162b15e.jpg",
+      "dateAdded": "2026-08-18"
     },
     {
       "title": "Yheti B2B Toadface - Sleight of Sound Tour (18+)",
