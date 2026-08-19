@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-08-18T06:53:08.489Z",
+  "lastUpdated": "2026-08-19T18:22:50.438Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Surely Tempo",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-08-18",
-      "time": null,
-      "price": "$18",
-      "description": "Surely Tempo, The Sweet Talkers",
-      "eventUrl": "http://www.prekindle.com/event/43637-surely-tempo-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949133408748",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "HANS GRUBER & THE DIE HARDS (ATX ska punk)  /  /  TASTY BANG",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-08-18",
-      "time": "8:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949111874937",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949072990751",
-      "dateAdded": "2026-07-31"
-    },
     {
       "title": "The BOMB Pulse | Fat Dracula | Moon",
       "venue": "The Whittier Bar",
@@ -532,7 +504,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-23",
       "time": "7:30 PM",
-      "price": "$20–$101",
+      "price": "$20–$75",
       "description": "Ella Red​, Zoe Ko, Remy Reilly",
       "eventUrl": "http://www.prekindle.com/event/69224-ella-red-tours-not-real-part-2-oklahoma-city",
       "ageLimit": null,
@@ -617,7 +589,7 @@
       "date": "2026-08-25",
       "time": null,
       "price": "$25",
-      "description": "Drivin N Cryin",
+      "description": "Drivin N Cryin, Beau Jennings",
       "eventUrl": "http://www.prekindle.com/event/63172-drivin-n-cryin-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -998,7 +970,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-29",
       "time": "8:00 PM",
-      "price": "$28–$114",
+      "price": "$28",
       "description": "PawPaw Rod, Casper Sage",
       "eventUrl": "http://www.prekindle.com/event/38182-pawpaw-rod-oklahoma-city",
       "ageLimit": null,
@@ -2423,7 +2395,7 @@
       "eventUrl": "http://www.prekindle.com/event/37148-amy-grant-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949137187360",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949047104920",
       "dateAdded": "2026-07-16"
     },
     {
@@ -4598,7 +4570,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-25",
       "time": "7:30 PM",
-      "price": "$41 to $98",
+      "price": "$41",
       "description": "Lords of Acid, Princess Superstar, Tony & the Kiki, MZ NEON",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/lords-of-acid-25-oct",
       "ageLimit": "ALL AGES",
@@ -5193,11 +5165,11 @@
       "date": "2026-11-08",
       "time": null,
       "price": "$25–$85",
-      "description": "Wax, DJ Hoppa",
+      "description": "Wax, DJ Hoppa, The Palmer Squares",
       "eventUrl": "http://www.prekindle.com/event/14659-wax-and-dj-hoppa-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121981117",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949045164942",
       "dateAdded": "2026-07-16"
     },
     {
@@ -5206,13 +5178,27 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-10",
       "time": "7:00 PM",
-      "price": null,
+      "price": "$25",
       "description": "Worst party ever, Equipment, Ogbert the Nerd, Pomfret",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/worst-party-ever-x-equipment-10-nov",
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a8327cf7cd3b8a2a9798417_WPE_QUIPPY_FALL_TOUR_VG.jpeg",
       "dateAdded": "2026-08-17"
+    },
+    {
+      "title": "Trish Toledo",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-11-10",
+      "time": "8:00 PM",
+      "price": "$23–$75",
+      "description": "Trish Toledo",
+      "eventUrl": "http://www.prekindle.com/event/69722-trish-toledo-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949047104320",
+      "dateAdded": "2026-08-19"
     },
     {
       "title": "OCT — On Company Time: The PTO Tour",
@@ -5257,6 +5243,20 @@
       "dateAdded": "2026-04-28"
     },
     {
+      "title": "Wilderado",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-11-11",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/47037933/wilderado-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-08-19"
+    },
+    {
       "title": "Big Bill | The Ugly Cowboys | Diet Riot",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -5269,6 +5269,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949059174388",
       "dateAdded": "2026-08-07"
+    },
+    {
+      "title": "Chris Knight with special guest Jared Hard",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-11-12",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949047818092",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949046104903",
+      "dateAdded": "2026-08-19"
     },
     {
       "title": "Post Animal: Maybe You Have To Tour",
@@ -5511,6 +5525,20 @@
       "dateAdded": "2026-08-05"
     },
     {
+      "title": "Mojo Brookzz",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-19",
+      "time": null,
+      "price": null,
+      "description": "Mojo Brookzz",
+      "eventUrl": "http://www.prekindle.com/event/14953-mojo-brookzz-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949045356708",
+      "dateAdded": "2026-08-19"
+    },
+    {
       "title": "2000s Rave (18+)",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -5609,6 +5637,22 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "Phil Hamilton",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-21",
+      "time": "7:00 PM",
+      "price": "$12 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39368",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-08-19"
+    },
+    {
       "title": "Nick Shoulders - Apocalypse, Never! Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -5623,18 +5667,18 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Backwoods & Friends",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
+      "title": "Oso Oso",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
       "date": "2026-11-22",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/49297232/backwoods-friends-tulsa-cains-ballroom?partner_id=100",
+      "time": null,
+      "price": "$30",
+      "description": "Oso Oso, Liquid Mike, bugsy",
+      "eventUrl": "http://www.prekindle.com/event/78121-oso-oso-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-17"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949048401491",
+      "dateAdded": "2026-08-19"
     },
     {
       "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
@@ -5756,7 +5800,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-05",
       "time": null,
-      "price": null,
+      "price": "$20–$100",
       "description": "Yolanda Del Rio",
       "eventUrl": "http://www.prekindle.com/event/38764-yolanda-del-rio-oklahoma-city",
       "ageLimit": null,
@@ -5807,6 +5851,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648454666393",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "John R. Miller",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-12-08",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949047810141",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949047808012",
+      "dateAdded": "2026-08-19"
     },
     {
       "title": "Robby Hoffman: Live On Tour",
@@ -6113,6 +6171,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "Michelle Branch",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-03-05",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/63682874/michelle-branch-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-08-19"
     },
     {
       "title": "Matt Stone as Elvis in Person",
