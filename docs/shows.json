@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T06:54:58.831Z",
+  "lastUpdated": "2026-08-20T18:20:07.910Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -742,7 +742,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-28",
       "time": "9:00 PM",
-      "price": "$15",
+      "price": "$15 to $60",
       "description": "The Burnt CDs, Outkast, Kesha, Justin Timberlake, T Pain, Ludacris, Panic! at the Disco, Avril Lavigne",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-burnt-cds-00-s-tribute-28-aug",
       "ageLimit": null,
@@ -927,11 +927,11 @@
       "date": "2026-08-29",
       "time": "8:00 PM",
       "price": "$28",
-      "description": "PawPaw Rod, Casper Sage",
+      "description": "PawPaw Rod, Jean Carter, KMRE",
       "eventUrl": "http://www.prekindle.com/event/38182-pawpaw-rod-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151127089",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949043486876",
       "dateAdded": "2026-07-16"
     },
     {
@@ -1859,6 +1859,20 @@
       "dateAdded": "2026-08-05"
     },
     {
+      "title": "East Nash Grass Bluegrass Brunch Takeover",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-09-13",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949046286803",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949046285870",
+      "dateAdded": "2026-08-20"
+    },
+    {
       "title": "Me Like Bees",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2007,7 +2021,7 @@
       "date": "2026-09-16",
       "time": "8:00 PM",
       "price": "$25",
-      "description": "Twin Temple",
+      "description": "Twin Temple, Midnight Cowgirls",
       "eventUrl": "http://www.prekindle.com/event/29343-twin-temple-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4037,7 +4051,7 @@
       "date": "2026-10-16",
       "time": "8:00 PM",
       "price": "$20–$73",
-      "description": "Elizabeth Nichols",
+      "description": "Elizabeth Nichols, Clayton Mullen",
       "eventUrl": "http://www.prekindle.com/event/73618-elizabeth-nichols-i-dont-kiss-and-tell-i-kiss-and-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4187,6 +4201,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a7361888faa662b792508fa_EW_PROMO.jpeg",
       "dateAdded": "2026-08-05"
+    },
+    {
+      "title": "KELS - Dirty Blues Princess Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-18",
+      "time": "8:00 PM",
+      "price": "$20–$75",
+      "description": "Kels",
+      "eventUrl": "http://www.prekindle.com/event/85814-kels-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949043667863",
+      "dateAdded": "2026-08-20"
     },
     {
       "title": "Michigander",
@@ -5199,6 +5227,20 @@
       "dateAdded": "2026-04-28"
     },
     {
+      "title": "bleood – KILL YOUR IDOLS TOUR",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-11-11",
+      "time": "8:00 PM",
+      "price": "$25–$123",
+      "description": "bleood",
+      "eventUrl": "http://www.prekindle.com/event/89711-bleood-kill-your-idols-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949052327744",
+      "dateAdded": "2026-08-20"
+    },
+    {
       "title": "Wilderado",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -5486,7 +5528,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-19",
       "time": null,
-      "price": null,
+      "price": "$40–$192",
       "description": "Mojo Brookzz",
       "eventUrl": "http://www.prekindle.com/event/14953-mojo-brookzz-oklahoma-city",
       "ageLimit": null,
@@ -5628,7 +5670,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-11-22",
       "time": null,
-      "price": "$30",
+      "price": "$25",
       "description": "Oso Oso, Liquid Mike, bugsy",
       "eventUrl": "http://www.prekindle.com/event/78121-oso-oso-oklahoma-city",
       "ageLimit": null,
@@ -6031,6 +6073,20 @@
       "dateAdded": "2026-08-11"
     },
     {
+      "title": "Chris Travis - The Prefix Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-01-10",
+      "time": "8:00 PM",
+      "price": "$80–$125",
+      "description": "Chris Travis",
+      "eventUrl": "http://www.prekindle.com/event/59796-chris-travis-the-prefix-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183370428",
+      "dateAdded": "2026-08-20"
+    },
+    {
       "title": "Logan Ryan Band",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -6127,34 +6183,6 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "Michelle Branch",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2027-03-04",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/96618349/michelle-branch-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-20"
-    },
-    {
-      "title": "Michelle Branch",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2027-03-05",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/63682874/michelle-branch-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-19"
     },
     {
       "title": "Matt Stone as Elvis in Person",
