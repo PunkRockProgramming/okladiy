@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T06:55:55.732Z",
+  "lastUpdated": "2026-08-21T18:19:21.890Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -206,7 +206,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-22",
       "time": null,
-      "price": "$27–$142",
+      "price": "$27–$52",
       "description": "LOE SHIMMY, Lakeyah",
       "eventUrl": "http://www.prekindle.com/event/79496-loe-shimmy-pretty-girls-run-the-world-tour-oklahoma-city",
       "ageLimit": null,
@@ -1011,7 +1011,7 @@
       "dateAdded": "2026-08-14"
     },
     {
-      "title": "Hazlett",
+      "title": "POSTPONED Hazlett",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-01",
@@ -1022,7 +1022,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a2c133c7c371892d7c6a3e7_Photo_2.jpeg",
-      "dateAdded": "2026-06-15"
+      "dateAdded": "2026-08-21"
     },
     {
       "title": "Congress the Band",
@@ -1385,11 +1385,11 @@
       "date": "2026-09-08",
       "time": null,
       "price": "$25–$167",
-      "description": "Peaches",
+      "description": "Peaches, Wheelchair Sports Camp",
       "eventUrl": "http://www.prekindle.com/event/68425-peaches-no-lube-so-rude-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131925838",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949042541994",
       "dateAdded": "2026-07-16"
     },
     {
@@ -3307,6 +3307,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Mexican Slum Rats",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-05",
+      "time": null,
+      "price": "$15",
+      "description": "Mexican Slum Rats",
+      "eventUrl": "http://www.prekindle.com/event/67895-mexican-slum-rats-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949045181617",
+      "dateAdded": "2026-08-21"
+    },
+    {
       "title": "Łaszewo - ROAD TO BREAKAWAY TOUR",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3575,6 +3589,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949059201206",
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "King Iso - Ghetto Psycho Tour",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-09",
+      "time": "8:00 PM",
+      "price": "$34",
+      "description": "King Iso, Taebo Tha Truth, Matt Phoenix, VenomStayDrippin",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/king-iso-ghetto-psycho-tour-09-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a8769ac5b7a44dc7c933946_King_Iso_vg_local.jpeg",
+      "dateAdded": "2026-08-21"
     },
     {
       "title": "Mountain Grass Unit - Appalachian Smoke Tour",
@@ -5148,7 +5176,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-10",
       "time": "8:00 PM",
-      "price": "$28",
+      "price": "$23–$75",
       "description": "Trish Toledo",
       "eventUrl": "http://www.prekindle.com/event/69722-trish-toledo-oklahoma-city",
       "ageLimit": null,
@@ -5500,7 +5528,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-19",
       "time": null,
-      "price": null,
+      "price": "$40–$192",
       "description": "Mojo Brookzz",
       "eventUrl": "http://www.prekindle.com/event/14953-mojo-brookzz-oklahoma-city",
       "ageLimit": null,
@@ -5695,6 +5723,20 @@
       "dateAdded": "2026-03-21"
     },
     {
+      "title": "Urban Trivia Live",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-28",
+      "time": null,
+      "price": "$25–$60",
+      "description": "Urban Trivia",
+      "eventUrl": "http://www.prekindle.com/event/86817-urban-trivia-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949043390963",
+      "dateAdded": "2026-08-21"
+    },
+    {
       "title": "A Drag Queen Christmas - MEET & GREET UPGRADE",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -5770,7 +5812,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-05",
       "time": null,
-      "price": "$30–$50",
+      "price": "$20–$100",
       "description": "Yolanda Del Rio",
       "eventUrl": "http://www.prekindle.com/event/38764-yolanda-del-rio-oklahoma-city",
       "ageLimit": null,
