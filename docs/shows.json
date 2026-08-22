@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-08-21T18:19:21.890Z",
+  "lastUpdated": "2026-08-22T06:49:38.534Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Soft Hands: Purple Faith",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-08-21",
-      "time": null,
-      "price": "$20–$40",
-      "description": "Soft Hands",
-      "eventUrl": "http://www.prekindle.com/event/41786-soft-hands-purple-faith-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141410941",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "Girls Rock! Camp Fundraiser!",
       "venue": "Noise Town",
@@ -31,182 +17,12 @@
       "dateAdded": "2026-07-27"
     },
     {
-      "title": "Cole Phillips",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-08-21",
-      "time": "8:00 PM",
-      "price": "$28",
-      "description": "Cole Phillips, J Rod Wald",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/cole-phillips-21-aug",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a341157547c26ba508a1b6e_cole_phillips_promo.jpeg",
-      "dateAdded": "2026-06-19"
-    },
-    {
-      "title": "A Tribute to Turnpike Troubadours on Strings by Lantern Light Quartet",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-08-21",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949075456918",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949066671982",
-      "dateAdded": "2026-08-05"
-    },
-    {
-      "title": "Com Truise",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-08-21",
-      "time": "8:00 PM",
-      "price": "$25–$75",
-      "description": "Com Truise, Softaware",
-      "eventUrl": "http://www.prekindle.com/event/86944-com-truise-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949065636316",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Sincere Engineer - The Probable Claws Tour",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-08-21",
-      "time": null,
-      "price": "$22",
-      "description": "Sincere Engineer, Stay Inside, Smug LLC",
-      "eventUrl": "http://www.prekindle.com/event/97354-sincere-engineer-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648460849254",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Blue Whale Comedy Festival Friday Pass",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/61832577/blue-whale-comedy-festival-friday-pass-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "Blue Whale Comedy Festival Sketches N’ Laughs Pass",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/51973228/blue-whale-comedy-festival-sketches-nlaughs-pass-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "Jay Jurden",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": "6 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/96127341/jay-jurden-tulsa-cains-side-stage?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "The Next Wave: Top 5 Submission Comics",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": "7:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/65145480/the-next-wavetop-5-submission-comics-tulsa-cains-side-stage?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "Blue Whale Comedy Festival Blue Ballroom Bundle",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/72359216/blue-whale-comedy-festival-blue-ballroom-bundle-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "Melissa Villaseñor + Wolves of Glendale",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-08-21",
-      "time": "9 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "javascript:void(0)",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "The Moody Dudes",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-08-21",
-      "time": "7:00 PM",
-      "price": "$12 adv / $15 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39085",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39085-bed50f42e8716139719eef428be920c9.png",
-      "dateAdded": "2026-07-17"
-    },
-    {
-      "title": "HOPELESS OTIS (NYC punk)  /  /  CUTTHROAT BASTARDS",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-08-21",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949111871367",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070279543",
-      "dateAdded": "2026-07-23"
-    },
-    {
       "title": "Loe Shimmy - Pretty Girls Run the World Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-22",
       "time": null,
-      "price": "$27–$52",
+      "price": "$32–$52",
       "description": "LOE SHIMMY, Lakeyah",
       "eventUrl": "http://www.prekindle.com/event/79496-loe-shimmy-pretty-girls-run-the-world-tour-oklahoma-city",
       "ageLimit": null,
@@ -3873,7 +3689,7 @@
       "tags": [
         "tulsa"
       ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39188-847f4a7ac8eb56d535011e9aba059690.jpg",
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39188-79044d40e5937726ceea19340f2fbf44.jpg",
       "dateAdded": "2026-07-28"
     },
     {
@@ -5071,6 +4887,22 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Mother Road Sons",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-06",
+      "time": "7:00 PM",
+      "price": "$22 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39432",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39432-c379257509b40d8adf07e63508fc8891.jpeg",
+      "dateAdded": "2026-08-22"
+    },
+    {
       "title": "Wheel of Fortune LIVE!",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -5379,6 +5211,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151703778",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Faith Schueler & Kanton Teen And The Penny Pickers",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-13",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39423",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39423-e0eb9a572ab02253774ac640eb44faaf.jpeg",
+      "dateAdded": "2026-08-22"
     },
     {
       "title": "Lily Rose",
@@ -6213,6 +6061,20 @@
       "dateAdded": "2026-08-10"
     },
     {
+      "title": "Dame Atlas",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-03-06",
+      "time": null,
+      "price": "$40–$75",
+      "description": "Dame Atlas",
+      "eventUrl": "http://www.prekindle.com/event/17479-dame-atlas-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949047128764",
+      "dateAdded": "2026-08-22"
+    },
+    {
       "title": "Jeff Arcuri: The Road Trip Tour",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -6285,6 +6147,34 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37771-5066818ae5497c56f690c712166b6554.png",
       "dateAdded": "2026-04-12"
+    },
+    {
+      "title": "Blue Whale Comedy Festival Sketches N’ Laughs Pass",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-08-21",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "javascript:void(0)",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-08-22"
+    },
+    {
+      "title": "Blue Whale Comedy Festival Blue Ballroom Bundle",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-08-21",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "javascript:void(0)",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-08-22"
     }
   ]
 }
