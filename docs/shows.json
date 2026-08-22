@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-08-22T06:49:38.534Z",
+  "lastUpdated": "2026-08-22T18:12:34.187Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Girls Rock! Camp Fundraiser!",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-08-21",
-      "time": "8:00 PM",
-      "price": "$10",
-      "description": "Girls Rock! Camp Fundraiser featuring performances from China Blue, EZ4U2SEY, & Horse!Doors 8pm Suggested Donation $10All funds will go the Girls Rock Camp Tulsa for next year’s camp!",
-      "eventUrl": "https://www.noisetowntulsa.com/events/girls-rock-camp-fundraiser",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1785176610804-MJMH2GM1EXC65I8KD44R/Girls+Rock+Flyer+V2.png",
-      "dateAdded": "2026-07-27"
-    },
     {
       "title": "Loe Shimmy - Pretty Girls Run the World Tour",
       "venue": "Tower Theatre",
@@ -6147,34 +6133,6 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37771-5066818ae5497c56f690c712166b6554.png",
       "dateAdded": "2026-04-12"
-    },
-    {
-      "title": "Blue Whale Comedy Festival Sketches N’ Laughs Pass",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2027-08-21",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "javascript:void(0)",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-22"
-    },
-    {
-      "title": "Blue Whale Comedy Festival Blue Ballroom Bundle",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2027-08-21",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "javascript:void(0)",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-22"
     }
   ]
 }
