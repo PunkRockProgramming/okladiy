@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T06:50:42.533Z",
+  "lastUpdated": "2026-08-23T18:12:03.490Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -2583,6 +2583,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167255157",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "KVS Showcase",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-27",
+      "time": null,
+      "price": "$15",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/27369-kvs-showcase-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "http://www.prekindle.com/images/prekindle-logo.png",
+      "dateAdded": "2026-08-23"
     },
     {
       "title": "Rolling Quartz 롤링쿼츠",
