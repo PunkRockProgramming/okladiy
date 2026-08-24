@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "2026-08-24T07:08:59.136Z",
-  "scraperErrors": [],
+  "lastUpdated": "2026-08-24T18:21:53.595Z",
+  "scraperErrors": [
+    {
+      "scraper": "grandroyale",
+      "error": "request to https://www.prekindle.com/organizer-grid-widget-main/id/-2852852648693208159/?fp=false&thumbs=true&style=null failed, reason: read ECONNRESET"
+    }
+  ],
   "shows": [
     {
       "title": "Route 66 Family Movie Night: Cars",
@@ -73,20 +78,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "TRIVIA TUESDAY",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-08-25",
-      "time": "7:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949111858477",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070277468",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "Maisy Owen | Jordan Day | Amber Watson",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -155,20 +146,6 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "#WASTEDHOURS ft. TORSO MAN",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-08-26",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949111858042",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111858014",
-      "dateAdded": "2026-07-16"
     },
     {
       "title": "Bob Wills' Texas Playboys",
@@ -341,20 +318,6 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38556-c496b3898d867d0538c2deae8ac00d69.png",
       "dateAdded": "2026-05-21"
-    },
-    {
-      "title": "MR. SOFISTICATION (Ada cold wave)  /  /  VERANDA BANDITS  /  /  KING WITCH MOTHER",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-08-28",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949111855088",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070276852",
-      "dateAdded": "2026-08-02"
     },
     {
       "title": "House of Heavy",
@@ -629,20 +592,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "GUNSAFE (folk punk)",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-09-01",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949109425955",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109419410",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "Grandmaster",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -655,20 +604,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949056323742",
       "dateAdded": "2026-07-28"
-    },
-    {
-      "title": "IV AND THE STRANGE BAND with CLOWNVIS  /  /  BILLY IRWIN & THE TAMBITS",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-09-02",
-      "time": "8:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949153889225",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949069784049",
-      "dateAdded": "2026-08-03"
     },
     {
       "title": "Shearling",
@@ -697,6 +632,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111116451",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Taranis x Between the Broken x Sunkeeper x Who Will Know",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-04",
+      "time": "8:00 PM",
+      "price": "$15",
+      "description": "Taranis, Between the Broken, Sunkeeper, Who Will Know",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/taranis-x-between-the-broken-x-sunkeeper-x-who-will-know-04-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a89e27c8775ce81a7c58cbf_IMG_6112.jpeg",
+      "dateAdded": "2026-08-24"
     },
     {
       "title": "Dustin Perkins",
@@ -883,20 +832,6 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39024-5dc21380a7f65eaa40dd201b0746c009.jpeg",
       "dateAdded": "2026-07-08"
-    },
-    {
-      "title": "TINY JOY BAND (Witchita Falls indie / alternative rock)",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-09-05",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949109412111",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109407534",
-      "dateAdded": "2026-07-16"
     },
     {
       "title": "Auntie Ace | ThunderWof. | djnoname. | Michael Palazzo",
@@ -1195,6 +1130,20 @@
       "dateAdded": "2026-08-07"
     },
     {
+      "title": "BachAmor Presents: Salsa Dance Night",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-09-11",
+      "time": null,
+      "price": "$35–$50",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/88874-bachamor-presents-salsa-dance-night-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949039828257",
+      "dateAdded": "2026-08-24"
+    },
+    {
       "title": "Ray Wylie Hubbard",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -1349,20 +1298,6 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "DOOM SCROLL (Colorado folk punk)  /  /  VICTIM OF DOUG (Memphis post-punk)",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-09-12",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949109398138",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109390459",
-      "dateAdded": "2026-07-16"
     },
     {
       "title": "Powerplant",
@@ -1889,6 +1824,20 @@
       "dateAdded": "2026-07-15"
     },
     {
+      "title": "SCHOOL OF ROCK",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-09-20",
+      "time": "12:00 PM",
+      "price": "$22",
+      "description": "School of Rock Tulsa/BA",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/school-of-rock-20-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a877fef3f8c0a9ed683970d_Vanguard_0915_wlogo.jpeg",
+      "dateAdded": "2026-08-24"
+    },
+    {
       "title": "Bluegrass Brunch with Johnny Mullenax",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -2331,20 +2280,6 @@
       "dateAdded": "2026-07-10"
     },
     {
-      "title": "THE SCHISMS (ATX psych rock) with MARY CHICKEN SOUP & RICE (LA post-punk)  /  /  THAT SICK FEELING (OKC)",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-09-25",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100875277",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100870632",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "Glimmers & Rematch",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -2681,20 +2616,6 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-06"
-    },
-    {
-      "title": "THE BUTTS ATX punk)  /  /  FAIRWEATHER ENEMIES (OKC)",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-01",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100869904",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100865978",
-      "dateAdded": "2026-07-16"
     },
     {
       "title": "Solya",
@@ -3423,20 +3344,6 @@
       "dateAdded": "2026-05-30"
     },
     {
-      "title": "CAMMY-KUN (New York Hip Hop / Emo Rap)",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-11",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100860485",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100859645",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "Sleeping With Sirens: An Ending In Itself Tour",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -4139,20 +4046,6 @@
       "dateAdded": "2026-07-23"
     },
     {
-      "title": "DEAD DON’T DIE (Des Moines horror punk)",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-24",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100853661",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100852686",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "Lords of Acid",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4220,20 +4113,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949154813578",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "ROCK BOTTOM STRING BAND (TX folk punk)  /  /  MARTY BUSH (KS Americana singer-songwriter)",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-28",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100850957",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100847902",
       "dateAdded": "2026-07-16"
     },
     {
@@ -5583,6 +5462,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/whitechapel-20th-anniversary-tour.jpeg",
       "dateAdded": "2026-06-10"
+    },
+    {
+      "title": "Deorro",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-12-12",
+      "time": null,
+      "price": "$30",
+      "description": "Deorro",
+      "eventUrl": "http://www.prekindle.com/event/37655-deorro-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949039817897",
+      "dateAdded": "2026-08-24"
     },
     {
       "title": "Tennessee Jet",
