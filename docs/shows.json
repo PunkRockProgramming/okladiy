@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T06:57:03.932Z",
+  "lastUpdated": "2026-08-25T18:21:01.121Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -487,6 +487,20 @@
       "dateAdded": "2026-07-12"
     },
     {
+      "title": "PINKOPAQUE: TRIPHOP  /  /  DISCO  /  /  INDIE SLEAZE  /  /  SYNTH",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-08-29",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949111849044",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070274495",
+      "dateAdded": "2026-08-25"
+    },
+    {
       "title": "The Browning Burn This World (EVOLVED) USA V2",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -579,11 +593,11 @@
       "date": "2026-09-01",
       "time": "8:00 PM",
       "price": "$20–$75",
-      "description": "Congress the Band",
+      "description": "Congress the Band, Boston Busler",
       "eventUrl": "http://www.prekindle.com/event/15174-congress-the-band-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156174480",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038444647",
       "dateAdded": "2026-07-16"
     },
     {
@@ -741,6 +755,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39084-7f7b439101cccd8267d23f9e78ac7377.png",
       "dateAdded": "2026-07-17"
+    },
+    {
+      "title": "BANG BANG QUEERPUNK VARIETY SHOW",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-09-04",
+      "time": "9:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949109413497",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648693044554",
+      "dateAdded": "2026-08-25"
     },
     {
       "title": "GoldFord – Space of the Heart Tour",
@@ -948,7 +976,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-07",
       "time": null,
-      "price": "$38–$152",
+      "price": "$25–$152",
       "description": "Minus the Bear, Keep",
       "eventUrl": "http://www.prekindle.com/event/27911-minus-the-bear-menos-el-oso-20th-anniversary-tour-oklahoma-city",
       "ageLimit": null,
@@ -2601,7 +2629,7 @@
       "eventUrl": "http://www.prekindle.com/event/27369-kvs-showcase-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "http://www.prekindle.com/images/prekindle-logo.png",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038682116",
       "dateAdded": "2026-08-23"
     },
     {
@@ -3455,6 +3483,20 @@
       "dateAdded": "2026-06-23"
     },
     {
+      "title": "Black Magnet with Pink Stiletto and MVTANT",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-11",
+      "time": null,
+      "price": "$15",
+      "description": "Black Magnet, MVTANT, Pink Stiletto",
+      "eventUrl": "http://www.prekindle.com/event/78677-black-magnet-with-pink-stiletto-and-mvtant-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038865029",
+      "dateAdded": "2026-08-25"
+    },
+    {
       "title": "Sonic: Live In Concert",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4291,7 +4333,7 @@
       "date": "2026-10-28",
       "time": null,
       "price": "$30–$178",
-      "description": "Madeon",
+      "description": "Madeon, Anamanaguchi",
       "eventUrl": "http://www.prekindle.com/event/53178-madeon-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4497,6 +4539,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166764190",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Dead Sullivan",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-01",
+      "time": null,
+      "price": "$15",
+      "description": "Dead Sullivan",
+      "eventUrl": "http://www.prekindle.com/event/89831-dead-sullivan-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949039420569",
+      "dateAdded": "2026-08-25"
     },
     {
       "title": "Ryan Bingham and The Texas Gentlemen - Still Gettin' Away With It Tour",
@@ -5470,7 +5526,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-11-28",
       "time": null,
-      "price": "$25–$60",
+      "price": "$23–$60",
       "description": "Urban Trivia",
       "eventUrl": "http://www.prekindle.com/event/86817-urban-trivia-oklahoma-city",
       "ageLimit": null,
