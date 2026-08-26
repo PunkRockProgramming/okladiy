@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T06:58:05.226Z",
+  "lastUpdated": "2026-08-26T19:29:10.357Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -478,7 +478,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-30",
       "time": "8:00 PM",
-      "price": "$20–$75",
+      "price": "$15–$75",
       "description": "Bungalow Collect, Gold Lincoln",
       "eventUrl": "http://www.prekindle.com/event/53252-bungalow-collect-presents-disco-rap-keep-it-honest-across-america-oklahoma-city",
       "ageLimit": null,
@@ -1369,6 +1369,22 @@
       "dateAdded": "2026-08-11"
     },
     {
+      "title": "ZAPRUDER FILM SCHOOL //  TBA",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-09-12",
+      "time": "10:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/12/zapruder-film-school-tba",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-08-26"
+    },
+    {
       "title": "DOOM SCROLL (Colorado folk punk)  /  /  VICTIM OF DOUG (Memphis post-punk)",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
@@ -1517,7 +1533,7 @@
       "date": "2026-09-14",
       "time": null,
       "price": "$15",
-      "description": "Grivo, Some Fear, Autumn Child",
+      "description": "Grivo, Some Fear, High., Autumn Child",
       "eventUrl": "http://www.prekindle.com/event/23484-grivo-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1605,7 +1621,7 @@
       "eventUrl": "http://www.prekindle.com/event/29343-twin-temple-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949095317708",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949037518439",
       "dateAdded": "2026-07-16"
     },
     {
@@ -3225,7 +3241,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/35113340/igorrrnorth-american-tour-2026-oklahoma-city-diamond-ballroom?partner_id=100",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/igorrr-north-american-tour-2026.jpeg",
+      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/08/igorrr-north-american-tour-2026.jpeg",
       "dateAdded": "2026-05-21"
     },
     {
@@ -4569,6 +4585,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "The Animeros",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-03",
+      "time": null,
+      "price": "$17",
+      "description": "The Animeros",
+      "eventUrl": "http://www.prekindle.com/event/37283-the-animeros-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949039126506",
+      "dateAdded": "2026-08-26"
+    },
+    {
       "title": "LENNY PEARCE - TODDLER RAVE WORLD TOUR",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -5696,7 +5726,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-12",
       "time": null,
-      "price": "$30",
+      "price": "$30–$50",
       "description": "Deorro",
       "eventUrl": "http://www.prekindle.com/event/37655-deorro-oklahoma-city",
       "ageLimit": null,
@@ -5855,6 +5885,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "That 1 Guy",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-01-08",
+      "time": "8:00 PM",
+      "price": "$18 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39475",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39475-01693fb700e9fc173c2b52adbee0e232.jpeg",
+      "dateAdded": "2026-08-26"
     },
     {
       "title": "Chris Travis - The Prefix Tour",
@@ -6025,6 +6071,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39339-2e2767cc4c0a71140fa8c385c85e964a.jpeg",
       "dateAdded": "2026-08-14"
+    },
+    {
+      "title": "Rock Anthem",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-03-19",
+      "time": "7:00 PM",
+      "price": "$10",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39481",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39481-95bad9e72a6c132c45052b68d512133c.jpeg",
+      "dateAdded": "2026-08-26"
     },
     {
       "title": "DENNY LOVE: SHOW LOVE TOUR",
