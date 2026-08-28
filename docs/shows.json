@@ -1,56 +1,14 @@
 {
-  "lastUpdated": "2026-08-28T01:50:39.719Z",
+  "lastUpdated": "2026-08-28T18:27:50.588Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Bob Wills' Texas Playboys",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-08-27",
-      "time": null,
-      "price": "$29–$49",
-      "description": "Bob Wills' Texas Playboys",
-      "eventUrl": "http://www.prekindle.com/event/47242-bob-wills-texas-playboys-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141649155",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Virginia Creeper w /  Charlotte Bumgarner, Powdr, Douglas",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-08-27",
-      "time": null,
-      "price": "$12",
-      "description": "Virginia Creeper, Charlotte Bumgarner, Powdr, Douglas",
-      "eventUrl": "http://www.prekindle.com/event/94871-virginia-creeper-with-charlotte-bumgarner-powdr-douglas-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949071495418",
-      "dateAdded": "2026-07-31"
-    },
-    {
-      "title": "Charles Wesley Godwin - The Christian Name Tour",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-08-27",
-      "time": null,
-      "price": "$28–$103",
-      "description": "Charles Wesley Godwin, Colby Acuff",
-      "eventUrl": "http://www.prekindle.com/event/62427-charles-wesley-godwin-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140008980",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "Toast to Toby Keith",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-08-28",
       "time": null,
-      "price": "$17–$85",
+      "price": "$20–$85",
       "description": "A Kendrik Mckinney Production",
       "eventUrl": "http://www.prekindle.com/event/85776-toast-to-toby-keith-oklahoma-city",
       "ageLimit": null,
@@ -78,7 +36,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-28",
       "time": "9:00 PM",
-      "price": "$15 to $60",
+      "price": "$22 to $60",
       "description": "The Burnt CDs, Outkast, Kesha, Justin Timberlake, T Pain, Ludacris, Panic! at the Disco, Avril Lavigne",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-burnt-cds-00-s-tribute-28-aug",
       "ageLimit": null,
@@ -106,7 +64,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-08-28",
       "time": "8:00 PM",
-      "price": "$15–$75",
+      "price": "$20–$75",
       "description": "Good Terms, Stateside, Sunfo",
       "eventUrl": "http://www.prekindle.com/event/14762-good-terms-oklahoma-city",
       "ageLimit": null,
@@ -319,7 +277,7 @@
       "venue": "Soundpony",
       "venueUrl": "https://www.thesoundpony.com",
       "date": "2026-08-29",
-      "time": "10:00 PM",
+      "time": null,
       "price": null,
       "description": null,
       "eventUrl": "https://www.thesoundpony.com/live-music/2026/8/29/sky-run-roger",
@@ -459,7 +417,7 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "GUNSAFE (folk punk)",
+      "title": "GUNSAFE (firebrand country)  /  /  BRAD FIELDER",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-09-01",
@@ -469,8 +427,8 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949109425955",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109419410",
-      "dateAdded": "2026-08-25"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034917767",
+      "dateAdded": "2026-08-28"
     },
     {
       "title": "Grandmaster",
@@ -487,7 +445,7 @@
       "dateAdded": "2026-07-28"
     },
     {
-      "title": "IV AND THE STRANGE BAND with CLOWNVIS  /  /  BILLY IRWIN & THE TAMBITS",
+      "title": "IV AND THE STRANGE BAND with CLOWNVIS  /  /  BILLY IRWIN & THE GAMBITS",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-09-02",
@@ -497,8 +455,8 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949153889225",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949069784049",
-      "dateAdded": "2026-08-25"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034784155",
+      "dateAdded": "2026-08-28"
     },
     {
       "title": "Shearling",
@@ -743,23 +701,7 @@
       "dateAdded": "2026-07-08"
     },
     {
-      "title": "SKY RUN ROGER",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-09-05",
-      "time": "10:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/5/sky-run-roger",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-08-25"
-    },
-    {
-      "title": "TINY JOY BAND (Witchita Falls indie / alternative rock)",
+      "title": "TINY JOY (Wichita Falls alt rock)  /  /  BELLE RIOTS",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-09-05",
@@ -770,7 +712,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109407534",
-      "dateAdded": "2026-08-25"
+      "dateAdded": "2026-08-28"
     },
     {
       "title": "Auntie Ace | ThunderWof. | djnoname. | Michael Palazzo",
@@ -820,7 +762,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-07",
       "time": null,
-      "price": "$25–$85",
+      "price": "$14–$85",
       "description": "Minus the Bear, Keep",
       "eventUrl": "http://www.prekindle.com/event/27911-minus-the-bear-menos-el-oso-20th-anniversary-tour-oklahoma-city",
       "ageLimit": null,
@@ -834,7 +776,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-08",
       "time": null,
-      "price": "$19–$167",
+      "price": "$13–$167",
       "description": "Peaches, Wheelchair Sports Camp",
       "eventUrl": "http://www.prekindle.com/event/68425-peaches-no-lube-so-rude-tour-oklahoma-city",
       "ageLimit": null,
@@ -876,7 +818,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-09",
       "time": null,
-      "price": "$23–$75",
+      "price": "$15–$75",
       "description": "Madison Ryann Ward, Mr. Talkbox",
       "eventUrl": "http://www.prekindle.com/event/24717-madison-ryann-ward-the-standing-tall-tour-oklahoma-city",
       "ageLimit": null,
@@ -925,6 +867,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151758306",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "BLACK TAPESTRY (Phoenix synth-pop)  /  /  THE REMOVERS",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-09-09",
+      "time": "8:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949034910174",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034906250",
+      "dateAdded": "2026-08-28"
     },
     {
       "title": "Toni Romiti",
@@ -1141,22 +1097,6 @@
       "dateAdded": "2026-05-21"
     },
     {
-      "title": "DJ SAYETH",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-09-11",
-      "time": "10:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/11/dj-sayeth-k6hec",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-08-25"
-    },
-    {
       "title": "LUVBASS DJ NIGHT at LIVE! ON THE PLAZA CRUISE NIGHT",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
@@ -1297,34 +1237,18 @@
       "dateAdded": "2026-08-11"
     },
     {
-      "title": "ZAPRUDER FILM SCHOOL //  TBA",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-09-12",
-      "time": "10:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/12/zapruder-film-school-tba",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-08-26"
-    },
-    {
-      "title": "DOOM SCROLL (Colorado folk punk)  /  /  VICTIM OF DOUG (Memphis post-punk)",
+      "title": "DOOM SCROLL (Colorado folk punk)  /  /  VICTIM OF DOUG (Memphis post-punk)  /  /  CHRIS ALAN COX TRIO",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-09-12",
-      "time": "9:00 PM",
+      "time": "8:30 PM",
       "price": null,
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949109398138",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109390459",
-      "dateAdded": "2026-08-25"
+      "dateAdded": "2026-08-28"
     },
     {
       "title": "Powerplant",
@@ -1432,7 +1356,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-14",
       "time": null,
-      "price": "$26–$50",
+      "price": "$18–$50",
       "description": "Sleep",
       "eventUrl": "http://www.prekindle.com/event/42958-sleep-north-america-2026-oklahoma-city",
       "ageLimit": null,
@@ -1656,7 +1580,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-18",
       "time": null,
-      "price": "$18–$45",
+      "price": "$9–$45",
       "description": "A Man Named Cash (johnny Cash Tribute)",
       "eventUrl": "http://www.prekindle.com/event/47719-a-man-named-cash-oklahoma-city",
       "ageLimit": null,
@@ -1749,20 +1673,6 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38003-c1745f4821a211be53c4fda787e51ee2.png",
       "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "THE RED 78s (Ada, Red Dirt)",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-09-18",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949037035004",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949037025584",
-      "dateAdded": "2026-08-27"
     },
     {
       "title": "Index Paradox",
@@ -1991,22 +1901,6 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38222-c0fac9aedfc621129b72b5c266a79210.jpeg",
       "dateAdded": "2026-06-19"
-    },
-    {
-      "title": "THE REACH OUTS (MN) // TOASTER GHOST (WI) // STALLONE COBRAS",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-09-20",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/20/the-reachouts-mi-toaster-ghouls-wi-stallone-cobras",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-08-25"
     },
     {
       "title": "Pearl & the Oysters",
@@ -2383,7 +2277,7 @@
       "date": "2026-09-26",
       "time": "6:00 PM",
       "price": null,
-      "description": "GLIMMERS & REMATCH\nThe Cut Your Teeth Tour\nDoors @ 6PM / Show @ 7PM \nGeneral Admission Standing / All Ages",
+      "description": "GLIMMERS & REMATCH\nThe Cut Your Teeth Tour\nw/ special guests DIVA & TARANIS\nDoors @ 6PM / Show @ 7PM \nGeneral Admission Standing / All Ages",
       "eventUrl": "https://www.etix.com/ticket/p/43503366/glimmers-rematch-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -2396,7 +2290,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-26",
       "time": null,
-      "price": "$37–$52",
+      "price": "$18–$52",
       "description": "Abra Cadabra",
       "eventUrl": "http://www.prekindle.com/event/31233-abba-cadabra-oklahoma-city",
       "ageLimit": null,
@@ -2505,22 +2399,6 @@
       "dateAdded": "2026-08-07"
     },
     {
-      "title": "SKY RUN ROGER",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-09-26",
-      "time": "10:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/26/sky-run-roger",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-08-25"
-    },
-    {
       "title": "GOTH NITE: DARK DANICING",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
@@ -2541,7 +2419,7 @@
       "date": "2026-09-27",
       "time": null,
       "price": "$25–$146",
-      "description": "Kidd G, Carv, Grey Oakes",
+      "description": "Kidd G, Grey Oakes, Big Mo",
       "eventUrl": "http://www.prekindle.com/event/36318-kidd-g-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2708,7 +2586,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-01",
       "time": null,
-      "price": "$14–$65",
+      "price": "$9–$65",
       "description": "Morgan Page",
       "eventUrl": "http://www.prekindle.com/event/92868-morgan-page-classics-only-oklahoma-city",
       "ageLimit": null,
@@ -2992,7 +2870,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-06",
       "time": null,
-      "price": "$18–$55",
+      "price": "$12–$55",
       "description": "Łaszewo",
       "eventUrl": "http://www.prekindle.com/event/49644-aszewo-oklahoma-city",
       "ageLimit": null,
@@ -3753,6 +3631,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Woody Guthrie Prize 2026",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-10-16",
+      "time": "7:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/96096571/woody-guthrie-prize-2026-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-08-28"
+    },
+    {
       "title": "First Train To Tulsa Night One",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4213,6 +4105,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Brincos Dieras",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-10-24",
+      "time": null,
+      "price": "$68–$252",
+      "description": "Brincos Dieras",
+      "eventUrl": "http://www.prekindle.com/event/34615-brincos-dieras-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034429232",
+      "dateAdded": "2026-08-28"
+    },
+    {
       "title": "BLUE OCTOBER",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4667,7 +4573,7 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Neko Case",
+      "title": "with Destroyer (solo)",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
       "date": "2026-11-04",
@@ -4678,7 +4584,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-08-11"
+      "dateAdded": "2026-08-28"
     },
     {
       "title": "trsh - Gone Fishin' Tour",
