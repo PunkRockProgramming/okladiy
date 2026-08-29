@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T12:34:03.923Z",
+  "lastUpdated": "2026-08-29T20:05:09.438Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -441,7 +441,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949109413497",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949037055822",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949032840575",
       "dateAdded": "2026-08-25"
     },
     {
@@ -1113,13 +1113,13 @@
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-09-12",
-      "time": "8:30 PM",
+      "time": "9:00 PM",
       "price": null,
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949109398138",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109390459",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949032844190",
       "dateAdded": "2026-08-28"
     },
     {
@@ -2983,7 +2983,7 @@
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
       "date": "2026-10-09",
-      "time": "7:30 PM",
+      "time": "6:45 PM",
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/35113340/igorrrnorth-american-tour-2026-oklahoma-city-diamond-ballroom?partner_id=100",
