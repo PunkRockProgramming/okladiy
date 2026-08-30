@@ -1,28 +1,14 @@
 {
-  "lastUpdated": "2026-08-30T11:41:29.117Z",
+  "lastUpdated": "2026-08-30T20:10:36.181Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "House of Heavy",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-08-29",
-      "time": "7:30 PM",
-      "price": null,
-      "description": "HOUSE OF HEAVY\nGeneral Admission / All Ages\nDoors @ 7P / Show @ 7:30P\nHouse of Heavy is a DJ-driven metal party built for the fans who crave the pit, the riffs, the breakdowns, and the chaos, but are tired of waiting for the next tour. Come scream along, throw down with friends, and lose yourself.",
-      "eventUrl": "https://www.etix.com/ticket/p/65582901/house-of-heavy-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_9718700ee41c43568da3d8ca68918779~mv2.jpg",
-      "dateAdded": "2026-07-12"
-    },
     {
       "title": "The Browning Burn This World (EVOLVED) USA V2",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-08-30",
       "time": "7:00 PM",
-      "price": "$32",
+      "price": "$38",
       "description": "The Browning, Deadlands, The Crimson Armada, Blind Equation",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-browning-burn-this-world-evolved-usa-v2-30-aug",
       "ageLimit": "ALL AGES",
@@ -2903,6 +2889,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "sKitz Kraven",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-10-10",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "Skitz Kraven: Mind of A Killer Tour\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/79597062/skitz-kraven-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_602ace9dafe44a8192aeeeec707bfbeb~mv2.jpg",
+      "dateAdded": "2026-08-30"
     },
     {
       "title": "LP - All Is Not Lost Tour",
