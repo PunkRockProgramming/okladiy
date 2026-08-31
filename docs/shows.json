@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T13:17:56.760Z",
+  "lastUpdated": "2026-08-31T22:07:31.589Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -113,6 +113,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111116451",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "The Beaten Daylights | Bucky and the Bookworms | Kikchik | Art Disposal",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-09-04",
+      "time": null,
+      "price": "$10",
+      "description": "The Beaten Daylights",
+      "eventUrl": "http://www.prekindle.com/event/79887-the-beaten-daylights-bucky-and-the-bookworms-kikchik-art-disposal-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031566841",
+      "dateAdded": "2026-08-31"
     },
     {
       "title": "Taranis x Between the Broken x Sunkeeper x Who Will Know",
@@ -411,20 +425,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949042541994",
       "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "The Beaten Daylights | Bucky and the Bookworms | Kikchik | Art Disposal",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-09-08",
-      "time": null,
-      "price": "$10",
-      "description": "The Beaten Daylights",
-      "eventUrl": "http://www.prekindle.com/event/79173-the-beaten-daylights-bucky-and-the-bookworms-kikchik-art-disposal-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949059182252",
-      "dateAdded": "2026-08-11"
     },
     {
       "title": "When The Sun Sets",
@@ -1083,7 +1083,7 @@
       "date": "2026-09-16",
       "time": "8:00 PM",
       "price": "$28",
-      "description": "Vincent Neil Emerson",
+      "description": "Vincent Neil Emerson, Joey Frendo",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/vincent-neil-emerson-16-sep",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -1096,13 +1096,27 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-16",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$25–$75",
       "description": "Twin Temple, Midnight Cowgirls",
       "eventUrl": "http://www.prekindle.com/event/29343-twin-temple-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949037518439",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Bad Vibes: A Punk Rock Horror Party",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-16",
+      "time": null,
+      "price": "$10",
+      "description": "Diet Riot",
+      "eventUrl": "http://www.prekindle.com/event/35115-bad-vibes-a-punk-rock-horror-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031222673",
+      "dateAdded": "2026-08-31"
     },
     {
       "title": "#WASTEDHOURS ft THEMBI JOY",
@@ -1236,7 +1250,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-18",
       "time": "8:00 PM",
-      "price": "$15",
+      "price": "$22",
       "description": "Goodfella, When The Clock Strikes, Lilac Kings, babies on a halfpipe",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/goodfella-when-the-clock-strikes-18-sep",
       "ageLimit": "ALL AGES",
@@ -1827,6 +1841,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "The Sweet Talkers, AJ Harvey, Zoe",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-25",
+      "time": null,
+      "price": "$12",
+      "description": "The Sweet Talkers, Aj Harvey, Zoe",
+      "eventUrl": "http://www.prekindle.com/event/29561-the-sweet-talkers-aj-harvey-zoe-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031384379",
+      "dateAdded": "2026-08-31"
+    },
+    {
       "title": "PILATES + SHOW | Pilates In The Club x Teenage Mutants",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -2407,6 +2435,20 @@
       "dateAdded": "2026-07-28"
     },
     {
+      "title": "Mountain of Smoke | Glorach | Surus",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-03",
+      "time": null,
+      "price": "$10",
+      "description": "Mountain of Smoke",
+      "eventUrl": "http://www.prekindle.com/event/37666-mountain-of-smoke-glorach-surus-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031579886",
+      "dateAdded": "2026-08-31"
+    },
+    {
       "title": "CRIMEWAVE: A GOTH, POST-PUNK & DARKWAVE PARTY",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2513,7 +2555,7 @@
       "date": "2026-10-06",
       "time": "8:00 PM",
       "price": "$28",
-      "description": "Fai Laci",
+      "description": "Fai Laci, Vision Arcade",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/fai-laci-06-oct",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -3423,11 +3465,11 @@
       "date": "2026-10-18",
       "time": "8:00 PM",
       "price": "$20–$75",
-      "description": "Kels",
+      "description": "Kels, Ella Maddux",
       "eventUrl": "http://www.prekindle.com/event/85814-kels-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949043667863",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031304576",
       "dateAdded": "2026-08-20"
     },
     {
@@ -3645,6 +3687,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949033714918",
       "dateAdded": "2026-08-29"
+    },
+    {
+      "title": "Dial Up - 90's Tribute (21+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-23",
+      "time": "9:00 PM",
+      "price": "$15",
+      "description": "Dial Up",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/dial-up-90-s-tribute-21-23-oct",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a95c37db12c1d35b26ef04d_Vanguard_Halloween_26_Event_Cover_%25281300_x_600_px%2529.jpeg",
+      "dateAdded": "2026-08-31"
     },
     {
       "title": "Failure - Rising Skyline 2026",
@@ -3995,7 +4051,7 @@
       "date": "2026-10-30",
       "time": "8:00 PM",
       "price": "$22",
-      "description": "Through Being Cool, The Dom Telonges",
+      "description": "Through Being Cool, The Dom Telonges, When The Clock Strikes, Memorial Drive",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/through-being-cool-presents-emo-halloween-with-the-dom-telonges-18-30-oct",
       "ageLimit": null,
       "tags": [],
@@ -4833,7 +4889,7 @@
       "date": "2026-11-18",
       "time": "7:00 PM",
       "price": "$28",
-      "description": "Signs of the Swarm",
+      "description": "Signs of the Swarm, Snake Father, Anerium, PROJEKT ECLIPSE",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/signs-of-the-swarm-18-nov",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -5379,6 +5435,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a340efd21ab5c62d6d0f7e2_HARBOUR_Preferred_Promo_Jun_26.jpeg",
       "dateAdded": "2026-06-23"
+    },
+    {
+      "title": "Jackson Dean",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-12-18",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/52081469/jackson-dean-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-08-31"
     },
     {
       "title": "Next Halen at The Shrine",
