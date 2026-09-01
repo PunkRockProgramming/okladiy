@@ -1,28 +1,14 @@
 {
-  "lastUpdated": "2026-09-01T11:27:02.400Z",
+  "lastUpdated": "2026-09-01T20:14:16.200Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "POSTPONED Hazlett",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-09-01",
-      "time": "8:00 PM",
-      "price": "$38 to $53",
-      "description": "Hazlett",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/hazlett-01-sep",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a2c133c7c371892d7c6a3e7_Photo_2.jpeg",
-      "dateAdded": "2026-08-21"
-    },
     {
       "title": "Congress the Band",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-01",
       "time": "8:00 PM",
-      "price": "$25–$75",
+      "price": "$25",
       "description": "Congress the Band, Boston Busler",
       "eventUrl": "http://www.prekindle.com/event/15174-congress-the-band-oklahoma-city",
       "ageLimit": null,
@@ -985,11 +971,11 @@
       "date": "2026-09-14",
       "time": null,
       "price": "$18–$50",
-      "description": "Sleep",
+      "description": "Sleep, Pink Mountaintops",
       "eventUrl": "http://www.prekindle.com/event/42958-sleep-north-america-2026-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118586291",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030290092",
       "dateAdded": "2026-07-16"
     },
     {
@@ -1111,11 +1097,11 @@
       "date": "2026-09-16",
       "time": null,
       "price": "$10",
-      "description": "Diet Riot",
+      "description": null,
       "eventUrl": "http://www.prekindle.com/event/35115-bad-vibes-a-punk-rock-horror-party-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031222673",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030151859",
       "dateAdded": "2026-08-31"
     },
     {
@@ -1797,6 +1783,20 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/70d2f5_cce5ecd66b004dddb7a4939319442bc2~mv2.jpg",
       "dateAdded": "2026-07-13"
+    },
+    {
+      "title": "SCREENING: Gregg Allman: The Music of My Soul",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-25",
+      "time": null,
+      "price": "$17",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/92247-screening-gregg-allman-the-music-of-my-soul-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949037163527",
+      "dateAdded": "2026-09-01"
     },
     {
       "title": "The Obsessed | Dust Lord | Medicine Horse",
@@ -2693,6 +2693,20 @@
       "dateAdded": "2026-08-09"
     },
     {
+      "title": "Tisha Campbell",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-08",
+      "time": null,
+      "price": "$23–$48",
+      "description": "Tisha Campbell",
+      "eventUrl": "http://www.prekindle.com/event/28573-tisha-campbell-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030997174",
+      "dateAdded": "2026-09-01"
+    },
+    {
       "title": "Aseethe | Reversal Cell | Surus",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -3485,7 +3499,7 @@
       "eventUrl": "http://www.prekindle.com/event/85814-kels-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031304576",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030422984",
       "dateAdded": "2026-08-20"
     },
     {
@@ -4559,6 +4573,20 @@
       "dateAdded": "2026-08-25"
     },
     {
+      "title": "The Surfrajettes",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-09",
+      "time": null,
+      "price": "$20",
+      "description": "The Surfrajettes",
+      "eventUrl": "http://www.prekindle.com/event/18574-the-surfrajettes-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034865733",
+      "dateAdded": "2026-09-01"
+    },
+    {
       "title": "Worst Party Ever x Equipment",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4774,7 +4802,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-13",
       "time": null,
-      "price": "$40–$145",
+      "price": "$25–$145",
       "description": "Switchfoot, Anberlin",
       "eventUrl": "http://www.prekindle.com/event/66517-switchfoot-oklahoma-city",
       "ageLimit": null,
@@ -5153,6 +5181,20 @@
       "dateAdded": "2026-07-28"
     },
     {
+      "title": "Jason Boland & The Stragglers",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-11-27",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/61699041/jason-boland-the-stragglers-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-01"
+    },
+    {
       "title": "Black Friday: Steely Dan Experience",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -5237,6 +5279,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949078955476",
       "dateAdded": "2026-07-28"
+    },
+    {
+      "title": "Twen",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-12-04",
+      "time": null,
+      "price": "$25",
+      "description": "Twen",
+      "eventUrl": "http://www.prekindle.com/event/42168-twen-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034929867",
+      "dateAdded": "2026-09-01"
     },
     {
       "title": "Vienna Light Orchestra Christmas Tour 2026",
@@ -5337,6 +5393,34 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949047808012",
       "dateAdded": "2026-08-19"
+    },
+    {
+      "title": "Mini Trees",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-12-08",
+      "time": null,
+      "price": "$25",
+      "description": "Mini Trees",
+      "eventUrl": "http://www.prekindle.com/event/13269-mini-trees-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034959660",
+      "dateAdded": "2026-09-01"
+    },
+    {
+      "title": "Redferrin",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-12-09",
+      "time": "8:00 PM",
+      "price": "$27–$75",
+      "description": "Redferrin",
+      "eventUrl": "http://www.prekindle.com/event/65268-redferrin-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031527686",
+      "dateAdded": "2026-09-01"
     },
     {
       "title": "Robby Hoffman: Live On Tour",
