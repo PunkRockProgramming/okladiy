@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T22:07:31.589Z",
+  "lastUpdated": "2026-09-01T11:27:02.400Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -8,7 +8,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-01",
       "time": "8:00 PM",
-      "price": "$34 to $53",
+      "price": "$38 to $53",
       "description": "Hazlett",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/hazlett-01-sep",
       "ageLimit": "ALL AGES",
@@ -2053,6 +2053,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39287-ce5acbba60a4a708b35e68fe93c6a322.png",
       "dateAdded": "2026-08-07"
+    },
+    {
+      "title": "SKY RUN ROGER",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-09-26",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/26/sky-run-roger",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-09-01"
     },
     {
       "title": "GOTH NITE: DARK DANICING",
