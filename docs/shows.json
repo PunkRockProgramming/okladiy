@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-09-01T20:14:16.200Z",
+  "lastUpdated": "2026-09-02T11:00:49.942Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Congress the Band",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-09-01",
-      "time": "8:00 PM",
-      "price": "$25",
-      "description": "Congress the Band, Boston Busler",
-      "eventUrl": "http://www.prekindle.com/event/15174-congress-the-band-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038444647",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Atta Boy",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-09-01",
-      "time": null,
-      "price": "$25",
-      "description": "Atta Boy, Keathley",
-      "eventUrl": "http://www.prekindle.com/event/94117-atta-boy-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949115987757",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "GUNSAFE (firebrand country)  /  /  BRAD FIELDER",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-09-01",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949109425955",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034917767",
-      "dateAdded": "2026-08-28"
-    },
     {
       "title": "Grandmaster",
       "venue": "Resonant Head",
@@ -903,7 +861,7 @@
       "eventUrl": "http://www.prekindle.com/event/29342-davvn-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949055151201",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949029542198",
       "dateAdded": "2026-08-13"
     },
     {
@@ -1551,7 +1509,7 @@
       "date": "2026-09-22",
       "time": "7:00 PM",
       "price": null,
-      "description": "DCF Concerts Presents\nMR. PHYLZZZ - The Killer Set Tour\nw/ special guests Honduh Daze & Ivory Tusk\nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "description": "DCF Concerts Presents\nMR. PHYLZZZ - The Killer Set Tour\nw/ special guests Honduh Daze, Ivory Tusk, &  Filth Hounds\nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
       "eventUrl": "https://www.etix.com/ticket/p/51123299/mrphylzzz-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -1933,7 +1891,7 @@
       "date": "2026-09-26",
       "time": "6:00 PM",
       "price": null,
-      "description": "GLIMMERS & REMATCH\nThe Cut Your Teeth Tour\nw/ special guests DIVA & TARANIS\nDoors @ 6PM / Show @ 7PM \nGeneral Admission Standing / All Ages",
+      "description": "GLIMMERS & REMATCH\nThe Cut Your Teeth Tour\nw/ special guests DIVA & Fair Weather Enemies\nDoors @ 6PM / Show @ 7PM \nGeneral Admission Standing / All Ages",
       "eventUrl": "https://www.etix.com/ticket/p/43503366/glimmers-rematch-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -2245,11 +2203,11 @@
       "date": "2026-10-01",
       "time": "7:00 PM",
       "price": null,
-      "description": "EXTORTIONIST\nwith special guests DEATHTAPE\nDoors @ 7PM / Show @ 7:30PM\nGeneral Admission Standing / All Ages",
+      "description": "EXTORTIONIST\nwith special guests DEATHTAPE, Hollowed Thoughts, and Splintered\nDoors @ 7PM / Show @ 7:30PM\nGeneral Admission Standing / All Ages",
       "eventUrl": "https://www.etix.com/ticket/p/48936074/extortionist-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_570170e77bc74a0b8a508f1144051692~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_869cd24b5421472398cf5ab243a123df~mv2.jpg",
       "dateAdded": "2026-08-04"
     },
     {
@@ -4159,6 +4117,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0b45aa4d66c8a839b2c5ef_RedStripes2026_Vanguard_2x1.jpeg",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "title": "Private Party",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-10-31",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.cainsballroom.com/event/private-party-2/",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-02"
     },
     {
       "title": "PJ Morton - Saturday Night Sunday Morning Tour",
