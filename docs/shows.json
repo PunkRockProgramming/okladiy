@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T11:00:49.942Z",
+  "lastUpdated": "2026-09-02T20:12:31.968Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -497,7 +497,7 @@
       "dateAdded": "2026-08-25"
     },
     {
-      "title": "Fox N’ Vead",
+      "title": "LOW TICKETS Fox N’ Vead",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-10",
@@ -508,7 +508,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a3d8413d32fa84e1eae54ec_Photo_Feb_27_2026__5_15_58_AM.jpeg",
-      "dateAdded": "2026-06-29"
+      "dateAdded": "2026-09-02"
     },
     {
       "title": "Briscoe",
@@ -575,7 +575,7 @@
       "date": "2026-09-11",
       "time": "9:00 PM",
       "price": "$22",
-      "description": "Hairitage",
+      "description": "Hairitage, Solidith",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/hairitage-18-11-sep",
       "ageLimit": null,
       "tags": [],
@@ -851,7 +851,7 @@
       "dateAdded": "2026-06-12"
     },
     {
-      "title": "Davvn | China Blue",
+      "title": "Davvn | China Blue | Amanda and the Birds",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-09-13",
@@ -862,7 +862,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949029542198",
-      "dateAdded": "2026-08-13"
+      "dateAdded": "2026-09-02"
     },
     {
       "title": "JD Simo",
@@ -1159,20 +1159,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ccd7ef4317664c02bd2dab3243839f88~mv2.jpg",
       "dateAdded": "2026-07-12"
-    },
-    {
-      "title": "A Man Named Cash (Johnny Cash Tribute)",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-09-18",
-      "time": null,
-      "price": "$9–$45",
-      "description": "A Man Named Cash (johnny Cash Tribute)",
-      "eventUrl": "http://www.prekindle.com/event/47719-a-man-named-cash-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146913405",
-      "dateAdded": "2026-07-16"
     },
     {
       "title": "Missouri Executive Order 44 | Weepcar | Ivory Tusk",
@@ -1487,6 +1473,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38222-c0fac9aedfc621129b72b5c266a79210.jpeg",
       "dateAdded": "2026-06-19"
+    },
+    {
+      "title": "Route 66 Family Movie Night: Grease",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-09-21",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/37885-route-66-family-movie-night-grease-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949029040440",
+      "dateAdded": "2026-09-02"
     },
     {
       "title": "Pearl & the Oysters",
@@ -1904,7 +1904,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-26",
       "time": null,
-      "price": "$18–$52",
+      "price": "$37–$52",
       "description": "Abra Cadabra",
       "eventUrl": "http://www.prekindle.com/event/31233-abba-cadabra-oklahoma-city",
       "ageLimit": null,
@@ -2295,20 +2295,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Jackyl",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-10-02",
-      "time": "8:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/76223072/jackyl-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/jackyl.jpeg",
-      "dateAdded": "2026-07-20"
-    },
-    {
       "title": "Lawrence Rothman",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -2335,6 +2321,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949069350591",
       "dateAdded": "2026-08-05"
+    },
+    {
+      "title": "Dolly Creamer, Diet Riot, Big Fat Cow",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-02",
+      "time": null,
+      "price": "$12",
+      "description": "Dolly Creamer, Diet Riot, Big Fat Cow",
+      "eventUrl": "http://www.prekindle.com/event/25517-dolly-creamer-diet-riot-big-fat-cow-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949028986091",
+      "dateAdded": "2026-09-02"
     },
     {
       "title": "The Stars Tour featuring Anne Wilson",
@@ -3239,7 +3239,7 @@
       "date": "2026-10-15",
       "time": null,
       "price": "$18",
-      "description": "The Wildwoods",
+      "description": "The Wildwoods, Good Morning Bedlam",
       "eventUrl": "http://www.prekindle.com/event/41356-the-wildwoods-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4704,7 +4704,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-12",
       "time": null,
-      "price": "$35–$166",
+      "price": "$35–$100",
       "description": "Thundercat, Blu DeTiger",
       "eventUrl": "http://www.prekindle.com/event/16541-thundercat-oklahoma-city",
       "ageLimit": null,
@@ -4767,6 +4767,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a75fb290d57bc6d6ce3a8dc_Halocene_US_Tour_26_Poster_VG.jpeg",
       "dateAdded": "2026-08-07"
+    },
+    {
+      "title": "Scoochie Boochie",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-13",
+      "time": null,
+      "price": "$25–$65",
+      "description": "Scoochie Boochie",
+      "eventUrl": "http://www.prekindle.com/event/34625-scoochie-boochie-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034898283",
+      "dateAdded": "2026-09-02"
     },
     {
       "title": "Switchfoot with special guest Anberlin - Forever Now Tour",
@@ -4841,6 +4855,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "THE PRINCESS BRIDE: AN INCONCEIVABLE EVENING WITH CARY ELWES",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-14",
+      "time": null,
+      "price": null,
+      "description": "The Princess Bride, Cary Elwes",
+      "eventUrl": "http://www.prekindle.com/event/65354-the-princess-bride-cary-elwes-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949029246676",
+      "dateAdded": "2026-09-02"
+    },
+    {
       "title": "Henry Zoellner",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4911,6 +4939,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a6771487c39bd737dd17a7a_Signs_of_the_Swarm_Promo_by_Alberto_Villalobos_1_%25281%2529.jpeg",
       "dateAdded": "2026-07-27"
+    },
+    {
+      "title": "Daring Greatly",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-18",
+      "time": null,
+      "price": "$15",
+      "description": "Daring Greatly, Beau Jennings, Kennedy Fine, Kennedy Fine",
+      "eventUrl": "http://www.prekindle.com/event/53917-daring-greatly-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031053984",
+      "dateAdded": "2026-09-02"
     },
     {
       "title": "Daisychain | Moon | Tristan Wright",
@@ -5144,7 +5186,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-25",
       "time": null,
-      "price": "$30–$80",
+      "price": "$30",
       "description": "Silverstein, Story of the Year, Stand Atlantic, Footballhead",
       "eventUrl": "http://www.prekindle.com/event/89197-silverstein-oklahoma-city",
       "ageLimit": null,
@@ -5258,7 +5300,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-12-04",
       "time": null,
-      "price": "$25",
+      "price": "$18",
       "description": "Twen",
       "eventUrl": "http://www.prekindle.com/event/42168-twen-oklahoma-city",
       "ageLimit": null,
@@ -5372,7 +5414,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-12-08",
       "time": null,
-      "price": "$25",
+      "price": "$18",
       "description": "Mini Trees",
       "eventUrl": "http://www.prekindle.com/event/13269-mini-trees-oklahoma-city",
       "ageLimit": null,
