@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T10:59:28.778Z",
+  "lastUpdated": "2026-09-03T20:13:12.553Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -136,7 +136,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-05",
       "time": null,
-      "price": "$25–$70",
+      "price": null,
       "description": "GoldFord, Jon Wiilde",
       "eventUrl": "http://www.prekindle.com/event/82518-goldford-oklahoma-city",
       "ageLimit": null,
@@ -956,7 +956,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-15",
       "time": null,
-      "price": "$21–$723",
+      "price": "$31–$723",
       "description": "Shaboozey, Brittany Spencer",
       "eventUrl": "http://www.prekindle.com/event/59817-shaboozey-oklahoma-city",
       "ageLimit": null,
@@ -2875,6 +2875,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a62256c5eb88d690eb09d5f_UWD_TSA_10.10.26_HOR.jpeg",
       "dateAdded": "2026-07-29"
+    },
+    {
+      "title": "Angélica Gallegos",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-10",
+      "time": "8:00 PM",
+      "price": "$50–$100",
+      "description": "Angélica Gallegos",
+      "eventUrl": "http://www.prekindle.com/event/72421--oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031469706",
+      "dateAdded": "2026-09-03"
     },
     {
       "title": "Greywind",
@@ -4832,7 +4846,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-14",
       "time": null,
-      "price": null,
+      "price": "$25–$150",
       "description": "The Princess Bride, Cary Elwes",
       "eventUrl": "http://www.prekindle.com/event/65354-the-princess-bride-cary-elwes-oklahoma-city",
       "ageLimit": null,
@@ -5309,6 +5323,20 @@
       "dateAdded": "2026-05-27"
     },
     {
+      "title": "Caleb Lee Hutchinson - Long Line of Losers Tour",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-12-05",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949030402570",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030295012",
+      "dateAdded": "2026-09-03"
+    },
+    {
       "title": "Yolanda Del Rio",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -5400,7 +5428,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-12-09",
       "time": "8:00 PM",
-      "price": "$32",
+      "price": "$27–$75",
       "description": "Redferrin",
       "eventUrl": "http://www.prekindle.com/event/65268-redferrin-oklahoma-city",
       "ageLimit": null,
