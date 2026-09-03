@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-09-02T20:12:31.968Z",
+  "lastUpdated": "2026-09-03T10:59:28.778Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Grandmaster",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-09-02",
-      "time": null,
-      "price": "$15",
-      "description": "Grandmaster, mitchy",
-      "eventUrl": "http://www.prekindle.com/event/42329-grandmaster-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949056323742",
-      "dateAdded": "2026-07-28"
-    },
-    {
-      "title": "IV AND THE STRANGE BAND with CLOWNVIS  /  /  BILLY IRWIN & THE GAMBITS",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-09-02",
-      "time": "8:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949153889225",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034784155",
-      "dateAdded": "2026-08-28"
-    },
     {
       "title": "Shearling",
       "venue": "Resonant Head",
@@ -5428,7 +5400,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-12-09",
       "time": "8:00 PM",
-      "price": "$27–$75",
+      "price": "$32",
       "description": "Redferrin",
       "eventUrl": "http://www.prekindle.com/event/65268-redferrin-oklahoma-city",
       "ageLimit": null,
