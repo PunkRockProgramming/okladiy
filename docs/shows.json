@@ -1,28 +1,14 @@
 {
-  "lastUpdated": "2026-09-03T20:13:12.553Z",
+  "lastUpdated": "2026-09-04T11:07:03.305Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Shearling",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-09-03",
-      "time": null,
-      "price": "$15",
-      "description": "Shearling, Bilong",
-      "eventUrl": "http://www.prekindle.com/event/68114-shearling-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949121883766",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "Live Mario Kart",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-04",
       "time": null,
-      "price": "$15–$18",
+      "price": "$15–$22",
       "description": "Badwagon",
       "eventUrl": "http://www.prekindle.com/event/65775-live-mario-kart-oklahoma-city",
       "ageLimit": null,
@@ -1606,7 +1592,7 @@
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-09-23",
       "time": "6:30 PM",
-      "price": "$20 to $30 ADV   $25 to $35 DAY OF",
+      "price": "$30 adv / $25 door",
       "description": null,
       "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39010",
       "ageLimit": "21 & Over",
@@ -2025,7 +2011,7 @@
       "eventUrl": "http://www.prekindle.com/event/36318-kidd-g-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949077089481",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949027587221",
       "dateAdded": "2026-07-28"
     },
     {
@@ -2267,7 +2253,7 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Lawrence Rothman",
+      "title": "Lawrence Rothman with special guest RR Williams",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-10-02",
@@ -2278,7 +2264,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949086551287",
-      "dateAdded": "2026-07-19"
+      "dateAdded": "2026-09-04"
     },
     {
       "title": "Silverada",
@@ -4537,7 +4523,7 @@
       "date": "2026-11-09",
       "time": null,
       "price": "$20",
-      "description": "The Surfrajettes",
+      "description": "The Surfrajettes, Strawberry '66",
       "eventUrl": "http://www.prekindle.com/event/18574-the-surfrajettes-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4846,7 +4832,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-14",
       "time": null,
-      "price": "$25–$150",
+      "price": null,
       "description": "The Princess Bride, Cary Elwes",
       "eventUrl": "http://www.prekindle.com/event/65354-the-princess-bride-cary-elwes-oklahoma-city",
       "ageLimit": null,
