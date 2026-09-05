@@ -1,121 +1,7 @@
 {
-  "lastUpdated": "2026-09-04T19:58:28.599Z",
+  "lastUpdated": "2026-09-05T10:22:05.945Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Live Mario Kart",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-09-04",
-      "time": null,
-      "price": "$15–$22",
-      "description": "Badwagon",
-      "eventUrl": "http://www.prekindle.com/event/65775-live-mario-kart-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111116451",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "The Beaten Daylights | Bucky and the Bookworms | Kikchik | Art Disposal",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-09-04",
-      "time": null,
-      "price": "$10",
-      "description": "The Beaten Daylights",
-      "eventUrl": "http://www.prekindle.com/event/79887-the-beaten-daylights-bucky-and-the-bookworms-kikchik-art-disposal-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031566841",
-      "dateAdded": "2026-08-31"
-    },
-    {
-      "title": "Taranis x Between the Broken x Sunkeeper x Who Will Know",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-09-04",
-      "time": "8:00 PM",
-      "price": "$15",
-      "description": "Taranis, Between the Broken, Sunkeeper, Who Will Know",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/taranis-x-between-the-broken-x-sunkeeper-x-who-will-know-04-sep",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a89e27c8775ce81a7c58cbf_IMG_6112.jpeg",
-      "dateAdded": "2026-08-24"
-    },
-    {
-      "title": "Dustin Perkins",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-09-04",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949043035125",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949043030466",
-      "dateAdded": "2026-08-21"
-    },
-    {
-      "title": "Boston Busler EP Release Show",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-09-04",
-      "time": null,
-      "price": "$12",
-      "description": "Boston Busler, Wet Muscles, Spencer Christian",
-      "eventUrl": "http://www.prekindle.com/event/93531-boston-busler-ep-release-show-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949079315582",
-      "dateAdded": "2026-07-24"
-    },
-    {
-      "title": "Waylon Wyatt",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-04",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/37818115/waylon-wyatt-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "The Malcontentz",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-09-04",
-      "time": "8:00 PM",
-      "price": "$10",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39084",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39084-7f7b439101cccd8267d23f9e78ac7377.png",
-      "dateAdded": "2026-07-17"
-    },
-    {
-      "title": "BANG BANG QUEERPUNK VARIETY SHOW",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-09-04",
-      "time": "9:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949109413497",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949032840575",
-      "dateAdded": "2026-08-25"
-    },
     {
       "title": "GoldFord – Space of the Heart Tour",
       "venue": "Tower Theatre",
@@ -164,7 +50,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-05",
       "time": "8:00 PM",
-      "price": "$41",
+      "price": "$43",
       "description": "Danielle Nicole, Seth Lee Jones",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/danielle-nicole-05-sep",
       "ageLimit": "ALL AGES",
@@ -198,20 +84,6 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949174276029",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Hermanos Espinoza - LINAJE Tour",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-09-05",
-      "time": null,
-      "price": "$30–$90",
-      "description": "Hermanos Espinoza",
-      "eventUrl": "http://www.prekindle.com/event/99742-hermanos-espinoza-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172896814",
       "dateAdded": "2026-07-16"
     },
     {
@@ -1111,7 +983,7 @@
       "date": "2026-09-18",
       "time": "7:00 PM",
       "price": null,
-      "description": "DCF Concerts Presents\nSUITABLE MISS\nwith special guests The Burn Notice and Sacred Rose\nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages\n\n(*special guests are subject to change)",
+      "description": "DCF Concerts Presents\nSUITABLE MISS\nwith special guests The Burn Notice, Wolf Ugly, and Sacred Rose\nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages\n\n(*special guests are subject to change)",
       "eventUrl": "https://www.etix.com/ticket/p/52750940/suitable-miss-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -1381,11 +1253,11 @@
       "date": "2026-09-20",
       "time": null,
       "price": "$15",
-      "description": "Spike Hellis, Nuxx, Dj Von Ludwig",
+      "description": "Spike Hellis, Nuxx, Dj Von Ludwig, Trip III",
       "eventUrl": "http://www.prekindle.com/event/65567-spike-hellis-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949160456042",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949025352879",
       "dateAdded": "2026-07-16"
     },
     {
@@ -2579,6 +2451,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Settle Into Stillness, Roots and Wings Tour: Sound Journey",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-10-07",
+      "time": "5:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/70515630/settle-into-stillnessroots-and-wings-toursound-journey-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-05"
+    },
+    {
       "title": "The Redemption Tour Part 2 Featuring Silent Theory",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -2891,6 +2777,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Hermanos Espinoza - LINAJE Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-10-10",
+      "time": null,
+      "price": "$30–$90",
+      "description": "Hermanos Espinoza",
+      "eventUrl": "http://www.prekindle.com/event/99742-hermanos-espinoza-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "http://www.prekindle.com/images/prekindle-logo.png",
+      "dateAdded": "2026-09-05"
+    },
+    {
       "title": "Starbomb featuring DJ Commander Meouch",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -3147,6 +3047,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131105369",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Dead Peaches w/ Jim Bachman",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-14",
+      "time": "7:00 PM",
+      "price": "$12 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39558",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39558-f471e5cf07e5f16620a055eac71f08a2.jpeg",
+      "dateAdded": "2026-09-05"
     },
     {
       "title": "I See Stars",
