@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T12:07:57.888Z",
+  "lastUpdated": "2026-09-07T20:52:15.396Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -234,7 +234,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-11",
       "time": "9:00 PM",
-      "price": "$22",
+      "price": "$28",
       "description": "Hairitage, Solidith",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/hairitage-18-11-sep",
       "ageLimit": null,
@@ -1785,6 +1785,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a39423d31116ac00a9b9651_ARGENTINA_SJ_6000x4000.jpeg",
       "dateAdded": "2026-06-22"
+    },
+    {
+      "title": "Ladies In Craft Beer: Arm Westling Tournament",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-29",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/11241-ladies-in-craft-beer-arm-westling-tournament-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949023312558",
+      "dateAdded": "2026-09-07"
     },
     {
       "title": "Chris Housman",
