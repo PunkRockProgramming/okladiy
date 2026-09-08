@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-09-07T20:52:15.396Z",
+  "lastUpdated": "2026-09-08T11:00:02.166Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "MINUS THE BEAR - Menos El Oso 20th Anniversary Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-09-07",
-      "time": null,
-      "price": "$14–$85",
-      "description": "Minus the Bear, Keep",
-      "eventUrl": "http://www.prekindle.com/event/27911-minus-the-bear-menos-el-oso-20th-anniversary-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648466299832",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "Peaches – No Lube So Rude Tour",
       "venue": "Tower Theatre",
@@ -630,7 +616,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-15",
       "time": "7:00 PM",
-      "price": "$11–$79",
+      "price": "$11–$22",
       "description": "Thousand Below, Acres, VCTMS, Lost In Separation",
       "eventUrl": "http://www.prekindle.com/event/57165-thousand-below-oklahoma-city",
       "ageLimit": null,
