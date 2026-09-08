@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T11:00:02.166Z",
+  "lastUpdated": "2026-09-08T20:24:33.114Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -15,6 +15,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949042541994",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Rebekah Ruyle",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-09-08",
+      "time": null,
+      "price": "$35",
+      "description": "Rebekah Ruyle, OK3",
+      "eventUrl": "http://www.prekindle.com/event/94155-rebekah-ruyle-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "http://www.prekindle.com/images/prekindle-logo.png",
+      "dateAdded": "2026-09-08"
     },
     {
       "title": "When The Sun Sets",
@@ -213,6 +227,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949145839264",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Hangers and Bangers",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-09-11",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/66988-hangers-and-bangers-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022400963",
+      "dateAdded": "2026-09-08"
     },
     {
       "title": "Hairitage (18+)",
@@ -630,7 +658,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-15",
       "time": null,
-      "price": "$20–$723",
+      "price": "$20–$151",
       "description": "Shaboozey, Brittany Spencer",
       "eventUrl": "http://www.prekindle.com/event/59817-shaboozey-oklahoma-city",
       "ageLimit": null,
@@ -941,7 +969,7 @@
       "date": "2026-09-19",
       "time": "9:00 PM",
       "price": "$22",
-      "description": "Disko Cowboy",
+      "description": "Disko Cowboy, Vinyl Ranch, Straight Tequila Night, Jake Worthington, My So-Called Band",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/disko-cowboy-19-sep",
       "ageLimit": null,
       "tags": [],
@@ -1431,6 +1459,20 @@
       "dateAdded": "2026-08-02"
     },
     {
+      "title": "Jarrod Morris",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-09-25",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949022072776",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022070428",
+      "dateAdded": "2026-09-08"
+    },
+    {
       "title": "Grungefest: Pearl Gem / Nervana",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1885,6 +1927,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Rob Leines",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-01",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949022101946",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022083303",
+      "dateAdded": "2026-09-08"
+    },
+    {
       "title": "The Final Encore – A Mayo Family Tribute",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -2083,6 +2139,20 @@
       "dateAdded": "2026-08-31"
     },
     {
+      "title": "Mason Lively",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-03",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949022060895",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022060195",
+      "dateAdded": "2026-09-08"
+    },
+    {
       "title": "CRIMEWAVE: A GOTH, POST-PUNK & DARKWAVE PARTY",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2216,7 +2286,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-06",
       "time": null,
-      "price": "$23–$95",
+      "price": "$45–$95",
       "description": "Suki Waterhouse, Rochelle Jordan, EMMMA",
       "eventUrl": "http://www.prekindle.com/event/46244-suki-waterhouse-oklahoma-city",
       "ageLimit": null,
@@ -2612,12 +2682,12 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-10",
       "time": null,
-      "price": "$30–$90",
+      "price": "$30–$232",
       "description": "Hermanos Espinoza",
       "eventUrl": "http://www.prekindle.com/event/99742-hermanos-espinoza-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "http://www.prekindle.com/images/prekindle-logo.png",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022407634",
       "dateAdded": "2026-09-05"
     },
     {
@@ -2857,11 +2927,11 @@
       "date": "2026-10-14",
       "time": "8:00 PM",
       "price": "$20–$75",
-      "description": "Beauty School Dropout",
+      "description": "Beauty School Dropout, Olive Vox",
       "eventUrl": "http://www.prekindle.com/event/43682-beauty-school-dropout-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949059828994",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022569541",
       "dateAdded": "2026-08-11"
     },
     {
@@ -2877,6 +2947,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131105369",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Dogstar: ALL IN NOW TOUR",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-10-14",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/90049314/dogstarall-in-now-tour-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-08"
     },
     {
       "title": "Dead Peaches w/ Jim Bachman",
