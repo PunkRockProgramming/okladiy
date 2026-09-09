@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T11:04:50.153Z",
+  "lastUpdated": "2026-09-09T20:07:44.686Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1177,13 +1177,27 @@
       "dateAdded": "2026-07-21"
     },
     {
+      "title": "Laura Jane Grace",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-09-22",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949021184376",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949021183258",
+      "dateAdded": "2026-09-09"
+    },
+    {
       "title": "Silly Goose – The “Set It Off” Tour",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-09-22",
       "time": null,
       "price": "$18",
-      "description": "Silly Goose, Cheem, Hotbox",
+      "description": "Silly Goose, Cheem",
       "eventUrl": "http://www.prekindle.com/event/13563-silly-goose-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3695,6 +3709,20 @@
       "dateAdded": "2026-06-30"
     },
     {
+      "title": "2DEEP",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-25",
+      "time": "8:00 PM",
+      "price": "$20–$75",
+      "description": "2DEEP",
+      "eventUrl": "http://www.prekindle.com/event/34155-2deep-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949021268710",
+      "dateAdded": "2026-09-09"
+    },
+    {
       "title": "AFI",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -3819,6 +3847,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156038480",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Los Gemelos De Sinaloa",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-10-29",
+      "time": null,
+      "price": "$40",
+      "description": "Los Gemelos De Sinaloa",
+      "eventUrl": "http://www.prekindle.com/event/13439-los-gemelos-de-sinaloa-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949021338728",
+      "dateAdded": "2026-09-09"
     },
     {
       "title": "Tauren Wells – Air1 Worship Now Tour",
@@ -4635,7 +4677,7 @@
       "date": "2026-11-13",
       "time": null,
       "price": "$25–$65",
-      "description": "Scoochie Boochie",
+      "description": "Scoochie Boochie, Groovebox",
       "eventUrl": "http://www.prekindle.com/event/34625-scoochie-boochie-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4807,7 +4849,7 @@
       "date": "2026-11-18",
       "time": null,
       "price": "$15",
-      "description": "Daring Greatly, Beau Jennings, Kennedy Fine, Kennedy Fine",
+      "description": "Daring Greatly, Kennedy Fine, Beau Jennings",
       "eventUrl": "http://www.prekindle.com/event/53917-daring-greatly-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -5745,6 +5787,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-22"
+    },
+    {
+      "title": "Mamma Mania!",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-03-14",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/82104766/mamma-mania-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-09"
     },
     {
       "title": "Big Jim & The Twins",
