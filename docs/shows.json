@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:07:44.686Z",
+  "lastUpdated": "2026-09-10T11:00:56.839Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -17,88 +17,18 @@
       "dateAdded": "2026-07-12"
     },
     {
-      "title": "Madison Ryann Ward - The Standing Tall Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-09-09",
-      "time": null,
-      "price": "$15–$75",
-      "description": "Madison Ryann Ward, Mr. Talkbox",
-      "eventUrl": "http://www.prekindle.com/event/24717-madison-ryann-ward-the-standing-tall-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949130403827",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Archers",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-09-09",
-      "time": "6:30 PM",
-      "price": "$38",
-      "description": "Archers, Autumn Kings, pinknoise, Coldstate, Zero Signal",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/archers-09-sep",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a26da1fcec5c3876666a021_Archers_2026_Press_Photo.jpeg",
-      "dateAdded": "2026-06-10"
-    },
-    {
-      "title": "The Record Company - Give It Back To You 10th Anniversary Tour",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-09-09",
-      "time": "7:00 PM",
-      "price": "$13–$35",
-      "description": "The Record Company, Jacob Tovar",
-      "eventUrl": "http://www.prekindle.com/event/75218-the-record-company-give-it-back-to-you-10th-anniversary-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949026410378",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Sweeping Promises",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-09-09",
-      "time": null,
-      "price": "$16",
-      "description": "Sweeping Promises, Stepmom, Lust Online",
-      "eventUrl": "http://www.prekindle.com/event/81278-sweeping-promises-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151758306",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "BLACK TAPESTRY (Phoenix synth-pop)  /  /  THE REMOVERS",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-09-09",
-      "time": "8:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949034910174",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034906250",
-      "dateAdded": "2026-08-28"
-    },
-    {
-      "title": "Toni Romiti",
+      "title": "SOLD OUT** Toni Romiti",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
       "date": "2026-09-10",
       "time": "7:00 PM",
       "price": null,
-      "description": "TONI ROMITI T0n16 Again Tour\n\nGeneral Admission Standing / All Ages / *VIP Packages Available",
+      "description": "TONI ROMITI T0n16 Again Tour\n!!THIS EVENT IS SOLD OUT!!\nGeneral Admission Standing / All Ages",
       "eventUrl": "https://www.etix.com/ticket/p/34931911/toni-romiti-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_96cffc4e0b2f491b8e0597bda991f0de~mv2.jpg",
-      "dateAdded": "2026-07-12"
+      "dateAdded": "2026-09-10"
     },
     {
       "title": "Ray Wylie Hubbard",
@@ -129,7 +59,7 @@
       "dateAdded": "2026-08-25"
     },
     {
-      "title": "LOW TICKETS Fox N’ Vead",
+      "title": "SOLD OUT Fox N’ Vead",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-10",
@@ -140,7 +70,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a3d8413d32fa84e1eae54ec_Photo_Feb_27_2026__5_15_58_AM.jpeg",
-      "dateAdded": "2026-09-02"
+      "dateAdded": "2026-09-10"
     },
     {
       "title": "Briscoe",
@@ -3387,7 +3317,7 @@
       "date": "2026-10-21",
       "time": "8:00 PM",
       "price": "$34 to $92",
-      "description": "Kyle Hume",
+      "description": "Kyle Hume, sammy rash",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/kyle-hume-21-oct",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -4989,7 +4919,7 @@
       "date": "2026-11-21",
       "time": null,
       "price": "$20",
-      "description": "Mama's Broke",
+      "description": "Mama's Broke, aka Bobby",
       "eventUrl": "http://www.prekindle.com/event/21216-mamas-broke-oklahoma-city",
       "ageLimit": null,
       "tags": [],
