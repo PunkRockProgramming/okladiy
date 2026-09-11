@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T10:59:25.922Z",
+  "lastUpdated": "2026-09-11T20:09:16.695Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -36,7 +36,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-11",
       "time": "9:00 PM",
-      "price": "$28",
+      "price": "$34",
       "description": "Hairitage, Solidith",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/hairitage-18-11-sep",
       "ageLimit": null,
@@ -235,7 +235,7 @@
       "date": "2026-09-12",
       "time": null,
       "price": "$12",
-      "description": "OAF",
+      "description": "OAF, Rubes",
       "eventUrl": "http://www.prekindle.com/event/85313-oaf-ep-release-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -385,20 +385,6 @@
       "dateAdded": "2026-07-15"
     },
     {
-      "title": "Sleep: North America 2026",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-09-14",
-      "time": null,
-      "price": "$18–$50",
-      "description": "Sleep, Pink Mountaintops",
-      "eventUrl": "http://www.prekindle.com/event/42958-sleep-north-america-2026-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030290092",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "Hail the Sun & A Lot Like Birds",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -411,6 +397,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a3ac4f57d3ab230ac10b3c6_HTS-2025Promos-AlexBemis-04280_1_.jpeg",
       "dateAdded": "2026-06-24"
+    },
+    {
+      "title": "Sleep: North America 2026",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-09-14",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Sleep, Pink Mountaintops",
+      "eventUrl": "http://www.prekindle.com/event/79533-sleep-north-america-2026-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949018298024",
+      "dateAdded": "2026-09-11"
     },
     {
       "title": "Grivo",
@@ -502,7 +502,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-16",
       "time": "8:00 PM",
-      "price": "$25–$75",
+      "price": "$30–$75",
       "description": "Twin Temple, Midnight Cowgirls",
       "eventUrl": "http://www.prekindle.com/event/29343-twin-temple-oklahoma-city",
       "ageLimit": null,
@@ -2193,7 +2193,7 @@
       "eventUrl": "http://www.prekindle.com/event/92852-bad-nerves-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949108743324",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949017807941",
       "dateAdded": "2026-07-16"
     },
     {
@@ -2979,6 +2979,20 @@
       "dateAdded": "2026-07-27"
     },
     {
+      "title": "HOARSEMAN | Alive Again",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-16",
+      "time": "8:00 PM",
+      "price": "$15",
+      "description": "Hoarseman, Moon, Mike Hanisch",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/hoarseman-16-oct",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6aa4164a6488fe05cb02b296_457AB64B-CB6C-4485-BC5C-48E395F6B420.jpeg",
+      "dateAdded": "2026-09-11"
+    },
+    {
       "title": "Elizabeth Nichols - I Don't Kiss & Tell, I Kiss & Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3726,7 +3740,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-29",
       "time": null,
-      "price": "$40",
+      "price": "$40–$150",
       "description": "Los Gemelos De Sinaloa",
       "eventUrl": "http://www.prekindle.com/event/13439-los-gemelos-de-sinaloa-oklahoma-city",
       "ageLimit": null,
@@ -4157,6 +4171,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949143679564",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Blacktop Mojo",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-11-06",
+      "time": "8:00 PM",
+      "price": "$22–$75",
+      "description": "Blacktop Mojo",
+      "eventUrl": "http://www.prekindle.com/event/67833-blacktop-mojo-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949021972787",
+      "dateAdded": "2026-09-11"
     },
     {
       "title": "Noah Gunderson",
@@ -4913,6 +4941,20 @@
       "dateAdded": "2026-08-19"
     },
     {
+      "title": "Alok: Eat Pray Leave",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-22",
+      "time": null,
+      "price": "$25–$50",
+      "description": "ALOK",
+      "eventUrl": "http://www.prekindle.com/event/91191-alok-eat-pray-leave-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949021993872",
+      "dateAdded": "2026-09-11"
+    },
+    {
       "title": "Nick Shoulders - Apocalypse, Never! Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -5039,6 +5081,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949037013879",
       "dateAdded": "2026-08-27"
+    },
+    {
+      "title": "The Leftover Last Waltz",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-11-29",
+      "time": "5 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/80095432/the-leftover-last-waltz-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-11"
     },
     {
       "title": "A Drag Queen Christmas - MEET & GREET UPGRADE",
@@ -5353,6 +5409,20 @@
       "dateAdded": "2026-06-23"
     },
     {
+      "title": "Peter Mayer: A Stars & Promises Christmas “This Town”",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-12-16",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/68436051/peter-mayera-stars-promises-christmas-this-town-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-11"
+    },
+    {
       "title": "Jackson Dean",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -5577,6 +5647,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "Kingdom Core Presents - Heal the Hurt",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-01-30",
+      "time": "6:00 PM",
+      "price": "$18 adv / $23 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39578",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39578-7ef9dd4445727cfbc3b1320add185fe1.jpg",
+      "dateAdded": "2026-09-11"
     },
     {
       "title": "Nude Art Show",
