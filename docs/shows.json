@@ -1,114 +1,14 @@
 {
-  "lastUpdated": "2026-09-10T20:10:03.808Z",
+  "lastUpdated": "2026-09-11T10:59:25.922Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "SOLD OUT** Toni Romiti",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-10",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "TONI ROMITI T0n16 Again Tour\n!!THIS EVENT IS SOLD OUT!!\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/34931911/toni-romiti-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_96cffc4e0b2f491b8e0597bda991f0de~mv2.jpg",
-      "dateAdded": "2026-09-10"
-    },
-    {
-      "title": "Ray Wylie Hubbard",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-09-10",
-      "time": null,
-      "price": "$30–$65",
-      "description": "Ray Wylie Hubbard",
-      "eventUrl": "http://www.prekindle.com/event/86345-ray-wylie-hubbard-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648472769898",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Sooflay | Kress Bell | The Suzzies",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-09-10",
-      "time": null,
-      "price": "$10",
-      "description": "Sooflay",
-      "eventUrl": "http://www.prekindle.com/event/68796-sooflay-kress-bell-the-suzzies-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949039256429",
-      "dateAdded": "2026-08-25"
-    },
-    {
-      "title": "SOLD OUT Fox N’ Vead",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-09-10",
-      "time": "8:00 PM",
-      "price": "$25",
-      "description": "Fox N’ Vead, Jaxon Malone Band, Emily Hollingshed",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/fox-n-vead-10-sep",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a3d8413d32fa84e1eae54ec_Photo_Feb_27_2026__5_15_58_AM.jpeg",
-      "dateAdded": "2026-09-10"
-    },
-    {
-      "title": "Briscoe",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-09-10",
-      "time": "8:00 PM",
-      "price": "$10–$80",
-      "description": "Briscoe, Lighthearted",
-      "eventUrl": "http://www.prekindle.com/event/23123-briscoe-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949135616725",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Lunar Vacation",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-09-10",
-      "time": null,
-      "price": "$18",
-      "description": "Lunar Vacation, Closebye",
-      "eventUrl": "http://www.prekindle.com/event/72836-lunar-vacation-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949140870356",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Micky And The Motorcars",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-09-10",
-      "time": "7:00 PM",
-      "price": "$17 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38681",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38681-4a4e06bf0a3fb3ada14b6e6a180fa04a.jpeg",
-      "dateAdded": "2026-06-04"
-    },
     {
       "title": "Molchat Doma - Molchat Doma Tour 2026",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-11",
       "time": null,
-      "price": "$33–$75",
+      "price": "$35–$75",
       "description": "Molchat Doma, DITZ (UK)",
       "eventUrl": "http://www.prekindle.com/event/53215-molchat-doma-molchat-doma-tour-2026-oklahoma-city",
       "ageLimit": null,
@@ -1619,22 +1519,6 @@
       "dateAdded": "2026-08-07"
     },
     {
-      "title": "SKY RUN ROGER",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-09-26",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/26/sky-run-roger",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-09-01"
-    },
-    {
       "title": "GOTH NITE: DARK DANICING",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
@@ -1703,6 +1587,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038682116",
       "dateAdded": "2026-08-23"
+    },
+    {
+      "title": "JAM E-CONO HAPPY HOUR SHOW",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-09-27",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/27/jam-e-cono-happy-hour-show",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-09-11"
     },
     {
       "title": "Rolling Quartz 롤링쿼츠",
@@ -1871,6 +1771,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022083303",
       "dateAdded": "2026-09-08"
+    },
+    {
+      "title": "BASS PERSUADES ME TO DANCE: A MILEY PARTY",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-01",
+      "time": null,
+      "price": "$15",
+      "description": "DJ Isis Payne",
+      "eventUrl": "http://www.prekindle.com/event/91859-bass-persuades-me-to-dance-a-miley-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949018987803",
+      "dateAdded": "2026-09-11"
     },
     {
       "title": "The Final Encore – A Mayo Family Tribute",
@@ -2905,7 +2819,7 @@
       "eventUrl": "http://www.prekindle.com/event/15526-the-schizophonics-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131105369",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949019165234",
       "dateAdded": "2026-07-16"
     },
     {
@@ -2937,6 +2851,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39558-f471e5cf07e5f16620a055eac71f08a2.jpeg",
       "dateAdded": "2026-09-05"
+    },
+    {
+      "title": "Eyehategod",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-10-15",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "EYEHATEGOD\nwith Special Guest: Luicidal (Members of Suicidal Tendencies), Bl'ast, Evil Army & Self Inflicted Oklahoma Sludge\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "eventUrl": "https://www.ticketstorm.com/event/eyehategodwithspecialguestsluicidalmembersofsuicidaltendencies/89thstreetokc/oklahomacity/33122/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_99ff47fd30b74a33bcc5b80bc3399465~mv2.jpg",
+      "dateAdded": "2026-09-11"
     },
     {
       "title": "I See Stars",
@@ -3403,7 +3331,7 @@
       "date": "2026-10-22",
       "time": "8:00 PM",
       "price": "$17–$75",
-      "description": "Culture Wars",
+      "description": "Culture Wars, Softly",
       "eventUrl": "http://www.prekindle.com/event/45639-culture-wars-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3798,7 +3726,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-29",
       "time": null,
-      "price": "$40–$150",
+      "price": "$40",
       "description": "Los Gemelos De Sinaloa",
       "eventUrl": "http://www.prekindle.com/event/13439-los-gemelos-de-sinaloa-oklahoma-city",
       "ageLimit": null,
@@ -5515,6 +5443,22 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38394-cb30b0ce5d547505a4213cd127881022.jpeg",
       "dateAdded": "2026-05-03"
+    },
+    {
+      "title": "Private Event",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-12-27",
+      "time": "4:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39587",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39587-f25cf672028c3ef31c6006edeea5764f.png",
+      "dateAdded": "2026-09-11"
     },
     {
       "title": "Magoo",
