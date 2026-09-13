@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-09-13T11:30:44.942Z",
+  "lastUpdated": "2026-09-13T19:56:56.231Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Outsiders Fest #2 at Chimera!!! Our 3rd Anniversay!!!",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
-      "date": "2026-09-12",
-      "time": "7:00 PM",
-      "price": "$20",
-      "description": "Come celebrate our 3rd Anniversary at Outsiders Fest #2 at Chimera featuring performances by Dreamsickle, In My Defense, Fighting Sleep, A Wish That Lasts, Garden Ants, Adjacent to the Fall, & Morris Village.Tickets $20Doors 7pm Music 7:30pm",
-      "eventUrl": "https://www.noisetowntulsa.com/events/outsiders-fest-2-at-chimera",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1786665791789-WEHRVJDL8JYAONS3WUO6/outsider+1.png",
-      "dateAdded": "2026-08-14"
-    },
     {
       "title": "Powerplant",
       "venue": "89th Street OKC",
@@ -1587,6 +1573,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949150474998",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Justin Bloss | Shelby Kemp | Amber Watson",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-02",
+      "time": null,
+      "price": "$10",
+      "description": "Shelby Kemp",
+      "eventUrl": "http://www.prekindle.com/event/97146-justin-bloss-shelby-kemp-amber-watson-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949016396697",
+      "dateAdded": "2026-09-13"
     },
     {
       "title": "Lawrence Rothman with special guest RR Williams",
@@ -3211,6 +3211,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949169287522",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Zapruder Film School | Skink | Bucky and the Bookworms",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-24",
+      "time": null,
+      "price": "$10",
+      "description": "Zapruder Film School",
+      "eventUrl": "http://www.prekindle.com/event/53735-zapruder-film-school-skink-bucky-and-the-bookworms-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949016401979",
+      "dateAdded": "2026-09-13"
     },
     {
       "title": "The Bobby Lees",
