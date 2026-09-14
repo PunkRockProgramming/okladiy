@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-14T12:23:59.742Z",
+  "lastUpdated": "2026-09-14T21:06:47.015Z",
   "scraperErrors": [],
   "shows": [
     {
-      "title": "Hail the Sun & A Lot Like Birds",
+      "title": "LOW TICKET WARNING Hail the Sun & A Lot Like Birds",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-14",
@@ -14,7 +14,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a3ac4f57d3ab230ac10b3c6_HTS-2025Promos-AlexBemis-04280_1_.jpeg",
-      "dateAdded": "2026-06-24"
+      "dateAdded": "2026-09-14"
     },
     {
       "title": "Sleep: North America 2026",
@@ -645,7 +645,7 @@
       "date": "2026-09-22",
       "time": null,
       "price": "$18",
-      "description": "Silly Goose, Cheem",
+      "description": "Silly Goose, Cheem, Frigga Five",
       "eventUrl": "http://www.prekindle.com/event/13563-silly-goose-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1163,20 +1163,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648693044554",
       "dateAdded": "2026-08-27"
-    },
-    {
-      "title": "Kidd G",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-09-27",
-      "time": null,
-      "price": "$19–$146",
-      "description": "Kidd G, Grey Oakes, Big Mo",
-      "eventUrl": "http://www.prekindle.com/event/36318-kidd-g-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949027587221",
-      "dateAdded": "2026-07-28"
     },
     {
       "title": "Bluegrass Brunch with Johnny Mullenax",
@@ -4677,11 +4663,11 @@
       "date": "2026-11-22",
       "time": "8:00 PM",
       "price": "$20–$75",
-      "description": "Nick Shoulders",
+      "description": "Nick Shoulders, Ramsey Thornton",
       "eventUrl": "http://www.prekindle.com/event/34328-nick-shoulders-apocalypse-never-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949181403168",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949015453564",
       "dateAdded": "2026-07-16"
     },
     {
@@ -4939,6 +4925,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38870-2ecc0434b522248b273c47c939f0ba42.png",
       "dateAdded": "2026-07-15"
+    },
+    {
+      "title": "BROTALITY | Jaws of the Earth US Tour 2026",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-12-06",
+      "time": "7:00 PM",
+      "price": "$22",
+      "description": "Brotality",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/brotality-jaws-of-the-earth-us-tour-2026-06-dec",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6aa7031a989e4f49d2f5d6a8_Brotality_Press_Photo.jpeg",
+      "dateAdded": "2026-09-14"
     },
     {
       "title": "LETDOWN. - The Happy Tour",
@@ -5567,6 +5567,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37771-5066818ae5497c56f690c712166b6554.png",
       "dateAdded": "2026-04-12"
+    },
+    {
+      "title": "The Warning - Everything's Falling World Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-05-01",
+      "time": null,
+      "price": "$30",
+      "description": "The Warning, wilt",
+      "eventUrl": "http://www.prekindle.com/event/41313-the-warning-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949015803784",
+      "dateAdded": "2026-09-14"
     }
   ]
 }
