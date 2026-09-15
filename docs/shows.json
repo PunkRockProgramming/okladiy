@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T11:29:39.476Z",
+  "lastUpdated": "2026-09-15T20:32:43.861Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -79,7 +79,7 @@
       "date": "2026-09-16",
       "time": "8:00 PM",
       "price": "$28",
-      "description": "Vincent Neil Emerson, Joey Frendo, Hayden Redwine",
+      "description": "Hayden Redwine, Vincent Neil Emerson, Joey Frendo",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/vincent-neil-emerson-16-sep",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -92,7 +92,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-16",
       "time": "8:00 PM",
-      "price": "$30–$75",
+      "price": "$35",
       "description": "Twin Temple, Midnight Cowgirls",
       "eventUrl": "http://www.prekindle.com/event/29343-twin-temple-oklahoma-city",
       "ageLimit": null,
@@ -107,7 +107,7 @@
       "date": "2026-09-16",
       "time": null,
       "price": "$10",
-      "description": null,
+      "description": "Merlin Mason",
       "eventUrl": "http://www.prekindle.com/event/35115-bad-vibes-a-punk-rock-horror-party-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4535,7 +4535,7 @@
       "date": "2026-11-21",
       "time": "8:00 PM",
       "price": "$34",
-      "description": "Nick Shoulders",
+      "description": "Nick Shoulders, Ramsey Thornton",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/apocalypse-never-tour-nick-shoulders-21-nov",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -4953,6 +4953,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949047808012",
       "dateAdded": "2026-08-19"
+    },
+    {
+      "title": "Josiah and the Bonnevilles",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-12-08",
+      "time": "8:00 PM",
+      "price": "$20–$127",
+      "description": "Josiah and the Bonnevilles",
+      "eventUrl": "http://www.prekindle.com/event/49394-josiah-and-the-bonnevilles-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949017689326",
+      "dateAdded": "2026-09-15"
     },
     {
       "title": "Mini Trees",
@@ -5395,6 +5409,20 @@
       "dateAdded": "2026-05-21"
     },
     {
+      "title": "As I Lay Dying",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-03-01",
+      "time": null,
+      "price": "$28–$56",
+      "description": "As I Lay Dying, Immortal Disfigurement",
+      "eventUrl": "http://www.prekindle.com/event/28957-as-i-lay-dying-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949017716805",
+      "dateAdded": "2026-09-15"
+    },
+    {
       "title": "Wheeler Walker Jr. – Pullin’ Out: The Farewell Tour",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -5407,6 +5435,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "Amber Autry: Happy Holler Tour",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2027-03-05",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/61120235/amber-autryhappy-holler-tour-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-15"
     },
     {
       "title": "Matt Stone as Elvis in Person",
@@ -5541,12 +5583,26 @@
       "dateAdded": "2026-04-12"
     },
     {
+      "title": "Alaska Thunderf*ck: The Revolution Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-04-23",
+      "time": "8:00 PM",
+      "price": "$145–$202",
+      "description": "Alaska Thunderf*ck",
+      "eventUrl": "http://www.prekindle.com/event/79256-alaska-the-revolution-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949015326331",
+      "dateAdded": "2026-09-15"
+    },
+    {
       "title": "The Warning - Everything's Falling World Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
       "date": "2027-05-01",
       "time": null,
-      "price": "$30",
+      "price": "$30–$240",
       "description": "The Warning, wilt",
       "eventUrl": "http://www.prekindle.com/event/41313-the-warning-oklahoma-city",
       "ageLimit": null,
