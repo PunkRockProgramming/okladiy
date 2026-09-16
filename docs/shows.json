@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T11:15:34.643Z",
+  "lastUpdated": "2026-09-16T20:32:34.831Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -311,6 +311,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a7e744b8353ce7215630979_VR_FB_BANNER_TULSA.jpeg",
       "dateAdded": "2026-08-14"
+    },
+    {
+      "title": "Micah Schanel & Vanessa Jean Speckman with RR Williams & Justin Bloss",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-09-19",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949014558244",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949014552816",
+      "dateAdded": "2026-09-16"
     },
     {
       "title": "Stiff Bizkit & Testify",
@@ -958,7 +972,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-09-26",
       "time": null,
-      "price": "$37–$52",
+      "price": "$27–$52",
       "description": "Abra Cadabra",
       "eventUrl": "http://www.prekindle.com/event/31233-abba-cadabra-oklahoma-city",
       "ageLimit": null,
@@ -1028,7 +1042,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-26",
       "time": null,
-      "price": "$35–$95",
+      "price": "$30–$95",
       "description": "Artemas, Henry Morris",
       "eventUrl": "http://www.prekindle.com/event/17419-artemas-oklahoma-city",
       "ageLimit": null,
@@ -1121,22 +1135,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038682116",
       "dateAdded": "2026-08-23"
-    },
-    {
-      "title": "JAM E-CONO HAPPY HOUR SHOW",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-09-27",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/27/jam-e-cono-happy-hour-show",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-09-11"
     },
     {
       "title": "Rolling Quartz 롤링쿼츠",
@@ -1263,6 +1261,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "NICHOLS & SONS HAPPY HOUR GIG!",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-09-30",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/30/nichols-amp-sons-happy-hour-gig",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-09-16"
     },
     {
       "title": "Extortionist",
@@ -4918,7 +4932,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-12-08",
       "time": "8:00 PM",
-      "price": "$20–$127",
+      "price": "$20–$75",
       "description": "Josiah and the Bonnevilles",
       "eventUrl": "http://www.prekindle.com/event/49394-josiah-and-the-bonnevilles-oklahoma-city",
       "ageLimit": null,
@@ -4981,6 +4995,34 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149471864",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "semiwestern with very special guests",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-12-11",
+      "time": null,
+      "price": "$15",
+      "description": "semiwestern",
+      "eventUrl": "http://www.prekindle.com/event/32773-semiwestern-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949043143737",
+      "dateAdded": "2026-09-16"
+    },
+    {
+      "title": "Giovannie & The Hired Guns",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-12-11",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/86489101/giovannie-the-hired-guns-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-16"
     },
     {
       "title": "Scott Bradlee’s Postmodern Jukebox – The Future Is Vintage World Tour",
@@ -5546,7 +5588,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2027-04-23",
       "time": "8:00 PM",
-      "price": "$145–$202",
+      "price": "$30–$202",
       "description": "Alaska Thunderf*ck",
       "eventUrl": "http://www.prekindle.com/event/79256-alaska-the-revolution-tour-oklahoma-city",
       "ageLimit": null,
