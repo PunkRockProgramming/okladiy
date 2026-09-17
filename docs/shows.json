@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T11:23:47.021Z",
+  "lastUpdated": "2026-09-17T20:39:09.640Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -546,7 +546,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-23",
       "time": "8:00 PM",
-      "price": "$10–$75",
+      "price": "$10–$20",
       "description": "Kylie Morgan, Harper Grace",
       "eventUrl": "http://www.prekindle.com/event/48795-kylie-morgan-oklahoma-city",
       "ageLimit": null,
@@ -903,7 +903,7 @@
       "date": "2026-09-26",
       "time": "9:00 PM",
       "price": "$28",
-      "description": "Esseks",
+      "description": "Esseks, Malistik, KREWX",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/esseks-18-26-sep",
       "ageLimit": null,
       "tags": [],
@@ -958,7 +958,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-26",
       "time": null,
-      "price": "$30–$95",
+      "price": "$30–$75",
       "description": "Artemas, Henry Morris",
       "eventUrl": "http://www.prekindle.com/event/17419-artemas-oklahoma-city",
       "ageLimit": null,
@@ -1773,20 +1773,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949063679215",
       "dateAdded": "2026-08-07"
-    },
-    {
-      "title": "Ward Davis",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-10-08",
-      "time": "7:00 PM",
-      "price": "$28 to $41",
-      "description": "Ward Davis",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/ward-davis-08-oct",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a26d31664a9b81da53845db_1920x1080.jpeg",
-      "dateAdded": "2026-06-08"
     },
     {
       "title": "BLITZKID: Modern Hel Tour 2026 with Special Guests",
@@ -3171,6 +3157,20 @@
       "dateAdded": "2026-08-11"
     },
     {
+      "title": "GOTV RALLY WITH JENA NELSON",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-26",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/44952-gotv-rally-with-jena-nelson-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949012138794",
+      "dateAdded": "2026-09-17"
+    },
+    {
       "title": "almost monday – THANK GOD IT'S ALMOST MONDAY",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3573,11 +3573,11 @@
       "date": "2026-11-04",
       "time": null,
       "price": "$25–$50",
-      "description": "The War and Treaty",
+      "description": "The War and Treaty, Blank Page",
       "eventUrl": "http://www.prekindle.com/event/55285-the-war-and-treaty-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949135558136",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949012092032",
       "dateAdded": "2026-08-10"
     },
     {
@@ -4997,6 +4997,20 @@
       "dateAdded": "2026-08-24"
     },
     {
+      "title": "Emo Orchestra w/The Spill Canvas",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-12-12",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/63966533/emo-orchestra-wthe-spill-canvas-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-17"
+    },
+    {
       "title": "Tennessee Jet",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -5532,7 +5546,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-05-01",
       "time": null,
-      "price": "$30–$240",
+      "price": "$30–$129",
       "description": "The Warning, wilt",
       "eventUrl": "http://www.prekindle.com/event/41313-the-warning-oklahoma-city",
       "ageLimit": null,
