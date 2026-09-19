@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T10:41:01.319Z",
+  "lastUpdated": "2026-09-19T19:41:41.061Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -50,7 +50,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-19",
       "time": "9:00 PM",
-      "price": "$22",
+      "price": "$28",
       "description": "Disko Cowboy, Vinyl Ranch, Straight Tequila Night, Jake Worthington, My So-Called Band",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/disko-cowboy-19-sep",
       "ageLimit": null,
@@ -1291,6 +1291,20 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1789352907894-RINWGF2I1R2ZBQLCU8C7/An+October+Acoustic+Night+at+Noise+Town.png",
       "dateAdded": "2026-09-14"
+    },
+    {
+      "title": "Vanguard Boiler Club presents RAVE ON MAIN (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-10-03",
+      "time": "9:00 PM",
+      "price": "$15",
+      "description": "Dj Kylie, Dj Girlfriend",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/vanguard-boiler-club-presents-rave-on-main-18-03-oct",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-19"
     },
     {
       "title": "Mason Lively",
