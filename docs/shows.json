@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T12:30:41.453Z",
+  "lastUpdated": "2026-09-21T21:18:20.603Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -134,7 +134,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-23",
       "time": "8:00 PM",
-      "price": "$10–$75",
+      "price": "$4–$75",
       "description": "Kylie Morgan, Harper Grace",
       "eventUrl": "http://www.prekindle.com/event/48795-kylie-morgan-oklahoma-city",
       "ageLimit": null,
@@ -518,7 +518,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-26",
       "time": null,
-      "price": "$30–$75",
+      "price": "$25–$75",
       "description": "Artemas, Henry Morris",
       "eventUrl": "http://www.prekindle.com/event/17419-artemas-oklahoma-city",
       "ageLimit": null,
@@ -717,7 +717,7 @@
       "date": "2026-09-30",
       "time": null,
       "price": "$12",
-      "description": "Junkyard Cat",
+      "description": "Junkyard Cat, Clement Hall, Kennedy Fine",
       "eventUrl": "http://www.prekindle.com/event/73919-junkyard-cat-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -901,7 +901,7 @@
       "date": "2026-10-02",
       "time": "8:00 PM",
       "price": "$22",
-      "description": "Hayefield, In My Defense",
+      "description": "Hayefield, In My Defense, Adjacent to the Fall",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/hayefield-02-oct",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -928,7 +928,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-02",
       "time": "8:00 PM",
-      "price": "$18–$75",
+      "price": "$13–$75",
       "description": "Silverada, Rob Leines",
       "eventUrl": "http://www.prekindle.com/event/29328-silverada-oklahoma-city",
       "ageLimit": null,
@@ -1057,11 +1057,11 @@
       "date": "2026-10-03",
       "time": "9:00 PM",
       "price": "$15",
-      "description": "Dj Kylie, Dj Girlfriend",
+      "description": "Dj Kylie, Dj Girlfriend, Dj Starflyer",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/vanguard-boiler-club-presents-rave-on-main-18-03-oct",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": null,
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ab161683dc054ab7c2ee9fd_RaveOnMain_Oct2026_Vanguard_2x1.jpeg",
       "dateAdded": "2026-09-19"
     },
     {
@@ -1149,6 +1149,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949117661837",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "One Way Truckin'",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-10-04",
+      "time": "4:00 PM",
+      "price": "$10 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39641",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39641-d48e3ee49ef0e164f4fbeaee73cb5a5d.jpeg",
+      "dateAdded": "2026-09-21"
     },
     {
       "title": "Mexican Slum Rats",
@@ -1552,7 +1568,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-10",
       "time": null,
-      "price": "$30–$185",
+      "price": "$22–$185",
       "description": "LP",
       "eventUrl": "http://www.prekindle.com/event/86625-lp-all-is-not-lost-tour-oklahoma-city",
       "ageLimit": null,
@@ -2220,7 +2236,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-17",
       "time": null,
-      "price": "$27–$127",
+      "price": "$25–$127",
       "description": "Indigo Girls, Linda Perry",
       "eventUrl": "http://www.prekindle.com/event/29947-indigo-girls-oklahoma-city",
       "ageLimit": null,
@@ -2871,6 +2887,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Chad Price | Stephen Egerton | RR Williams",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-29",
+      "time": null,
+      "price": "$10",
+      "description": "Chad Price",
+      "eventUrl": "http://www.prekindle.com/event/41664-chad-price-stephen-egerton-rr-williams-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007749536",
+      "dateAdded": "2026-09-21"
+    },
+    {
       "title": "Dylan Wheeler",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -3125,6 +3155,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949084253954",
       "dateAdded": "2026-07-21"
+    },
+    {
+      "title": "One Way Truckin'",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-01",
+      "time": "4:00 PM",
+      "price": "$10 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39642",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39642-e4900913b9ed6574be4c7f1a05c94161.jpeg",
+      "dateAdded": "2026-09-21"
     },
     {
       "title": "The Election Night Show",
@@ -4515,6 +4561,22 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "One Way Truckin'",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-12-06",
+      "time": "4:00 PM",
+      "price": "$10 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39643",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39643-4eaf9bda6f8379f24f8a01729807d2e9.jpeg",
+      "dateAdded": "2026-09-21"
+    },
+    {
       "title": "John R. Miller",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -4877,6 +4939,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "One Way Truckin'",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-01-03",
+      "time": "4:00 PM",
+      "price": "$10 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39644",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39644-992a838be6f5b0c65bde85a6b0db1d69.jpeg",
+      "dateAdded": "2026-09-21"
     },
     {
       "title": "That 1 Guy",
