@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-09-21T21:18:20.603Z",
+  "lastUpdated": "2026-09-22T11:20:00.639Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Route 66 Family Movie Night: Grease",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-09-21",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/37885-route-66-family-movie-night-grease-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949029040440",
-      "dateAdded": "2026-09-02"
-    },
-    {
-      "title": "Pearl & the Oysters",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-09-21",
-      "time": null,
-      "price": "$17",
-      "description": "Pearl & the Oysters, Burl",
-      "eventUrl": "http://www.prekindle.com/event/56192-pearl-and-the-oysters-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949076222157",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "Mr. Phylzzz",
       "venue": "89th Street OKC",
@@ -909,20 +881,6 @@
       "dateAdded": "2026-09-18"
     },
     {
-      "title": "Lawrence Rothman with special guest RR Williams",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-10-02",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949086551458",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949086551287",
-      "dateAdded": "2026-09-04"
-    },
-    {
       "title": "Silverada",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1335,20 +1293,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/779716_958039bcf4874157aa7b2d649daed09d~mv2.jpg",
       "dateAdded": "2026-08-09"
-    },
-    {
-      "title": "Tisha Campbell",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-08",
-      "time": null,
-      "price": "$23–$48",
-      "description": "Tisha Campbell",
-      "eventUrl": "http://www.prekindle.com/event/28573-tisha-campbell-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030997174",
-      "dateAdded": "2026-09-01"
     },
     {
       "title": "Aseethe | Reversal Cell | Surus",
@@ -2419,22 +2363,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "12 Stones",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-10-21",
-      "time": "6:30 PM",
-      "price": "$20 to $30 ADV   $25 to $35 DAY OF",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39061",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39061-989ff415379f34abd1ffbdfee1f847e6.jpeg",
-      "dateAdded": "2026-07-11"
-    },
-    {
       "title": "Improvement Movement",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -2733,7 +2661,7 @@
       "dateAdded": "2026-07-23"
     },
     {
-      "title": "DEAD DON’T DIE (Des Moines horror punk)",
+      "title": "DEAD DON’T DIE (Des Moines horror punk)  /  /  COSTANZAS  /  /  STD",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-10-24",
@@ -2743,8 +2671,8 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100853661",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100852686",
-      "dateAdded": "2026-08-25"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007276185",
+      "dateAdded": "2026-09-22"
     },
     {
       "title": "Lords of Acid",
@@ -3453,6 +3381,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39432-c379257509b40d8adf07e63508fc8891.jpeg",
       "dateAdded": "2026-08-22"
+    },
+    {
+      "title": "LUVBASS PRESENTS: DJ MARK FARINA",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-06",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949007365836",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007363768",
+      "dateAdded": "2026-09-22"
     },
     {
       "title": "Jon Q Public | Labrador House | Killing Cupid | Stallone Cobras",
