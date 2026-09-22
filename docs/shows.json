@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T11:20:00.639Z",
+  "lastUpdated": "2026-09-22T20:34:36.652Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -163,9 +163,9 @@
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
       "date": "2026-09-24",
-      "time": "7:00 PM",
+      "time": "6:00 PM",
       "price": null,
-      "description": "DCF Concerts Presents\nTHE CALLOUS DAOBOYS\nwith Special Guests Kaonashi, Girl Of Glass, and Wielded Steel\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "description": "DCF Concerts Presents\nTHE CALLOUS DAOBOYS\nwith Special Guests Kaonashi, Girl Of Glass, and Wielded Steel\nDoors @ 6PM / Show @ 7PM \nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
       "eventUrl": "https://www.etix.com/ticket/p/63351411/the-callous-daoboys-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -263,9 +263,9 @@
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
       "date": "2026-09-25",
-      "time": "7:30 PM",
+      "time": "7:00 PM",
       "price": null,
-      "description": "DCF Concerts Presents\nLOW GAP\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
+      "description": "DCF Concerts Presents\nLOW GAP\nw/ special guest JACK DUNKER\nDoors  @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
       "eventUrl": "https://www.etix.com/ticket/p/71911145/low-gap-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -3383,20 +3383,6 @@
       "dateAdded": "2026-08-22"
     },
     {
-      "title": "LUVBASS PRESENTS: DJ MARK FARINA",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-11-06",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949007365836",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007363768",
-      "dateAdded": "2026-09-22"
-    },
-    {
       "title": "Jon Q Public | Labrador House | Killing Cupid | Stallone Cobras",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -4673,6 +4659,20 @@
       "dateAdded": "2026-08-24"
     },
     {
+      "title": "Silverada, Vandoliers, Jason Scott & The High Heat",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-12-12",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/70699926/silveradavandoliersjason-scott-the-high-heat-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-22"
+    },
+    {
       "title": "Emo Orchestra w/The Spill Canvas",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4959,6 +4959,20 @@
       "dateAdded": "2026-08-11"
     },
     {
+      "title": "Justin Willman: One For the Ages Tour",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2027-01-22",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/97561294/justin-willmanone-for-the-ages-tour-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-22"
+    },
+    {
       "title": "Dad Rock Night",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -5159,6 +5173,20 @@
       "dateAdded": "2026-08-14"
     },
     {
+      "title": "Sammy Rae & The Friends – the GET DOWN!",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-03-16",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/32847651/sammy-rae-the-friends-the-get-down-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-22"
+    },
+    {
       "title": "Rock Anthem",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -5203,6 +5231,20 @@
       "dateAdded": "2026-06-23"
     },
     {
+      "title": "CHARLIE BERENS: THE LOST AND FOUND TOUR",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-04-08",
+      "time": null,
+      "price": "$52–$111",
+      "description": "Charlie Berens, Outback Presents",
+      "eventUrl": "http://www.prekindle.com/event/73721-outback-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949015470966",
+      "dateAdded": "2026-09-22"
+    },
+    {
       "title": "Private Event",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -5245,6 +5287,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949015803784",
       "dateAdded": "2026-09-14"
+    },
+    {
+      "title": "Too Many Zooz: Audio Lipstick Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-05-03",
+      "time": "8:00 PM",
+      "price": "$28",
+      "description": "Too Many Zooz",
+      "eventUrl": "http://www.prekindle.com/event/46955-too-many-zooz-audio-lipstick-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007937538",
+      "dateAdded": "2026-09-22"
     }
   ]
 }
