@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-09-23T11:13:53.873Z",
+  "lastUpdated": "2026-09-23T20:46:06.651Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Mr. Phylzzz",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-22",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "DCF Concerts Presents\nMR. PHYLZZZ - The Killer Set Tour\nw/ special guests Honduh Daze, Ivory Tusk, &  Filth Hounds\nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/51123299/mrphylzzz-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_c5d1f2abf1a34627a85119ceddde08f1~mv2.jpg",
-      "dateAdded": "2026-07-12"
-    },
     {
       "title": "King 810",
       "venue": "89th Street OKC",
@@ -50,7 +36,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-23",
       "time": "7:30 PM",
-      "price": "$31",
+      "price": "$37",
       "description": "The Expendables, Chad Tepper, Matt & Zack",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-expendables-23-sep",
       "ageLimit": "ALL AGES",
@@ -92,7 +78,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-23",
       "time": null,
-      "price": "$50–$228",
+      "price": "$50–$70",
       "description": "Dan and Phil",
       "eventUrl": "http://www.prekindle.com/event/69351-dan-and-phil-oklahoma-city",
       "ageLimit": null,
@@ -916,7 +902,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-03",
       "time": null,
-      "price": "$20–$45",
+      "price": "$15–$45",
       "description": "Straight Tequila Night",
       "eventUrl": "http://www.prekindle.com/event/55838-straight-tequila-night-90s-country-tribute-oklahoma-city",
       "ageLimit": null,
@@ -2331,7 +2317,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/41329017/improvement-movement-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_a00cfc463c3744eb8a9413aa12bbf4e3~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_d0a1786f481b499980ce341c27690660~mv2.jpg",
       "dateAdded": "2026-09-19"
     },
     {
@@ -2873,6 +2859,20 @@
       "dateAdded": "2026-05-07"
     },
     {
+      "title": "Jed Harrelson",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-10-30",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nJED HARRELSON\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nDoors 7PM / Show 7:30 PM\n\nVIP Meet & Greet Package \nIncludes:\n-1 GA ticket\n-3 song acoustic set\n-Meet & greet\n-Signed polaroid\n-Skip the merch line before the show",
+      "eventUrl": "https://www.etix.com/ticket/p/91082189/jed-harrelson-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_344e2bfaed1c4476a678b543ece16e26~mv2.jpg",
+      "dateAdded": "2026-09-23"
+    },
+    {
       "title": "My So Called Band - 90s Tribute",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3021,7 +3021,7 @@
       "date": "2026-11-01",
       "time": null,
       "price": "$15",
-      "description": "Dead Sullivan",
+      "description": "Dead Sullivan, Some Fear, Charlotte Bumgarner",
       "eventUrl": "http://www.prekindle.com/event/89831-dead-sullivan-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3367,6 +3367,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949015228274",
       "dateAdded": "2026-09-15"
+    },
+    {
+      "title": "Blisspop Presents: Can't Feel My Face: 2010s Dance Party",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-11-07",
+      "time": "9:00 PM",
+      "price": "$16–$75",
+      "description": "Blisspop Presents",
+      "eventUrl": "http://www.prekindle.com/event/13646-blisspop-presents-cant-feel-my-face-2010s-dance-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007650302",
+      "dateAdded": "2026-09-23"
     },
     {
       "title": "Upon Your Dead Body",
@@ -4347,6 +4361,20 @@
       "dateAdded": "2026-09-01"
     },
     {
+      "title": "Trippie Redd – The Non-Disclosure Agreement Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-12-04",
+      "time": null,
+      "price": "$30",
+      "description": "Trippie Redd",
+      "eventUrl": "http://www.prekindle.com/event/44143-trippie-redd-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949005604688",
+      "dateAdded": "2026-09-23"
+    },
+    {
       "title": "Vienna Light Orchestra Christmas Tour 2026",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4931,6 +4959,22 @@
       "dateAdded": "2026-08-27"
     },
     {
+      "title": "The Malcontentz",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-01-16",
+      "time": "8:00 PM",
+      "price": "$10",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39660",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39660-ee10d657df478d060dfdf4085819fffe.jpeg",
+      "dateAdded": "2026-09-23"
+    },
+    {
       "title": "Logan Ryan Band",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -5280,7 +5324,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2027-05-03",
       "time": "8:00 PM",
-      "price": "$28",
+      "price": "$25–$75",
       "description": "Too Many Zooz",
       "eventUrl": "http://www.prekindle.com/event/46955-too-many-zooz-audio-lipstick-tour-oklahoma-city",
       "ageLimit": null,
