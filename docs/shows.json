@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T11:28:59.561Z",
+  "lastUpdated": "2026-09-24T20:52:09.592Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -264,7 +264,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-26",
       "time": "9:00 PM",
-      "price": "$28",
+      "price": "$34",
       "description": "Esseks, Malistik, KREWX",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/esseks-18-26-sep",
       "ageLimit": null,
@@ -571,20 +571,6 @@
       "dateAdded": "2026-08-04"
     },
     {
-      "title": "Morgan Page - Classics Only",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-01",
-      "time": null,
-      "price": "$14–$65",
-      "description": "Morgan Page",
-      "eventUrl": "http://www.prekindle.com/event/92868-morgan-page-classics-only-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146228282",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "Rob Leines",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -597,6 +583,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022083303",
       "dateAdded": "2026-09-08"
+    },
+    {
+      "title": "Morgan Page - Classics Only",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-01",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Morgan Page",
+      "eventUrl": "http://www.prekindle.com/event/37497-morgan-page-classics-only-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949004254194",
+      "dateAdded": "2026-09-24"
     },
     {
       "title": "BASS PERSUADES ME TO DANCE: A MILEY PARTY",
@@ -744,7 +744,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-02",
       "time": null,
-      "price": "$16–$90",
+      "price": "$14–$90",
       "description": "Anne Wilson, Aodhan King",
       "eventUrl": "http://www.prekindle.com/event/39612-anne-wilson-oklahoma-city",
       "ageLimit": null,
@@ -865,6 +865,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022060195",
       "dateAdded": "2026-09-08"
+    },
+    {
+      "title": "BIG BUBBLE RAVE",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-03",
+      "time": "9:00 PM",
+      "price": "$15–$75",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/58872-big-bubble-rave-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949006903893",
+      "dateAdded": "2026-09-24"
     },
     {
       "title": "CRIMEWAVE: A GOTH, POST-PUNK & DARKWAVE PARTY",
@@ -988,7 +1002,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-06",
       "time": null,
-      "price": "$18–$55",
+      "price": "$12–$55",
       "description": "Łaszewo",
       "eventUrl": "http://www.prekindle.com/event/49644-aszewo-oklahoma-city",
       "ageLimit": null,
@@ -1058,7 +1072,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-07",
       "time": "8:00 PM",
-      "price": "$17–$23",
+      "price": "$11–$23",
       "description": "Bad Nerves, Primo Danger",
       "eventUrl": "http://www.prekindle.com/event/92852-bad-nerves-oklahoma-city",
       "ageLimit": null,
@@ -1144,7 +1158,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-08",
       "time": "8:00 PM",
-      "price": "$15–$63",
+      "price": "$10–$63",
       "description": "Blitzkid, Casper McWade",
       "eventUrl": "http://www.prekindle.com/event/45577-blitzkid-modern-hel-tour-2026-with-special-guests-oklahoma-city",
       "ageLimit": null,
@@ -1172,7 +1186,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-08",
       "time": null,
-      "price": "$35–$110",
+      "price": "$25–$110",
       "description": "Parcels, the booyah! kids",
       "eventUrl": "http://www.prekindle.com/event/75385-parcels-oklahoma-city",
       "ageLimit": null,
@@ -2311,7 +2325,7 @@
       "date": "2026-10-23",
       "time": "9:00 PM",
       "price": "$15",
-      "description": "Dial Up",
+      "description": "Dial Up, Spice Girls, Backstreet Boys, Haddaway, House of Pain, Christina Aguilera",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/dial-up-90-s-tribute-21-23-oct",
       "ageLimit": null,
       "tags": [],
@@ -2706,7 +2720,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-29",
       "time": null,
-      "price": "$40–$150",
+      "price": "$20–$150",
       "description": "Los Gemelos De Sinaloa",
       "eventUrl": "http://www.prekindle.com/event/13439-los-gemelos-de-sinaloa-oklahoma-city",
       "ageLimit": null,
@@ -2799,6 +2813,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111607779",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "DEATH Presents: RITUAL",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-30",
+      "time": null,
+      "price": "$10",
+      "description": "Gigi Koochykilla, Alita Hellstrom, Paprika Cherry, Lesbiana Grande, Eboni Noire, Dë Monic, Pnp Apollo, Hunter Matrix, De Banks, Vanilla Kush",
+      "eventUrl": "http://www.prekindle.com/event/97588-death-presents-ritual-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003839322",
+      "dateAdded": "2026-09-24"
     },
     {
       "title": "Pop Punk Nite! by: Van Full of Nuns",
@@ -3747,7 +3775,7 @@
       "eventUrl": "http://www.prekindle.com/event/88623-paige-fish-the-midnight-crisis-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949069223462",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949004294789",
       "dateAdded": "2026-08-03"
     },
     {
@@ -4280,7 +4308,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-04",
       "time": null,
-      "price": "$30",
+      "price": "$30–$240",
       "description": "Trippie Redd",
       "eventUrl": "http://www.prekindle.com/event/44143-trippie-redd-oklahoma-city",
       "ageLimit": null,
