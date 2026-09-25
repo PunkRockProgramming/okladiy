@@ -1,107 +1,7 @@
 {
-  "lastUpdated": "2026-09-24T20:52:09.592Z",
+  "lastUpdated": "2026-09-25T11:34:38.220Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "The Callous Daoboys",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-24",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "DCF Concerts Presents\nTHE CALLOUS DAOBOYS\nwith Special Guests Kaonashi, Girl Of Glass, and Wielded Steel\nDoors @ 6PM / Show @ 7PM \nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/63351411/the-callous-daoboys-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_af1f34a2567f4f9f80213dd2053d6d19~mv2.jpg",
-      "dateAdded": "2026-07-12"
-    },
-    {
-      "title": "Liverpool Legends: Beatles Experience",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-09-24",
-      "time": null,
-      "price": "$35–$65",
-      "description": "Liverpool Legends",
-      "eventUrl": "http://www.prekindle.com/event/84691-liverpool-legends-beatles-experience-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852852648461830808",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "JMSN",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-09-24",
-      "time": "8:00 PM",
-      "price": "$34",
-      "description": "JMSN, Cailin Russo",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/jmsn-24-sep",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a2300aed4744c7da2af7812_APPROVED_PRESS_PHOTO_2_-_JMSN_-_Credit_Cameron_McCool.jpg.jpeg",
-      "dateAdded": "2026-06-09"
-    },
-    {
-      "title": "In Her Own Words x Every Avenue - Perfectly Unfamiliar Tour",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-09-24",
-      "time": "8:00 PM",
-      "price": "$11–$25",
-      "description": "In Her Own Words, Every Avenue, Felicity",
-      "eventUrl": "http://www.prekindle.com/event/54531-in-her-own-words-x-every-avenue-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149610175",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Jim E. Brown",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-09-24",
-      "time": null,
-      "price": "$25",
-      "description": "Jim E Brown, Andy Burns",
-      "eventUrl": "http://www.prekindle.com/event/58613-jim-e-brown-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949165697354",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Toadies: The Charmer Tour",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-24",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/72553338/toadiesthe-charmer-tour-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "Hamell on Trial w/ Fat Dracula",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-09-24",
-      "time": "7:00 PM",
-      "price": "$8 adv / $10 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39576",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39576-5ec027eda4fbac19a02dc7da0ed92330.jpeg",
-      "dateAdded": "2026-09-09"
-    },
     {
       "title": "SCREENING: Gregg Allman: The Music of My Soul",
       "venue": "Tower Theatre",
@@ -136,7 +36,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-25",
       "time": "9:00 PM",
-      "price": "$31",
+      "price": "$34",
       "description": "Straight Tequila Night",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/straight-tequila-night-a-tribute-to-90s-country-21-25-sep",
       "ageLimit": null,
@@ -641,18 +541,18 @@
       "dateAdded": "2026-04-06"
     },
     {
-      "title": "THE BUTTS ATX punk)  /  /  FAIRWEATHER ENEMIES (OKC)",
+      "title": "THE BUTTS (ATX punk)  /  /  FAIRWEATHER ENEMIES  /  /  BELLE RIOTS",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-10-01",
-      "time": "9:00 PM",
+      "time": "8:30 PM",
       "price": null,
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100869904",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100865978",
-      "dateAdded": "2026-08-25"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003751234",
+      "dateAdded": "2026-09-25"
     },
     {
       "title": "Solya",
@@ -781,6 +681,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39189-ad3c29d95b5ba6b4c6b875843a71cde1.jpeg",
       "dateAdded": "2026-07-28"
+    },
+    {
+      "title": "THURBER MINGUS (TX cowboy psych)  /  /  CALEB RAINS  /  /  OBZAN",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-02",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100865168",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003315338",
+      "dateAdded": "2026-09-25"
     },
     {
       "title": "Straight Tequila Night: '90s Country Tribute",
@@ -1211,6 +1125,20 @@
       "dateAdded": "2026-06-23"
     },
     {
+      "title": "MATT PLESS (folk punk)  /  /  CHRIS ALAN COX  /  /  MATT JEWETT",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-08",
+      "time": "8:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949003066018",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003055312",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Akeem Ali - The Texture Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1335,6 +1263,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "GHOULS ON THE PLAZA: GHOUL A.D. & MR. SPLITFOOT",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-09",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949002866009",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949002865509",
+      "dateAdded": "2026-09-25"
     },
     {
       "title": "sKitz Kraven",
@@ -1465,6 +1407,20 @@
       "dateAdded": "2026-07-27"
     },
     {
+      "title": "THE GRANDE SHOWCASE RETURNS!",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-10",
+      "time": "9:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949003042866",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003031541",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Demon Hunter - Storm the Gates of Hell 20th Anniversary Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1565,7 +1521,7 @@
       "dateAdded": "2026-05-30"
     },
     {
-      "title": "CAMMY-KUN (New York Hip Hop / Emo Rap)",
+      "title": "CAMMY-KUN (Trinidad Hip Hop / Emo Rap)  /  /  NANDO  /  /  19vast",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-10-11",
@@ -1575,8 +1531,8 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100860485",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100859645",
-      "dateAdded": "2026-08-25"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949002901052",
+      "dateAdded": "2026-09-25"
     },
     {
       "title": "Sleeping With Sirens: An Ending In Itself Tour",
@@ -3383,6 +3339,20 @@
       "dateAdded": "2026-04-09"
     },
     {
+      "title": "Jay Webb",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-11-08",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "JAY WEBB\nTHE HOMESICK TOUR\nwith special guest Lil Man J\nDoors @ 7PM / Show @ 7:30PM\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/51673138/jay-webb-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_677958f398e3484d9b9e731b04bf52b1~mv2.jpg",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Adelitas Way – 15th Anniversary of Home School Valedictorian Tour wsg Aranda & Kingdom Collapse",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4289,6 +4259,20 @@
       "dateAdded": "2026-07-28"
     },
     {
+      "title": "Scott H. Biram",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-12-03",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949003785230",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003783891",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Twen",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -4308,7 +4292,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-04",
       "time": null,
-      "price": "$30–$240",
+      "price": "$30",
       "description": "Trippie Redd",
       "eventUrl": "http://www.prekindle.com/event/44143-trippie-redd-oklahoma-city",
       "ageLimit": null,
@@ -4945,6 +4929,22 @@
       "dateAdded": "2026-09-22"
     },
     {
+      "title": "Wakeland",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-01-22",
+      "time": "8:00 PM",
+      "price": "$18 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39667",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39667-9799746edbdabcf4e686b94ff70b4f3b.jpeg",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Dad Rock Night",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -5266,7 +5266,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2027-05-03",
       "time": "8:00 PM",
-      "price": "$25–$75",
+      "price": "$28",
       "description": "Too Many Zooz",
       "eventUrl": "http://www.prekindle.com/event/46955-too-many-zooz-audio-lipstick-tour-oklahoma-city",
       "ageLimit": null,
