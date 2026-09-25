@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T11:34:38.220Z",
+  "lastUpdated": "2026-09-25T20:49:07.044Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -106,7 +106,7 @@
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-09-25",
       "time": "6:00 PM",
-      "price": "$25 to $35 ADV   $30 to $40 DAY OF",
+      "price": "$30 to $40",
       "description": null,
       "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39035",
       "ageLimit": "21 & Over",
@@ -220,7 +220,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-09-26",
       "time": null,
-      "price": "$25–$75",
+      "price": null,
       "description": "Artemas, Henry Morris",
       "eventUrl": "http://www.prekindle.com/event/17419-artemas-oklahoma-city",
       "ageLimit": null,
@@ -759,7 +759,7 @@
       "date": "2026-10-03",
       "time": "9:00 PM",
       "price": "$15",
-      "description": "Dj Kylie, Dj Girlfriend, Dj Starflyer",
+      "description": "Dj Girlfriend, Dj Starflyer, Dj Kylie",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/vanguard-boiler-club-presents-rave-on-main-18-03-oct",
       "ageLimit": null,
       "tags": [],
@@ -881,6 +881,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39641-d48e3ee49ef0e164f4fbeaee73cb5a5d.jpeg",
       "dateAdded": "2026-09-21"
+    },
+    {
+      "title": "Poetry for Thee Open Mic Poetry Swap",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-10-05",
+      "time": "5:30 PM",
+      "price": null,
+      "description": "Open Mic Poetry Swap hosted by Alf. Free to attend and participate. You can just listen to the poetry, you do not have to read!Sign up Time 5:30pm Reading 6pm.",
+      "eventUrl": "https://www.noisetowntulsa.com/events/44f2phs53xwbjzlkwfr7dkr2dl92yj",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1790367441181-7J587DC6FDNCLNRA3S68/POETRY+for+Thee+OCT+copy.png",
+      "dateAdded": "2026-09-25"
     },
     {
       "title": "Mexican Slum Rats",
@@ -1209,6 +1223,20 @@
       "dateAdded": "2026-08-21"
     },
     {
+      "title": "Casper McWade Birthday Double Headline!",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-09",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001981864",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001979457",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Mountain Grass Unit - Appalachian Smoke Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1333,6 +1361,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a62256c5eb88d690eb09d5f_UWD_TSA_10.10.26_HOR.jpeg",
       "dateAdded": "2026-07-29"
+    },
+    {
+      "title": "Jared Hard Album Release Show",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-10",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001974179",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001972570",
+      "dateAdded": "2026-09-25"
     },
     {
       "title": "Angélica Gallegos",
@@ -1833,6 +1875,20 @@
       "dateAdded": "2026-09-11"
     },
     {
+      "title": "The Poppa Foster Goodtime Band",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-16",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001971800",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001971000",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Elizabeth Nichols - I Don't Kiss & Tell, I Kiss & Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2149,6 +2205,20 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "Bonnie Whitmore & the Sad Girls",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-21",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001967253",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001961633",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Ak'chamel",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2289,6 +2359,20 @@
       "dateAdded": "2026-08-31"
     },
     {
+      "title": "Hooks and the Huckleberries",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-23",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001954754",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001954098",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Failure - Rising Skyline 2026",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2387,6 +2471,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a10c62ccf458eec7712a512_bobby_lees.jpeg",
       "dateAdded": "2026-08-21"
+    },
+    {
+      "title": "Jordan Mathew Young",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-24",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001947783",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001918550",
+      "dateAdded": "2026-09-25"
     },
     {
       "title": "Boundaries",
@@ -2503,6 +2601,20 @@
       "dateAdded": "2026-09-09"
     },
     {
+      "title": "Electric Tongues",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-25",
+      "time": null,
+      "price": "$16",
+      "description": "Electric Tongues, Helen Kelter Skelter, Dinosaur Boyfriend, HESKETH",
+      "eventUrl": "http://www.prekindle.com/event/36827-electric-tongues-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949005459670",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "AFI",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -2585,6 +2697,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038425887",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Mitchell Ferguson",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-28",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001959849",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001907999",
+      "dateAdded": "2026-09-25"
     },
     {
       "title": "ROCK BOTTOM STRING BAND (TX folk punk)  /  /  MARTY BUSH (KS Americana singer-songwriter)",
@@ -2743,6 +2869,20 @@
       "dateAdded": "2026-08-16"
     },
     {
+      "title": "Halloween Benefit Show featuring Flash Point, Teeth to the Curb!, Babies on a Half Pipe, & Instant Death Spike",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-10-30",
+      "time": "7:00 PM",
+      "price": "$15",
+      "description": "Live music fundraiser featuring performances from Flash Point, Teeth to the Curb!, Babies on a Halfpipe and Instant Death Spike. All funds will go towards Randle’s medical bills and recovery! There will also be a raffle giveaway of a PS1 Classic Console.Tickets $15Doors 7pm Music 7:30pm",
+      "eventUrl": "https://www.noisetowntulsa.com/events/halloween-benefit-show-featuring-flash-point-teeth-to-the-curb-babies-on-a-half-pipe-instant-death-spike",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1790367873480-N1M3TZ9S9ZASLUVUJ99X/Benefit+Flier.png",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Through Being Cool presents EMO HALLOWEEN with The Dom Telonges (18+)",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -2757,12 +2897,26 @@
       "dateAdded": "2026-05-22"
     },
     {
+      "title": "Belle & the Vertigo Waves",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-30",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001905012",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001902531",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Dylan Wheeler",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-30",
       "time": "8:00 PM",
-      "price": "$22",
+      "price": "$22–$75",
       "description": "Dylan Wheeler",
       "eventUrl": "http://www.prekindle.com/event/81551-dylan-wheeler-oklahoma-city",
       "ageLimit": null,
@@ -3387,7 +3541,7 @@
       "date": "2026-11-08",
       "time": null,
       "price": "$25–$85",
-      "description": "Wax, DJ Hoppa, The Palmer Squares",
+      "description": "Wax, DJ Hoppa, The Palmer Squares, RUTGER!",
       "eventUrl": "http://www.prekindle.com/event/14659-wax-and-dj-hoppa-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4131,6 +4285,20 @@
       "dateAdded": "2026-07-28"
     },
     {
+      "title": "This Ain't a Scene - MTV2 Tribute (18+)",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-27",
+      "time": "9:00 PM",
+      "price": "$15",
+      "description": "A Mixtape Catastrophe",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/this-ain-t-a-scene-mtv2-tribute-18-27-nov",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ab68b49ecc13cc0bd1a0601_dff87146-420a-4797-94e3-a14684534ff1.jpeg",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Jason Boland & The Stragglers",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4187,6 +4355,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949037013879",
       "dateAdded": "2026-08-27"
+    },
+    {
+      "title": "The Normandys",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-28",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "The Normandys, Daychaser, Labadie House, Wolf Ugly",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-normandys-28-nov",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ab450997c9f384f1d556e80_IMG_4625_%25281%2529.jpeg",
+      "dateAdded": "2026-09-25"
     },
     {
       "title": "Cancer Sucks Concert",
@@ -4292,7 +4474,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-04",
       "time": null,
-      "price": "$30",
+      "price": "$30–$240",
       "description": "Trippie Redd",
       "eventUrl": "http://www.prekindle.com/event/44143-trippie-redd-oklahoma-city",
       "ageLimit": null,
@@ -4715,6 +4897,20 @@
       "dateAdded": "2026-08-18"
     },
     {
+      "title": "Bingo Loco",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-12-19",
+      "time": null,
+      "price": "$27–$43",
+      "description": "Bingo Loco",
+      "eventUrl": "http://www.prekindle.com/event/47712-bingo-loco-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949005543968",
+      "dateAdded": "2026-09-25"
+    },
+    {
       "title": "Yheti B2B Toadface - Sleight of Sound Tour (18+)",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4899,6 +5095,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39660-ee10d657df478d060dfdf4085819fffe.jpeg",
       "dateAdded": "2026-09-23"
+    },
+    {
+      "title": "Danz CM",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-01-18",
+      "time": null,
+      "price": "$18",
+      "description": "Danz CM",
+      "eventUrl": "http://www.prekindle.com/event/26158-danz-cm-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949014807443",
+      "dateAdded": "2026-09-25"
     },
     {
       "title": "Logan Ryan Band",
@@ -5266,7 +5476,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2027-05-03",
       "time": "8:00 PM",
-      "price": "$28",
+      "price": "$25–$75",
       "description": "Too Many Zooz",
       "eventUrl": "http://www.prekindle.com/event/46955-too-many-zooz-audio-lipstick-tour-oklahoma-city",
       "ageLimit": null,
