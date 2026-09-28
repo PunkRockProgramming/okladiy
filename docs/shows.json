@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-09-27T20:31:54.483Z",
+  "lastUpdated": "2026-09-28T13:29:33.372Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Bluegrass Brunch with Johnny Mullenax",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-09-27",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949148070670",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949148070653",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Bayonne - The ‘Filters’ Tour",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-09-27",
-      "time": "8:00 PM",
-      "price": "$9–$75",
-      "description": "Bayonne, Bad Snacks",
-      "eventUrl": "http://www.prekindle.com/event/31329-bayonne-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949167255157",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "Rolling Quartz 롤링쿼츠",
       "venue": "89th Street OKC",
@@ -120,7 +92,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-30",
       "time": "8:00 PM",
-      "price": "$22–$76",
+      "price": "$22–$75",
       "description": "Gable Price and Friends, Stephen Stanley",
       "eventUrl": "http://www.prekindle.com/event/27799-gable-price-and-friends-oklahoma-city",
       "ageLimit": null,
@@ -1191,20 +1163,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949088179389",
       "dateAdded": "2026-07-21"
-    },
-    {
-      "title": "Bragolin | Carrellee | Red Red Groove | DJ Majda",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-10-11",
-      "time": null,
-      "price": "$15",
-      "description": "Bragolin",
-      "eventUrl": "http://www.prekindle.com/event/48144-bragolin-carrellee-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949055160953",
-      "dateAdded": "2026-08-13"
     },
     {
       "title": "Joe Jordan - The Heart Sessions Tour",
