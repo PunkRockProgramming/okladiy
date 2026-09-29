@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T12:32:24.027Z",
+  "lastUpdated": "2026-09-29T21:35:43.034Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -185,20 +185,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001845727",
       "dateAdded": "2026-09-24"
-    },
-    {
-      "title": "BASS PERSUADES ME TO DANCE: A MILEY PARTY",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-10-01",
-      "time": null,
-      "price": "$15",
-      "description": "DJ Isis Payne",
-      "eventUrl": "http://www.prekindle.com/event/91859-bass-persuades-me-to-dance-a-miley-party-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949018987803",
-      "dateAdded": "2026-09-11"
     },
     {
       "title": "The Final Encore – A Mayo Family Tribute",
@@ -490,7 +476,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-03",
       "time": "9:00 PM",
-      "price": "$15–$75",
+      "price": "$10–$75",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/58872-big-bubble-rave-oklahoma-city",
       "ageLimit": null,
@@ -1872,13 +1858,27 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-21",
       "time": null,
-      "price": "$26–$112",
+      "price": "$19–$112",
       "description": "Medium Build, Bella White",
       "eventUrl": "http://www.prekindle.com/event/61618-medium-build-presents-the-king-of-having-fun-on-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949114702909",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Sarmat | Dischordia | Ivory Tusk",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-21",
+      "time": null,
+      "price": "$15",
+      "description": "Sarmat",
+      "eventUrl": "http://www.prekindle.com/event/75382-sarmat-dischordia-ivory-tusk-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948998483328",
+      "dateAdded": "2026-09-29"
     },
     {
       "title": "Kyle Hume",
@@ -2082,7 +2082,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-23",
       "time": null,
-      "price": "$15",
+      "price": "$12",
       "description": "Basic Printer, Spirit of the Bear",
       "eventUrl": "http://www.prekindle.com/event/47939-basic-printer-and-spirit-of-the-bear-oklahoma-city",
       "ageLimit": null,
@@ -2885,7 +2885,7 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "with Destroyer (solo)",
+      "title": "Neko Case",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
       "date": "2026-11-04",
@@ -2896,7 +2896,7 @@
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-08-28"
+      "dateAdded": "2026-09-29"
     },
     {
       "title": "trsh - Gone Fishin' Tour",
@@ -3017,7 +3017,7 @@
       "date": "2026-11-06",
       "time": "8:00 PM",
       "price": "$22–$75",
-      "description": "Blacktop Mojo",
+      "description": "Blacktop Mojo, American Slang",
       "eventUrl": "http://www.prekindle.com/event/67833-blacktop-mojo-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3847,6 +3847,22 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Little Lies: The Music of Fleetwood Mac",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-20",
+      "time": "7:00 PM",
+      "price": "$20 adv / $25 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39673",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39673-f50011c2176d5a7fca3a1bf8e4f0b02b.png",
+      "dateAdded": "2026-09-29"
+    },
+    {
       "title": "Apocalypse, Never! Tour - Nick Shoulders",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -3981,7 +3997,7 @@
       "date": "2026-11-22",
       "time": null,
       "price": "$25",
-      "description": "Oso Oso, Liquid Mike, bugsy",
+      "description": "Oso Oso, Liquid Mike, bugsy, Red Sun",
       "eventUrl": "http://www.prekindle.com/event/78121-oso-oso-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4043,6 +4059,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ab68b49ecc13cc0bd1a0601_dff87146-420a-4797-94e3-a14684534ff1.jpeg",
       "dateAdded": "2026-09-25"
+    },
+    {
+      "title": "Skanksgiving",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-27",
+      "time": null,
+      "price": "$15",
+      "description": "The Big News, Fair Weather Enemies, Dirty Reggae Punks",
+      "eventUrl": "http://www.prekindle.com/event/16734-skanksgiving-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948998470473",
+      "dateAdded": "2026-09-29"
     },
     {
       "title": "Jason Boland & The Stragglers",
@@ -4117,6 +4147,34 @@
       "dateAdded": "2026-09-25"
     },
     {
+      "title": "Cancer Sucks Concert featuring Dirty Honey",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-11-28",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/99126468/cancer-sucks-concert-featuring-dirty-honey-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-29"
+    },
+    {
+      "title": "Dreamland Festival",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2026-11-28",
+      "time": "5 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/47412410/dreamland-festival-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-29"
+    },
+    {
       "title": "The Leftover Last Waltz",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4125,7 +4183,7 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/80095432/the-leftover-last-waltz-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
+      "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-09-11"
@@ -5217,6 +5275,20 @@
       "dateAdded": "2026-04-12"
     },
     {
+      "title": "Michelle Wolf - Best Job in the World",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-04-15",
+      "time": null,
+      "price": null,
+      "description": "Michelle Wolf",
+      "eventUrl": "http://www.prekindle.com/event/24317-michelle-wolf-best-job-in-the-world-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949012061967",
+      "dateAdded": "2026-09-29"
+    },
+    {
       "title": "Alaska Thunderf*ck: The Revolution Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -5257,6 +5329,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007937538",
       "dateAdded": "2026-09-22"
+    },
+    {
+      "title": "Blondshell",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-05-24",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/66108572/blondshell-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-09-29"
     }
   ]
 }
