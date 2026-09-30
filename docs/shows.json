@@ -1,63 +1,7 @@
 {
-  "lastUpdated": "2026-09-29T21:35:43.034Z",
+  "lastUpdated": "2026-09-30T21:36:03.261Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Rolling Quartz 롤링쿼츠",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-29",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "[MY TURN] 2026 TOUR\nGA Doors 6pm / Show 7pm\n*VIP Packages Available \n*All Tickets General Admission / Standing Room Only For the Performance",
-      "eventUrl": "https://www.ticketweb.com/event/rolling-quartz-my-turn-2026-89th-street-okc-tickets/14947543",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_855476cf9bcf498894e05155e661c74c~mv2.png",
-      "dateAdded": "2026-07-18"
-    },
-    {
-      "title": "Toyotuh Tuesday ft. Josie Winett & The Filibuster | Emily Davis | Skink",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-09-29",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/83297-toyotuh-tuesday-ft-josie-winett-and-the-filibuster-emily-davis-skink-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949019603741",
-      "dateAdded": "2026-09-10"
-    },
-    {
-      "title": "SHAWN JAMES “FLEW TOO CLOSE TO THE SUN TOUR\"",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-09-29",
-      "time": "8:00 PM",
-      "price": "$41 to $176",
-      "description": "Shawn James, GRAVEDANCER",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/shawn-james-flew-too-close-to-the-sun-tour-29-sep",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a39423d31116ac00a9b9651_ARGENTINA_SJ_6000x4000.jpeg",
-      "dateAdded": "2026-06-22"
-    },
-    {
-      "title": "Ladies In Craft Beer: Arm Westling Tournament",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-09-29",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/11241-ladies-in-craft-beer-arm-westling-tournament-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949023312558",
-      "dateAdded": "2026-09-07"
-    },
     {
       "title": "Chris Housman",
       "venue": "89th Street OKC",
@@ -78,7 +22,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-09-30",
       "time": "8:00 PM",
-      "price": "$50",
+      "price": "$53",
       "description": "Built To Spill, Paul Schalda",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/built-to-spill-30-sep",
       "ageLimit": "ALL AGES",
@@ -92,7 +36,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-09-30",
       "time": "8:00 PM",
-      "price": "$22–$75",
+      "price": "$25–$75",
       "description": "Gable Price and Friends, Stephen Stanley",
       "eventUrl": "http://www.prekindle.com/event/27799-gable-price-and-friends-oklahoma-city",
       "ageLimit": null,
@@ -611,7 +555,7 @@
       "eventUrl": "http://www.prekindle.com/event/31257-turnstile-the-never-enough-tour-pt2-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949021834041",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948998398499",
       "dateAdded": "2026-09-09"
     },
     {
@@ -961,11 +905,11 @@
       "date": "2026-10-09",
       "time": null,
       "price": "$35–$80",
-      "description": "Levity",
+      "description": "Levity, OVEREAZY, ALIGN, King Coopa",
       "eventUrl": "http://www.prekindle.com/event/31745-levity-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131286039",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948997755203",
       "dateAdded": "2026-07-16"
     },
     {
@@ -1100,7 +1044,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-10",
       "time": null,
-      "price": "$30–$232",
+      "price": "$30–$90",
       "description": "Hermanos Espinoza",
       "eventUrl": "http://www.prekindle.com/event/99742-hermanos-espinoza-oklahoma-city",
       "ageLimit": null,
@@ -1307,7 +1251,7 @@
       "eventUrl": "http://www.prekindle.com/event/94739-left-lane-cruiser-redwitch-johnny-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949076808248",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948998426942",
       "dateAdded": "2026-07-27"
     },
     {
@@ -1570,7 +1514,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-16",
       "time": "8:00 PM",
-      "price": "$20–$73",
+      "price": "$10–$73",
       "description": "Elizabeth Nichols, Clayton Mullen",
       "eventUrl": "http://www.prekindle.com/event/73618-elizabeth-nichols-i-dont-kiss-and-tell-i-kiss-and-tour-oklahoma-city",
       "ageLimit": null,
@@ -1999,7 +1943,7 @@
       "date": "2026-10-23",
       "time": "7:00 PM",
       "price": null,
-      "description": "THE INSPECTOR CLUZO\n\nGeneral Admission Standing / All Ages",
+      "description": "THE INSPECTOR CLUZO\nCATFARM TOUR 2026 \nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages",
       "eventUrl": "https://www.etix.com/ticket/p/98199187/the-inspector-cluzo-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -3507,20 +3451,6 @@
       "dateAdded": "2026-07-22"
     },
     {
-      "title": "halocene",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-11-13",
-      "time": "8:00 PM",
-      "price": "$34 to $126",
-      "description": "halocene",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/halocene-13-nov",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a75fb290d57bc6d6ce3a8dc_Halocene_US_Tour_26_Poster_VG.jpeg",
-      "dateAdded": "2026-08-07"
-    },
-    {
       "title": "The Soda Crackers with special guests Tanner Fields & The Goodtimers",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -3719,6 +3649,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949117591640",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Heal The Hurt",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-11-17",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "NO HOPE IN HELL TOUR\nwith Special Guests Magdalene Rose, Unbroken Reign & XIII Minutes\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.ticketstorm.com/event/nohopeinhelltourfeaturinghealthehurt/89thstreetokc/oklahomacity/32891/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_c77f680f0dbd4414b97f5a93a99c022c~mv2.jpg",
+      "dateAdded": "2026-09-30"
     },
     {
       "title": "Signs of the Swarm",
@@ -4245,6 +4189,20 @@
       "dateAdded": "2026-09-25"
     },
     {
+      "title": "Echos | Summer Hoop",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-12-04",
+      "time": null,
+      "price": "$20",
+      "description": "Echos",
+      "eventUrl": "http://www.prekindle.com/event/96586-echos-summer-hoop-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948999802437",
+      "dateAdded": "2026-09-30"
+    },
+    {
       "title": "Twen",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -4264,7 +4222,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-04",
       "time": null,
-      "price": "$30–$240",
+      "price": "$45–$240",
       "description": "Trippie Redd",
       "eventUrl": "http://www.prekindle.com/event/44143-trippie-redd-oklahoma-city",
       "ageLimit": null,
@@ -4676,7 +4634,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-12-17",
       "time": null,
-      "price": "$30",
+      "price": "$25–$75",
       "description": "Kaitlin Butts, Meels",
       "eventUrl": "http://www.prekindle.com/event/62813-kaitlin-butts-oklahoma-city",
       "ageLimit": null,
@@ -4929,6 +4887,20 @@
       "dateAdded": "2026-09-25"
     },
     {
+      "title": "Grady Spencer & The Vegabonds",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-01-22",
+      "time": "8:00 PM",
+      "price": "$20–$75",
+      "description": "Grady Spencer & The Vegabonds",
+      "eventUrl": "http://www.prekindle.com/event/55492-grady-spencer-and-the-vegabonds-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949002482228",
+      "dateAdded": "2026-09-30"
+    },
+    {
       "title": "Logan Ryan Band",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4971,6 +4943,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39667-9799746edbdabcf4e686b94ff70b4f3b.jpeg",
       "dateAdded": "2026-09-25"
+    },
+    {
+      "title": "Ballyhoo! - We Ride at Dawn Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-01-23",
+      "time": "7:30 PM",
+      "price": "$25–$75",
+      "description": "Ballyhoo!",
+      "eventUrl": "http://www.prekindle.com/event/89593-ballyhoo-we-ride-at-dawn-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948997795167",
+      "dateAdded": "2026-09-30"
     },
     {
       "title": "Dad Rock Night",
@@ -5029,6 +5015,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-15"
+    },
+    {
+      "title": "Willi Carlisle - The Universal Bubba Tour",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2027-02-18",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949003795677",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949002015074",
+      "dateAdded": "2026-09-30"
     },
     {
       "title": "Public Image Ltd - THIS IS NOT THE LAST TOUR",
@@ -5236,12 +5236,12 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-04-07",
       "time": null,
-      "price": null,
+      "price": "$48–$250",
       "description": "Neil deGrasse Tyson",
       "eventUrl": "http://www.prekindle.com/event/55863-neil-degrasse-tyson-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948999772800",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948997747277",
       "dateAdded": "2026-09-28"
     },
     {
@@ -5280,7 +5280,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2027-04-15",
       "time": null,
-      "price": null,
+      "price": "$35–$69",
       "description": "Michelle Wolf",
       "eventUrl": "http://www.prekindle.com/event/24317-michelle-wolf-best-job-in-the-world-oklahoma-city",
       "ageLimit": null,
@@ -5329,6 +5329,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007937538",
       "dateAdded": "2026-09-22"
+    },
+    {
+      "title": "Hazlett",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2027-05-18",
+      "time": "8:00 PM",
+      "price": "$34 to $53",
+      "description": "Hazlett",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/hazlett-01-sep",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a2c133c7c371892d7c6a3e7_Photo_2.jpeg",
+      "dateAdded": "2026-09-30"
     },
     {
       "title": "Blondshell",
