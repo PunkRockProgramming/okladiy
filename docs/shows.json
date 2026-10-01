@@ -1,93 +1,7 @@
 {
-  "lastUpdated": "2026-09-30T21:36:03.261Z",
+  "lastUpdated": "2026-10-01T12:52:34.451Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Chris Housman",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-30",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "CHRIS HOUSMAN\nThe Hell Out Of Dodge Tour\n+ special guests Amanda Howle & Beau Turrentine \nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/90025797/chris-housman-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_b0bea45083c14692970b327103c5f2c4~mv2.jpg",
-      "dateAdded": "2026-08-12"
-    },
-    {
-      "title": "Built To Spill",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-09-30",
-      "time": "8:00 PM",
-      "price": "$53",
-      "description": "Built To Spill, Paul Schalda",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/built-to-spill-30-sep",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bc39ad16afc81c7da92ad6_P5292418.jpeg",
-      "dateAdded": "2026-03-25"
-    },
-    {
-      "title": "Gable Price and Friends - Too Good Tour",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-09-30",
-      "time": "8:00 PM",
-      "price": "$25–$75",
-      "description": "Gable Price and Friends, Stephen Stanley",
-      "eventUrl": "http://www.prekindle.com/event/27799-gable-price-and-friends-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949095319007",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Junkyard Cat",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-09-30",
-      "time": null,
-      "price": "$12",
-      "description": "Junkyard Cat, Clement Hall, Kennedy Fine",
-      "eventUrl": "http://www.prekindle.com/event/73919-junkyard-cat-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949090083023",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Cameron Whitcomb",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-09-30",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/57064530/cameron-whitcomb-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "NICHOLS & SONS HAPPY HOUR GIG!",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-09-30",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/9/30/nichols-amp-sons-happy-hour-gig",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-09-16"
-    },
     {
       "title": "Extortionist",
       "venue": "89th Street OKC",
@@ -420,7 +334,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-03",
       "time": "9:00 PM",
-      "price": "$10–$75",
+      "price": null,
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/58872-big-bubble-rave-oklahoma-city",
       "ageLimit": null,
@@ -485,6 +399,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38240-64cc733d2535517cc33a1c904e49b1e5.jpeg",
       "dateAdded": "2026-07-20"
+    },
+    {
+      "title": "WAXWORX Halloween Party — Featuring TREK  /  /  SOLDIERX",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-03",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100862540",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100861784",
+      "dateAdded": "2026-10-01"
     },
     {
       "title": "FIGHTMASTER",
@@ -564,7 +492,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-06",
       "time": null,
-      "price": "$12–$55",
+      "price": "$11–$55",
       "description": "Łaszewo",
       "eventUrl": "http://www.prekindle.com/event/49644-aszewo-oklahoma-city",
       "ageLimit": null,
@@ -599,6 +527,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949161326833",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "TRIVIA TUESDAY",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-06",
+      "time": "7:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100858706",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100858689",
+      "dateAdded": "2026-10-01"
     },
     {
       "title": "The Beths - By Request Tour",
@@ -685,6 +627,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38982-4c226fa084ecfc27942b45fe2830a03c.png",
       "dateAdded": "2026-07-02"
+    },
+    {
+      "title": "#WASTED HOURS: RYKER HALL",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-07",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948997320442",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948997320413",
+      "dateAdded": "2026-10-01"
     },
     {
       "title": "Wind Walkers - SOLD OUT!**",
@@ -1355,6 +1311,20 @@
       "dateAdded": "2026-09-05"
     },
     {
+      "title": "LEFT LANE CRUISER (dirty Indiana blues)  /  /  FAST PONTIAC  /  /  HESKETH",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-14",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100858354",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949002839864",
+      "dateAdded": "2026-10-01"
+    },
+    {
       "title": "Eyehategod",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -1451,6 +1421,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099417520",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "OPEN STAGE NIGHT",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-15",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948997332179",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948997331846",
+      "dateAdded": "2026-10-01"
     },
     {
       "title": "Snarky Puppy",
@@ -1795,6 +1779,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39352-0fbb708ddc299273315ee88bae58f474.jpeg",
       "dateAdded": "2026-08-15"
+    },
+    {
+      "title": "TRIVIA TUESDAY",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-20",
+      "time": "7:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100851520",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100851503",
+      "dateAdded": "2026-10-01"
     },
     {
       "title": "Medium Build Presents The King of Having Fun on Tour",
@@ -2657,6 +2655,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-09-02"
+    },
+    {
+      "title": "THE OLD EMU'S HALLOWEEN! (ALKALINE TRIO COVER SET)",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-10-31",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/10/31/the-old-emus-halloween-alkaline-trio-cover-set",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-10-01"
     },
     {
       "title": "PJ Morton - Saturday Night Sunday Morning Tour",
@@ -3807,6 +3821,20 @@
       "dateAdded": "2026-09-29"
     },
     {
+      "title": "BIG ASS TRUCK I.E.",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-11-21",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "BIG ASS TRUCK I.E.\nwith special guests Chamber, Mugshot, and LIE\nDoors @ 6PM / Show @ 6:30PM\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/46302243/big-ass-truck-ie-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_a9bfabd402fb4942a3696b89009fefdd~mv2.jpg",
+      "dateAdded": "2026-10-01"
+    },
+    {
       "title": "Apocalypse, Never! Tour - Nick Shoulders",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4793,6 +4821,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "One Way Truckin'",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-12-31",
+      "time": "8:00 PM",
+      "price": "$10 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39697",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-10-01"
     },
     {
       "title": "One Way Truckin'",
