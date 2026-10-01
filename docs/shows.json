@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-10-01T12:52:34.451Z",
+  "lastUpdated": "2026-10-01T22:05:09.415Z",
   "scraperErrors": [],
   "shows": [
+    {
+      "title": "Chris Housman",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-09-30",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "CHRIS HOUSMAN\nThe Hell Out Of Dodge Tour\n+ special guests Amanda Howle & Beau Turrentine \nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/90025797/chris-housman-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_b0bea45083c14692970b327103c5f2c4~mv2.jpg",
+      "dateAdded": "2026-10-01"
+    },
     {
       "title": "Extortionist",
       "venue": "89th Street OKC",
@@ -327,20 +341,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022060195",
       "dateAdded": "2026-09-08"
-    },
-    {
-      "title": "BIG BUBBLE RAVE",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-10-03",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/58872-big-bubble-rave-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949006903893",
-      "dateAdded": "2026-09-24"
     },
     {
       "title": "CRIMEWAVE: A GOTH, POST-PUNK & DARKWAVE PARTY",
@@ -972,7 +972,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-10",
       "time": "8:00 PM",
-      "price": "$50–$100",
+      "price": "$40–$100",
       "description": "Angélica Gallegos",
       "eventUrl": "http://www.prekindle.com/event/72421--oklahoma-city",
       "ageLimit": null,
@@ -1698,7 +1698,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-18",
       "time": "8:00 PM",
-      "price": "$20–$75",
+      "price": "$13–$75",
       "description": "Kels, Ella Maddux",
       "eventUrl": "http://www.prekindle.com/event/85814-kels-oklahoma-city",
       "ageLimit": null,
@@ -2103,20 +2103,6 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a10c62ccf458eec7712a512_bobby_lees.jpeg",
       "dateAdded": "2026-08-21"
-    },
-    {
-      "title": "Jordan Mathew Young",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-10-24",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001947783",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001918550",
-      "dateAdded": "2026-09-25"
     },
     {
       "title": "Boundaries",
@@ -3353,18 +3339,18 @@
       "dateAdded": "2026-08-20"
     },
     {
-      "title": "Wilderado",
+      "title": "Wilderado with Ken Pomeroy",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
       "date": "2026-11-11",
       "time": "6 pm",
       "price": null,
       "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/47037933/wilderado-tulsa-cains-ballroom?partner_id=100",
+      "eventUrl": "https://www.etix.com/ticket/p/47037933/wilderado-with-ken-pomeroy-tulsa-cains-ballroom?partner_id=100",
       "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-08-19"
+      "dateAdded": "2026-10-01"
     },
     {
       "title": "Big Bill | The Ugly Cowboys | Diet Riot",
@@ -3819,20 +3805,6 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39673-f50011c2176d5a7fca3a1bf8e4f0b02b.png",
       "dateAdded": "2026-09-29"
-    },
-    {
-      "title": "BIG ASS TRUCK I.E.",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-11-21",
-      "time": "6:00 PM",
-      "price": null,
-      "description": "BIG ASS TRUCK I.E.\nwith special guests Chamber, Mugshot, and LIE\nDoors @ 6PM / Show @ 6:30PM\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/46302243/big-ass-truck-ie-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_a9bfabd402fb4942a3696b89009fefdd~mv2.jpg",
-      "dateAdded": "2026-10-01"
     },
     {
       "title": "Apocalypse, Never! Tour - Nick Shoulders",
@@ -4337,7 +4309,7 @@
       "date": "2026-12-06",
       "time": "7:00 PM",
       "price": "$22",
-      "description": "Brotality",
+      "description": "Brotality, cirKus, Between the Broken",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/brotality-jaws-of-the-earth-us-tour-2026-06-dec",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -4351,7 +4323,7 @@
       "date": "2026-12-06",
       "time": null,
       "price": "$20",
-      "description": "Letdown., LUCHIANO, Sikarus",
+      "description": "Letdown., LUCHIANO, Sikarus, Poe the Passenger",
       "eventUrl": "http://www.prekindle.com/event/98542-letdown-the-happy-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
