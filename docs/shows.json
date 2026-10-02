@@ -1,121 +1,7 @@
 {
-  "lastUpdated": "2026-10-01T22:05:09.415Z",
+  "lastUpdated": "2026-10-02T12:15:53.182Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Chris Housman",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-09-30",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "CHRIS HOUSMAN\nThe Hell Out Of Dodge Tour\n+ special guests Amanda Howle & Beau Turrentine \nDoors @ 7PM / Show @ 7:30PM \nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/90025797/chris-housman-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_b0bea45083c14692970b327103c5f2c4~mv2.jpg",
-      "dateAdded": "2026-10-01"
-    },
-    {
-      "title": "Extortionist",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-01",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "EXTORTIONIST\nwith special guests DEATHTAPE, Hollowed Thoughts, and Splintered\nDoors @ 7PM / Show @ 7:30PM\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/48936074/extortionist-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_869cd24b5421472398cf5ab243a123df~mv2.jpg",
-      "dateAdded": "2026-08-04"
-    },
-    {
-      "title": "Rob Leines",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-10-01",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949022101946",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022083303",
-      "dateAdded": "2026-09-08"
-    },
-    {
-      "title": "Morgan Page - Classics Only",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-10-01",
-      "time": "8:00 PM",
-      "price": null,
-      "description": "Morgan Page, CG Jordan",
-      "eventUrl": "http://www.prekindle.com/event/37497-morgan-page-classics-only-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001845727",
-      "dateAdded": "2026-09-24"
-    },
-    {
-      "title": "The Final Encore – A Mayo Family Tribute",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-10-01",
-      "time": "5 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.mayofinalencore.com/",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-07-23"
-    },
-    {
-      "title": "BRIT FLOYD – The Moon, The Wall, and Beyond",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-10-01",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/84554248/brit-floyd-the-moonthe-walland-beyond-tulsa-tulsa-theater?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-04-06"
-    },
-    {
-      "title": "Exhorder -invades Tulsa",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-10-01",
-      "time": "6:30 PM",
-      "price": "$20 adv / $25 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39679",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39679-c87f89c0006684b10950eac695b4331e.jpeg",
-      "dateAdded": "2026-09-28"
-    },
-    {
-      "title": "THE BUTTS (ATX punk)  /  /  FAIRWEATHER ENEMIES  /  /  BELLE RIOTS",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-01",
-      "time": "8:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100869904",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003751234",
-      "dateAdded": "2026-09-25"
-    },
     {
       "title": "Solya",
       "venue": "89th Street OKC",
@@ -136,7 +22,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-02",
       "time": null,
-      "price": "$33–$80",
+      "price": "$38–$80",
       "description": "Cannons, Jesse Jo Stark",
       "eventUrl": "http://www.prekindle.com/event/56886-cannons-the-everything-glows-tour-oklahoma-city",
       "ageLimit": null,
@@ -748,7 +634,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-09",
       "time": null,
-      "price": "$13–$85",
+      "price": "$13–$45",
       "description": "Akeem Ali",
       "eventUrl": "http://www.prekindle.com/event/17198-akeem-ali-the-texture-tour-oklahoma-city",
       "ageLimit": null,
@@ -1665,6 +1551,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "BILLY IRWIN & THE GAMBITS  /  /  PATRICK NEWKIRK",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-17",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948995721564",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995720878",
+      "dateAdded": "2026-10-02"
+    },
+    {
       "title": "With A Vengeance",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -1865,6 +1765,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "#WASTEDHOURS ft. THEMBI JOY",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-21",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948997315793",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948997315763",
+      "dateAdded": "2026-10-02"
+    },
+    {
       "title": "Improvement Movement",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -1933,6 +1847,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085074086",
       "dateAdded": "2026-07-23"
+    },
+    {
+      "title": "JUST ADD WATER: RHYTHM & FLOW NIGHT AT GRAND ROYALE",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-22",
+      "time": "8:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948995713936",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995707484",
+      "dateAdded": "2026-10-02"
     },
     {
       "title": "The Inspector Cluzo",
@@ -2331,18 +2259,18 @@
       "dateAdded": "2026-09-25"
     },
     {
-      "title": "ROCK BOTTOM STRING BAND (TX folk punk)  /  /  MARTY BUSH (KS Americana singer-songwriter)",
+      "title": "ROCK BOTTOM STRING BAND (TX folk punk)  /  /  MARTY BUSH  /  /  BRAD FIELDER",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
       "date": "2026-10-28",
-      "time": "9:00 PM",
+      "time": "8:30 PM",
       "price": null,
       "description": null,
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100850957",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949100847902",
-      "dateAdded": "2026-08-25"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995723105",
+      "dateAdded": "2026-10-02"
     },
     {
       "title": "The Billy Joel Legacy - A Tribute Experience",
@@ -2457,6 +2385,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38400-7eef68e96de26d46ae894abc6808a422.jpeg",
       "dateAdded": "2026-05-07"
+    },
+    {
+      "title": "BOSS’ DAUGHTER (Reno punk)  /  /  SUNLINER  /  /  COKE THROAT",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-29",
+      "time": "8:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948995656876",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995652558",
+      "dateAdded": "2026-10-02"
     },
     {
       "title": "Jed Harrelson",
@@ -2585,6 +2527,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38482-480d9016673d47339c95af8f61260686.jpeg",
       "dateAdded": "2026-05-10"
+    },
+    {
+      "title": "THE SODA CRACKERS (Bakersfield Sound)  /  /  TANNER FIELDS",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-30",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948995643540",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995641084",
+      "dateAdded": "2026-10-02"
     },
     {
       "title": "Bingo Loco",
@@ -3807,6 +3763,20 @@
       "dateAdded": "2026-09-29"
     },
     {
+      "title": "BIG ASS TRUCK I.E.",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-11-21",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "BIG ASS TRUCK I.E.\nwith special guests Chamber, Mugshot, LIE, & Primal Hominid\nDoors @ 6PM / Show @ 6:30PM\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/46302243/big-ass-truck-ie-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_62e55a3290f7415f8438bcafa31171a8~mv2.jpg",
+      "dateAdded": "2026-10-02"
+    },
+    {
       "title": "Apocalypse, Never! Tour - Nick Shoulders",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -3961,6 +3931,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-09-06"
+    },
+    {
+      "title": "RANDY'S CHEESEBURGER PICNIC",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-11-24",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "RANDY'S CHEESEBURGER PICNIC\nfeaturing RANDY from TRAILER PARK BOYS \nDoors @ 7PM / Show @ 8PM \nGeneral Admission / All Ages",
+      "eventUrl": "https://etix.com/ticket/p/98554125/randys-cheeseburger-picnic-trailer-park-boys-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_90f1b933ae0d4f5dbff52c28c1a3395e~mv2.jpg",
+      "dateAdded": "2026-10-02"
     },
     {
       "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
@@ -5033,7 +5017,7 @@
       "dateAdded": "2026-08-15"
     },
     {
-      "title": "Willi Carlisle - The Universal Bubba Tour",
+      "title": "Willi Carlisle - Golden Dragon Buffet Tour",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2027-02-18",
@@ -5044,7 +5028,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949002015074",
-      "dateAdded": "2026-09-30"
+      "dateAdded": "2026-10-02"
     },
     {
       "title": "Public Image Ltd - THIS IS NOT THE LAST TOUR",
@@ -5252,7 +5236,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-04-07",
       "time": null,
-      "price": "$48–$250",
+      "price": null,
       "description": "Neil deGrasse Tyson",
       "eventUrl": "http://www.prekindle.com/event/55863-neil-degrasse-tyson-oklahoma-city",
       "ageLimit": null,
