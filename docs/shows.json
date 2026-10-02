@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T12:15:53.182Z",
+  "lastUpdated": "2026-10-02T21:30:33.665Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -369,7 +369,7 @@
       "eventUrl": "http://www.prekindle.com/event/31257-turnstile-the-never-enough-tour-pt2-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948998398499",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995108998",
       "dateAdded": "2026-09-09"
     },
     {
@@ -462,7 +462,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-07",
       "time": "8:00 PM",
-      "price": "$11–$75",
+      "price": null,
       "description": "Bad Nerves, Primo Danger",
       "eventUrl": "http://www.prekindle.com/event/92852-bad-nerves-oklahoma-city",
       "ageLimit": null,
@@ -476,7 +476,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-07",
       "time": null,
-      "price": "$24–$110",
+      "price": "$24",
       "description": "Lauren Sanderson, XKYLER",
       "eventUrl": "http://www.prekindle.com/event/36319-lauren-sanderson-oklahoma-city",
       "ageLimit": null,
@@ -562,7 +562,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-08",
       "time": "8:00 PM",
-      "price": "$10–$75",
+      "price": null,
       "description": "Blitzkid, Casper McWade",
       "eventUrl": "http://www.prekindle.com/event/45577-blitzkid-modern-hel-tour-2026-with-special-guests-oklahoma-city",
       "ageLimit": null,
@@ -1585,7 +1585,7 @@
       "date": "2026-10-18",
       "time": "7:00 PM",
       "price": "$22",
-      "description": "Exitwounds, Nailed Shut, Taker, Spare None",
+      "description": "Exitwounds, Nailed Shut, Taker",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/exitwounds-nailed-shut-18-oct",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -2259,6 +2259,20 @@
       "dateAdded": "2026-09-25"
     },
     {
+      "title": "Community Response Network Benefit Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-10-28",
+      "time": null,
+      "price": "$10",
+      "description": "NoMoore, UnicornHunted, astrodamus.",
+      "eventUrl": "http://www.prekindle.com/event/23461-community-response-network-benefit-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948994654069",
+      "dateAdded": "2026-10-02"
+    },
+    {
       "title": "ROCK BOTTOM STRING BAND (TX folk punk)  /  /  MARTY BUSH  /  /  BRAD FIELDER",
       "venue": "Grand Royale",
       "venueUrl": "https://grandroyaleokc.com",
@@ -2839,6 +2853,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073032418",
       "dateAdded": "2026-07-31"
+    },
+    {
+      "title": "Chencho Corleone",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-11-05",
+      "time": null,
+      "price": "$50–$500",
+      "description": "Chencho Corleone",
+      "eventUrl": "http://www.prekindle.com/event/87875-chencho-corleone-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948994966634",
+      "dateAdded": "2026-10-02"
     },
     {
       "title": "Southall",
@@ -3861,22 +3889,6 @@
       "dateAdded": "2026-03-24"
     },
     {
-      "title": "Phil Hamilton",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-11-21",
-      "time": "7:00 PM",
-      "price": "$12 adv / $15 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39368",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-08-19"
-    },
-    {
       "title": "Alok: Eat Pray Leave",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4136,7 +4148,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-30",
       "time": null,
-      "price": "$23–$132",
+      "price": "$13–$132",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/48937-a-drag-queen-christmas-oklahoma-city",
       "ageLimit": null,
@@ -4457,18 +4469,18 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "semiwestern with very special guests",
+      "title": "semiwestern with special guests",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-12-11",
       "time": null,
       "price": "$15",
-      "description": "semiwestern",
+      "description": "semiwestern, SPILL, Gage Pabst, Crater, Pareidolia",
       "eventUrl": "http://www.prekindle.com/event/32773-semiwestern-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949043143737",
-      "dateAdded": "2026-09-16"
+      "dateAdded": "2026-10-02"
     },
     {
       "title": "Giovannie & The Hired Guns",
@@ -5236,7 +5248,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-04-07",
       "time": null,
-      "price": null,
+      "price": "$48–$250",
       "description": "Neil deGrasse Tyson",
       "eventUrl": "http://www.prekindle.com/event/55863-neil-degrasse-tyson-oklahoma-city",
       "ageLimit": null,
@@ -5343,6 +5355,34 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a2c133c7c371892d7c6a3e7_Photo_2.jpeg",
       "dateAdded": "2026-09-30"
+    },
+    {
+      "title": "Dylan Gossett - The Ramblin' Tour 2027",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-05-20",
+      "time": null,
+      "price": "$45",
+      "description": "Dylan Gossett",
+      "eventUrl": "http://www.prekindle.com/event/12528-dylan-gossett-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995212739",
+      "dateAdded": "2026-10-02"
+    },
+    {
+      "title": "Dylan Gossett",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-05-21",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/43354119/dylan-gossett-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-02"
     },
     {
       "title": "Blondshell",
