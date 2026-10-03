@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-10-03T11:26:23.860Z",
+  "lastUpdated": "2026-10-03T20:17:53.326Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Solya",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-02",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "w/Special Guest Tele Novella\nDoors @ 7PM / Show @ 7:30PM\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nYour previously purchased tickets for the original date are STILL VALID. You do not need to take any further action to attend the new date.",
-      "eventUrl": "https://www.etix.com/ticket/p/32147923/solya-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_daa9ff43f92b4e8bafb43d1ebb438e5f~mv2.jpg",
-      "dateAdded": "2026-08-06"
-    },
     {
       "title": "Straight Tequila Night: '90s Country Tribute",
       "venue": "Tower Theatre",
@@ -830,7 +816,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-11",
       "time": "8:00 PM",
-      "price": "$28 to $64",
+      "price": "$28",
       "description": "Joe Jordan, Jon Bullard",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/joe-jordan-the-heart-sessions-tour-11-oct",
       "ageLimit": "ALL AGES",
@@ -1515,7 +1501,7 @@
       "date": "2026-10-20",
       "time": "8:00 PM",
       "price": "$34",
-      "description": "Blaze Ya Dead Homie, ABK, Bake Lo, SP@D3Z, Kymera",
+      "description": "Blaze Ya Dead Homie, ABK, Bake Lo, SP@D3Z, Kymera, 86LEO, Easer",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/blaze-ya-dead-homie-abk-20-oct",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -4169,6 +4155,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38870-2ecc0434b522248b273c47c939f0ba42.png",
       "dateAdded": "2026-07-15"
+    },
+    {
+      "title": "Upon A Burning Body",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-12-06",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "Everything Is Heavier In Texas Tour\nwith Special Guests Perseus, Cresthaven & A Dying Art\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.ticketstorm.com/event/uponaburningbody/89thstreetokc/oklahomacity/33196/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_40c860c9b63540f5a493ab957079f6da~mv2.jpg",
+      "dateAdded": "2026-10-03"
     },
     {
       "title": "BROTALITY | Jaws of the Earth US Tour 2026",
