@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T14:12:42.093Z",
+  "lastUpdated": "2026-10-05T23:25:20.171Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -51,7 +51,7 @@
       "date": "2026-10-06",
       "time": null,
       "price": "$11–$55",
-      "description": "Łaszewo",
+      "description": "Łaszewo, Arden Jones",
       "eventUrl": "http://www.prekindle.com/event/49644-aszewo-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3707,7 +3707,7 @@
       "date": "2026-11-27",
       "time": null,
       "price": "$15",
-      "description": "The Big News, Fair Weather Enemies, Dirty Reggae Punks",
+      "description": "The Big News, Fair Weather Enemies, Dirty Reggae Punx",
       "eventUrl": "http://www.prekindle.com/event/16734-skanksgiving-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3953,6 +3953,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/catch-your-breath.jpeg",
       "dateAdded": "2026-05-27"
+    },
+    {
+      "title": "Parker Ryan",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-12-05",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "Parker Ryan",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/parker-ryan-05-dec",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ac17c109a4b5729743a3acc_PR-COMPRESSED.jpeg",
+      "dateAdded": "2026-10-05"
     },
     {
       "title": "Caleb Lee Hutchinson - Long Line of Losers Tour",
@@ -5090,7 +5104,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-05-20",
       "time": null,
-      "price": "$45",
+      "price": "$45–$100",
       "description": "Dylan Gossett",
       "eventUrl": "http://www.prekindle.com/event/12528-dylan-gossett-oklahoma-city",
       "ageLimit": null,
