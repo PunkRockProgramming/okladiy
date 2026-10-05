@@ -1,51 +1,7 @@
 {
-  "lastUpdated": "2026-10-04T20:34:11.111Z",
+  "lastUpdated": "2026-10-05T14:12:42.093Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Bluegrass Brunch with Johnny Mullenax",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-10-04",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948993623013",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948993622994",
-      "dateAdded": "2026-10-04"
-    },
-    {
-      "title": "FIGHTMASTER",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-10-04",
-      "time": null,
-      "price": "$20",
-      "description": "FIGHTMASTER, heartspace",
-      "eventUrl": "http://www.prekindle.com/event/12397-fightmaster-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949117661837",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "One Way Truckin'",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-10-04",
-      "time": "4:00 PM",
-      "price": "$10 adv / $15 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39641",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39641-d48e3ee49ef0e164f4fbeaee73cb5a5d.jpeg",
-      "dateAdded": "2026-09-21"
-    },
     {
       "title": "Poetry for Thee Open Mic Poetry Swap",
       "venue": "Noise Town",
@@ -405,7 +361,7 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-09",
-      "time": "8:00 PM",
+      "time": "7:45 PM",
       "price": "$34",
       "description": "King Iso, Taebo Tha Truth, Matt Phoenix, VenomStayDrippin, Nerde Verde, Nica Na$, Sqril",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/king-iso-ghetto-psycho-tour-09-oct",
@@ -518,7 +474,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-10",
       "time": null,
-      "price": "$22–$185",
+      "price": "$22–$57",
       "description": "LP",
       "eventUrl": "http://www.prekindle.com/event/86625-lp-all-is-not-lost-tour-oklahoma-city",
       "ageLimit": null,
@@ -660,7 +616,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-11",
       "time": null,
-      "price": "$15–$156",
+      "price": "$15–$57",
       "description": "Demon Hunter, Wolves At the Gate, Bloodlines",
       "eventUrl": "http://www.prekindle.com/event/85444-demon-hunter-storm-the-gates-of-hell-20th-anniversary-tour-oklahoma-city",
       "ageLimit": null,
@@ -1721,6 +1677,20 @@
       "dateAdded": "2026-08-13"
     },
     {
+      "title": "ACADEMY ORDER (Nashville goth) with DJ ORDO AMORIS",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-10-23",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948993024363",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948993024161",
+      "dateAdded": "2026-10-05"
+    },
+    {
       "title": "Palace – USA & Canada Tour 2026",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1915,7 +1885,7 @@
       "eventUrl": "http://www.prekindle.com/event/44952-gotv-rally-with-jena-nelson-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949012138794",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948992652794",
       "dateAdded": "2026-09-17"
     },
     {
@@ -2478,7 +2448,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-03",
       "time": null,
-      "price": "$25–$139",
+      "price": "$25–$114",
       "description": "Lenny Pearce",
       "eventUrl": "http://www.prekindle.com/event/71721-lenny-pearce-oklahoma-city",
       "ageLimit": null,
@@ -3741,7 +3711,7 @@
       "eventUrl": "http://www.prekindle.com/event/16734-skanksgiving-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948998470473",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948992931380",
       "dateAdded": "2026-09-29"
     },
     {
