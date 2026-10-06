@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T13:09:00.977Z",
+  "lastUpdated": "2026-10-06T21:57:27.890Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -119,7 +119,7 @@
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
       "date": "2026-10-07",
-      "time": "5:30 pm",
+      "time": "5 pm",
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/70515630/settle-into-stillnessroots-and-wings-toursound-journey-tulsa-cains-ballroom?partner_id=100",
@@ -348,7 +348,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-09",
       "time": "8:00 PM",
-      "price": "$8–$75",
+      "price": "$11–$75",
       "description": "Mountain Grass Unit",
       "eventUrl": "http://www.prekindle.com/event/89929-mountain-grass-unit-appalachian-smoke-tour-oklahoma-city",
       "ageLimit": null,
@@ -1880,7 +1880,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-27",
       "time": null,
-      "price": "$15–$151",
+      "price": "$15–$65",
       "description": "The Robert Cray Band",
       "eventUrl": "http://www.prekindle.com/event/59182-the-robert-cray-band-oklahoma-city",
       "ageLimit": null,
@@ -4687,6 +4687,20 @@
       "dateAdded": "2026-07-01"
     },
     {
+      "title": "Eddie 9V",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-01-30",
+      "time": "8:00 PM",
+      "price": "$20–$75",
+      "description": "Eddie 9V",
+      "eventUrl": "http://www.prekindle.com/event/41571-eddie-9v-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995322508",
+      "dateAdded": "2026-10-06"
+    },
+    {
       "title": "Dad Rock Night (2000s Rock Tribute)",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -4715,6 +4729,34 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39578-7ef9dd4445727cfbc3b1320add185fe1.jpg",
       "dateAdded": "2026-09-11"
+    },
+    {
+      "title": "The Arcadian Wild - Make It Out Alive Tour",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2027-02-05",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "The Arcadian Wild",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-arcadian-wild-make-it-out-alive-tour-05-feb",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ac032c4494831dc9c57f8cb_-tAW-Mar26-126S-ShelbyMick.jpeg",
+      "dateAdded": "2026-10-06"
+    },
+    {
+      "title": "Bianca Del Rio: It Gets Bitter - World Comedy Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-02-12",
+      "time": null,
+      "price": "$30–$163",
+      "description": "Bianca Del Rio",
+      "eventUrl": "http://www.prekindle.com/event/98225-bianca-del-rio-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948996980903",
+      "dateAdded": "2026-10-06"
     },
     {
       "title": "Nude Art Show",
@@ -4973,6 +5015,20 @@
       "dateAdded": "2026-09-28"
     },
     {
+      "title": "From Ashes To New",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-04-07",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/32761657/from-ashes-to-new-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-06"
+    },
+    {
       "title": "CHARLIE BERENS: THE LOST AND FOUND TOUR",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -5015,6 +5071,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949012061967",
       "dateAdded": "2026-09-29"
+    },
+    {
+      "title": "THE ELOVATERS - SHARK BELLY MOTEL TOUR",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-04-16",
+      "time": null,
+      "price": "$30–$75",
+      "description": "The Elovaters, Twin Fin, Dylan Cotrone",
+      "eventUrl": "http://www.prekindle.com/event/14791-the-elovaters-shark-belly-motel-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948998443198",
+      "dateAdded": "2026-10-06"
     },
     {
       "title": "Alaska Thunderf*ck: The Revolution Tour",
@@ -5078,7 +5148,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-05-20",
       "time": null,
-      "price": "$45",
+      "price": "$45–$100",
       "description": "Dylan Gossett",
       "eventUrl": "http://www.prekindle.com/event/12528-dylan-gossett-oklahoma-city",
       "ageLimit": null,
@@ -5113,6 +5183,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-09-29"
+    },
+    {
+      "title": "Vlad Holiday",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-07-02",
+      "time": null,
+      "price": "$25",
+      "description": "Vlad Holiday",
+      "eventUrl": "http://www.prekindle.com/event/84666-vlad-holiday-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948994667351",
+      "dateAdded": "2026-10-06"
     }
   ]
 }
