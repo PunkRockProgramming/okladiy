@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T13:03:28.689Z",
+  "lastUpdated": "2026-10-07T22:22:00.045Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -29,20 +29,6 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a500d0263cb8b1736ea958b_BCMB_official_photo_Lance_Bangs.jpeg",
       "dateAdded": "2026-07-14"
-    },
-    {
-      "title": "Bad Nerves",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-10-07",
-      "time": "8:00 PM",
-      "price": null,
-      "description": "Bad Nerves, Primo Danger",
-      "eventUrl": "http://www.prekindle.com/event/92852-bad-nerves-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949017807941",
-      "dateAdded": "2026-07-16"
     },
     {
       "title": "LAUREN SANDERSON",
@@ -78,7 +64,7 @@
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-10-07",
       "time": "6:30 PM",
-      "price": "$22 to $32 ADV   $25 to $35 DAY OF",
+      "price": "$25 to $35",
       "description": null,
       "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38982",
       "ageLimit": "21 & Over",
@@ -733,7 +719,7 @@
       "date": "2026-10-14",
       "time": null,
       "price": "$18",
-      "description": "The Schizophonics, Dale Crover of Melvins",
+      "description": "The Schizophonics, Dale Crover of Melvins, Belle Riots",
       "eventUrl": "http://www.prekindle.com/event/15526-the-schizophonics-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -1367,6 +1353,20 @@
       "dateAdded": "2026-09-19"
     },
     {
+      "title": "Culture Wars",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-22",
+      "time": null,
+      "price": null,
+      "description": "Culture Wars, Softly",
+      "eventUrl": "http://www.prekindle.com/event/74479-culture-wars-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990002013",
+      "dateAdded": "2026-10-07"
+    },
+    {
       "title": "Prof",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1409,20 +1409,6 @@
       "dateAdded": "2026-08-04"
     },
     {
-      "title": "Culture Wars",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-10-22",
-      "time": "8:00 PM",
-      "price": "$9–$75",
-      "description": "Culture Wars, Softly",
-      "eventUrl": "http://www.prekindle.com/event/45639-culture-wars-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177636522",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "Prof",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -1457,7 +1443,7 @@
       "date": "2026-10-23",
       "time": "7:00 PM",
       "price": null,
-      "description": "THE INSPECTOR CLUZO\nCATFARM TOUR 2026 \nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages",
+      "description": "THE INSPECTOR CLUZO\nCATFARM TOUR 2026 \n+ special guests King Witch Mother and Fiawna Forte\nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages",
       "eventUrl": "https://www.etix.com/ticket/p/98199187/the-inspector-cluzo-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -1838,7 +1824,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-28",
       "time": null,
-      "price": "$15–$178",
+      "price": "$12–$178",
       "description": "Madeon, Anamanaguchi",
       "eventUrl": "http://www.prekindle.com/event/53178-madeon-oklahoma-city",
       "ageLimit": null,
@@ -2392,7 +2378,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-04",
       "time": null,
-      "price": "$40–$1042",
+      "price": "$14–$1042",
       "description": "Daughtry, Ryan Perdz",
       "eventUrl": "http://www.prekindle.com/event/36175-daughtry-oklahoma-city",
       "ageLimit": null,
@@ -2733,7 +2719,7 @@
       "date": "2026-11-08",
       "time": "7:00 PM",
       "price": "$34",
-      "description": "Adelitas Way, Aranda, Kingdom Collapse",
+      "description": "Adelitas Way, Aranda, Kingdom Collapse, Dime Store Riot",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/adelitas-way-15th-anniversary-of-home-school-valedictorian-tour-wsg-kingdom-collapse-and-aranda-08-nov",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -3781,7 +3767,7 @@
       "date": "2026-12-02",
       "time": null,
       "price": "$20",
-      "description": "Kendall Street Company",
+      "description": "Kendall Street Company, Texas String Assembly",
       "eventUrl": "http://www.prekindle.com/event/92561-kendall-street-company-yodeling-astroman-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3901,6 +3887,20 @@
       "dateAdded": "2026-09-03"
     },
     {
+      "title": "Westside Boogie - Live In Concert",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-12-05",
+      "time": "8:00 PM",
+      "price": "$20–$80",
+      "description": "Westside Boogie",
+      "eventUrl": "http://www.prekindle.com/event/32977-westside-boogie-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948991053023",
+      "dateAdded": "2026-10-07"
+    },
+    {
       "title": "Yolanda Del Rio",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -3913,22 +3913,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949048528118",
       "dateAdded": "2026-08-17"
-    },
-    {
-      "title": "OZZOLUTION Venue Shrine 12/5/2026",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-12-05",
-      "time": "7:00 PM / Support 7:30 PM",
-      "price": "$18.50 to $30 ADV   $23.25 to $40 DOOR",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38870",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38870-2ecc0434b522248b273c47c939f0ba42.png",
-      "dateAdded": "2026-07-15"
     },
     {
       "title": "Upon A Burning Body",
@@ -4617,6 +4601,20 @@
       "dateAdded": "2026-09-30"
     },
     {
+      "title": "Liam St John",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-01-26",
+      "time": null,
+      "price": "$20",
+      "description": "Liam St. John",
+      "eventUrl": "http://www.prekindle.com/event/48167-liam-st-john-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995063374",
+      "dateAdded": "2026-10-07"
+    },
+    {
       "title": "Dad Rock Night",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -4759,6 +4757,20 @@
       "dateAdded": "2026-10-04"
     },
     {
+      "title": "THE PRICE IS RIGHT LIVE - ON STAGE",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-02-25",
+      "time": null,
+      "price": "$18–$181",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/61929-the-price-is-right-live-on-stage-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990023417",
+      "dateAdded": "2026-10-07"
+    },
+    {
       "title": "RuPaul’s Drag Race Werq The World News 2027",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4813,6 +4825,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-09-15"
+    },
+    {
+      "title": "OZZOLUTION",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-03-05",
+      "time": "7:00 PM / Support 7:30 PM",
+      "price": "$18.50 to $30 ADV   $23.25 to $40 DOOR",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38870",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38870-2ecc0434b522248b273c47c939f0ba42.png",
+      "dateAdded": "2026-10-07"
     },
     {
       "title": "Matt Stone as Elvis in Person",
@@ -4943,6 +4971,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-23"
+    },
+    {
+      "title": "Thomas Dollbaum",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-04-07",
+      "time": null,
+      "price": "$15",
+      "description": "Thomas Dollbaum",
+      "eventUrl": "http://www.prekindle.com/event/23175-thomas-dollbaum-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948996572312",
+      "dateAdded": "2026-10-07"
     },
     {
       "title": "Neil deGrasse Tyson - The Cosmic Perspective",
@@ -5134,7 +5176,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2027-07-02",
       "time": null,
-      "price": "$25",
+      "price": "$18",
       "description": "Vlad Holiday",
       "eventUrl": "http://www.prekindle.com/event/84666-vlad-holiday-oklahoma-city",
       "ageLimit": null,
