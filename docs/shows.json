@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T13:10:59.946Z",
+  "lastUpdated": "2026-10-08T22:34:02.845Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -220,7 +220,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-09",
       "time": null,
-      "price": "$35–$80",
+      "price": "$40–$80",
       "description": "Levity, OVEREAZY, ALIGN, King Coopa",
       "eventUrl": "http://www.prekindle.com/event/31745-levity-oklahoma-city",
       "ageLimit": null,
@@ -858,7 +858,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-16",
       "time": "8:00 PM",
-      "price": "$10–$20",
+      "price": "$10–$75",
       "description": "Elizabeth Nichols, Clayton Mullen",
       "eventUrl": "http://www.prekindle.com/event/73618-elizabeth-nichols-i-dont-kiss-and-tell-i-kiss-and-tour-oklahoma-city",
       "ageLimit": null,
@@ -1696,7 +1696,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-26",
       "time": "8:00 PM",
-      "price": "$12–$105",
+      "price": "$28–$105",
       "description": "Almost Monday, Rec Hall",
       "eventUrl": "http://www.prekindle.com/event/42539-almost-monday-oklahoma-city",
       "ageLimit": null,
@@ -2979,6 +2979,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "National Fiddler Hall of Fame Induction Ceremony",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-11-13",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/95801247/national-fiddler-hall-of-fame-induction-ceremony-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-08"
+    },
+    {
       "title": "Faith Schueler & Kanton Teen And The Penny Pickers",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3703,6 +3717,20 @@
       "dateAdded": "2026-09-25"
     },
     {
+      "title": "Michael Martin Murphey - Cowboy Christmas",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-12-04",
+      "time": null,
+      "price": "$38–$66",
+      "description": "Michael Martin Murphey",
+      "eventUrl": "http://www.prekindle.com/event/73455-michael-martin-murphey-cowboy-christmas-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948997636989",
+      "dateAdded": "2026-10-08"
+    },
+    {
       "title": "Echos | Summer Hoop",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -4067,6 +4095,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/whitechapel-20th-anniversary-tour.jpeg",
       "dateAdded": "2026-06-10"
+    },
+    {
+      "title": "Front Porch",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-12-12",
+      "time": "8:00 PM",
+      "price": "$15–$75",
+      "description": "Front Porch",
+      "eventUrl": "http://www.prekindle.com/event/69878-front-porch-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/531433528402702191",
+      "dateAdded": "2026-10-08"
     },
     {
       "title": "Deorro",
@@ -4592,7 +4634,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2027-02-05",
       "time": "8:00 PM",
-      "price": null,
+      "price": "$28",
       "description": "The Arcadian Wild",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-arcadian-wild-make-it-out-alive-tour-05-feb",
       "ageLimit": "ALL AGES",
