@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T12:57:00.767Z",
+  "lastUpdated": "2026-10-09T21:56:35.844Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -64,7 +64,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-09",
       "time": "7:45 PM",
-      "price": "$34",
+      "price": "$41",
       "description": "King Iso, Taebo Tha Truth, Matt Phoenix, VenomStayDrippin, Nerde Verde, Nica Na$, Sqril",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/king-iso-ghetto-psycho-tour-09-oct",
       "ageLimit": "ALL AGES",
@@ -120,7 +120,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-09",
       "time": null,
-      "price": "$40–$80",
+      "price": "$50–$80",
       "description": "Levity, OVEREAZY, ALIGN, King Coopa",
       "eventUrl": "http://www.prekindle.com/event/31745-levity-oklahoma-city",
       "ageLimit": null,
@@ -1468,7 +1468,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-24",
       "time": null,
-      "price": "$68–$252",
+      "price": "$50–$252",
       "description": "Brincos Dieras",
       "eventUrl": "http://www.prekindle.com/event/34615-brincos-dieras-oklahoma-city",
       "ageLimit": null,
@@ -2164,7 +2164,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-11-04",
       "time": null,
-      "price": "$25–$50",
+      "price": "$13–$50",
       "description": "The War and Treaty, Blank Page",
       "eventUrl": "http://www.prekindle.com/event/55285-the-war-and-treaty-oklahoma-city",
       "ageLimit": null,
@@ -2341,12 +2341,26 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "NUNS",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-06",
+      "time": "8:00 PM",
+      "price": "$15",
+      "description": "Sun Vow, NUNS, Lafayette",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/nuns-06-nov",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ac91da8752ee1a4227d7bef_Nuns_Vanguard_11.06.26_2x1.jpeg",
+      "dateAdded": "2026-10-09"
+    },
+    {
       "title": "Blacktop Mojo",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-06",
       "time": "8:00 PM",
-      "price": "$22–$75",
+      "price": "$17–$75",
       "description": "Blacktop Mojo, American Slang",
       "eventUrl": "http://www.prekindle.com/event/67833-blacktop-mojo-oklahoma-city",
       "ageLimit": null,
@@ -2441,12 +2455,26 @@
       "dateAdded": "2026-09-15"
     },
     {
+      "title": "Dead Metal Society",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-07",
+      "time": "8:00 PM",
+      "price": "$22",
+      "description": "Dead Metal Society",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/dead-metal-society-07-nov",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ac917b75c869870e7938fb5_DMS.jpeg",
+      "dateAdded": "2026-10-09"
+    },
+    {
       "title": "Blisspop Presents: Can't Feel My Face: 2010s Dance Party",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-07",
       "time": "9:00 PM",
-      "price": "$16–$75",
+      "price": "$12–$75",
       "description": "Blisspop Presents",
       "eventUrl": "http://www.prekindle.com/event/13646-blisspop-presents-cant-feel-my-face-2010s-dance-party-oklahoma-city",
       "ageLimit": null,
@@ -2546,7 +2574,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-08",
       "time": "8:00 PM",
-      "price": "$25–$75",
+      "price": "$19–$75",
       "description": "Low Cut Connie, Laney Jones and the Spirits",
       "eventUrl": "http://www.prekindle.com/event/91988-low-cut-connie-oklahoma-city",
       "ageLimit": null,
@@ -2646,8 +2674,8 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-10",
       "time": "8:00 PM",
-      "price": "$23–$75",
-      "description": "Trish Toledo",
+      "price": "$17–$75",
+      "description": "Trish Toledo, Keathley",
       "eventUrl": "http://www.prekindle.com/event/69722-trish-toledo-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2930,7 +2958,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-11-14",
       "time": null,
-      "price": "$25–$75",
+      "price": "$19–$75",
       "description": "Lily Rose, Erin Kinsey",
       "eventUrl": "http://www.prekindle.com/event/95391-lily-rose-oklahoma-city",
       "ageLimit": null,
@@ -3193,6 +3221,20 @@
       "dateAdded": "2026-08-13"
     },
     {
+      "title": "End of the Year Bash!",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-20",
+      "time": null,
+      "price": "$12",
+      "description": "King Pink, AskySoBlack, 0 Miles Per Hour, daychaser., Pearly Red",
+      "eventUrl": "http://www.prekindle.com/event/31466-end-of-the-year-bash-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948985849712",
+      "dateAdded": "2026-10-09"
+    },
+    {
       "title": "Mojo Brookzz: Outta Pocket Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -3435,7 +3477,7 @@
       "dateAdded": "2026-07-28"
     },
     {
-      "title": "This Ain't a Scene - MTV2 Tribute (18+)",
+      "title": "This Ain't a Scene - 2000s MTV2 Tribute (18+)",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-27",
@@ -3446,7 +3488,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ab68b49ecc13cc0bd1a0601_dff87146-420a-4797-94e3-a14684534ff1.jpeg",
-      "dateAdded": "2026-09-25"
+      "dateAdded": "2026-10-09"
     },
     {
       "title": "Skanksgiving",
@@ -3521,18 +3563,18 @@
       "dateAdded": "2026-08-27"
     },
     {
-      "title": "The Normandys",
+      "title": "Straight Tequila Night ~ a Tribute to '90s Country",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-28",
-      "time": "8:00 PM",
-      "price": "$22",
-      "description": "The Normandys, Daychaser, Labadie House, Wolf Ugly",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-normandys-28-nov",
-      "ageLimit": "ALL AGES",
+      "time": "9:00 PM",
+      "price": "$31",
+      "description": "Straight Tequila Night",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/straight-tequila-night-a-tribute-to-90s-country-05-dec",
+      "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ab450997c9f384f1d556e80_IMG_4625_%25281%2529.jpeg",
-      "dateAdded": "2026-09-25"
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bf08012b62d1897a35a0cb_STN_May26_Vanguard_2x1.jpeg",
+      "dateAdded": "2026-10-09"
     },
     {
       "title": "Cancer Sucks Concert featuring Dirty Honey",
@@ -3915,7 +3957,7 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Savage Master | Blind Oath",
+      "title": "Savage Master | Blind Oath | Choose The Flame",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
       "date": "2026-12-10",
@@ -3925,8 +3967,8 @@
       "eventUrl": "http://www.prekindle.com/event/91168-savage-master-blind-oath-tulsa",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949006197688",
-      "dateAdded": "2026-09-23"
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948985867318",
+      "dateAdded": "2026-10-09"
     },
     {
       "title": "Wade Forster",
@@ -4309,6 +4351,20 @@
       "dateAdded": "2026-10-01"
     },
     {
+      "title": "GHOST STORIES",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2027-01-02",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "GHOST STORIES\nFeaturing Papa THRALL-Meritus & His Nameless Ghouls From The Bible Belt!\nSpecial Guests TBA!\nDoors @ 6:30P / Show @ 7:00P\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/66195816/ghost-stories-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_395c9ba057c040e099208616223d6c23~mv2.jpg",
+      "dateAdded": "2026-10-09"
+    },
+    {
       "title": "One Way Truckin'",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4353,20 +4409,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183370428",
       "dateAdded": "2026-08-20"
-    },
-    {
-      "title": "Koffin Kats",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2027-01-12",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "KOFFIN KATS\nw/ special guests Last Gang and Starving Wolves\nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/65816347/koffin-kats-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_6152fed7e61542b895c3289fde34769e~mv2.jpg",
-      "dateAdded": "2026-10-09"
     },
     {
       "title": "Rock Anthem",
@@ -4564,7 +4606,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2027-02-05",
       "time": "8:00 PM",
-      "price": "$28",
+      "price": "$22",
       "description": "The Arcadian Wild",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-arcadian-wild-make-it-out-alive-tour-05-feb",
       "ageLimit": "ALL AGES",
@@ -4697,6 +4739,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "MICO - IN:BETWEEN TOUR",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-03-05",
+      "time": null,
+      "price": "$27",
+      "description": "MICO",
+      "eventUrl": "http://www.prekindle.com/event/79171-mico-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948992243764",
+      "dateAdded": "2026-10-09"
     },
     {
       "title": "Amber Autry: Happy Holler Tour",
@@ -4845,6 +4901,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "THE DOSE: A Psychedelic Comedy Experience",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-03-20",
+      "time": null,
+      "price": "$20–$35",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/64132-the-dose-a-psychedelic-comedy-experience-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073857922",
+      "dateAdded": "2026-10-09"
+    },
+    {
       "title": "Sonic Live In Concert",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4857,20 +4927,6 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-23"
-    },
-    {
-      "title": "Thomas Dollbaum",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2027-04-07",
-      "time": null,
-      "price": "$15",
-      "description": "Thomas Dollbaum",
-      "eventUrl": "http://www.prekindle.com/event/23175-thomas-dollbaum-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948996572312",
-      "dateAdded": "2026-10-07"
     },
     {
       "title": "Neil deGrasse Tyson - The Cosmic Perspective",
@@ -4999,6 +5055,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007937538",
       "dateAdded": "2026-09-22"
+    },
+    {
+      "title": "Remi Wolf",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-05-10",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/44869366/remi-wolf-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-09"
     },
     {
       "title": "Hazlett",
