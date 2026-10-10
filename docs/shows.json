@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T12:14:52.834Z",
+  "lastUpdated": "2026-10-10T20:47:58.203Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -50,7 +50,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-10",
       "time": "9:00 PM",
-      "price": "$28",
+      "price": "$31",
       "description": "United We Dance",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/united-we-dance-festival-energy-all-night-18-10-oct",
       "ageLimit": null,
@@ -3638,7 +3638,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-12-05",
       "time": "8:00 PM",
-      "price": "$20–$80",
+      "price": "$25–$80",
       "description": "Westside Boogie",
       "eventUrl": "http://www.prekindle.com/event/32977-westside-boogie-oklahoma-city",
       "ageLimit": null,
