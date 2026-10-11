@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T12:29:43.990Z",
+  "lastUpdated": "2026-10-11T21:08:58.690Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -45,20 +45,6 @@
       "dateAdded": "2026-08-25"
     },
     {
-      "title": "Sonic: Live In Concert",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-10-11",
-      "time": null,
-      "price": "$20–$85",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/94764-sonic-live-in-concert-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949141100140",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "Jim Henson’s Labyrinth: In Concert 40th Anniversary",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -78,7 +64,7 @@
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-10-11",
       "time": "7:00 PM",
-      "price": "$22 to $35 ADV   $25 to $40 DAY OF",
+      "price": "$25",
       "description": null,
       "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38594",
       "ageLimit": "21 & Over",
@@ -1952,7 +1938,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-05",
       "time": null,
-      "price": "$50–$500",
+      "price": "$60–$500",
       "description": "Chencho Corleone",
       "eventUrl": "http://www.prekindle.com/event/87875-chencho-corleone-oklahoma-city",
       "ageLimit": null,
@@ -2029,6 +2015,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949143679564",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Nikki & Company | Kassettes | Rabbitt and the Roses",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-11-06",
+      "time": null,
+      "price": "$10",
+      "description": "Nikki and Company",
+      "eventUrl": "http://www.prekindle.com/event/53738-nikki-and-company-kassettes-rabbitt-and-the-roses-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948984591057",
+      "dateAdded": "2026-10-11"
     },
     {
       "title": "NUNS",
