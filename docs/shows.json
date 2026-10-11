@@ -1,163 +1,7 @@
 {
-  "lastUpdated": "2026-10-10T20:47:58.203Z",
+  "lastUpdated": "2026-10-11T12:29:43.990Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "sKitz Kraven",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-10",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Skitz Kraven: Mind of A Killer Tour\nDoors @ 6:30PM / Show @ 7:30PM\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/79597062/skitz-kraven-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_602ace9dafe44a8192aeeeec707bfbeb~mv2.jpg",
-      "dateAdded": "2026-08-30"
-    },
-    {
-      "title": "LP - All Is Not Lost Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-10",
-      "time": null,
-      "price": "$33–$57",
-      "description": "LP",
-      "eventUrl": "http://www.prekindle.com/event/86625-lp-all-is-not-lost-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949110586977",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Billy Bonney | Odie & I | Unlikely Roll",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-10-10",
-      "time": null,
-      "price": "$10",
-      "description": "Billy Bonney",
-      "eventUrl": "http://www.prekindle.com/event/35438-billy-bonney-odie-and-i-unlikely-roll-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949070381636",
-      "dateAdded": "2026-08-01"
-    },
-    {
-      "title": "United We Dance: Festival Energy. All Night. (18+)",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-10-10",
-      "time": "9:00 PM",
-      "price": "$31",
-      "description": "United We Dance",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/united-we-dance-festival-energy-all-night-18-10-oct",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a62256c5eb88d690eb09d5f_UWD_TSA_10.10.26_HOR.jpeg",
-      "dateAdded": "2026-07-29"
-    },
-    {
-      "title": "Jared Hard Album Release Show",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-10-10",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001974179",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001972570",
-      "dateAdded": "2026-09-25"
-    },
-    {
-      "title": "Angélica Gallegos",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-10-10",
-      "time": "8:00 PM",
-      "price": "$55–$100",
-      "description": "Angélica Gallegos",
-      "eventUrl": "http://www.prekindle.com/event/72421--oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031469706",
-      "dateAdded": "2026-09-03"
-    },
-    {
-      "title": "Greywind",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-10-10",
-      "time": null,
-      "price": "$15",
-      "description": "Greywind, It Kills You, Morris Villiage, Rodeo",
-      "eventUrl": "http://www.prekindle.com/event/85174-greywind-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131266045",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Hermanos Espinoza - LINAJE Tour",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-10-10",
-      "time": null,
-      "price": "$30–$90",
-      "description": "Hermanos Espinoza",
-      "eventUrl": "http://www.prekindle.com/event/99742-hermanos-espinoza-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022407634",
-      "dateAdded": "2026-09-05"
-    },
-    {
-      "title": "Starbomb featuring DJ Commander Meouch",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-10-10",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/40121372/starbomb-featuring-dj-commander-meouch-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "Rolling and the 80\"s Wave",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-10-10",
-      "time": "7:00 PM",
-      "price": "$8 adv / $10 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39175",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39175-c85e5115197adcab8e33d41ec31d0da4.png",
-      "dateAdded": "2026-07-27"
-    },
-    {
-      "title": "THE GRANDE SHOWCASE RETURNS!",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-10",
-      "time": "9:30 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949003042866",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003031541",
-      "dateAdded": "2026-09-25"
-    },
     {
       "title": "Demon Hunter - Storm the Gates of Hell 20th Anniversary Tour",
       "venue": "Tower Theatre",
@@ -178,7 +22,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-11",
       "time": "8:00 PM",
-      "price": "$28",
+      "price": "$34",
       "description": "Joe Jordan, Jon Bullard",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/joe-jordan-the-heart-sessions-tour-11-oct",
       "ageLimit": "ALL AGES",
@@ -3209,6 +3053,22 @@
       "dateAdded": "2026-03-24"
     },
     {
+      "title": "The Holdouts: Vinyl EP Release",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-21",
+      "time": "7:30 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39753",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39753-b7a37deb63232721496373a590ab4701.jpeg",
+      "dateAdded": "2026-10-11"
+    },
+    {
       "title": "Alok: Eat Pray Leave",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4257,6 +4117,20 @@
       "dateAdded": "2026-08-20"
     },
     {
+      "title": "Koffin Kats",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2027-01-12",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "KOFFIN KATS\nw/ special guests Last Gang and Starving Wolves\nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/65816347/koffin-kats-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_6152fed7e61542b895c3289fde34769e~mv2.jpg",
+      "dateAdded": "2026-10-11"
+    },
+    {
       "title": "Rock Anthem",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4373,6 +4247,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948997795167",
       "dateAdded": "2026-09-30"
+    },
+    {
+      "title": "Duval",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-01-24",
+      "time": "4:00 PM",
+      "price": "$10",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39754",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39754-fd076801119c6e0cf9633b692f0f044a.jpeg",
+      "dateAdded": "2026-10-11"
     },
     {
       "title": "Liam St John",
