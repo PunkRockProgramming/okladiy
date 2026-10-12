@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T15:01:48.808Z",
+  "lastUpdated": "2026-10-12T23:53:08.897Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -195,11 +195,11 @@
       "date": "2026-10-15",
       "time": null,
       "price": "$14–$50",
-      "description": "I See Stars, Nate Vickers",
+      "description": "I See Stars, Nate Vickers, Vilamoura",
       "eventUrl": "http://www.prekindle.com/event/87555-i-see-stars-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096496478",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948983136872",
       "dateAdded": "2026-07-16"
     },
     {
@@ -477,7 +477,7 @@
       "date": "2026-10-17",
       "time": "8:00 PM",
       "price": "$8–$75",
-      "description": "The Gringos, The John Wood Band",
+      "description": "The Gringos, Easier",
       "eventUrl": "http://www.prekindle.com/event/78345-the-gringos-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -627,6 +627,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038240291",
       "dateAdded": "2026-08-26"
+    },
+    {
+      "title": "NBA Watch Party",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-10-20",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/59755-nba-watch-party-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948983789461",
+      "dateAdded": "2026-10-12"
     },
     {
       "title": "Chasen Wayne & The Honky Tonk Machine",
@@ -1011,7 +1025,7 @@
       "dateAdded": "2026-09-13"
     },
     {
-      "title": "The Bobby Lees",
+      "title": "The Bobby Lees & ÖOF TATATÁ",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-24",
@@ -1022,7 +1036,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a10c62ccf458eec7712a512_bobby_lees.jpeg",
-      "dateAdded": "2026-08-21"
+      "dateAdded": "2026-10-12"
     },
     {
       "title": "Boundaries",
@@ -1577,6 +1591,20 @@
       "dateAdded": "2026-05-19"
     },
     {
+      "title": "SOUSE",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-10-31",
+      "time": "10:00 PM",
+      "price": "$20–$75",
+      "description": "Souse, Kora Waves, Jujusocrazy, Dr. View",
+      "eventUrl": "http://www.prekindle.com/event/82815-souse-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948983495914",
+      "dateAdded": "2026-10-12"
+    },
+    {
       "title": "Private Party",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -1955,7 +1983,7 @@
       "eventUrl": "http://www.prekindle.com/event/67833-blacktop-mojo-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949021972787",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948983526789",
       "dateAdded": "2026-09-11"
     },
     {
@@ -2049,7 +2077,7 @@
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-07",
-      "time": "8:00 PM",
+      "time": "9:00 PM",
       "price": "$22",
       "description": "Dead Metal Society",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/dead-metal-society-07-nov",
@@ -3605,6 +3633,22 @@
       "dateAdded": "2026-09-28"
     },
     {
+      "title": "Silent Civilian - 25th Anniversary Of Rebirth Of The Temple",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-12-10",
+      "time": "6:30 PM",
+      "price": "$20 to $30 ADV   $25 to $35 DAY OF",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39758",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39758-9110c074f92ebd723236e71d8c59c165.jpg",
+      "dateAdded": "2026-10-12"
+    },
+    {
       "title": "Who's Bad (Michael Jackson Tribute)",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4279,6 +4323,20 @@
       "dateAdded": "2026-09-11"
     },
     {
+      "title": "ALLEYCVT - Beginning of Forever Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-02-03",
+      "time": null,
+      "price": "$20",
+      "description": "ALLEYCVT, Smoakland, LUCKY",
+      "eventUrl": "http://www.prekindle.com/event/23238-alleycvt-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948983821289",
+      "dateAdded": "2026-10-12"
+    },
+    {
       "title": "The Arcadian Wild - Make It Out Alive Tour",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4591,6 +4649,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949073857922",
       "dateAdded": "2026-10-09"
+    },
+    {
+      "title": "Julieta Venegas - Norteña US Tour 2027",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-03-23",
+      "time": null,
+      "price": "$30",
+      "description": "Julieta Venegas",
+      "eventUrl": "http://www.prekindle.com/event/29147-julieta-venegas-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948983815628",
+      "dateAdded": "2026-10-12"
     },
     {
       "title": "Sonic Live In Concert",
