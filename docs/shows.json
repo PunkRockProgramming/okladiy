@@ -1,93 +1,7 @@
 {
-  "lastUpdated": "2026-10-11T21:08:58.690Z",
+  "lastUpdated": "2026-10-12T15:01:48.808Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Demon Hunter - Storm the Gates of Hell 20th Anniversary Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-11",
-      "time": null,
-      "price": "$15–$57",
-      "description": "Demon Hunter, Wolves At the Gate, Bloodlines",
-      "eventUrl": "http://www.prekindle.com/event/85444-demon-hunter-storm-the-gates-of-hell-20th-anniversary-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949088179389",
-      "dateAdded": "2026-07-21"
-    },
-    {
-      "title": "Joe Jordan - The Heart Sessions Tour",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-10-11",
-      "time": "8:00 PM",
-      "price": "$34",
-      "description": "Joe Jordan, Jon Bullard",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/joe-jordan-the-heart-sessions-tour-11-oct",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a308afbbc00756cb0e9f89a_JOE_JORDAN_PROMO.jpeg",
-      "dateAdded": "2026-06-23"
-    },
-    {
-      "title": "Black Magnet with Pink Stiletto and MVTANT",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-10-11",
-      "time": null,
-      "price": "$15",
-      "description": "Black Magnet, MVTANT, Pink Stiletto",
-      "eventUrl": "http://www.prekindle.com/event/78677-black-magnet-with-pink-stiletto-and-mvtant-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038865029",
-      "dateAdded": "2026-08-25"
-    },
-    {
-      "title": "Jim Henson’s Labyrinth: In Concert 40th Anniversary",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-10-11",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/88394702/jim-hensons-labyrinthin-concert-40th-anniversary-tulsa-tulsa-theater?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "Black Flag - Punk Pioneers",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-10-11",
-      "time": "7:00 PM",
-      "price": "$25",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38594",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38594-24e45794e41dc7b70e23fa804af134c8.jpg",
-      "dateAdded": "2026-05-30"
-    },
-    {
-      "title": "CAMMY-KUN (Trinidad Hip Hop / Emo Rap)  /  /  NANDO  /  /  19vast",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-11",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100860485",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949002901052",
-      "dateAdded": "2026-09-25"
-    },
     {
       "title": "Sleeping With Sirens: An Ending In Itself Tour",
       "venue": "Diamond Ballroom",
@@ -843,20 +757,6 @@
       "dateAdded": "2026-09-19"
     },
     {
-      "title": "Culture Wars",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-22",
-      "time": null,
-      "price": null,
-      "description": "Culture Wars, Softly",
-      "eventUrl": "http://www.prekindle.com/event/74479-culture-wars-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990002013",
-      "dateAdded": "2026-10-07"
-    },
-    {
       "title": "Prof",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -869,6 +769,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085074535",
       "dateAdded": "2026-07-21"
+    },
+    {
+      "title": "Culture Wars",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-22",
+      "time": null,
+      "price": null,
+      "description": "Culture Wars, Softly",
+      "eventUrl": "http://www.prekindle.com/event/74479-culture-wars-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990002013",
+      "dateAdded": "2026-10-07"
     },
     {
       "title": "The Removers | Echo Dagger | Caregiver to a Monster",
@@ -1209,20 +1123,6 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a42816fc4461d3878aaa54b_CARLA_1920X1080_credit_Mike_Stone_%2528_musicfrommypov_on_IG%2529.jpeg",
       "dateAdded": "2026-06-30"
-    },
-    {
-      "title": "2DEEP",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-10-25",
-      "time": "8:00 PM",
-      "price": "$20–$75",
-      "description": "2DEEP",
-      "eventUrl": "http://www.prekindle.com/event/34155-2deep-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949021268710",
-      "dateAdded": "2026-09-09"
     },
     {
       "title": "Electric Tongues",
@@ -3183,6 +3083,20 @@
       "dateAdded": "2026-07-28"
     },
     {
+      "title": "Straight Tequila Night - 90s Country Tribute",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-27",
+      "time": null,
+      "price": "$20–$40",
+      "description": "Straight Tequila Night",
+      "eventUrl": "http://www.prekindle.com/event/72141-straight-tequila-night-90s-country-tribute-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948986203270",
+      "dateAdded": "2026-10-12"
+    },
+    {
       "title": "This Ain't a Scene - 2000s MTV2 Tribute (18+)",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -4131,6 +4045,20 @@
       "dateAdded": "2026-10-11"
     },
     {
+      "title": "Gianmarco Soresi",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-01-14",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/53814592/gianmarco-soresi-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-12"
+    },
+    {
       "title": "Rock Anthem",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4145,6 +4073,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39498-6960f0fca823dc93aa1291e09988601a.jpeg",
       "dateAdded": "2026-08-27"
+    },
+    {
+      "title": "Gianmarco Soresi: The Misery Loves Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-01-16",
+      "time": null,
+      "price": null,
+      "description": "Gianmarco Soresi",
+      "eventUrl": "http://www.prekindle.com/event/29884-gianmarco-soresi-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948983785173",
+      "dateAdded": "2026-10-12"
     },
     {
       "title": "The Malcontentz",
@@ -4807,7 +4749,7 @@
       "dateAdded": "2026-10-09"
     },
     {
-      "title": "Hazlett",
+      "title": "LOW TICKETS Hazlett",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2027-05-18",
@@ -4818,7 +4760,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a2c133c7c371892d7c6a3e7_Photo_2.jpeg",
-      "dateAdded": "2026-09-30"
+      "dateAdded": "2026-10-12"
     },
     {
       "title": "Dylan Gossett - The Ramblin' Tour 2027",
