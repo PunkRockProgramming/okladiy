@@ -1,51 +1,7 @@
 {
-  "lastUpdated": "2026-10-12T23:53:08.897Z",
+  "lastUpdated": "2026-10-13T13:56:58.476Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Sleeping With Sirens: An Ending In Itself Tour",
-      "venue": "Diamond Ballroom",
-      "venueUrl": "https://www.diamondballroom.com",
-      "date": "2026-10-12",
-      "time": "7 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/55689710/sleeping-with-sirensan-ending-in-itself-tour-oklahoma-city-diamond-ballroom?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/sleeping-with-sirens-an-ending-in-itself-tour.jpeg",
-      "dateAdded": "2026-06-15"
-    },
-    {
-      "title": "Indigenous Day at Cain’s Ballroom",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-10-12",
-      "time": "6:30 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/68389836/indigenous-day-at-cains-ballroom-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "Halloween Tour GreatDaeg, BankBoi Money",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-10-12",
-      "time": "7:00 PM",
-      "price": "$12 ADV   $15 DOOR",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39188",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39188-6ca7ae00e8016c1d5b5fe7297faa5d8e.jpg",
-      "dateAdded": "2026-07-28"
-    },
     {
       "title": "Left Lane Cruiser | RedWitch Johnny",
       "venue": "The Whittier Bar",
@@ -476,7 +432,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-17",
       "time": "8:00 PM",
-      "price": "$8–$75",
+      "price": "$4–$75",
       "description": "The Gringos, Easier",
       "eventUrl": "http://www.prekindle.com/event/78345-the-gringos-oklahoma-city",
       "ageLimit": null,
@@ -4433,6 +4389,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990023417",
       "dateAdded": "2026-10-07"
+    },
+    {
+      "title": "Davey Allen",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-02-27",
+      "time": null,
+      "price": "$15–$40",
+      "description": "Davey Allen",
+      "eventUrl": "http://www.prekindle.com/event/18713-davey-allen-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034918251",
+      "dateAdded": "2026-10-13"
     },
     {
       "title": "RuPaul’s Drag Race Werq The World News 2027",
