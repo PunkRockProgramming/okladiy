@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T13:56:58.476Z",
+  "lastUpdated": "2026-10-13T22:01:49.867Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -441,20 +441,6 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Indigo Girls",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-10-17",
-      "time": null,
-      "price": "$25–$127",
-      "description": "Indigo Girls, Linda Perry",
-      "eventUrl": "http://www.prekindle.com/event/29947-indigo-girls-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949117750216",
-      "dateAdded": "2026-07-16"
-    },
-    {
       "title": "First Train To Tulsa Night Two",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -555,6 +541,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39343-5cc801b498a1b1cf9d720eee48d5cd67.jpeg",
       "dateAdded": "2026-08-14"
+    },
+    {
+      "title": "Pons | Balcony | Madame Zeroni",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-19",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/71995-pons-balcony-madame-zeroni-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948982294366",
+      "dateAdded": "2026-10-13"
     },
     {
       "title": "Blaze Ya Dead Homie & ABK",
@@ -1142,7 +1142,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-26",
       "time": "8:00 PM",
-      "price": "$28–$105",
+      "price": "$28",
       "description": "Almost Monday, Rec Hall",
       "eventUrl": "http://www.prekindle.com/event/42539-almost-monday-oklahoma-city",
       "ageLimit": null,
@@ -2641,6 +2641,20 @@
       "dateAdded": "2026-07-16"
     },
     {
+      "title": "Stringmen",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-15",
+      "time": null,
+      "price": "$15",
+      "description": "Stringmen",
+      "eventUrl": "http://www.prekindle.com/event/43185-stringmen-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948982262129",
+      "dateAdded": "2026-10-13"
+    },
+    {
       "title": "AJJ",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -3279,6 +3293,20 @@
       "dateAdded": "2026-09-25"
     },
     {
+      "title": "Shane Smith & The Saints",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-12-03",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/48077302/shane-smith-the-saints-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-13"
+    },
+    {
       "title": "Michael Martin Murphey - Cowboy Christmas",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3489,6 +3517,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39643-4eaf9bda6f8379f24f8a01729807d2e9.jpeg",
       "dateAdded": "2026-09-21"
+    },
+    {
+      "title": "The Format (Unplugged)",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-12-07",
+      "time": "7:30 PM",
+      "price": "$32–$100",
+      "description": "The Format",
+      "eventUrl": "http://www.prekindle.com/event/86418-the-format-unplugged-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948985916910",
+      "dateAdded": "2026-10-13"
     },
     {
       "title": "John R. Miller",
@@ -3767,7 +3809,7 @@
       "date": "2026-12-16",
       "time": "8:00 PM",
       "price": "$34",
-      "description": "Harbour",
+      "description": "Harbour, The Silkies",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/harbour-16-dec",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -4391,6 +4433,20 @@
       "dateAdded": "2026-10-07"
     },
     {
+      "title": "DUSTY SLAY: THE NEIGHBORHOOD GUY TOUR",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2027-02-26",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/39542936/dusty-slaythe-neighborhood-guy-tour-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-13"
+    },
+    {
       "title": "Davey Allen",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -4452,7 +4508,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2027-03-05",
       "time": null,
-      "price": "$27",
+      "price": "$23–$55",
       "description": "MICO",
       "eventUrl": "http://www.prekindle.com/event/79171-mico-oklahoma-city",
       "ageLimit": null,
@@ -4519,6 +4575,20 @@
       "dateAdded": "2026-08-22"
     },
     {
+      "title": "Saxsquatch - The Conspiracy Theory Tour",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-03-10",
+      "time": "8:00 PM",
+      "price": "$25",
+      "description": "Saxsquatch",
+      "eventUrl": "http://www.prekindle.com/event/71288-saxsquatch-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948986100732",
+      "dateAdded": "2026-10-13"
+    },
+    {
       "title": "Jeff Arcuri: The Road Trip Tour",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4575,6 +4645,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-09-22"
+    },
+    {
+      "title": "Take It To The Limit - The Music and Legacy of the Eagles",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-03-18",
+      "time": null,
+      "price": "$33–$47",
+      "description": "Take It To the Limit (Eagles Tribute)",
+      "eventUrl": "http://www.prekindle.com/event/25787-take-it-to-the-limit-the-music-and-legacy-of-the-eagles-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949002234220",
+      "dateAdded": "2026-10-13"
     },
     {
       "title": "Rock Anthem",
@@ -4647,6 +4731,34 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-23"
+    },
+    {
+      "title": "Marc Broussard",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-04-03",
+      "time": null,
+      "price": "$25–$60",
+      "description": "Marc Broussard",
+      "eventUrl": "http://www.prekindle.com/event/67698-marc-broussard-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995334386",
+      "dateAdded": "2026-10-13"
+    },
+    {
+      "title": "Thomas Dollbaum",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-04-07",
+      "time": null,
+      "price": "$15",
+      "description": "Thomas Dollbaum",
+      "eventUrl": "http://www.prekindle.com/event/23175-thomas-dollbaum-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948996572312",
+      "dateAdded": "2026-10-13"
     },
     {
       "title": "Neil deGrasse Tyson - The Cosmic Perspective",
