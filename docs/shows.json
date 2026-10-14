@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T11:33:55.083Z",
+  "lastUpdated": "2026-10-14T21:02:49.561Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -206,7 +206,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-16",
       "time": null,
-      "price": "$19–$95",
+      "price": "$28–$95",
       "description": "Snarky Puppy",
       "eventUrl": "http://www.prekindle.com/event/73342-snarky-puppy-oklahoma-city",
       "ageLimit": null,
@@ -2599,18 +2599,18 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Stringmen",
+      "title": "Stringsmen",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-11-15",
       "time": null,
       "price": "$15",
-      "description": "Stringmen",
+      "description": "Stringsmen",
       "eventUrl": "http://www.prekindle.com/event/43185-stringmen-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948982262129",
-      "dateAdded": "2026-10-13"
+      "dateAdded": "2026-10-14"
     },
     {
       "title": "AJJ",
@@ -3695,7 +3695,7 @@
       "date": "2026-12-12",
       "time": null,
       "price": "$30–$50",
-      "description": "Deorro",
+      "description": "Deorro, Juos",
       "eventUrl": "http://www.prekindle.com/event/37655-deorro-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -4080,7 +4080,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-01-16",
       "time": null,
-      "price": null,
+      "price": "$30–$65",
       "description": "Gianmarco Soresi",
       "eventUrl": "http://www.prekindle.com/event/29884-gianmarco-soresi-oklahoma-city",
       "ageLimit": null,
@@ -4117,6 +4117,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949014807443",
       "dateAdded": "2026-09-25"
+    },
+    {
+      "title": "The Retrograde - Come Around Again Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-01-20",
+      "time": null,
+      "price": "$15",
+      "description": "The Retrograde",
+      "eventUrl": "http://www.prekindle.com/event/93245-the-retrograde-come-around-again-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "http://www.prekindle.com/images/prekindle-logo.png",
+      "dateAdded": "2026-10-14"
     },
     {
       "title": "Grady Spencer & The Vegabonds",
@@ -4307,6 +4321,20 @@
       "dateAdded": "2026-10-06"
     },
     {
+      "title": "Wade Bowen",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-02-05",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/33167144/wade-bowen-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-14"
+    },
+    {
       "title": "Bianca Del Rio: It Gets Bitter - World Comedy Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4333,6 +4361,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-15"
+    },
+    {
+      "title": "Coey Redd",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-02-17",
+      "time": null,
+      "price": "$18–$78",
+      "description": "Coey Redd",
+      "eventUrl": "http://www.prekindle.com/event/75489-coey-redd-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948991636151",
+      "dateAdded": "2026-10-14"
     },
     {
       "title": "Willi Carlisle - Golden Dragon Buffet Tour",
@@ -4538,7 +4580,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2027-03-10",
       "time": "8:00 PM",
-      "price": "$25",
+      "price": "$22–$75",
       "description": "Saxsquatch",
       "eventUrl": "http://www.prekindle.com/event/71288-saxsquatch-oklahoma-city",
       "ageLimit": null,
@@ -4668,7 +4710,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-03-23",
       "time": null,
-      "price": "$30",
+      "price": "$30–$100",
       "description": "Julieta Venegas",
       "eventUrl": "http://www.prekindle.com/event/29147-julieta-venegas-oklahoma-city",
       "ageLimit": null,
@@ -4803,6 +4845,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948998443198",
       "dateAdded": "2026-10-06"
+    },
+    {
+      "title": "Joe Pug: Sketch of a Promised Departure Tour",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2027-04-23",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948981364040",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981363318",
+      "dateAdded": "2026-10-14"
     },
     {
       "title": "Alaska Thunderf*ck: The Revolution Tour",
