@@ -1,93 +1,7 @@
 {
-  "lastUpdated": "2026-10-14T21:02:49.561Z",
+  "lastUpdated": "2026-10-15T11:12:11.001Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Belmont",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-14",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "BELMONT\nw/ special guests Super Sometimes & Public Works\nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/50776911/belmont-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_96ad48bf8fe94147a96c8d20727b6511~mv2.jpg",
-      "dateAdded": "2026-09-10"
-    },
-    {
-      "title": "Beauty School Dropout",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-10-14",
-      "time": "8:00 PM",
-      "price": "$10–$75",
-      "description": "Beauty School Dropout, Olive Vox",
-      "eventUrl": "http://www.prekindle.com/event/43682-beauty-school-dropout-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022569541",
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "THE SCHIZOPHONICS",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-10-14",
-      "time": null,
-      "price": "$18",
-      "description": "The Schizophonics, Dale Crover of Melvins, Belle Riots",
-      "eventUrl": "http://www.prekindle.com/event/15526-the-schizophonics-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949019165234",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Dogstar: ALL IN NOW TOUR",
-      "venue": "Tulsa Theater",
-      "venueUrl": "https://tulsatheater.com",
-      "date": "2026-10-14",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/90049314/dogstarall-in-now-tour-tulsa-tulsa-theater?partner_id=100",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-09-08"
-    },
-    {
-      "title": "Dead Peaches w/ Jim Bachman",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-10-14",
-      "time": "7:00 PM",
-      "price": "$12 adv / $15 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39558",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39558-f471e5cf07e5f16620a055eac71f08a2.jpeg",
-      "dateAdded": "2026-09-05"
-    },
-    {
-      "title": "LEFT LANE CRUISER (dirty Indiana blues)  /  /  FAST PONTIAC  /  /  HESKETH",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-14",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100858354",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949002839864",
-      "dateAdded": "2026-10-01"
-    },
     {
       "title": "Eyehategod",
       "venue": "89th Street OKC",
@@ -136,7 +50,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-15",
       "time": "8:00 PM",
-      "price": "$34",
+      "price": "$41",
       "description": "Belmont, Super Sometimes, Public Works",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/belmont-super-sometimes-15-oct",
       "ageLimit": "ALL AGES",
@@ -178,7 +92,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-10-15",
       "time": null,
-      "price": "$18",
+      "price": "$22",
       "description": "The Wildwoods, Good Morning Bedlam",
       "eventUrl": "http://www.prekindle.com/event/41356-the-wildwoods-oklahoma-city",
       "ageLimit": null,
@@ -939,6 +853,20 @@
       "dateAdded": "2026-09-13"
     },
     {
+      "title": "TBF EP Release Show featuring Leash and Vile Nature",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-10-24",
+      "time": "8:00 PM",
+      "price": "$10",
+      "description": "TBF release show featuring performances by Leash, Vile Nature, and TBF!Doors 8pm Music 8:30pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/tbf-ep-release-show-featuring-leash-and-vile-nature",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1792024527848-Z9IB5I4H5Z5E170QJKU5/TBF+Release+Show+Flyer.jpg",
+      "dateAdded": "2026-10-15"
+    },
+    {
       "title": "The Bobby Lees & ÖOF TATATÁ",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1268,7 +1196,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-29",
       "time": null,
-      "price": "$40–$150",
+      "price": "$22–$150",
       "description": "Los Gemelos De Sinaloa",
       "eventUrl": "http://www.prekindle.com/event/13439-los-gemelos-de-sinaloa-oklahoma-city",
       "ageLimit": null,
@@ -2413,6 +2341,20 @@
       "dateAdded": "2026-07-22"
     },
     {
+      "title": "Live Music All Ages feat: The Paradigms, Jam of All Colors, ourodross, & Hightailers",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-11-13",
+      "time": "7:30 PM",
+      "price": "$10",
+      "description": "Live music featuring performances by The Paradigms, Jam of All Colors, ourodross, & Hightailers!Also a pop up shop from Guide Dog Vintage!Doors 7:30pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-feat-the-paradigms-jam-of-all-colors-ourodross-hightailers",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1792024997486-34BVXZJ4DQNZV6GTNHZU/NoiseTown_Flyer4.jpg",
+      "dateAdded": "2026-10-15"
+    },
+    {
       "title": "The Soda Crackers with special guests Tanner Fields & The Goodtimers",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -3405,6 +3347,22 @@
       "dateAdded": "2026-08-17"
     },
     {
+      "title": "Waves in April",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-12-05",
+      "time": "7:00 PM",
+      "price": "$10 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39763",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39763-c1d824a998791ad17eb62b9a6ee34b6e.jpeg",
+      "dateAdded": "2026-10-15"
+    },
+    {
       "title": "Upon A Burning Body",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -4043,6 +4001,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949183370428",
       "dateAdded": "2026-08-20"
+    },
+    {
+      "title": "Koffin Kats",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2027-01-12",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "KOFFIN KATS\nw/ special guests Last Gang and Starving Wolves\nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/65816347/koffin-kats-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_6152fed7e61542b895c3289fde34769e~mv2.jpg",
+      "dateAdded": "2026-10-15"
     },
     {
       "title": "Gianmarco Soresi",
@@ -4745,6 +4717,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995334386",
       "dateAdded": "2026-10-13"
+    },
+    {
+      "title": "Dressed to Kill",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-04-03",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39762",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39762-11355aaaa2a020bcd55130419e300efc.jpeg",
+      "dateAdded": "2026-10-15"
     },
     {
       "title": "Thomas Dollbaum",
