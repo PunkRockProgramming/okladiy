@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T11:12:11.001Z",
+  "lastUpdated": "2026-10-15T20:37:26.812Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -543,7 +543,7 @@
       "dateAdded": "2026-03-24"
     },
     {
-      "title": "Bonnie Whitmore & the Sad Girls",
+      "title": "Bonnie Whitmore & the Sad Girls with special guest Kalyn Fay",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-10-21",
@@ -554,7 +554,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001961633",
-      "dateAdded": "2026-09-25"
+      "dateAdded": "2026-10-15"
     },
     {
       "title": "Ak'chamel",
@@ -1126,7 +1126,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-29",
       "time": null,
-      "price": "$12–$180",
+      "price": "$12–$65",
       "description": "The Billy Joel Legacy",
       "eventUrl": "http://www.prekindle.com/event/57933-the-billy-joel-legacy-a-tribute-experience-oklahoma-city",
       "ageLimit": null,
@@ -3440,7 +3440,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-12-07",
       "time": "7:30 PM",
-      "price": "$32–$100",
+      "price": "$100",
       "description": "The Format",
       "eventUrl": "http://www.prekindle.com/event/86418-the-format-unplugged-oklahoma-city",
       "ageLimit": null,
@@ -3689,7 +3689,7 @@
       "dateAdded": "2026-09-17"
     },
     {
-      "title": "Tennessee Jet",
+      "title": "Tennessee Jet & Joel Tyler King",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-12-12",
@@ -3702,7 +3702,7 @@
         "tulsa"
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39292-bb8abac694db2edf11041848e2f7c944.png",
-      "dateAdded": "2026-08-08"
+      "dateAdded": "2026-10-15"
     },
     {
       "title": "TRIVIUM: CROWN IN THE GRAVE WORLD TOUR",
@@ -3759,6 +3759,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003786855",
       "dateAdded": "2026-09-28"
+    },
+    {
+      "title": "Grupo Duelo - Gravedad US Tour 2026",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-12-18",
+      "time": null,
+      "price": "$50",
+      "description": "Duelo",
+      "eventUrl": "http://www.prekindle.com/event/37468-duelo-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948979522769",
+      "dateAdded": "2026-10-15"
     },
     {
       "title": "Jackson Dean",
@@ -3943,6 +3957,20 @@
       "dateAdded": "2026-10-01"
     },
     {
+      "title": "Hangover Ball 2027",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-01-01",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/99370573/hangover-ball-2027-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-15"
+    },
+    {
       "title": "GHOST STORIES",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -4101,7 +4129,7 @@
       "eventUrl": "http://www.prekindle.com/event/93245-the-retrograde-come-around-again-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "http://www.prekindle.com/images/prekindle-logo.png",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948979452263",
       "dateAdded": "2026-10-14"
     },
     {
@@ -4270,7 +4298,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-02-03",
       "time": null,
-      "price": "$20",
+      "price": "$25–$65",
       "description": "ALLEYCVT, Smoakland, LUCKY",
       "eventUrl": "http://www.prekindle.com/event/23238-alleycvt-oklahoma-city",
       "ageLimit": null,
@@ -4624,13 +4652,27 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2027-03-18",
       "time": null,
-      "price": "$33–$47",
+      "price": "$33–$52",
       "description": "Take It To the Limit (Eagles Tribute)",
       "eventUrl": "http://www.prekindle.com/event/25787-take-it-to-the-limit-the-music-and-legacy-of-the-eagles-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949002234220",
       "dateAdded": "2026-10-13"
+    },
+    {
+      "title": "Red NOT Chili Peppers",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-03-19",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/57432908/red-not-chili-peppers-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-15"
     },
     {
       "title": "Rock Anthem",
@@ -4677,6 +4719,20 @@
       "dateAdded": "2026-10-09"
     },
     {
+      "title": "Heather McMahan: Burning Down The House Tour",
+      "venue": "Tulsa Theater",
+      "venueUrl": "https://tulsatheater.com",
+      "date": "2027-03-20",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/62370547/heather-mcmahanburning-down-the-house-tour-tulsa-tulsa-theater?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-15"
+    },
+    {
       "title": "Julieta Venegas - Norteña US Tour 2027",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4717,6 +4773,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995334386",
       "dateAdded": "2026-10-13"
+    },
+    {
+      "title": "Fonseca - Antes Que El Tiempo Se Vaya Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-04-03",
+      "time": null,
+      "price": null,
+      "description": "Fonseca",
+      "eventUrl": "http://www.prekindle.com/event/17536-fonseca-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948979523533",
+      "dateAdded": "2026-10-15"
     },
     {
       "title": "Dressed to Kill",
