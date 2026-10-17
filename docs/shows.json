@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T10:26:41.376Z",
+  "lastUpdated": "2026-10-17T19:46:18.542Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -753,6 +753,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a42816fc4461d3878aaa54b_CARLA_1920X1080_credit_Mike_Stone_%2528_musicfrommypov_on_IG%2529.jpeg",
       "dateAdded": "2026-06-30"
+    },
+    {
+      "title": "Big Sandy and his Flyrite Boys with special guest JD McPherson",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-25",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948974802576",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948974802304",
+      "dateAdded": "2026-10-17"
     },
     {
       "title": "Electric Tongues",
