@@ -1,121 +1,7 @@
 {
-  "lastUpdated": "2026-10-17T19:46:18.542Z",
+  "lastUpdated": "2026-10-18T10:45:25.616Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "LOUD & QUEER SHOWCASE",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-17",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "LOUD & QUEER SHOWCASE\nFeaturing: Bilong / Riott Rockette / My Witch My Blood / Ivory Tusk\nDoors @ 7P / Show @ 8P\nGeneral Admission Standing / All Ages",
-      "eventUrl": "https://www.etix.com/ticket/p/93990158/loud-queer-showcase-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_38e361785965418386812a0f677ff3ae~mv2.jpg",
-      "dateAdded": "2026-09-14"
-    },
-    {
-      "title": "DEMOLA LIVE!",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-17",
-      "time": null,
-      "price": "$17–$60",
-      "description": "Demola",
-      "eventUrl": "http://www.prekindle.com/event/24431-demola-live-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949125241860",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Coolzey | Schaffer The Darklord",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-10-17",
-      "time": null,
-      "price": "$10",
-      "description": "Coolzey",
-      "eventUrl": "http://www.prekindle.com/event/13559-coolzey-schaffer-the-darklord-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949106277048",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Cody Hibbard",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-10-17",
-      "time": "8:00 PM",
-      "price": "$34",
-      "description": "Cody Hibbard",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/cody-hibbard-17-oct",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a1dd205ef8c356c0848f678_Cody_Hibbard_-_Promo_%2528Photo_Cred__Brooke_Stevens%2529.jpeg",
-      "dateAdded": "2026-06-25"
-    },
-    {
-      "title": "Tristan Roberson",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-10-17",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949083947420",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949083940150",
-      "dateAdded": "2026-07-21"
-    },
-    {
-      "title": "The Gringos",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-10-17",
-      "time": "8:00 PM",
-      "price": "$4–$75",
-      "description": "The Gringos, Easier",
-      "eventUrl": "http://www.prekindle.com/event/78345-the-gringos-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949105598367",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "First Train To Tulsa Night Two",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-10-17",
-      "time": "6:00 PM",
-      "price": "$18 adv / $20 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=37988",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37988-96b65867e1e92b6f2c5e545c26b01690.png",
-      "dateAdded": "2026-03-18"
-    },
-    {
-      "title": "BILLY IRWIN & THE GAMBITS  /  /  PATRICK NEWKIRK",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-17",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948995721564",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995720878",
-      "dateAdded": "2026-10-02"
-    },
     {
       "title": "With A Vengeance",
       "venue": "89th Street OKC",
@@ -373,20 +259,6 @@
       "dateAdded": "2026-09-19"
     },
     {
-      "title": "Prof",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-22",
-      "time": null,
-      "price": "$28–$45",
-      "description": "Prof, Norman Sann, Khantrast, Willie Wonka",
-      "eventUrl": "http://www.prekindle.com/event/46835-prof-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085074535",
-      "dateAdded": "2026-07-21"
-    },
-    {
       "title": "Culture Wars",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -399,6 +271,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990002013",
       "dateAdded": "2026-10-07"
+    },
+    {
+      "title": "Prof",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-22",
+      "time": null,
+      "price": "$28–$45",
+      "description": "Prof, Norman Sann, Khantrast, Willie Wonka",
+      "eventUrl": "http://www.prekindle.com/event/46835-prof-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085074535",
+      "dateAdded": "2026-07-21"
     },
     {
       "title": "The Removers | Echo Dagger | Caregiver to a Monster",
@@ -4303,6 +4189,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990023417",
       "dateAdded": "2026-10-07"
+    },
+    {
+      "title": "Adelitas Way",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2027-02-26",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "Home School Valedictorian\nwith Special Guests  Magdalen Rose, Scarhaven & More TBA\nDoors @ 6:30PM / Show @ 7:00PM \nGeneral Admission Standing / All Ages (*special guests are subject to change)",
+      "eventUrl": "https://www.ticketstorm.com/event/adelitaswayhomeschoolvaledictorian/89thstreetokc/oklahomacity/33246/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_545cf1b16ddb4230be8b9c3f9f082c65~mv2.jpg",
+      "dateAdded": "2026-10-18"
     },
     {
       "title": "DUSTY SLAY: THE NEIGHBORHOOD GUY TOUR",
