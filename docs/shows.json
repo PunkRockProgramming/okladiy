@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T10:45:25.616Z",
+  "lastUpdated": "2026-10-18T19:46:53.754Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1349,6 +1349,22 @@
       "dateAdded": "2026-09-29"
     },
     {
+      "title": "Sessions: Open Stage",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-04",
+      "time": "6:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39773",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39773-6fc8f2db66070b396b25401853125458.jpeg",
+      "dateAdded": "2026-10-18"
+    },
+    {
       "title": "trsh - Gone Fishin' Tour",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1913,6 +1929,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-10-01"
+    },
+    {
+      "title": "Sessions: Groove Night",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-11",
+      "time": "6:00 PM",
+      "price": "Free",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39774",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39774-598a3f71bd6c14d13e172ca81ca1ec80.jpeg",
+      "dateAdded": "2026-10-18"
     },
     {
       "title": "Big Bill | The Ugly Cowboys | Diet Riot",
