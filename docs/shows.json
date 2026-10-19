@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T12:44:50.238Z",
+  "lastUpdated": "2026-10-19T21:47:54.833Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -23,7 +23,7 @@
       "date": "2026-10-20",
       "time": "8:00 PM",
       "price": "$34",
-      "description": "Blaze Ya Dead Homie, ABK, Bake Lo, SP@D3Z, Kymera, 86LEO, Easer",
+      "description": "Blaze Ya Dead Homie, ABK, Bake Lo, SP@D3Z, Kymera, 86LEO",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/blaze-ya-dead-homie-abk-20-oct",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -475,7 +475,7 @@
       "date": "2026-10-24",
       "time": "7:30 PM",
       "price": "$20–$75",
-      "description": "Boundaries, Buried In Spring",
+      "description": "Boundaries, Buried In Spring, Blind",
       "eventUrl": "http://www.prekindle.com/event/18995-boundaries-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -569,7 +569,7 @@
       "dateAdded": "2026-06-30"
     },
     {
-      "title": "Big Sandy and his Flyrite Boys with special guest JD McPherson",
+      "title": "Big Sandy and his Flyrite Boys with special guest DJ JD McPherson",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-10-25",
@@ -580,7 +580,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948974802304",
-      "dateAdded": "2026-10-17"
+      "dateAdded": "2026-10-19"
     },
     {
       "title": "Electric Tongues",
@@ -1140,7 +1140,7 @@
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-11-01",
       "time": "4:00 PM",
-      "price": "$10 adv / $15 door",
+      "price": "Free",
       "description": null,
       "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39642",
       "ageLimit": "21 & Over",
@@ -3333,7 +3333,7 @@
       "eventUrl": "http://www.prekindle.com/event/69878-front-porch-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/531433528402702191",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971785147",
       "dateAdded": "2026-10-08"
     },
     {
@@ -4095,6 +4095,20 @@
       "dateAdded": "2026-10-14"
     },
     {
+      "title": "Badfish – A Tribute To Sublime",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-02-17",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/96078799/badfish-a-tribute-to-sublime-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-19"
+    },
+    {
       "title": "Willi Carlisle - Golden Dragon Buffet Tour",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -4512,7 +4526,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-04-03",
       "time": null,
-      "price": null,
+      "price": "$30–$125",
       "description": "Fonseca",
       "eventUrl": "http://www.prekindle.com/event/17536-fonseca-oklahoma-city",
       "ageLimit": null,
