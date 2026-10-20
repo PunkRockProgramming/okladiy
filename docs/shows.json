@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-10-19T21:47:54.833Z",
+  "lastUpdated": "2026-10-20T11:15:55.097Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Pons | Balcony | Madame Zeroni",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-10-19",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/71995-pons-balcony-madame-zeroni-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948982294366",
-      "dateAdded": "2026-10-13"
-    },
     {
       "title": "Blaze Ya Dead Homie & ABK",
       "venue": "The Vanguard",
@@ -1705,6 +1691,20 @@
       "dateAdded": "2026-08-25"
     },
     {
+      "title": "DESTROYER DESTROYER",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-11-09",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "DESTROYER DESTROYER\nw/ special guests Mary Mortem, Palefade, & And In The Darkness I Was Free\nDoors @ 6PM / Show @ 7PM\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/56418028/destroyer-destroyer-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ecb122a607914f0384a233976e4c55f6~mv2.jpg",
+      "dateAdded": "2026-10-20"
+    },
+    {
       "title": "The Surfrajettes",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2853,6 +2853,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949078955476",
       "dateAdded": "2026-07-28"
+    },
+    {
+      "title": "A Skylit Drive",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-12-03",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "Support TBA\nGeneral Admission Standing / All Ages Welcome",
+      "eventUrl": "https://www.ticketstorm.com/event/askylitdriveokc/89thstreetokc/oklahomacity/33326/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_8fa6b304818840b2be9eef85a9d77ecc~mv2.jpg",
+      "dateAdded": "2026-10-20"
     },
     {
       "title": "Scott H. Biram",
@@ -4163,20 +4177,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990023417",
       "dateAdded": "2026-10-07"
-    },
-    {
-      "title": "Adelitas Way",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2027-02-26",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Home School Valedictorian\nwith Special Guests  Magdalen Rose, Scarhaven & More TBA\nDoors @ 6:30PM / Show @ 7:00PM \nGeneral Admission Standing / All Ages (*special guests are subject to change)",
-      "eventUrl": "https://www.ticketstorm.com/event/adelitaswayhomeschoolvaledictorian/89thstreetokc/oklahomacity/33246/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_545cf1b16ddb4230be8b9c3f9f082c65~mv2.jpg",
-      "dateAdded": "2026-10-18"
     },
     {
       "title": "DUSTY SLAY: THE NEIGHBORHOOD GUY TOUR",
