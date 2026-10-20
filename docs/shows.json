@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T11:15:55.097Z",
+  "lastUpdated": "2026-10-20T20:57:42.179Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1567,7 +1567,7 @@
       "date": "2026-11-07",
       "time": null,
       "price": "$18",
-      "description": "Upon Your Dead Body, Identity Crisis",
+      "description": "Upon Your Dead Body, Identity Crisis, Fighting Sleep",
       "eventUrl": "http://www.prekindle.com/event/69717-upon-your-dead-body-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2080,7 +2080,7 @@
       "time": "7:00 PM",
       "price": "$15 adv / $20 door",
       "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39423",
+      "eventUrl": "https://www.tulsashrine.com",
       "ageLimit": "21 & Over",
       "tags": [
         "tulsa"
@@ -2377,11 +2377,11 @@
       "date": "2026-11-20",
       "time": "8:00 PM",
       "price": "$20–$100",
-      "description": "The Wilder Blue",
+      "description": "The Wilder Blue, Ellis Bullard",
       "eventUrl": "http://www.prekindle.com/event/39653-the-wilder-blue-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949055891209",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948970636724",
       "dateAdded": "2026-08-13"
     },
     {
@@ -3193,6 +3193,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034959660",
       "dateAdded": "2026-09-01"
+    },
+    {
+      "title": "Robert Earl Keen – I Will Survive…Christmas",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-12-08",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/88051539/robert-earl-keen-i-will-survivechristmas-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-20"
     },
     {
       "title": "Redferrin",
@@ -4011,6 +4025,20 @@
       "dateAdded": "2026-09-11"
     },
     {
+      "title": "Sadurn",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-02-02",
+      "time": null,
+      "price": "$18",
+      "description": "Sadurn",
+      "eventUrl": "http://www.prekindle.com/event/77151-sadurn-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971769236",
+      "dateAdded": "2026-10-20"
+    },
+    {
       "title": "ALLEYCVT - Beginning of Forever Tour",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4179,6 +4207,34 @@
       "dateAdded": "2026-10-07"
     },
     {
+      "title": "Michael Blaustein: Meet & Greet Upgrade",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-02-26",
+      "time": null,
+      "price": "$50",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/55469-michael-blaustein-meet-and-greet-upgrade-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948972031229",
+      "dateAdded": "2026-10-20"
+    },
+    {
+      "title": "Michael Blaustein: Bad Bad Boy",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-02-26",
+      "time": null,
+      "price": null,
+      "description": "Michael Blaustein",
+      "eventUrl": "http://www.prekindle.com/event/25493-michael-blaustein-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971063273",
+      "dateAdded": "2026-10-20"
+    },
+    {
       "title": "DUSTY SLAY: THE NEIGHBORHOOD GUY TOUR",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4233,6 +4289,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949017716805",
       "dateAdded": "2026-09-15"
+    },
+    {
+      "title": "Daniel Donato’s Cosmic Country",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-03-02",
+      "time": null,
+      "price": "$25–$50",
+      "description": "Daniel Donato’s Cosmic Country",
+      "eventUrl": "http://www.prekindle.com/event/47122-daniel-donatos-cosmic-country-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948978593818",
+      "dateAdded": "2026-10-20"
     },
     {
       "title": "Wheeler Walker Jr. – Pullin’ Out: The Farewell Tour",
@@ -4335,6 +4405,20 @@
       "dateAdded": "2026-10-13"
     },
     {
+      "title": "EFFIN - Heartbeats Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-03-11",
+      "time": null,
+      "price": "$20–$50",
+      "description": "Effin, Nikita, The Wicked, Aych",
+      "eventUrl": "http://www.prekindle.com/event/89956-effin-heartbeats-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981336009",
+      "dateAdded": "2026-10-20"
+    },
+    {
       "title": "Jeff Arcuri: The Road Trip Tour",
       "venue": "Tulsa Theater",
       "venueUrl": "https://tulsatheater.com",
@@ -4347,6 +4431,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-22"
+    },
+    {
+      "title": "Eric Andre: Subtle",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-03-14",
+      "time": null,
+      "price": null,
+      "description": "Eric Andre",
+      "eventUrl": "http://www.prekindle.com/event/84389-eric-andre-subtle-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971064478",
+      "dateAdded": "2026-10-20"
     },
     {
       "title": "Mamma Mania!",
@@ -4705,6 +4803,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007937538",
       "dateAdded": "2026-09-22"
+    },
+    {
+      "title": "Little Feat: The Last Farewell Tour",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-05-07",
+      "time": null,
+      "price": null,
+      "description": "Little Feat",
+      "eventUrl": "http://www.prekindle.com/event/96767-little-feat-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971062562",
+      "dateAdded": "2026-10-20"
     },
     {
       "title": "Remi Wolf",
