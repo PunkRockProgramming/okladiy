@@ -1,86 +1,14 @@
 {
-  "lastUpdated": "2026-10-20T20:57:42.179Z",
+  "lastUpdated": "2026-10-21T11:31:54.498Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Blaze Ya Dead Homie & ABK",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-10-20",
-      "time": "8:00 PM",
-      "price": "$34",
-      "description": "Blaze Ya Dead Homie, ABK, Bake Lo, SP@D3Z, Kymera, 86LEO",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/blaze-ya-dead-homie-abk-20-oct",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a6a212db5f78d0cff4205e7_Blaze---Dead-Serious-Tour-16x9_local.jpeg",
-      "dateAdded": "2026-07-29"
-    },
-    {
-      "title": "PONS",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-10-20",
-      "time": null,
-      "price": "$12",
-      "description": "Pons, Emma Goldman Sachs, Psychic Baths",
-      "eventUrl": "http://www.prekindle.com/event/52147-pons-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038240291",
-      "dateAdded": "2026-08-26"
-    },
-    {
-      "title": "NBA Watch Party",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-10-20",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/59755-nba-watch-party-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948983789461",
-      "dateAdded": "2026-10-12"
-    },
-    {
-      "title": "Chasen Wayne & The Honky Tonk Machine",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-10-20",
-      "time": "7:00 PM",
-      "price": "$7 adv / $10 door",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39352",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39352-0fbb708ddc299273315ee88bae58f474.jpeg",
-      "dateAdded": "2026-08-15"
-    },
-    {
-      "title": "TRIVIA TUESDAY",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-20",
-      "time": "7:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949100851520",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948991895397",
-      "dateAdded": "2026-10-01"
-    },
     {
       "title": "Medium Build Presents The King of Having Fun on Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-21",
       "time": null,
-      "price": "$19–$58",
+      "price": "$31–$58",
       "description": "Medium Build, Bella White",
       "eventUrl": "http://www.prekindle.com/event/61618-medium-build-presents-the-king-of-having-fun-on-tour-oklahoma-city",
       "ageLimit": null,
@@ -672,7 +600,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-28",
       "time": null,
-      "price": "$12–$178",
+      "price": "$12–$57",
       "description": "Madeon, Anamanaguchi",
       "eventUrl": "http://www.prekindle.com/event/53178-madeon-oklahoma-city",
       "ageLimit": null,
@@ -1915,6 +1843,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949065204578",
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "Austin meets OKC: Tobias Lund @ Resonant Head",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-12",
+      "time": null,
+      "price": "$15",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/82486-austin-meets-okc-tobias-lund-at-resonant-head-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948970593202",
+      "dateAdded": "2026-10-21"
     },
     {
       "title": "Thundercat: Distracted AF Tour",
@@ -4207,20 +4149,6 @@
       "dateAdded": "2026-10-07"
     },
     {
-      "title": "Michael Blaustein: Meet & Greet Upgrade",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2027-02-26",
-      "time": null,
-      "price": "$50",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/55469-michael-blaustein-meet-and-greet-upgrade-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948972031229",
-      "dateAdded": "2026-10-20"
-    },
-    {
       "title": "Michael Blaustein: Bad Bad Boy",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4232,6 +4160,20 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971063273",
+      "dateAdded": "2026-10-20"
+    },
+    {
+      "title": "Michael Blaustein: Meet & Greet Upgrade",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-02-26",
+      "time": null,
+      "price": "$50",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/55469-michael-blaustein-meet-and-greet-upgrade-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948972031229",
       "dateAdded": "2026-10-20"
     },
     {
