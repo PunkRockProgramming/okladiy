@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T11:31:54.498Z",
+  "lastUpdated": "2026-10-21T20:58:09.367Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -101,20 +101,6 @@
       "dateAdded": "2026-09-19"
     },
     {
-      "title": "Culture Wars",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-22",
-      "time": null,
-      "price": null,
-      "description": "Culture Wars, Softly",
-      "eventUrl": "http://www.prekindle.com/event/74479-culture-wars-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990002013",
-      "dateAdded": "2026-10-07"
-    },
-    {
       "title": "Prof",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -127,6 +113,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085074535",
       "dateAdded": "2026-07-21"
+    },
+    {
+      "title": "Culture Wars",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-22",
+      "time": null,
+      "price": null,
+      "description": "Culture Wars, Softly",
+      "eventUrl": "http://www.prekindle.com/event/74479-culture-wars-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990002013",
+      "dateAdded": "2026-10-07"
     },
     {
       "title": "The Removers | Echo Dagger | Caregiver to a Monster",
@@ -1851,7 +1851,7 @@
       "date": "2026-11-12",
       "time": null,
       "price": "$15",
-      "description": null,
+      "description": "Tobias Lund, Karsen Veazey, Lauren Rose, Greyson Turner",
       "eventUrl": "http://www.prekindle.com/event/82486-austin-meets-okc-tobias-lund-at-resonant-head-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2418,7 +2418,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-21",
       "time": "8:00 PM",
-      "price": "$18",
+      "price": "$18–$75",
       "description": "Cole Phillips",
       "eventUrl": "http://www.prekindle.com/event/86226-cole-phillips-oklahoma-city",
       "ageLimit": null,
@@ -2909,6 +2909,20 @@
       "dateAdded": "2026-07-08"
     },
     {
+      "title": "Ben Quad",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-12-05",
+      "time": null,
+      "price": "$23–$57",
+      "description": "Ben Quad, February, Riley!, Garden Ants",
+      "eventUrl": "http://www.prekindle.com/event/54429-ben-quad-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948970960637",
+      "dateAdded": "2026-10-21"
+    },
+    {
       "title": "Catch Your Breath",
       "venue": "Diamond Ballroom",
       "venueUrl": "https://www.diamondballroom.com",
@@ -2963,6 +2977,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948991053023",
       "dateAdded": "2026-10-07"
+    },
+    {
+      "title": "Nuns with Net & The Nghiems",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-12-05",
+      "time": null,
+      "price": "$15",
+      "description": "Nuns, Net, The Nghiems",
+      "eventUrl": "http://www.prekindle.com/event/48525-nuns-with-net-and-the-nghiems-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948968929264",
+      "dateAdded": "2026-10-21"
     },
     {
       "title": "Yolanda Del Rio",
@@ -3193,6 +3221,20 @@
       "dateAdded": "2026-10-09"
     },
     {
+      "title": "Michael Carbonaro",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-12-10",
+      "time": null,
+      "price": null,
+      "description": "Michael Carbonaro",
+      "eventUrl": "http://www.prekindle.com/event/17568-michael-carbonaro-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948969619138",
+      "dateAdded": "2026-10-21"
+    },
+    {
       "title": "Wade Forster",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -3235,6 +3277,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949149471864",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Amigo the Devil [SOLO] w /  support from Nate Bergman",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-12-11",
+      "time": "8:00 PM",
+      "price": "$35–$75",
+      "description": "Amigo the Devil, Nate Bergman",
+      "eventUrl": "http://www.prekindle.com/event/66897-amigo-the-devil-with-support-from-nate-bergman-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948980605318",
+      "dateAdded": "2026-10-21"
     },
     {
       "title": "semiwestern with special guests",
@@ -3799,7 +3855,7 @@
       "date": "2027-01-22",
       "time": "8:00 PM",
       "price": "$20–$75",
-      "description": "Grady Spencer & The Vegabonds",
+      "description": "Grady Spencer & The Vegabonds, Jared Deck",
       "eventUrl": "http://www.prekindle.com/event/55492-grady-spencer-and-the-vegabonds-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3921,6 +3977,20 @@
       "tags": [],
       "imageUrl": "https://diamondballroom.com/wp-content/uploads/2026/07/dad-rock-night.jpeg",
       "dateAdded": "2026-07-01"
+    },
+    {
+      "title": "Mania: The ABBA Tribute",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-01-30",
+      "time": null,
+      "price": "$25–$60",
+      "description": "Mania: The ABBA Tribute",
+      "eventUrl": "http://www.prekindle.com/event/67149-mania-the-abba-tribute-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948972043432",
+      "dateAdded": "2026-10-21"
     },
     {
       "title": "Eddie 9V",
@@ -4154,7 +4224,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-02-26",
       "time": null,
-      "price": null,
+      "price": "$30–$99",
       "description": "Michael Blaustein",
       "eventUrl": "http://www.prekindle.com/event/25493-michael-blaustein-oklahoma-city",
       "ageLimit": null,
@@ -4259,6 +4329,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-08-11"
+    },
+    {
+      "title": "Alt Bloom & Doublecamp",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-03-03",
+      "time": null,
+      "price": "$20",
+      "description": "Alt Bloom, Doublecamp",
+      "eventUrl": "http://www.prekindle.com/event/67518-alt-bloom-and-doublecamp-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948978422283",
+      "dateAdded": "2026-10-21"
     },
     {
       "title": "MICO - IN:BETWEEN TOUR",
@@ -4380,7 +4464,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-03-14",
       "time": null,
-      "price": null,
+      "price": "$25–$95",
       "description": "Eric Andre",
       "eventUrl": "http://www.prekindle.com/event/84389-eric-andre-subtle-oklahoma-city",
       "ageLimit": null,
@@ -4752,7 +4836,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-05-07",
       "time": null,
-      "price": null,
+      "price": "$25–$380",
       "description": "Little Feat",
       "eventUrl": "http://www.prekindle.com/event/96767-little-feat-oklahoma-city",
       "ageLimit": null,
