@@ -1,91 +1,7 @@
 {
-  "lastUpdated": "2026-10-21T20:58:09.367Z",
+  "lastUpdated": "2026-10-22T11:32:03.244Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Medium Build Presents The King of Having Fun on Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-21",
-      "time": null,
-      "price": "$31–$58",
-      "description": "Medium Build, Bella White",
-      "eventUrl": "http://www.prekindle.com/event/61618-medium-build-presents-the-king-of-having-fun-on-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949114702909",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Sarmat | Dischordia | Ivory Tusk",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-10-21",
-      "time": null,
-      "price": "$15",
-      "description": "Sarmat",
-      "eventUrl": "http://www.prekindle.com/event/75382-sarmat-dischordia-ivory-tusk-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948998483328",
-      "dateAdded": "2026-09-29"
-    },
-    {
-      "title": "Kyle Hume",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-10-21",
-      "time": "8:00 PM",
-      "price": "$34 to $92",
-      "description": "Kyle Hume, sammy rash",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/kyle-hume-21-oct",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69c1b7f2d1a5bfe135a2b089_Kyle_Hume_US_1200_X_628_-_Tulsa.jpeg",
-      "dateAdded": "2026-03-24"
-    },
-    {
-      "title": "Bonnie Whitmore & the Sad Girls with special guest Kalyn Fay",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-10-21",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001967253",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001961633",
-      "dateAdded": "2026-10-15"
-    },
-    {
-      "title": "Ak'chamel",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-10-21",
-      "time": null,
-      "price": "$18",
-      "description": "Ak'chamel, OAF",
-      "eventUrl": "http://www.prekindle.com/event/53446-akchamel-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949133802287",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "#WASTEDHOURS ft. THEMBI JOY",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-21",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948997315793",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948993118487",
-      "dateAdded": "2026-10-02"
-    },
     {
       "title": "Improvement Movement",
       "venue": "89th Street OKC",
@@ -101,20 +17,6 @@
       "dateAdded": "2026-09-19"
     },
     {
-      "title": "Prof",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-22",
-      "time": null,
-      "price": "$28–$45",
-      "description": "Prof, Norman Sann, Khantrast, Willie Wonka",
-      "eventUrl": "http://www.prekindle.com/event/46835-prof-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085074535",
-      "dateAdded": "2026-07-21"
-    },
-    {
       "title": "Culture Wars",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -127,6 +29,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990002013",
       "dateAdded": "2026-10-07"
+    },
+    {
+      "title": "Prof",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-10-22",
+      "time": null,
+      "price": "$28–$45",
+      "description": "Prof, Norman Sann, Khantrast, Willie Wonka",
+      "eventUrl": "http://www.prekindle.com/event/46835-prof-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949085074535",
+      "dateAdded": "2026-07-21"
     },
     {
       "title": "The Removers | Echo Dagger | Caregiver to a Monster",
@@ -148,7 +64,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-22",
       "time": "8:00 PM",
-      "price": "$24",
+      "price": "$28",
       "description": "Authority Zero, Counterpunch, MERLINMASON",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/authority-zero-apocalyptour-2026-with-special-guests-counterpunch-22-oct",
       "ageLimit": "ALL AGES",
@@ -3761,6 +3677,20 @@
       "dateAdded": "2026-10-15"
     },
     {
+      "title": "Wes Hoffman & Friends",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2027-01-13",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "WES HOFFMAN & FRIENDS\nw/ special guests Daychaser and Lunar Division\nDoors @ 7PM / Show @ 7:30PM\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/69108491/wes-hoffman-friends-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_e1bd65194e984e16aeff7221741f5373~mv2.jpg",
+      "dateAdded": "2026-10-22"
+    },
+    {
       "title": "Gianmarco Soresi",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
@@ -3949,20 +3879,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995063374",
       "dateAdded": "2026-10-07"
-    },
-    {
-      "title": "KPOP WINTER WONDERLAND (18+)",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2027-01-29",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "KPOP WINTER WONDERLAND \n** 18+ ONLY\nDoors @ 7PM / Show @ 7:30PM\nGeneral Admission Standing - Ages 18+ \n\nDance All Night To Your Fav. Hits From BTS, BLACKPINK, ATEEZ, STRAY KIDS, NCT, TWICE, & MORE!",
-      "eventUrl": "https://www.etix.com/ticket/p/94399463/k-pop-after-dark-oklahoma-city-89th-street",
-      "ageLimit": "All ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_1d297208154a477eb4566d834b56aad3~mv2.jpg",
-      "dateAdded": "2026-10-16"
     },
     {
       "title": "Dad Rock Night",
