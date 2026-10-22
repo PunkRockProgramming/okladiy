@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T11:32:03.244Z",
+  "lastUpdated": "2026-10-22T20:55:37.730Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -1291,7 +1291,7 @@
       "dateAdded": "2026-09-11"
     },
     {
-      "title": "Noah Gunderson",
+      "title": "Noah Gundersen",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-11-06",
@@ -1302,7 +1302,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949145264458",
-      "dateAdded": "2026-07-16"
+      "dateAdded": "2026-10-22"
     },
     {
       "title": "Underoath - Define the Great Line 20th Anniversary Tour",
@@ -3142,7 +3142,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-10",
       "time": null,
-      "price": null,
+      "price": "$15–$155",
       "description": "Michael Carbonaro",
       "eventUrl": "http://www.prekindle.com/event/17568-michael-carbonaro-oklahoma-city",
       "ageLimit": null,
@@ -3683,7 +3683,7 @@
       "date": "2027-01-13",
       "time": "7:00 PM",
       "price": null,
-      "description": "WES HOFFMAN & FRIENDS\nw/ special guests Daychaser and Lunar Division\nDoors @ 7PM / Show @ 7:30PM\nGeneral Admission Standing / All Ages",
+      "description": "WES HOFFMAN & FRIENDS\nw/ special guests Daychaser, Lunar Division, & A Date With Iris\nDoors @ 7PM / Show @ 7:30PM\nGeneral Admission Standing / All Ages",
       "eventUrl": "https://www.etix.com/ticket/p/69108491/wes-hoffman-friends-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -4093,6 +4093,20 @@
       "dateAdded": "2026-10-02"
     },
     {
+      "title": "Tate Butts",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2027-02-19",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "Tate Butts",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/tate-butts-19-feb",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ada229e85debd968d3dd464_Tate_Photo_2.jpeg",
+      "dateAdded": "2026-10-22"
+    },
+    {
       "title": "Public Image Ltd - THIS IS NOT THE LAST TOUR",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -4252,7 +4266,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2027-03-03",
       "time": null,
-      "price": "$20",
+      "price": "$20–$70",
       "description": "Alt Bloom, Doublecamp",
       "eventUrl": "http://www.prekindle.com/event/67518-alt-bloom-and-doublecamp-oklahoma-city",
       "ageLimit": null,
