@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-10-23T11:21:17.914Z",
+  "lastUpdated": "2026-10-23T20:43:25.743Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Improvement Movement",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-22",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "DCF Concerts Presents\nIMPROVEMENT MOVEMENT\nwith Special Guest Jalen Reyes & OAF\nDoors @ 7PM / Show @ 7:30PM\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)",
-      "eventUrl": "https://www.etix.com/ticket/p/41329017/improvement-movement-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_d0a1786f481b499980ce341c27690660~mv2.jpg",
-      "dateAdded": "2026-09-19"
-    },
     {
       "title": "The Inspector Cluzo",
       "venue": "89th Street OKC",
@@ -201,7 +187,7 @@
       "dateAdded": "2026-10-15"
     },
     {
-      "title": "The Bobby Lees & ÖOF TATATÁ",
+      "title": "LOW TICKETS The Bobby Lees & ÖOF TATATÁ",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-24",
@@ -212,7 +198,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a10c62ccf458eec7712a512_bobby_lees.jpeg",
-      "dateAdded": "2026-10-12"
+      "dateAdded": "2026-10-23"
     },
     {
       "title": "Boundaries",
@@ -1039,6 +1025,20 @@
       "dateAdded": "2026-10-18"
     },
     {
+      "title": "Red Kate | Buffalo Shivers | RR Williams | Fat Dracula",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-11-05",
+      "time": null,
+      "price": "$10",
+      "description": "Red Kate",
+      "eventUrl": "http://www.prekindle.com/event/76314-red-kate-buffalo-shivers-rr-williams-fat-dracula-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948966314156",
+      "dateAdded": "2026-10-23"
+    },
+    {
       "title": "trsh - Gone Fishin' Tour",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1463,20 +1463,6 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_ecb122a607914f0384a233976e4c55f6~mv2.jpg",
       "dateAdded": "2026-10-20"
-    },
-    {
-      "title": "The Surfrajettes",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-11-09",
-      "time": null,
-      "price": "$20",
-      "description": "The Surfrajettes, Strawberry '66",
-      "eventUrl": "http://www.prekindle.com/event/18574-the-surfrajettes-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034865733",
-      "dateAdded": "2026-09-01"
     },
     {
       "title": "BOSKO BAKER & CLYDE MCGEE (of Bridge City Sinners)",
@@ -2403,7 +2389,7 @@
       "dateAdded": "2026-10-02"
     },
     {
-      "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
+      "title": "LOW TICKETS Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-24",
@@ -2414,7 +2400,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69b1a572cfeb3ad69b05bdf2_HH_Promo_2026.jpeg",
-      "dateAdded": "2026-03-19"
+      "dateAdded": "2026-10-23"
     },
     {
       "title": "Silverstein & Story Of The Year: CAMP SCREAMO TOUR",
@@ -2699,6 +2685,20 @@
       "dateAdded": "2026-09-30"
     },
     {
+      "title": "Black Belt Eagle Scout & Mato Wayuhi - The Black Bear Tour",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-12-04",
+      "time": "8:00 PM",
+      "price": "$28",
+      "description": "Black Belt Eagle Scout, Mato Wayuhi, Sierra Spirit",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/black-belt-eagle-scout-mato-wayuhi-04-dec",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6adb822f67c108708371371a_BLACK_BEAR_TOUR_square_POSTER_1.jpeg",
+      "dateAdded": "2026-10-23"
+    },
+    {
       "title": "Twen",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2975,11 +2975,11 @@
       "date": "2026-12-08",
       "time": "8:00 PM",
       "price": "$25–$75",
-      "description": "Josiah and the Bonnevilles",
+      "description": "Josiah and the Bonnevilles, Keyland",
       "eventUrl": "http://www.prekindle.com/event/49394-josiah-and-the-bonnevilles-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949017689326",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948966286698",
       "dateAdded": "2026-09-15"
     },
     {
@@ -3058,7 +3058,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-10",
       "time": null,
-      "price": null,
+      "price": "$15–$155",
       "description": "Michael Carbonaro",
       "eventUrl": "http://www.prekindle.com/event/17568-michael-carbonaro-oklahoma-city",
       "ageLimit": null,
@@ -3307,6 +3307,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003786855",
       "dateAdded": "2026-09-28"
+    },
+    {
+      "title": "Arkansauce",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-12-17",
+      "time": "8:00 PM",
+      "price": "$34",
+      "description": "Arkansauce",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/arkansauce-17-dec",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6aad72c6e65890b887ee4817_Photo_Jan_01_2022__12_13_12_AM.jpeg",
+      "dateAdded": "2026-10-23"
     },
     {
       "title": "Grupo Duelo - Gravedad US Tour 2026",
@@ -3789,12 +3803,26 @@
       "date": "2027-01-26",
       "time": null,
       "price": "$20",
-      "description": "Liam St. John",
+      "description": "Liam St. John, Izzy Mahoubi",
       "eventUrl": "http://www.prekindle.com/event/48167-liam-st-john-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995063374",
       "dateAdded": "2026-10-07"
+    },
+    {
+      "title": "KPOP WINTER WONDERLAND (18+)",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2027-01-29",
+      "time": "7:00 PM",
+      "price": null,
+      "description": "KPOP WINTER WONDERLAND \n** 18+ ONLY\nDoors @ 7PM / Show @ 7:30PM\nGeneral Admission Standing - Ages 18+ \n\nDance All Night To Your Fav. Hits From BTS, BLACKPINK, ATEEZ, STRAY KIDS, NCT, TWICE, & MORE!",
+      "eventUrl": "https://www.etix.com/ticket/p/94399463/k-pop-after-dark-oklahoma-city-89th-street",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_1d297208154a477eb4566d834b56aad3~mv2.jpg",
+      "dateAdded": "2026-10-23"
     },
     {
       "title": "Dad Rock Night",
@@ -4014,7 +4042,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2027-02-19",
       "time": "6:30 PM",
-      "price": null,
+      "price": "$34 to $155",
       "description": "Tate Butts",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/tate-butts-19-feb",
       "ageLimit": "ALL AGES",
@@ -4070,7 +4098,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-02-26",
       "time": null,
-      "price": null,
+      "price": "$30–$99",
       "description": "Michael Blaustein",
       "eventUrl": "http://www.prekindle.com/event/25493-michael-blaustein-oklahoma-city",
       "ageLimit": null,
@@ -4154,7 +4182,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2027-03-02",
       "time": null,
-      "price": "$30",
+      "price": "$25–$50",
       "description": "Daniel Donato’s Cosmic Country",
       "eventUrl": "http://www.prekindle.com/event/47122-daniel-donatos-cosmic-country-oklahoma-city",
       "ageLimit": null,
@@ -4310,7 +4338,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-03-14",
       "time": null,
-      "price": null,
+      "price": "$25–$95",
       "description": "Eric Andre",
       "eventUrl": "http://www.prekindle.com/event/84389-eric-andre-subtle-oklahoma-city",
       "ageLimit": null,
@@ -4682,7 +4710,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-05-07",
       "time": null,
-      "price": "$150–$380",
+      "price": "$25–$380",
       "description": "Little Feat",
       "eventUrl": "http://www.prekindle.com/event/96767-little-feat-oklahoma-city",
       "ageLimit": null,
