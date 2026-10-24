@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T10:40:42.605Z",
+  "lastUpdated": "2026-10-24T19:54:45.324Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -69,7 +69,7 @@
       "eventUrl": "https://www.prekindle.com/promo/id/-2852527948965760803",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/24898849038183634",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948965226076",
       "dateAdded": "2026-10-24"
     },
     {
@@ -171,6 +171,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a42816fc4461d3878aaa54b_CARLA_1920X1080_credit_Mike_Stone_%2528_musicfrommypov_on_IG%2529.jpeg",
       "dateAdded": "2026-06-30"
+    },
+    {
+      "title": "Johnny Mullenax's Bluegrass Brunch",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-25",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948965215565",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948965215547",
+      "dateAdded": "2026-10-24"
     },
     {
       "title": "Big Sandy and his Flyrite Boys with special guest DJ JD McPherson",
@@ -2187,6 +2201,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949021993872",
       "dateAdded": "2026-09-11"
+    },
+    {
+      "title": "In My Defense & Adjacent to the Fall & Fighting Sleep & A Wish That Lasts & Alligator Exhibit",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-11-22",
+      "time": "6:30 PM",
+      "price": "$15",
+      "description": "In My Defense, Adjacent to the Fall, Fighting Sleep, A Wish That Lasts, Alligator Exhibit",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/in-my-defense-adjacent-to-the-fall-fighting-sleep-a-wish-that-lasts-alligator-exhibit-22-nov",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6adba55a5c937ec7e08f0502_imd.jpeg",
+      "dateAdded": "2026-10-24"
     },
     {
       "title": "Nick Shoulders - Apocalypse, Never! Tour",
