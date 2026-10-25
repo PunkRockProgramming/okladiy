@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T11:05:13.660Z",
+  "lastUpdated": "2026-10-25T20:05:09.849Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -509,6 +509,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0b45aa4d66c8a839b2c5ef_RedStripes2026_Vanguard_2x1.jpeg",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "title": "Halloween at Mercury Lounge with Amber Watson, The Sticky Finger Band, and The Gremlins",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-10-31",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948964519155",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948964518566",
+      "dateAdded": "2026-10-25"
     },
     {
       "title": "SOUSE",
@@ -1035,6 +1049,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ac917b75c869870e7938fb5_DMS.jpeg",
       "dateAdded": "2026-10-09"
+    },
+    {
+      "title": "The Teague Brothers",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-11-07",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948964516163",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948964515993",
+      "dateAdded": "2026-10-25"
     },
     {
       "title": "Blisspop Presents: Can't Feel My Face: 2010s Dance Party",
@@ -1621,6 +1649,20 @@
       "dateAdded": "2026-09-18"
     },
     {
+      "title": "Dallas Burrow",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-11-14",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948964514113",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948964513601",
+      "dateAdded": "2026-10-25"
+    },
+    {
       "title": "Paige Fish on tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -1861,6 +1903,20 @@
       "dateAdded": "2026-08-17"
     },
     {
+      "title": "Keyland",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-11-20",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948964512546",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948964512144",
+      "dateAdded": "2026-10-25"
+    },
+    {
       "title": "The Wilder Blue",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2047,7 +2103,7 @@
       "dateAdded": "2026-09-11"
     },
     {
-      "title": "In My Defense & Adjacent to the Fall & Fighting Sleep & A Wish That Lasts & Alligator Exhibit",
+      "title": "In My Defense Single Release Party",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-22",
@@ -2058,7 +2114,7 @@
       "ageLimit": "ALL AGES",
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6adba55a5c937ec7e08f0502_imd.jpeg",
-      "dateAdded": "2026-10-24"
+      "dateAdded": "2026-10-25"
     },
     {
       "title": "Nick Shoulders - Apocalypse, Never! Tour",
