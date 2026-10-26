@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T12:38:57.950Z",
+  "lastUpdated": "2026-10-26T22:09:13.162Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -263,7 +263,7 @@
       "date": "2026-10-30",
       "time": "7:00 PM",
       "price": null,
-      "description": "DCF Concerts Presents\nJED HARRELSON\nGeneral Admission Standing / All Ages\n(*special guests are subject to change)\nDoors 7PM / Show 7:30 PM\n\nVIP Meet & Greet Package \nIncludes:\n-1 GA ticket\n-3 song acoustic set\n-Meet & greet\n-Signed polaroid\n-Skip the merch line before the show",
+      "description": "DCF Concerts Presents\nJED HARRELSON\nwith special guest TBA\nGeneral Admission Standing / All Ages\nDoors 7PM / Show 7:30 PM\n\nVIP Meet & Greet Package \nIncludes:\n-1 GA ticket\n-3 song acoustic set\n-Meet & greet\n-Signed polaroid\n-Skip the merch line before the show",
       "eventUrl": "https://www.etix.com/ticket/p/91082189/jed-harrelson-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -532,7 +532,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-01",
       "time": null,
-      "price": "$30–$237",
+      "price": "$21–$237",
       "description": "Ryan Bingham and the Texas Gentlemen",
       "eventUrl": "http://www.prekindle.com/event/68385-ryan-bingham-oklahoma-city",
       "ageLimit": null,
@@ -555,6 +555,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39642-e4900913b9ed6574be4c7f1a05c94161.jpeg",
       "dateAdded": "2026-09-21"
+    },
+    {
+      "title": "Get Out the Vote Rally with Cyndi Munson & Andy Beshear",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2026-11-02",
+      "time": null,
+      "price": null,
+      "description": "Cyndi Munson, Andy Beshear",
+      "eventUrl": "http://www.prekindle.com/event/89269--oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963731324",
+      "dateAdded": "2026-10-26"
     },
     {
       "title": "The Election Night Show",
@@ -605,7 +619,7 @@
       "date": "2026-11-03",
       "time": null,
       "price": "$17",
-      "description": "The Animeros",
+      "description": "The Animeros, Tanner Fields",
       "eventUrl": "http://www.prekindle.com/event/37283-the-animeros-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -618,7 +632,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-03",
       "time": null,
-      "price": "$25–$114",
+      "price": "$21–$114",
       "description": "Lenny Pearce",
       "eventUrl": "http://www.prekindle.com/event/71721-lenny-pearce-oklahoma-city",
       "ageLimit": null,
@@ -699,6 +713,20 @@
       "dateAdded": "2026-10-18"
     },
     {
+      "title": "THE KRANK DADDIES (rockabilly)  /  /  HIGH GAIN DRIFTERS",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-04",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948963406511",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963405849",
+      "dateAdded": "2026-10-26"
+    },
+    {
       "title": "Red Kate | Buffalo Shivers | RR Williams | Fat Dracula",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -760,7 +788,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-05",
       "time": null,
-      "price": "$60–$500",
+      "price": "$21–$500",
       "description": "Chencho Corleone",
       "eventUrl": "http://www.prekindle.com/event/87875-chencho-corleone-oklahoma-city",
       "ageLimit": null,
@@ -1370,7 +1398,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-12",
       "time": null,
-      "price": "$35–$100",
+      "price": "$21–$100",
       "description": "Thundercat, Blu DeTiger",
       "eventUrl": "http://www.prekindle.com/event/16541-thundercat-oklahoma-city",
       "ageLimit": null,
@@ -1698,7 +1726,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-16",
       "time": null,
-      "price": "$26–$81",
+      "price": "$21–$81",
       "description": "Mannequin Pussy, Wednesday, Snõõper",
       "eventUrl": "http://www.prekindle.com/event/44766-mannequin-pussy-oklahoma-city",
       "ageLimit": null,
@@ -2024,7 +2052,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-11-22",
       "time": null,
-      "price": "$25–$50",
+      "price": "$12–$50",
       "description": "ALOK",
       "eventUrl": "http://www.prekindle.com/event/91191-alok-eat-pray-leave-oklahoma-city",
       "ageLimit": null,
@@ -2138,7 +2166,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-25",
       "time": null,
-      "price": "$35",
+      "price": "$21–$35",
       "description": "Silverstein, Story of the Year, Stand Atlantic, Footballhead",
       "eventUrl": "http://www.prekindle.com/event/89197-silverstein-oklahoma-city",
       "ageLimit": null,
@@ -2259,6 +2287,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/69bf08012b62d1897a35a0cb_STN_May26_Vanguard_2x1.jpeg",
       "dateAdded": "2026-10-09"
+    },
+    {
+      "title": "Blue Simmons EP Release Show",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-11-28",
+      "time": null,
+      "price": "$10",
+      "description": "Blue Simmons, Blake Bricker, Samantha Cooper, Sebby Ellison",
+      "eventUrl": "http://www.prekindle.com/event/17439-blue-simmons-ep-release-show-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963634403",
+      "dateAdded": "2026-10-26"
     },
     {
       "title": "Cancer Sucks Concert featuring Dirty Honey",
@@ -2741,6 +2783,20 @@
       "dateAdded": "2026-10-20"
     },
     {
+      "title": "MARLOWE & MEADE'S Christmas Vacation",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2026-12-09",
+      "time": "7:30 PM",
+      "price": null,
+      "description": "Austin Meade, Dylan Marlowe, Mitchell Ferguson",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/marlowe-meade-s-christmas-vacation-09-dec",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-26"
+    },
+    {
       "title": "Redferrin",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -2781,6 +2837,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948985867318",
       "dateAdded": "2026-10-09"
+    },
+    {
+      "title": "MARLOWE & MEADE'S Christmas Vacation",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2026-12-10",
+      "time": "8:00 PM",
+      "price": "$35",
+      "description": "Austin Meade, Dylan Marlowe, Mitchell Ferguson",
+      "eventUrl": "http://www.prekindle.com/event/46988-marlowe-and-meades-christmas-vacation-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948968788213",
+      "dateAdded": "2026-10-26"
     },
     {
       "title": "Michael Carbonaro",
@@ -2832,7 +2902,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-12-11",
       "time": null,
-      "price": "$20–$60",
+      "price": "$15–$60",
       "description": "Who's Bad",
       "eventUrl": "http://www.prekindle.com/event/72268-whos-bad-michael-jackson-tribute-oklahoma-city",
       "ageLimit": null,
@@ -3123,6 +3193,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a43ef0f89181ff01a994b12_Yheti_b2b_Toadface_Untz_Photo_%25281%2529.jpeg",
       "dateAdded": "2026-06-30"
+    },
+    {
+      "title": "R&B ONLY",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-12-19",
+      "time": null,
+      "price": "$15",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/15125-randb-only-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963486603",
+      "dateAdded": "2026-10-26"
     },
     {
       "title": "Zingo",
@@ -4093,6 +4177,20 @@
       "dateAdded": "2026-06-22"
     },
     {
+      "title": "Bethel Music 2027 Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-03-14",
+      "time": null,
+      "price": "$25–$75",
+      "description": "Bethel Music",
+      "eventUrl": "http://www.prekindle.com/event/14353-bethel-music-2027-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948970772631",
+      "dateAdded": "2026-10-26"
+    },
+    {
       "title": "Eric Andre: Subtle",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4135,6 +4233,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39339-2e2767cc4c0a71140fa8c385c85e964a.jpeg",
       "dateAdded": "2026-08-14"
+    },
+    {
+      "title": "Oscar Lindsey - Sunshine Tour",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-03-15",
+      "time": null,
+      "price": "$20",
+      "description": "Oscar Lindsey",
+      "eventUrl": "http://www.prekindle.com/event/73929-oscar-lindsey-sunshine-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948978857272",
+      "dateAdded": "2026-10-26"
     },
     {
       "title": "Sammy Rae & The Friends – the GET DOWN!",
@@ -4365,6 +4477,20 @@
       "dateAdded": "2026-09-22"
     },
     {
+      "title": "Dogpark",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-04-08",
+      "time": "8:00 PM",
+      "price": "$20–$75",
+      "description": "Dogpark, The Rose Hips",
+      "eventUrl": "http://www.prekindle.com/event/91445-dogpark-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948967984365",
+      "dateAdded": "2026-10-26"
+    },
+    {
       "title": "Private Event",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4477,6 +4603,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971062562",
       "dateAdded": "2026-10-20"
+    },
+    {
+      "title": "BUNT.",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-05-08",
+      "time": null,
+      "price": "$30",
+      "description": "BUNT.",
+      "eventUrl": "http://www.prekindle.com/event/79419-bunt-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963892454",
+      "dateAdded": "2026-10-26"
     },
     {
       "title": "Remi Wolf",
