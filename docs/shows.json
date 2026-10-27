@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T12:03:52.348Z",
+  "lastUpdated": "2026-10-27T21:32:19.403Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -57,6 +57,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038425887",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Evan Hughes Comedy Showcase",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-10-28",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/48411-evan-hughes-comedy-showcase-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948962158842",
+      "dateAdded": "2026-10-27"
     },
     {
       "title": "Mitchell Ferguson",
@@ -176,7 +190,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-29",
       "time": null,
-      "price": "$21–$150",
+      "price": "$40",
       "description": "Los Gemelos De Sinaloa",
       "eventUrl": "http://www.prekindle.com/event/13439-los-gemelos-de-sinaloa-oklahoma-city",
       "ageLimit": null,
@@ -304,7 +318,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-10-30",
       "time": "8:00 PM",
-      "price": "$22–$75",
+      "price": "$16–$75",
       "description": "Dylan Wheeler",
       "eventUrl": "http://www.prekindle.com/event/81551-dylan-wheeler-oklahoma-city",
       "ageLimit": null,
@@ -376,7 +390,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-10-31",
       "time": null,
-      "price": "$17–$43",
+      "price": null,
       "description": "Bingo Loco",
       "eventUrl": "http://www.prekindle.com/event/61915-bingo-loco-oklahoma-city",
       "ageLimit": null,
@@ -604,7 +618,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-03",
       "time": null,
-      "price": "$21–$114",
+      "price": "$21–$90",
       "description": "Lenny Pearce",
       "eventUrl": "http://www.prekindle.com/event/71721-lenny-pearce-oklahoma-city",
       "ageLimit": null,
@@ -1693,6 +1707,22 @@
       "dateAdded": "2026-10-14"
     },
     {
+      "title": "Emmanuel Wayne EP Release",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-15",
+      "time": "5:30 PM",
+      "price": "$10",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39867",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39867-00825d0bf3fc7673c542d668b5231cb1.jpeg",
+      "dateAdded": "2026-10-27"
+    },
+    {
       "title": "AJJ",
       "venue": "Resonant Head",
       "venueUrl": "https://www.resonanthead.com",
@@ -2203,6 +2233,20 @@
       "tags": [],
       "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ab68b49ecc13cc0bd1a0601_dff87146-420a-4797-94e3-a14684534ff1.jpeg",
       "dateAdded": "2026-10-09"
+    },
+    {
+      "title": "Kyler Smith & te Sunday Sinners",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-11-27",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948964511061",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948964510722",
+      "dateAdded": "2026-10-27"
     },
     {
       "title": "Skanksgiving",
@@ -2813,6 +2857,20 @@
       "dateAdded": "2026-09-01"
     },
     {
+      "title": "King's X",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-12-10",
+      "time": "6:00 PM",
+      "price": null,
+      "description": "KING'S X\nDoors @ 6:00PM / Show @ 6:45PM\nGeneral Admission Standing / All Ages",
+      "eventUrl": "https://www.etix.com/ticket/p/79570058/kings-x-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_5d017f5e9230419fad44bfdecc206611~mv2.jpg",
+      "dateAdded": "2026-10-27"
+    },
+    {
       "title": "Robby Hoffman: Live On Tour",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -2846,7 +2904,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-12-10",
       "time": "8:00 PM",
-      "price": "$35",
+      "price": "$30–$100",
       "description": "Austin Meade, Dylan Marlowe, Mitchell Ferguson",
       "eventUrl": "http://www.prekindle.com/event/46988-marlowe-and-meades-christmas-vacation-oklahoma-city",
       "ageLimit": null,
@@ -3817,6 +3875,20 @@
       "dateAdded": "2026-10-27"
     },
     {
+      "title": "David Cross - Fake Joy",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-02-09",
+      "time": null,
+      "price": "$30–$65",
+      "description": "David Cross, Sean Patton",
+      "eventUrl": "http://www.prekindle.com/event/48391-david-cross-fake-joy-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948966417557",
+      "dateAdded": "2026-10-27"
+    },
+    {
       "title": "LED ZEPPELIN 2",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3955,20 +4027,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990023417",
       "dateAdded": "2026-10-07"
-    },
-    {
-      "title": "Adelitas Way",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2027-02-26",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Home School Valedictorian\nwith Special Guests  Magdalen Rose, Scarhaven & More TBA\nDoors @ 6:30PM / Show @ 7:00PM \nGeneral Admission Standing / All Ages (*special guests are subject to change)",
-      "eventUrl": "https://www.ticketstorm.com/event/adelitaswayhomeschoolvaledictorian/89thstreetokc/oklahomacity/33246/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_545cf1b16ddb4230be8b9c3f9f082c65~mv2.jpg",
-      "dateAdded": "2026-10-24"
     },
     {
       "title": "Michael Blaustein: Bad Bad Boy",
@@ -4274,7 +4332,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2027-03-15",
       "time": null,
-      "price": "$20",
+      "price": "$18",
       "description": "Oscar Lindsey",
       "eventUrl": "http://www.prekindle.com/event/73929-oscar-lindsey-sunshine-tour-oklahoma-city",
       "ageLimit": null,
@@ -4309,6 +4367,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949002234220",
       "dateAdded": "2026-10-13"
+    },
+    {
+      "title": "Zach Williams LIVE with special guest Emerson Day",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-03-18",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/82574-zach-williams-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948962510080",
+      "dateAdded": "2026-10-27"
     },
     {
       "title": "Red NOT Chili Peppers",
@@ -4383,6 +4455,20 @@
       "dateAdded": "2026-10-15"
     },
     {
+      "title": "Temper City",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2027-03-23",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "Temper City",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/temper-city-23-mar",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-27"
+    },
+    {
       "title": "Julieta Venegas - Norteña US Tour 2027",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4425,6 +4511,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-06-23"
+    },
+    {
+      "title": "Bumpin Uglies",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-03-30",
+      "time": "8:00 PM",
+      "price": "$23–$75",
+      "description": "Bumpin Uglies",
+      "eventUrl": "http://www.prekindle.com/event/68998-bumpin-uglies-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963737530",
+      "dateAdded": "2026-10-27"
     },
     {
       "title": "Marc Broussard",
@@ -4627,6 +4727,20 @@
       "dateAdded": "2026-09-14"
     },
     {
+      "title": "Meshuggah: The Forty-Year Anomaly w /  Testament & Blood Incantation",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-05-02",
+      "time": null,
+      "price": "$60–$100",
+      "description": "Meshuggah",
+      "eventUrl": "http://www.prekindle.com/event/24888-meshuggah-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948962759244",
+      "dateAdded": "2026-10-27"
+    },
+    {
       "title": "Too Many Zooz: Audio Lipstick Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4665,7 +4779,7 @@
       "eventUrl": "http://www.prekindle.com/event/79419-bunt-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963892454",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948962258403",
       "dateAdded": "2026-10-26"
     },
     {
