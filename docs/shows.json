@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-10-26T22:09:13.162Z",
+  "lastUpdated": "2026-10-27T12:03:52.348Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "GOTV RALLY WITH JENA NELSON",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-26",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/44952-gotv-rally-with-jena-nelson-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948992652794",
-      "dateAdded": "2026-09-17"
-    },
-    {
-      "title": "almost monday – THANK GOD IT'S ALMOST MONDAY",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-10-26",
-      "time": "8:00 PM",
-      "price": "$28",
-      "description": "Almost Monday, Rec Hall",
-      "eventUrl": "http://www.prekindle.com/event/42539-almost-monday-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118586918",
-      "dateAdded": "2026-07-16"
-    },
     {
       "title": "Acid Mothers Temple",
       "venue": "89th Street OKC",
@@ -639,6 +611,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949127328890",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "PUNK THE VOTE! with NAUX BORDERS  /  /  GIRAFFE MASSACRE  /  /  NUKE RAGE  /  /  PATRICK NEWKIRK",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-03",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948963269588",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963265675",
+      "dateAdded": "2026-10-27"
     },
     {
       "title": "The War And Treaty",
@@ -1831,6 +1817,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949045356708",
       "dateAdded": "2026-08-19"
+    },
+    {
+      "title": "Phil Hamilton",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2026-11-19",
+      "time": "7:00 PM",
+      "price": "$8 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39859",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39859-dc6e4012889e64f284c3b0de663fc5f8.jpeg",
+      "dateAdded": "2026-10-27"
     },
     {
       "title": "House Party: A sweaty love-letter to the 2010s rager.",
@@ -3377,6 +3379,22 @@
       "dateAdded": "2026-10-09"
     },
     {
+      "title": "J Rod Wald",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-01-02",
+      "time": "7:00 PM",
+      "price": "$8 adv / $10 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39858",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39858-2b5097ac8a78f4e368d67da6ee6adeaa.jpeg",
+      "dateAdded": "2026-10-27"
+    },
+    {
       "title": "One Way Truckin'",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3781,6 +3799,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-10-14"
+    },
+    {
+      "title": "DJ HURRICANE & KOOL ROCK-SKI",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-02-06",
+      "time": "7:00 PM",
+      "price": "$25 adv / $30 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39860",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39860-d6d4da5d591989fb7e825339ec5e825b.png",
+      "dateAdded": "2026-10-27"
     },
     {
       "title": "LED ZEPPELIN 2",
@@ -4361,6 +4395,22 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948983815628",
       "dateAdded": "2026-10-12"
+    },
+    {
+      "title": "The Steppers w/ Fraud Stuart",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-03-26",
+      "time": "7:00 PM",
+      "price": "$12 adv / $15 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39861",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39861-bd6d2898286fa621b7d8a387516c8ca9.jpeg",
+      "dateAdded": "2026-10-27"
     },
     {
       "title": "Sonic Live In Concert",
