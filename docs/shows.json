@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T12:31:07.277Z",
+  "lastUpdated": "2026-10-28T21:57:42.820Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -207,7 +207,7 @@
       "date": "2026-10-30",
       "time": "7:00 PM",
       "price": null,
-      "description": "DCF Concerts Presents\nJED HARRELSON\nwith special guest TBA\nGeneral Admission Standing / All Ages\nDoors 7PM / Show 7:30 PM\n\nVIP Meet & Greet Package \nIncludes:\n-1 GA ticket\n-3 song acoustic set\n-Meet & greet\n-Signed polaroid\n-Skip the merch line before the show",
+      "description": "DCF Concerts Presents\nJED HARRELSON\nwith special guest Kennedy Fine\nGeneral Admission Standing / All Ages\nDoors 7PM / Show 7:30 PM\n\nVIP Meet & Greet Package \nIncludes:\n-1 GA ticket\n-3 song acoustic set\n-Meet & greet\n-Signed polaroid\n-Skip the merch line before the show",
       "eventUrl": "https://www.etix.com/ticket/p/91082189/jed-harrelson-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -476,7 +476,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-01",
       "time": null,
-      "price": "$21–$193",
+      "price": "$21–$125",
       "description": "Ryan Bingham and the Texas Gentlemen",
       "eventUrl": "http://www.prekindle.com/event/68385-ryan-bingham-oklahoma-city",
       "ageLimit": null,
@@ -632,7 +632,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-04",
       "time": null,
-      "price": "$14–$1042",
+      "price": "$14–$100",
       "description": "Daughtry, Ryan Perdz",
       "eventUrl": "http://www.prekindle.com/event/36175-daughtry-oklahoma-city",
       "ageLimit": null,
@@ -1086,7 +1086,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-11-08",
       "time": "8:00 PM",
-      "price": "$19–$75",
+      "price": null,
       "description": "Low Cut Connie, Laney Jones and the Spirits",
       "eventUrl": "http://www.prekindle.com/event/91988-low-cut-connie-oklahoma-city",
       "ageLimit": null,
@@ -1471,7 +1471,7 @@
       "date": "2026-11-13",
       "time": null,
       "price": "$25–$65",
-      "description": "Scoochie Boochie, Groovebox",
+      "description": "Scoochie Boochie, Groovebox, Kid Lennon",
       "eventUrl": "http://www.prekindle.com/event/34625-scoochie-boochie-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2495,7 +2495,7 @@
       "date": "2026-12-04",
       "time": null,
       "price": "$45–$240",
-      "description": "Trippie Redd",
+      "description": "Trippie Redd, TopOppGen, K Suave, BalloutDaDon, Gigi Holland, Goldie",
       "eventUrl": "http://www.prekindle.com/event/44143-trippie-redd-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -2795,9 +2795,9 @@
       "price": null,
       "description": "Austin Meade, Dylan Marlowe, Mitchell Ferguson",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/marlowe-meade-s-christmas-vacation-09-dec",
-      "ageLimit": null,
+      "ageLimit": "ALL AGES",
       "tags": [],
-      "imageUrl": null,
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ae1f1dce2847a644f85ffb2_MEADE_VG_SQUARE_-_1080x1080_-_MF.jpeg",
       "dateAdded": "2026-10-26"
     },
     {
@@ -3133,7 +3133,7 @@
       "date": "2026-12-17",
       "time": "8:00 PM",
       "price": "$34",
-      "description": "Arkansauce",
+      "description": "Arkansauce, The Steppers",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/arkansauce-17-dec",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -3303,6 +3303,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38394-cb30b0ce5d547505a4213cd127881022.jpeg",
       "dateAdded": "2026-05-03"
+    },
+    {
+      "title": "Cirque Musica Holiday Wonderland",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2026-12-27",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/13848-cirque-musica-holiday-wonderland-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948961163188",
+      "dateAdded": "2026-10-28"
     },
     {
       "title": "Private Event",
@@ -3931,6 +3945,20 @@
       "dateAdded": "2026-10-02"
     },
     {
+      "title": "Spafford",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-02-18",
+      "time": "8:00 PM",
+      "price": "$22–$75",
+      "description": "Spafford",
+      "eventUrl": "http://www.prekindle.com/event/84543-spafford-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948967864318",
+      "dateAdded": "2026-10-28"
+    },
+    {
       "title": "Tate Butts",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -3973,6 +4001,22 @@
       "dateAdded": "2026-10-04"
     },
     {
+      "title": "Get Leppard",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-02-20",
+      "time": "7:00 PM",
+      "price": "$15 adv / $20 door",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39870",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39870-10d6eae8ef6e00aa346bbc6768d879ca.png",
+      "dateAdded": "2026-10-28"
+    },
+    {
       "title": "THE PRICE IS RIGHT LIVE - ON STAGE",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4001,20 +4045,6 @@
       "dateAdded": "2026-10-28"
     },
     {
-      "title": "Michael Blaustein: Bad Bad Boy",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2027-02-26",
-      "time": null,
-      "price": "$30–$99",
-      "description": "Michael Blaustein",
-      "eventUrl": "http://www.prekindle.com/event/25493-michael-blaustein-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971063273",
-      "dateAdded": "2026-10-20"
-    },
-    {
       "title": "Michael Blaustein: Meet & Greet Upgrade",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -4026,6 +4056,20 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948972031229",
+      "dateAdded": "2026-10-20"
+    },
+    {
+      "title": "Michael Blaustein: Bad Bad Boy",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-02-26",
+      "time": null,
+      "price": "$30–$99",
+      "description": "Michael Blaustein",
+      "eventUrl": "http://www.prekindle.com/event/25493-michael-blaustein-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971063273",
       "dateAdded": "2026-10-20"
     },
     {
@@ -4199,6 +4243,20 @@
       "dateAdded": "2026-08-22"
     },
     {
+      "title": "CLOUD NOTHINGS",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-03-07",
+      "time": null,
+      "price": "$30",
+      "description": "Cloud Nothings",
+      "eventUrl": "http://www.prekindle.com/event/75915-cloud-nothings-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948960955872",
+      "dateAdded": "2026-10-28"
+    },
+    {
       "title": "Saxsquatch - The Conspiracy Theory Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -4311,6 +4369,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948978857272",
       "dateAdded": "2026-10-26"
+    },
+    {
+      "title": "Penelope Road",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-03-16",
+      "time": "8:00 PM",
+      "price": "$22–$75",
+      "description": "Penelope Road, The Band Solstice",
+      "eventUrl": "http://www.prekindle.com/event/36625-penelope-road-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948967677998",
+      "dateAdded": "2026-10-28"
     },
     {
       "title": "Sammy Rae & The Friends – the GET DOWN!",
@@ -4427,7 +4499,7 @@
       "dateAdded": "2026-10-15"
     },
     {
-      "title": "Temper City",
+      "title": "Temper City: Self Aware Tour",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2027-03-23",
@@ -4437,8 +4509,8 @@
       "eventUrl": "https://www.thevanguardtulsa.com/shows/temper-city-23-mar",
       "ageLimit": "ALL AGES",
       "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-10-27"
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ae1f1db77e39dae1373f333_5.jpeg",
+      "dateAdded": "2026-10-28"
     },
     {
       "title": "Julieta Venegas - Norteña US Tour 2027",
@@ -4613,6 +4685,20 @@
       "dateAdded": "2026-10-26"
     },
     {
+      "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-04-09",
+      "time": null,
+      "price": "$46–$168",
+      "description": "Josh Johnson",
+      "eventUrl": "http://www.prekindle.com/event/87684-josh-johnson-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948961290518",
+      "dateAdded": "2026-10-28"
+    },
+    {
       "title": "Private Event",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -4746,7 +4832,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-05-08",
       "time": null,
-      "price": "$30",
+      "price": "$30–$140",
       "description": "BUNT.",
       "eventUrl": "http://www.prekindle.com/event/79419-bunt-oklahoma-city",
       "ageLimit": null,
@@ -4767,6 +4853,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-10-09"
+    },
+    {
+      "title": "Broken By The Scream",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-05-11",
+      "time": "7:00 PM",
+      "price": "$23–$75",
+      "description": "Broken By the Scream",
+      "eventUrl": "http://www.prekindle.com/event/47397-broken-by-the-scream-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963607678",
+      "dateAdded": "2026-10-28"
     },
     {
       "title": "LOW TICKETS Hazlett",
