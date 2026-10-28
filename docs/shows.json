@@ -1,49 +1,7 @@
 {
-  "lastUpdated": "2026-10-27T21:32:19.403Z",
+  "lastUpdated": "2026-10-28T12:31:07.277Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Acid Mothers Temple",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-27",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "with Special Guest: Magick Potion\nGeneral Admission Standing / All Ages Welcome",
-      "eventUrl": "https://www.ticketstorm.com/event/acidmotherstemple/89thstreetokc/oklahomacity/32745/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_c9b72a67548e4dc5998486cab2d4578f~mv2.jpg",
-      "dateAdded": "2026-09-21"
-    },
-    {
-      "title": "The Robert Cray Band",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-27",
-      "time": null,
-      "price": "$15–$65",
-      "description": "The Robert Cray Band",
-      "eventUrl": "http://www.prekindle.com/event/59182-the-robert-cray-band-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118585923",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Grandmother’s Tea Party: Toyotuh Tuesday",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-10-27",
-      "time": null,
-      "price": "$10",
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/15242-grandmothers-tea-party-toyotuh-tuesday-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948977711196",
-      "dateAdded": "2026-10-16"
-    },
     {
       "title": "Madeon presents Victory Live",
       "venue": "Tower Theatre",
@@ -469,7 +427,7 @@
       "dateAdded": "2026-09-02"
     },
     {
-      "title": "THE OLD EMU'S HALLOWEEN! (ALKALINE TRIO COVER SET)",
+      "title": "PONYWEEN! W/ BLACKER SABBATH// DRAC & THE SWAMP RATS (OKC) //",
       "venue": "Soundpony",
       "venueUrl": "https://www.thesoundpony.com",
       "date": "2026-10-31",
@@ -482,7 +440,7 @@
         "tulsa"
       ],
       "imageUrl": null,
-      "dateAdded": "2026-10-01"
+      "dateAdded": "2026-10-28"
     },
     {
       "title": "PJ Morton - Saturday Night Sunday Morning Tour",
@@ -518,7 +476,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-01",
       "time": null,
-      "price": "$21–$237",
+      "price": "$21–$193",
       "description": "Ryan Bingham and the Texas Gentlemen",
       "eventUrl": "http://www.prekindle.com/event/68385-ryan-bingham-oklahoma-city",
       "ageLimit": null,
@@ -4027,6 +3985,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990023417",
       "dateAdded": "2026-10-07"
+    },
+    {
+      "title": "Adelitas Way",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2027-02-26",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "Home School Valedictorian\nwith Special Guests  Magdalen Rose, Scarhaven & More TBA\nDoors @ 6:30PM / Show @ 7:00PM \nGeneral Admission Standing / All Ages (*special guests are subject to change)",
+      "eventUrl": "https://www.ticketstorm.com/event/adelitaswayhomeschoolvaledictorian/89thstreetokc/oklahomacity/33246/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_545cf1b16ddb4230be8b9c3f9f082c65~mv2.jpg",
+      "dateAdded": "2026-10-28"
     },
     {
       "title": "Michael Blaustein: Bad Bad Boy",
