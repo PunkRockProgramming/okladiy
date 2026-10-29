@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T12:42:07.764Z",
+  "lastUpdated": "2026-10-29T22:06:55.699Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -73,18 +73,18 @@
       "dateAdded": "2026-07-16"
     },
     {
-      "title": "Los Gemelos De Sinaloa",
+      "title": "[POSTPONED] Los Gemelos De Sinaloa",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
       "date": "2026-10-29",
       "time": null,
-      "price": "$60",
+      "price": "$40",
       "description": "Los Gemelos De Sinaloa",
       "eventUrl": "http://www.prekindle.com/event/13439-los-gemelos-de-sinaloa-oklahoma-city",
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949021338728",
-      "dateAdded": "2026-09-09"
+      "dateAdded": "2026-10-29"
     },
     {
       "title": "Tauren Wells – Air1 Worship Now Tour",
@@ -306,7 +306,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-10-31",
       "time": "8:00 PM",
-      "price": "$22",
+      "price": "$25",
       "description": "The Red Stripes, Groucho",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/the-red-stripes-31-oct",
       "ageLimit": "ALL AGES",
@@ -676,7 +676,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-05",
       "time": null,
-      "price": "$21–$500",
+      "price": "$60–$500",
       "description": "Chencho Corleone",
       "eventUrl": "http://www.prekindle.com/event/87875-chencho-corleone-oklahoma-city",
       "ageLimit": null,
@@ -2722,7 +2722,7 @@
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-12-09",
       "time": "7:30 PM",
-      "price": null,
+      "price": "$46",
       "description": "Austin Meade, Dylan Marlowe, Mitchell Ferguson",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/marlowe-meade-s-christmas-vacation-09-dec",
       "ageLimit": "ALL AGES",
@@ -2913,6 +2913,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-05-05"
+    },
+    {
+      "title": "Emo Night Tour",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2026-12-12",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "THE EMO NIGHT TOUR\nThe best emo dance party around - playing your favorite hits from Taking Back Sunday, Fall Out Boy, PANIC! At The Disco, My Chemical Romance, and MORE!\nDoors @ 8PM / Show @ 8PM\nGeneral Admission Standing / Ages 18+",
+      "eventUrl": "https://www.etix.com/ticket/p/62945753/the-emo-night-tour-oklahoma-city-89th-street",
+      "ageLimit": "All ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_7634726708754c0d93c3fda826704a7f~mv2.jpg",
+      "dateAdded": "2026-10-29"
     },
     {
       "title": "Whitechapel – 20th Anniversary Tour",
@@ -3240,7 +3254,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-12-27",
       "time": null,
-      "price": null,
+      "price": "$15–$178",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/13848-cirque-musica-holiday-wonderland-oklahoma-city",
       "ageLimit": null,
@@ -3761,6 +3775,20 @@
       "dateAdded": "2026-10-14"
     },
     {
+      "title": "King Cabbage Brass Band",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-02-06",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/31670887/king-cabbage-brass-band-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-10-29"
+    },
+    {
       "title": "DJ HURRICANE & KOOL ROCK-SKI",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
@@ -3959,20 +3987,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990023417",
       "dateAdded": "2026-10-07"
-    },
-    {
-      "title": "Adelitas Way",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2027-02-26",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Home School Valedictorian\nwith Special Guests  Magdalen Rose, Scarhaven & More TBA\nDoors @ 6:30PM / Show @ 7:00PM \nGeneral Admission Standing / All Ages (*special guests are subject to change)",
-      "eventUrl": "https://www.ticketstorm.com/event/adelitaswayhomeschoolvaledictorian/89thstreetokc/oklahomacity/33246/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_545cf1b16ddb4230be8b9c3f9f082c65~mv2.jpg",
-      "dateAdded": "2026-10-28"
     },
     {
       "title": "Michael Blaustein: Meet & Greet Upgrade",
