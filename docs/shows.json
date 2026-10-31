@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-10-30T21:45:13.789Z",
+  "lastUpdated": "2026-10-31T12:00:10.782Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Jed Harrelson",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-30",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "DCF Concerts Presents\nJED HARRELSON\nwith special guest Kennedy Fine\nGeneral Admission Standing / All Ages\nDoors 7PM / Show 7:30 PM\n\nVIP Meet & Greet Package \nIncludes:\n-1 GA ticket\n-3 song acoustic set\n-Meet & greet\n-Signed polaroid\n-Skip the merch line before the show",
-      "eventUrl": "https://www.etix.com/ticket/p/91082189/jed-harrelson-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_344e2bfaed1c4476a678b543ece16e26~mv2.jpg",
-      "dateAdded": "2026-09-23"
-    },
-    {
-      "title": "My So Called Band - 90s Tribute",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-30",
-      "time": null,
-      "price": "$20–$40",
-      "description": "My So Called Band",
-      "eventUrl": "http://www.prekindle.com/event/43848-my-so-called-band-90s-tribute-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949062901912",
-      "dateAdded": "2026-08-16"
-    },
     {
       "title": "Halloween Benefit Show featuring Flash Point, Teeth to the Curb!, Babies on a Half Pipe, & Instant Death Spike",
       "venue": "Noise Town",
@@ -43,106 +15,6 @@
       "tags": [],
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1790367873480-N1M3TZ9S9ZASLUVUJ99X/Benefit+Flier.png",
       "dateAdded": "2026-09-25"
-    },
-    {
-      "title": "Through Being Cool presents EMO HALLOWEEN with The Dom Telonges (18+)",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-10-30",
-      "time": "7:30 PM",
-      "price": "$24",
-      "description": "Through Being Cool, The Dom Telonges, When The Clock Strikes, Memorial Drive",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/through-being-cool-presents-emo-halloween-with-the-dom-telonges-18-30-oct",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a1099ad1c283e51b873a79d_TBC_-_EMO_HALLOWEEN.jpeg",
-      "dateAdded": "2026-05-22"
-    },
-    {
-      "title": "Belle & the Vertigo Waves",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-10-30",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527949001905012",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949001902531",
-      "dateAdded": "2026-09-25"
-    },
-    {
-      "title": "Dylan Wheeler",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-10-30",
-      "time": "8:00 PM",
-      "price": "$16–$75",
-      "description": "Dylan Wheeler",
-      "eventUrl": "http://www.prekindle.com/event/81551-dylan-wheeler-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949111607779",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "DEATH Presents: RITUAL",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-10-30",
-      "time": null,
-      "price": "$10",
-      "description": "Gigi Koochykilla, Alita Hellstrom, Paprika Cherry, Lesbiana Grande, Eboni Noire, Dë Monic, Pnp Apollo, Hunter Matrix, De Banks, Vanilla Kush",
-      "eventUrl": "http://www.prekindle.com/event/97588-death-presents-ritual-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003839322",
-      "dateAdded": "2026-09-24"
-    },
-    {
-      "title": "Pop Punk Nite! by: Van Full of Nuns",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-10-30",
-      "time": "7 pm",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/66897228/pop-punk-nitebyvan-full-of-nuns-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-08-11"
-    },
-    {
-      "title": "Swiftball",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-10-30",
-      "time": "5:00 PM",
-      "price": "$30",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=38482",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38482-480d9016673d47339c95af8f61260686.jpeg",
-      "dateAdded": "2026-05-10"
-    },
-    {
-      "title": "THE SODA CRACKERS (Bakersfield Sound)  /  /  TANNER FIELDS",
-      "venue": "Grand Royale",
-      "venueUrl": "https://grandroyaleokc.com",
-      "date": "2026-10-30",
-      "time": "9:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948995643540",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948995641084",
-      "dateAdded": "2026-10-02"
     },
     {
       "title": "Bingo Loco",
@@ -257,6 +129,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166764190",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "Bluegrass Brunch with Johnny Mullenax",
+      "venue": "Mercury Lounge",
+      "venueUrl": "https://www.mercuryloungetulsa.com",
+      "date": "2026-11-01",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948957273114",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948957273097",
+      "dateAdded": "2026-10-31"
     },
     {
       "title": "Dead Sullivan",
@@ -1609,7 +1495,7 @@
       "dateAdded": "2026-08-19"
     },
     {
-      "title": "Phil Hamilton",
+      "title": "Phil Hamilton & Kanton Teen",
       "venue": "The Venue Shrine",
       "venueUrl": "https://www.tulsashrine.com",
       "date": "2026-11-19",
@@ -1622,7 +1508,7 @@
         "tulsa"
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39859-dc6e4012889e64f284c3b0de663fc5f8.jpeg",
-      "dateAdded": "2026-10-27"
+      "dateAdded": "2026-10-31"
     },
     {
       "title": "House Party: A sweaty love-letter to the 2010s rager.",
@@ -3859,6 +3745,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990023417",
       "dateAdded": "2026-10-07"
+    },
+    {
+      "title": "Adelitas Way",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2027-02-26",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "Home School Valedictorian\nwith Special Guests  Magdalen Rose, Scarhaven & More TBA\nDoors @ 6:30PM / Show @ 7:00PM \nGeneral Admission Standing / All Ages (*special guests are subject to change)",
+      "eventUrl": "https://www.ticketstorm.com/event/adelitaswayhomeschoolvaledictorian/89thstreetokc/oklahomacity/33246/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_545cf1b16ddb4230be8b9c3f9f082c65~mv2.jpg",
+      "dateAdded": "2026-10-31"
     },
     {
       "title": "Michael Blaustein: Bad Bad Boy",
