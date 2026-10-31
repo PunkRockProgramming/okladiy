@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-10-31T12:00:10.782Z",
+  "lastUpdated": "2026-10-31T20:44:26.272Z",
   "scraperErrors": [],
   "shows": [
     {
-      "title": "Halloween Benefit Show featuring Flash Point, Teeth to the Curb!, Babies on a Half Pipe, & Instant Death Spike",
-      "venue": "Noise Town",
-      "venueUrl": "https://www.noisetowntulsa.com",
+      "title": "Jed Harrelson",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
       "date": "2026-10-30",
-      "time": "7:00 PM",
-      "price": "$15",
-      "description": "Live music fundraiser featuring performances from Flash Point, Teeth to the Curb!, Babies on a Halfpipe and Instant Death Spike. All funds will go towards Randle’s medical bills and recovery! There will also be a raffle giveaway of a PS1 Classic Console.Tickets $15Doors 7pm Music 7:30pm",
-      "eventUrl": "https://www.noisetowntulsa.com/events/halloween-benefit-show-featuring-flash-point-teeth-to-the-curb-babies-on-a-half-pipe-instant-death-spike",
-      "ageLimit": null,
+      "time": "7:00 PM",
+      "price": null,
+      "description": "DCF Concerts Presents\nJED HARRELSON\nwith special guest Kennedy Fine\nGeneral Admission Standing / All Ages\nDoors 7PM / Show 7:30 PM\n\nVIP Meet & Greet Package \nIncludes:\n-1 GA ticket\n-3 song acoustic set\n-Meet & greet\n-Signed polaroid\n-Skip the merch line before the show",
+      "eventUrl": "https://www.etix.com/ticket/p/91082189/jed-harrelson-oklahoma-city-89th-street",
+      "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1790367873480-N1M3TZ9S9ZASLUVUJ99X/Benefit+Flier.png",
-      "dateAdded": "2026-09-25"
+      "imageUrl": "https://static.wixstatic.com/media/779716_344e2bfaed1c4476a678b543ece16e26~mv2.jpg",
+      "dateAdded": "2026-10-31"
     },
     {
       "title": "Bingo Loco",
@@ -751,7 +751,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/51673138/jay-webb-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_46e3af8f9eec43bc864e0928ec7d1ccc~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/70d2f5_677958f398e3484d9b9e731b04bf52b1~mv2.jpg",
       "dateAdded": "2026-09-25"
     },
     {
@@ -847,7 +847,7 @@
       "date": "2026-11-10",
       "time": "7:00 PM",
       "price": null,
-      "description": "CHRISSY CHLAPECKA \nwith special guest Slajer\nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages\nMeet & Greet Packages Available - Includes GA Ticket\n(*special guests are subject to change)",
+      "description": "CHRISSY CHLAPECKA \nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages\nMeet & Greet Packages Available - Includes GA Ticket\n(*special guests are subject to change)",
       "eventUrl": "https://www.etix.com/ticket/p/88529629/chrissy-chlapecka-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -3745,20 +3745,6 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990023417",
       "dateAdded": "2026-10-07"
-    },
-    {
-      "title": "Adelitas Way",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2027-02-26",
-      "time": "6:30 PM",
-      "price": null,
-      "description": "Home School Valedictorian\nwith Special Guests  Magdalen Rose, Scarhaven & More TBA\nDoors @ 6:30PM / Show @ 7:00PM \nGeneral Admission Standing / All Ages (*special guests are subject to change)",
-      "eventUrl": "https://www.ticketstorm.com/event/adelitaswayhomeschoolvaledictorian/89thstreetokc/oklahomacity/33246/",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_545cf1b16ddb4230be8b9c3f9f082c65~mv2.jpg",
-      "dateAdded": "2026-10-31"
     },
     {
       "title": "Michael Blaustein: Bad Bad Boy",
