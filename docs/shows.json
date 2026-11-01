@@ -1,121 +1,7 @@
 {
-  "lastUpdated": "2026-10-31T20:44:26.272Z",
+  "lastUpdated": "2026-11-01T13:00:07.914Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Jed Harrelson",
-      "venue": "89th Street OKC",
-      "venueUrl": "https://www.89thstreetokc.com",
-      "date": "2026-10-30",
-      "time": "7:00 PM",
-      "price": null,
-      "description": "DCF Concerts Presents\nJED HARRELSON\nwith special guest Kennedy Fine\nGeneral Admission Standing / All Ages\nDoors 7PM / Show 7:30 PM\n\nVIP Meet & Greet Package \nIncludes:\n-1 GA ticket\n-3 song acoustic set\n-Meet & greet\n-Signed polaroid\n-Skip the merch line before the show",
-      "eventUrl": "https://www.etix.com/ticket/p/91082189/jed-harrelson-oklahoma-city-89th-street",
-      "ageLimit": "All Ages",
-      "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/779716_344e2bfaed1c4476a678b543ece16e26~mv2.jpg",
-      "dateAdded": "2026-10-31"
-    },
-    {
-      "title": "Bingo Loco",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-10-31",
-      "time": null,
-      "price": null,
-      "description": "Bingo Loco",
-      "eventUrl": "http://www.prekindle.com/event/61915-bingo-loco-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949074796745",
-      "dateAdded": "2026-07-31"
-    },
-    {
-      "title": "Whitty Goes Indie ft. Cover Sets of Indie Darlings",
-      "venue": "The Whittier Bar",
-      "venueUrl": "https://www.thewhittierbar.com",
-      "date": "2026-10-31",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "http://www.prekindle.com/event/45584-whitty-goes-indie-ft-cover-sets-of-indie-darlings-tulsa",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949021977333",
-      "dateAdded": "2026-09-09"
-    },
-    {
-      "title": "The Red Stripes",
-      "venue": "The Vanguard",
-      "venueUrl": "https://www.thevanguardtulsa.com",
-      "date": "2026-10-31",
-      "time": "8:00 PM",
-      "price": "$25",
-      "description": "The Red Stripes, Groucho",
-      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-red-stripes-31-oct",
-      "ageLimit": "ALL AGES",
-      "tags": [],
-      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6a0b45aa4d66c8a839b2c5ef_RedStripes2026_Vanguard_2x1.jpeg",
-      "dateAdded": "2026-05-19"
-    },
-    {
-      "title": "Halloween at Mercury Lounge with Amber Watson, The Sticky Finger Band, and The Gremlins",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-10-31",
-      "time": "8:00 PM",
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948964519155",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948964518566",
-      "dateAdded": "2026-10-25"
-    },
-    {
-      "title": "SOUSE",
-      "venue": "Beer City Music Hall",
-      "venueUrl": "https://www.beercitymusichall.com",
-      "date": "2026-10-31",
-      "time": "10:00 PM",
-      "price": "$13–$75",
-      "description": "Souse, Kora Waves, Jujusocrazy, Dr. View",
-      "eventUrl": "http://www.prekindle.com/event/82815-souse-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948983495914",
-      "dateAdded": "2026-10-12"
-    },
-    {
-      "title": "Private Party",
-      "venue": "Cain's Ballroom",
-      "venueUrl": "https://www.cainsballroom.com",
-      "date": "2026-10-31",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.cainsballroom.com/event/private-party-2/",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": null,
-      "dateAdded": "2026-09-02"
-    },
-    {
-      "title": "PONYWEEN! W/ BLACKER SABBATH// DRAC & THE SWAMP RATS (OKC) //",
-      "venue": "Soundpony",
-      "venueUrl": "https://www.thesoundpony.com",
-      "date": "2026-10-31",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.thesoundpony.com/live-music/2026/10/31/the-old-emus-halloween-alkaline-trio-cover-set",
-      "ageLimit": null,
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": null,
-      "dateAdded": "2026-10-28"
-    },
     {
       "title": "PJ Morton - Saturday Night Sunday Morning Tour",
       "venue": "Tower Theatre",
@@ -751,7 +637,7 @@
       "eventUrl": "https://www.etix.com/ticket/p/51673138/jay-webb-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
-      "imageUrl": "https://static.wixstatic.com/media/70d2f5_677958f398e3484d9b9e731b04bf52b1~mv2.jpg",
+      "imageUrl": "https://static.wixstatic.com/media/a8bfd1_46e3af8f9eec43bc864e0928ec7d1ccc~mv2.jpg",
       "dateAdded": "2026-09-25"
     },
     {
@@ -847,7 +733,7 @@
       "date": "2026-11-10",
       "time": "7:00 PM",
       "price": null,
-      "description": "CHRISSY CHLAPECKA \nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages\nMeet & Greet Packages Available - Includes GA Ticket\n(*special guests are subject to change)",
+      "description": "CHRISSY CHLAPECKA \nwith special guest Slajer\nDoors @ 7PM / Show @ 8PM \nGeneral Admission Standing / All Ages\nMeet & Greet Packages Available - Includes GA Ticket\n(*special guests are subject to change)",
       "eventUrl": "https://www.etix.com/ticket/p/88529629/chrissy-chlapecka-oklahoma-city-89th-street",
       "ageLimit": "All Ages",
       "tags": [],
@@ -2021,6 +1907,22 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-09-29"
+    },
+    {
+      "title": "SKY RUN ROGER",
+      "venue": "Soundpony",
+      "venueUrl": "https://www.thesoundpony.com",
+      "date": "2026-11-28",
+      "time": null,
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.thesoundpony.com/live-music/2026/11/28/sky-run-roger",
+      "ageLimit": null,
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": null,
+      "dateAdded": "2026-11-01"
     },
     {
       "title": "The Leftover Last Waltz",
@@ -3745,6 +3647,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948990023417",
       "dateAdded": "2026-10-07"
+    },
+    {
+      "title": "Adelitas Way",
+      "venue": "89th Street OKC",
+      "venueUrl": "https://www.89thstreetokc.com",
+      "date": "2027-02-26",
+      "time": "6:30 PM",
+      "price": null,
+      "description": "Home School Valedictorian\nwith Special Guests  Magdalen Rose, Scarhaven & More TBA\nDoors @ 6:30PM / Show @ 7:00PM \nGeneral Admission Standing / All Ages (*special guests are subject to change)",
+      "eventUrl": "https://www.ticketstorm.com/event/adelitaswayhomeschoolvaledictorian/89thstreetokc/oklahomacity/33246/",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": "https://static.wixstatic.com/media/779716_545cf1b16ddb4230be8b9c3f9f082c65~mv2.jpg",
+      "dateAdded": "2026-11-01"
     },
     {
       "title": "Michael Blaustein: Bad Bad Boy",
