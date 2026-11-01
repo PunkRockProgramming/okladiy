@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T13:00:07.914Z",
+  "lastUpdated": "2026-11-01T21:26:13.087Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -50,7 +50,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-01",
       "time": null,
-      "price": "$21–$125",
+      "price": "$35–$125",
       "description": "Ryan Bingham and the Texas Gentlemen",
       "eventUrl": "http://www.prekindle.com/event/68385-ryan-bingham-oklahoma-city",
       "ageLimit": null,
@@ -446,7 +446,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2026-11-06",
       "time": null,
-      "price": "$27–$102",
+      "price": "$27",
       "description": "Noah Gundersen, Runnner, Breakup Shoes",
       "eventUrl": "http://www.prekindle.com/event/55266-noah-gunderson-oklahoma-city",
       "ageLimit": null,
@@ -2829,6 +2829,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963486603",
       "dateAdded": "2026-10-26"
+    },
+    {
+      "title": "Tovar’s Christmas",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2026-12-19",
+      "time": "6 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/79012704/tovars-christmas-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-11-01"
     },
     {
       "title": "Zingo",
