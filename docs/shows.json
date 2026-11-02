@@ -1,79 +1,7 @@
 {
-  "lastUpdated": "2026-11-01T21:26:13.087Z",
+  "lastUpdated": "2026-11-02T15:20:58.391Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "PJ Morton - Saturday Night Sunday Morning Tour",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-11-01",
-      "time": null,
-      "price": "$23–$75",
-      "description": "PJ Morton",
-      "eventUrl": "http://www.prekindle.com/event/97535-pj-morton-saturday-night-sunday-morning-tour-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949166764190",
-      "dateAdded": "2026-07-16"
-    },
-    {
-      "title": "Bluegrass Brunch with Johnny Mullenax",
-      "venue": "Mercury Lounge",
-      "venueUrl": "https://www.mercuryloungetulsa.com",
-      "date": "2026-11-01",
-      "time": null,
-      "price": null,
-      "description": null,
-      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948957273114",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948957273097",
-      "dateAdded": "2026-10-31"
-    },
-    {
-      "title": "Dead Sullivan",
-      "venue": "Resonant Head",
-      "venueUrl": "https://www.resonanthead.com",
-      "date": "2026-11-01",
-      "time": null,
-      "price": "$15",
-      "description": "Dead Sullivan, Some Fear, Charlotte Bumgarner",
-      "eventUrl": "http://www.prekindle.com/event/89831-dead-sullivan-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949039420569",
-      "dateAdded": "2026-08-25"
-    },
-    {
-      "title": "Ryan Bingham and The Texas Gentlemen - Still Gettin' Away With It Tour",
-      "venue": "The Criterion",
-      "venueUrl": "https://criterionokc.com",
-      "date": "2026-11-01",
-      "time": null,
-      "price": "$35–$125",
-      "description": "Ryan Bingham and the Texas Gentlemen",
-      "eventUrl": "http://www.prekindle.com/event/68385-ryan-bingham-oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949084253954",
-      "dateAdded": "2026-07-21"
-    },
-    {
-      "title": "One Way Truckin'",
-      "venue": "The Venue Shrine",
-      "venueUrl": "https://www.tulsashrine.com",
-      "date": "2026-11-01",
-      "time": "4:00 PM",
-      "price": "Free",
-      "description": null,
-      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39642",
-      "ageLimit": "21 & Over",
-      "tags": [
-        "tulsa"
-      ],
-      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39642-e4900913b9ed6574be4c7f1a05c94161.jpeg",
-      "dateAdded": "2026-09-21"
-    },
     {
       "title": "Get Out the Vote Rally with Cyndi Munson & Andy Beshear",
       "venue": "Tower Theatre",
@@ -3013,6 +2941,22 @@
       "dateAdded": "2026-10-15"
     },
     {
+      "title": "Manic Focus",
+      "venue": "The Venue Shrine",
+      "venueUrl": "https://www.tulsashrine.com",
+      "date": "2027-01-01",
+      "time": "8:00 PM",
+      "price": "$30",
+      "description": null,
+      "eventUrl": "https://www.stubwire.com/order/start.php?referral=tulsashrine.com&event=39895",
+      "ageLimit": "21 & Over",
+      "tags": [
+        "tulsa"
+      ],
+      "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39895-679fea64cca150f462bf3e865d98ce9c.png",
+      "dateAdded": "2026-11-02"
+    },
+    {
       "title": "GHOST STORIES",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -3057,6 +3001,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39644-992a838be6f5b0c65bde85a6b0db1d69.jpeg",
       "dateAdded": "2026-09-21"
+    },
+    {
+      "title": "THAT 1 GUY – SALTY SNACKS TOUR",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-01-07",
+      "time": null,
+      "price": "$15",
+      "description": "That 1 Guy",
+      "eventUrl": "http://www.prekindle.com/event/24778-that-1-guy-salty-snacks-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948959441464",
+      "dateAdded": "2026-11-02"
     },
     {
       "title": "That 1 Guy",
@@ -3263,6 +3221,20 @@
       "dateAdded": "2026-09-25"
     },
     {
+      "title": "Jordan Jensen: The Wet Hug Tour",
+      "venue": "Tower Theatre",
+      "venueUrl": "https://www.towertheatreokc.com",
+      "date": "2027-01-23",
+      "time": null,
+      "price": "$30–$45",
+      "description": "Jordan Jensen",
+      "eventUrl": "http://www.prekindle.com/event/76866-jordan-jensen-the-wet-hug-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948962043619",
+      "dateAdded": "2026-11-02"
+    },
+    {
       "title": "Ballyhoo! - We Ride at Dawn Tour",
       "venue": "Beer City Music Hall",
       "venueUrl": "https://www.beercitymusichall.com",
@@ -3275,6 +3247,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948997795167",
       "dateAdded": "2026-09-30"
+    },
+    {
+      "title": "Jordan Jensen",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-01-24",
+      "time": "6:30 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/58971630/jordan-jensen-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-11-02"
     },
     {
       "title": "Duval",
@@ -3936,7 +3922,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2027-03-14",
       "time": null,
-      "price": "$25–$75",
+      "price": "$30",
       "description": "Bethel Music",
       "eventUrl": "http://www.prekindle.com/event/14353-bethel-music-2027-tour-oklahoma-city",
       "ageLimit": null,
