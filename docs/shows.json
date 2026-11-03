@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T13:56:48.302Z",
+  "lastUpdated": "2026-11-03T22:38:35.896Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -64,7 +64,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2026-11-03",
       "time": null,
-      "price": "$21–$90",
+      "price": "$25–$90",
       "description": "Lenny Pearce",
       "eventUrl": "http://www.prekindle.com/event/71721-lenny-pearce-oklahoma-city",
       "ageLimit": null,
@@ -725,6 +725,20 @@
       "dateAdded": "2026-08-11"
     },
     {
+      "title": "TRIVIA TUESDAY",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-10",
+      "time": "7:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954244352",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954244332",
+      "dateAdded": "2026-11-03"
+    },
+    {
       "title": "ICON FOR HIRE SCRIPTED 15 YEAR ALBUM ANNIVERSARY TOUR",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
@@ -1153,6 +1167,20 @@
       "dateAdded": "2026-03-18"
     },
     {
+      "title": "THE GRANDE SHOWCASE: DRAG, BURLESQUE & MORE!",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-14",
+      "time": "9:30 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954247906",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954246871",
+      "dateAdded": "2026-11-03"
+    },
+    {
       "title": "David Nail: Down to the Studs Tour",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
@@ -1467,6 +1495,20 @@
       "dateAdded": "2026-09-29"
     },
     {
+      "title": "DYLAN STEWART (dark folk)  /  /  BEN MCKENZIE",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-20",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954233951",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954228721",
+      "dateAdded": "2026-11-03"
+    },
+    {
       "title": "BIG ASS TRUCK I.E.",
       "venue": "89th Street OKC",
       "venueUrl": "https://www.89thstreetokc.com",
@@ -1595,6 +1637,20 @@
       "dateAdded": "2026-10-11"
     },
     {
+      "title": "BROKESTRING BURNETT  /  /  OBZAN & THE RED DIRT STRAITS",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-21",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954227246",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954224602",
+      "dateAdded": "2026-11-03"
+    },
+    {
       "title": "Alok: Eat Pray Leave",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -1709,6 +1765,20 @@
       "dateAdded": "2026-10-23"
     },
     {
+      "title": "TRIVIA TUESDAY",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-24",
+      "time": "7:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954243717",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954243696",
+      "dateAdded": "2026-11-03"
+    },
+    {
       "title": "Silverstein & Story Of The Year: CAMP SCREAMO TOUR",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
@@ -1765,7 +1835,7 @@
       "dateAdded": "2026-10-09"
     },
     {
-      "title": "Kyler Smith & te Sunday Sinners",
+      "title": "Kyler Smith & the Sunday Sinners",
       "venue": "Mercury Lounge",
       "venueUrl": "https://www.mercuryloungetulsa.com",
       "date": "2026-11-27",
@@ -1776,7 +1846,7 @@
       "ageLimit": null,
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948964510722",
-      "dateAdded": "2026-10-27"
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "Skanksgiving",
@@ -1821,6 +1891,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/38101-1cc2c5a8a9233012e91d6194a08eb647.jpeg",
       "dateAdded": "2026-03-21"
+    },
+    {
+      "title": "GOTH NITE: DARK DANCING",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-27",
+      "time": "9:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954222696",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954208812",
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "Urban Trivia Live",
@@ -2019,6 +2103,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949003783891",
       "dateAdded": "2026-09-25"
+    },
+    {
+      "title": "Skylily with Tyler Sexton",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2026-12-03",
+      "time": null,
+      "price": "$12",
+      "description": "Skylily, Tyler Sexton",
+      "eventUrl": "http://www.prekindle.com/event/68361-skylily-with-tyler-sexton-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948953955012",
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "Shane Smith & The Saints",
@@ -2367,7 +2465,7 @@
       "date": "2026-12-08",
       "time": null,
       "price": "$18",
-      "description": "Mini Trees",
+      "description": "Mini Trees, Just Penelope",
       "eventUrl": "http://www.prekindle.com/event/13269-mini-trees-oklahoma-city",
       "ageLimit": null,
       "tags": [],
@@ -3343,7 +3441,7 @@
       "eventUrl": "http://www.prekindle.com/event/89593-ballyhoo-we-ride-at-dawn-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948955106519",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954074316",
       "dateAdded": "2026-09-30"
     },
     {
@@ -3610,7 +3708,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-02-12",
       "time": null,
-      "price": "$25",
+      "price": "$25–$125",
       "description": "Josh Meloy",
       "eventUrl": "http://www.prekindle.com/event/76614-josh-meloy-oklahoma-city",
       "ageLimit": null,
@@ -4485,6 +4583,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949012061967",
       "dateAdded": "2026-09-29"
+    },
+    {
+      "title": "Babes In Canyon",
+      "venue": "Resonant Head",
+      "venueUrl": "https://www.resonanthead.com",
+      "date": "2027-04-15",
+      "time": null,
+      "price": "$25",
+      "description": "Babes In Canyon",
+      "eventUrl": "http://www.prekindle.com/event/36431--oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954964766",
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "THE ELOVATERS - SHARK BELLY MOTEL TOUR",
