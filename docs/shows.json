@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T15:20:58.391Z",
+  "lastUpdated": "2026-11-03T00:07:23.469Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -2536,7 +2536,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2026-12-12",
       "time": "8:00 PM",
-      "price": "$15–$75",
+      "price": null,
       "description": "Front Porch",
       "eventUrl": "http://www.prekindle.com/event/69878-front-porch-oklahoma-city",
       "ageLimit": null,
@@ -3241,26 +3241,26 @@
       "date": "2027-01-23",
       "time": "7:30 PM",
       "price": "$25–$75",
-      "description": "Ballyhoo!",
+      "description": "Ballyhoo!, The Big News, Fair Weather Enemies",
       "eventUrl": "http://www.prekindle.com/event/89593-ballyhoo-we-ride-at-dawn-tour-oklahoma-city",
       "ageLimit": null,
       "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948997795167",
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948955106519",
       "dateAdded": "2026-09-30"
     },
     {
-      "title": "Jordan Jensen",
+      "title": "Jordan Jensen: The Wet Hug Tour",
       "venue": "Cain's Ballroom",
       "venueUrl": "https://www.cainsballroom.com",
       "date": "2027-01-24",
       "time": "6:30 pm",
       "price": null,
       "description": null,
-      "eventUrl": "https://www.etix.com/ticket/p/58971630/jordan-jensen-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
+      "eventUrl": "https://www.etix.com/ticket/p/58971630/jordan-jensenthe-wet-hug-tour-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
-      "dateAdded": "2026-11-02"
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "Duval",
@@ -3443,7 +3443,7 @@
       "price": null,
       "description": null,
       "eventUrl": "https://www.etix.com/ticket/p/31670887/king-cabbage-brass-band-tulsa-cains-ballroom?partner_id=100",
-      "ageLimit": null,
+      "ageLimit": "All Ages",
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-10-29"
@@ -3505,6 +3505,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948996980903",
       "dateAdded": "2026-10-06"
+    },
+    {
+      "title": "Josh Meloy",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-02-12",
+      "time": null,
+      "price": "$25",
+      "description": "Josh Meloy",
+      "eventUrl": "http://www.prekindle.com/event/76614-josh-meloy-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948955496113",
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "Nude Art Show",
@@ -3591,6 +3605,20 @@
       "dateAdded": "2026-10-22"
     },
     {
+      "title": "THE CASTELLOWS ON THE HIGHWAY TOUR",
+      "venue": "Beer City Music Hall",
+      "venueUrl": "https://www.beercitymusichall.com",
+      "date": "2027-02-19",
+      "time": "8:00 PM",
+      "price": "$75",
+      "description": "The Castellows, Lance Roark",
+      "eventUrl": "http://www.prekindle.com/event/96543-the-castellows-on-the-highway-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948959725157",
+      "dateAdded": "2026-11-03"
+    },
+    {
       "title": "Public Image Ltd - THIS IS NOT THE LAST TOUR",
       "venue": "Tower Theatre",
       "venueUrl": "https://www.towertheatreokc.com",
@@ -3603,6 +3631,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949156289027",
       "dateAdded": "2026-07-16"
+    },
+    {
+      "title": "The Castellows",
+      "venue": "The Vanguard",
+      "venueUrl": "https://www.thevanguardtulsa.com",
+      "date": "2027-02-20",
+      "time": "8:00 PM",
+      "price": null,
+      "description": "The Castellows, Lance Roark",
+      "eventUrl": "https://www.thevanguardtulsa.com/shows/the-castellows-20-feb",
+      "ageLimit": "ALL AGES",
+      "tags": [],
+      "imageUrl": "https://cdn.prod.website-files.com/67784edb81f3a041587024a8/6ae3b17e7d29b1b6e13605b2_Close_up_approved_photo.jpeg",
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "My So Called Band",
@@ -3922,7 +3964,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2027-03-14",
       "time": null,
-      "price": "$30",
+      "price": "$25–$75",
       "description": "Bethel Music",
       "eventUrl": "http://www.prekindle.com/event/14353-bethel-music-2027-tour-oklahoma-city",
       "ageLimit": null,
@@ -3980,7 +4022,7 @@
       "venueUrl": "https://www.resonanthead.com",
       "date": "2027-03-15",
       "time": null,
-      "price": "$18",
+      "price": "$20",
       "description": "Oscar Lindsey",
       "eventUrl": "http://www.prekindle.com/event/73929-oscar-lindsey-sunshine-tour-oklahoma-city",
       "ageLimit": null,
@@ -4036,7 +4078,7 @@
       "venueUrl": "https://criterionokc.com",
       "date": "2027-03-18",
       "time": null,
-      "price": null,
+      "price": "$20–$153",
       "description": null,
       "eventUrl": "http://www.prekindle.com/event/82574-zach-williams-oklahoma-city",
       "ageLimit": null,
@@ -4493,7 +4535,7 @@
       "date": "2027-05-18",
       "time": "8:00 PM",
       "price": "$34 to $53",
-      "description": "Hazlett",
+      "description": "Hazlett, Lighthearted",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/hazlett-01-sep",
       "ageLimit": "ALL AGES",
       "tags": [],
