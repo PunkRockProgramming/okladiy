@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-11-03T00:07:23.469Z",
+  "lastUpdated": "2026-11-03T13:56:48.302Z",
   "scraperErrors": [],
   "shows": [
-    {
-      "title": "Get Out the Vote Rally with Cyndi Munson & Andy Beshear",
-      "venue": "Tower Theatre",
-      "venueUrl": "https://www.towertheatreokc.com",
-      "date": "2026-11-02",
-      "time": null,
-      "price": null,
-      "description": "Cyndi Munson, Andy Beshear",
-      "eventUrl": "http://www.prekindle.com/event/89269--oklahoma-city",
-      "ageLimit": null,
-      "tags": [],
-      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963731324",
-      "dateAdded": "2026-10-26"
-    },
     {
       "title": "The Election Night Show",
       "venue": "Tower Theatre",
@@ -283,6 +269,20 @@
       "tags": [],
       "imageUrl": null,
       "dateAdded": "2026-04-14"
+    },
+    {
+      "title": "OPEN STAGE NIGHT",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-05",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954609141",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954608737",
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "TRSH",
@@ -797,6 +797,20 @@
       "dateAdded": "2026-10-18"
     },
     {
+      "title": "#WASTEDHOURS ft. KELLY ROGERS",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-11",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954474289",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954473733",
+      "dateAdded": "2026-11-03"
+    },
+    {
       "title": "Big Bill | The Ugly Cowboys | Diet Riot",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -1253,6 +1267,20 @@
       "dateAdded": "2026-09-02"
     },
     {
+      "title": "#WASTEDHOURS ft. VIC ORTEGA",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-18",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954473052",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954472741",
+      "dateAdded": "2026-11-03"
+    },
+    {
       "title": "Daisychain | Moon | Tristan Wright",
       "venue": "The Whittier Bar",
       "venueUrl": "https://www.thewhittierbar.com",
@@ -1323,6 +1351,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/39859-dc6e4012889e64f284c3b0de663fc5f8.jpeg",
       "dateAdded": "2026-10-31"
+    },
+    {
+      "title": "OPEN STAGE NIGHT",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-19",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954608404",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954608384",
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "House Party: A sweaty love-letter to the 2010s rager.",
@@ -1437,6 +1479,20 @@
       "tags": [],
       "imageUrl": "https://static.wixstatic.com/media/a8bfd1_62e55a3290f7415f8438bcafa31171a8~mv2.jpg",
       "dateAdded": "2026-10-02"
+    },
+    {
+      "title": "Live Music All Ages: Stoneset, Modern View, Deep Sea Fishing for a Killer Whale",
+      "venue": "Noise Town",
+      "venueUrl": "https://www.noisetowntulsa.com",
+      "date": "2026-11-21",
+      "time": "7:00 PM",
+      "price": "$10",
+      "description": "Live Heavy Music from Stoneset, Modern View, and Deep Sea Fishing for a Killer Whale.Doors 7pm Music 8pmTickets $10",
+      "eventUrl": "https://www.noisetowntulsa.com/events/live-music-all-ages-stoneset-modern-view-deep-sea-fishing-for-a-killer-whale",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/65badfe4f35caa22dd796470/1793665140081-51GCFGPZI912UPHWFTWF/Stoneset+Flyer.jpg",
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "Apocalypse, Never! Tour - Nick Shoulders",
@@ -1665,6 +1721,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949075900475",
       "dateAdded": "2026-07-28"
+    },
+    {
+      "title": "#WASTEDHOURS ft. AUSTIN DUPLANTIS",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-11-25",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954472329",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954471817",
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "Straight Tequila Night - 90s Country Tribute",
@@ -1907,6 +1977,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949078955476",
       "dateAdded": "2026-07-28"
+    },
+    {
+      "title": "#WASTEDHOURS ft. GHOSTWRITER STEVE SCHECTER",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-12-02",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954471679",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954471101",
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "A Skylit Drive",
@@ -2331,6 +2415,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949010389629",
       "dateAdded": "2026-09-01"
+    },
+    {
+      "title": "#WASTEDHOURS ft. THEMBI JOY",
+      "venue": "Grand Royale",
+      "venueUrl": "https://grandroyaleokc.com",
+      "date": "2026-12-09",
+      "time": "8:00 PM",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.prekindle.com/promo/id/-2852527948954470681",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948954470025",
+      "dateAdded": "2026-11-03"
     },
     {
       "title": "King's X",
