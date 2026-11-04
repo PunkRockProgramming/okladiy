@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T14:11:49.160Z",
+  "lastUpdated": "2026-11-04T22:57:42.723Z",
   "scraperErrors": [],
   "shows": [
     {
@@ -655,13 +655,27 @@
       "dateAdded": "2026-11-03"
     },
     {
+      "title": "The Grabblers | Poppa Foster | John Langdon",
+      "venue": "The Whittier Bar",
+      "venueUrl": "https://www.thewhittierbar.com",
+      "date": "2026-11-11",
+      "time": null,
+      "price": "$10",
+      "description": null,
+      "eventUrl": "http://www.prekindle.com/event/41635-the-grabblers-poppa-foster-john-langdon-tulsa",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948952363905",
+      "dateAdded": "2026-11-04"
+    },
+    {
       "title": "ICON FOR HIRE SCRIPTED 15 YEAR ALBUM ANNIVERSARY TOUR",
       "venue": "The Vanguard",
       "venueUrl": "https://www.thevanguardtulsa.com",
       "date": "2026-11-11",
       "time": "7:00 PM",
       "price": "$34",
-      "description": "Icon For Hire, Elijah, Lauren Babic, Stutter",
+      "description": "Icon For Hire, Lauren Babic, Stutter",
       "eventUrl": "https://www.thevanguardtulsa.com/shows/icon-for-hire-scripted-15-year-album-anniversary-tour-11-nov",
       "ageLimit": "ALL AGES",
       "tags": [],
@@ -1828,7 +1842,7 @@
       "venueUrl": "https://www.towertheatreokc.com",
       "date": "2026-11-28",
       "time": null,
-      "price": "$23–$60",
+      "price": "$15–$60",
       "description": "Urban Trivia",
       "eventUrl": "http://www.prekindle.com/event/86817-urban-trivia-oklahoma-city",
       "ageLimit": null,
@@ -3722,7 +3736,7 @@
       "venueUrl": "https://www.beercitymusichall.com",
       "date": "2027-02-19",
       "time": "8:00 PM",
-      "price": "$75",
+      "price": "$22–$75",
       "description": "The Castellows, Lance Roark",
       "eventUrl": "http://www.prekindle.com/event/96543-the-castellows-on-the-highway-tour-oklahoma-city",
       "ageLimit": null,
@@ -3843,6 +3857,20 @@
       "tags": [],
       "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948972031229",
       "dateAdded": "2026-10-20"
+    },
+    {
+      "title": "William Clark Green",
+      "venue": "Cain's Ballroom",
+      "venueUrl": "https://www.cainsballroom.com",
+      "date": "2027-02-26",
+      "time": "7 pm",
+      "price": null,
+      "description": null,
+      "eventUrl": "https://www.etix.com/ticket/p/41126061/william-clark-green-tulsa-cains-ballroom?partner_id=100",
+      "ageLimit": "All Ages",
+      "tags": [],
+      "imageUrl": null,
+      "dateAdded": "2026-11-04"
     },
     {
       "title": "DUSTY SLAY: THE NEIGHBORHOOD GUY TOUR",
@@ -4460,6 +4488,20 @@
       "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
       "venue": "The Criterion",
       "venueUrl": "https://criterionokc.com",
+      "date": "2027-04-08",
+      "time": null,
+      "price": "$46–$168",
+      "description": "Josh Johnson",
+      "eventUrl": "http://www.prekindle.com/event/19533-josh-johnsons-comedy-band-camp-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948952555519",
+      "dateAdded": "2026-11-04"
+    },
+    {
+      "title": "JOSH JOHNSON'S COMEDY BAND CAMP",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
       "date": "2027-04-09",
       "time": null,
       "price": "$46–$168",
@@ -4485,6 +4527,20 @@
       ],
       "imageUrl": "https://stubwire-public.storage.googleapis.com/events/medium/37771-5066818ae5497c56f690c712166b6554.png",
       "dateAdded": "2026-04-12"
+    },
+    {
+      "title": "LSDREAM: BEE HERE NOW TOUR",
+      "venue": "The Criterion",
+      "venueUrl": "https://criterionokc.com",
+      "date": "2027-04-11",
+      "time": null,
+      "price": "$31",
+      "description": "LSDREAM, Vincent Antone, Feelsuite",
+      "eventUrl": "http://www.prekindle.com/event/55238-lsdream-bee-here-now-tour-oklahoma-city",
+      "ageLimit": null,
+      "tags": [],
+      "imageUrl": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948951983680",
+      "dateAdded": "2026-11-04"
     },
     {
       "title": "Michelle Wolf - Best Job in the World",
